@@ -1,6 +1,6 @@
 ---
 layout:          post
-title:           "MAG000 - ########- - TITLE"
+title:           "MAG000 - ######## - TITLE"
 date:            2020-01-01 11:00:00 -0400
 categories:      episode
 tags:            []
@@ -56,7 +56,7 @@ A line of dialog looks like this. Here's another sentence.
 
 And _[laugh]_ _[sigh]_ noises the character makes while speaking have brackets around them, and then underscores around the brackets.
 
-A dialog block can have multiple lines; you don't need ro repeat the character's name every time.
+A dialog block can have multiple lines; you don't need to repeat the character's name every time.
 
 Please note that --
 
@@ -143,7 +143,7 @@ If a word is cut off and never continued, it looks like thi-- (Double-hyphens ag
 
 --is. (If you start a line with a cut-off word, don't put any space around the double-hyphens.)
 
-Following these rules, it should never happen, but be very careful never to start a line with a hypen and then a single space, 
+Following these rules, it should never happen, but be very careful never to start a line with a hyphen and then a single space, 
 
 - because it will look like a list item.
 
