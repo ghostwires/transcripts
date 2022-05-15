@@ -5,6 +5,7 @@ date:            2020-08-27 12:00:00 -0400
 categories:      special
 tags:            [Bloopers, Special]
 voiced:          [Alexander Newall, Fay Roberts, Ian Hayles, Francesca Renée Reid, Paul Sims, Sue Sims, Lydia Nicholas, Jonathan Sims, Mike LeBeau, Frank Voss, Ben Meredith]
+podcast:		 "The Magnus Archives"
 episode_title:   'MAG Bloopers - Totally Normal Real Humans'
 episode_number:  '176.06'
 summary:         "<strong>The Magnus Archives</strong> is brought to you by folks who are completely serene and professional humans at all times, on and off-recording. Totally and absolutely. <br/><br/>Featuring voices of: Alexander J Newall, Fay Roberts, Ian Hayles, Francesca Renée Reid, Paul Sims, Sue Sims, Lydia Nicholas, Jonathan Sims, Mike LeBeau, Frank Voss, Ben Meredith."

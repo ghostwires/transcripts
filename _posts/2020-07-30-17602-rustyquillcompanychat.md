@@ -5,6 +5,7 @@ date:            2020-07-30 11:00:00 -0400
 categories:      incomplete
 tags:            []
 voiced:          []
+podcast:		 "The Magnus Archives"
 episode_title:   'Rusty Quill Company Chat'
 episode_number:  '176.02'
 summary:         "Take a peek behind the curtain at Rusty Towers as Alex sits down with various members of Rusty Quill Ltd for insight into what we do and the values we work towards as a company. <br/><br/>Featuring: <br/><br/>- Alexander J Newall <br/>- Jonathan Sims <br/>- Helen Gould <br/>- Tim Meredith <br/>- Mike LeBeau <br/>- April Sumner <br/>- Hannah Brankin <br/>- Anil Godigamuwe"

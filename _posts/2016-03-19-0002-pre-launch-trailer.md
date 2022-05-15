@@ -8,6 +8,7 @@ tags:            [Trailers, Jacob, Elias Bouchard, Gertrude Robinson, The Archiv
 statement_of:    [Jacob]
 recorder:        [The Archivist]
 voiced:          [The Archivist]
+podcast:		 "The Magnus Archives"
 episode_title:   'Pre-Launch Trailer'
 episode_number:  '000.2'
 case_number:     '20111507'

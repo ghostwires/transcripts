@@ -4,6 +4,7 @@ title:           "MAG080.3 - The Making of Magnus"
 date:            2017-11-08 12:00:00 -0400
 categories:      special
 tags:            []
+podcast:		 "The Magnus Archives"
 episode_title:   'The Making of Magnus'
 episode_number:  '080.3'
 summary:         "Join Alex, Mike, Anil, Martyn and Ben as they discuss what it takes to get an episode of The Magnus Archives from the page to your ears."

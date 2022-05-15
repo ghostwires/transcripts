@@ -5,6 +5,7 @@ date:            2020-01-23 11:00:00 -0400
 categories:      special
 tags:            []
 voiced:          [Jonny Sims, Frank Voss, Lowri Ann Davies, Alexander Newell, Sasha Sienna]
+podcast:		 "The Magnus Archives"
 episode_title:   'MAG Duskhollow PD - Part 1'
 episode_number:  '160.06'
 summary:         "Join Jonny, Frank, Sasha, Alex and Lowri as they play MacGuffin & Co's original TTRPG 'Duskhollow PD' <br/><br/>In this first episode of 3 we meet a team of likely cops whose task it is to solve completely normal crimes..."

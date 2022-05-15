@@ -1,4 +1,9 @@
 ---
+rqg:
+  name:      Rusty Quill Gaming
+  shortname: RQG
+  path:      rqg.html
+  local:     true
 sources:
   name:      Unofficial Transcript Source Index
   shortname: Sources

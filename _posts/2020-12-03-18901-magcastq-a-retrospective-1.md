@@ -5,6 +5,7 @@ date:            2020-12-03 11:00:00 -0400
 categories:      special
 tags:            []
 voiced:          [Imogen Harris, Ian Hayles, Evelyn Hewitt, Mike LeBeau, Ben Meredith, Lydia Nicholas, Chioma Nwalioba, Fay Roberts, Sasha Sienna, Jonathan Sims, Sue Sims, Alasdair Stuart, Frank Voss]
+podcast:		 "The Magnus Archives"
 episode_title:   'MAG Cast Q&A - Retrospective #1'
 episode_number:  '189.01'
 summary:         "We kick off the mid-season break for The Magnus Archives with a retrospective look, as Jonny poses a few questions to various cast members, past and present, about their involvement with the show. <br/><br/>Featuring: <br/><br/>Imogen Harris, Ian Hayles, Evelyn Hewitt, Mike LeBeau, Ben Meredith, Lydia Nicholas, Chioma Nwalioba, Fay Roberts, Sasha Sienna, Jonathan Sims, Sue Sims, Alasdair Stuart & Frank Voss"

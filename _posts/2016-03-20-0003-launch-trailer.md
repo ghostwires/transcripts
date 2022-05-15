@@ -8,6 +8,7 @@ tags:            [Trailers, Martin Blackwood, The Archivist, Mysterious Voice, T
 statement_of:    []
 recorder:        []
 voiced:          [The Archivist, Mysterious Voice]
+podcast:		 "The Magnus Archives"
 episode_title:   'Launch Trailer'
 episode_number:  '000.3'
 case_number:     
