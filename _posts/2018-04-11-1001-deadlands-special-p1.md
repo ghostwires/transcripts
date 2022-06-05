@@ -2,9 +2,9 @@
 layout:          post
 title:           "MAG100.1 - Deadlands Special Part 1"
 date:            2018-04-11 12:00:00 -0400
-categories:      special
+episode_type:      special
 tags:            [Non-Canon, Deadlands]
-podcast:		 "The Magnus Archives"
+categories:		"tma"
 episode_title:   'Deadlands Special Part 1'
 episode_number:  '100.1'
 summary:         "Join Jonny Sims outside of his role as the Archivist as he leads Alex J Newall, James Ross, Bryn Monroe and Ben Meredith through a spooky adventure in the Deadlands Campaign setting of Savage Worlds. <br/><br/>Meet our band of questionable desperadoes as they attempt a bank heist in a world populated by supernatural horror. Its a straightforward job and surely nothing could go wrong... right?"
@@ -1225,13 +1225,13 @@ _(laughing, face in hands)_ Oh n--oh, jesus.
 
 #### BEN
 
-Yeah, 'cause of _[indistinct]!*
+Yeah, 'cause of _[indistinct]!_
 
 ##### [INDISTINCT CROSSTALK]
 
 #### JONNY
 
-_(face in hands)_ Oh, jesus, no.
+_(face in hands)_ Oh, Jesus, no.
 
 #### BEN
 
@@ -3769,7 +3769,7 @@ I will let you flee if you wish, James.
 
 #### JAMES
 
-Yeah, I think at this point, _[indistinct].*
+Yeah, I think at this point, _[indistinct]._
 
 #### JONNY
 

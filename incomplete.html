@@ -7,7 +7,7 @@ title: Incomplete Transcripts
 
 <table class="toc-table">
 <tbody>
-{% assign episodes = site.posts | where: "categories", "incomplete" | reverse %}
+{% assign episodes = site.posts | where: "episode_type", "incomplete" | reverse %}
 {% for post in episodes %}
 <tr>
   {% assign url = post.url | prepend: site.baseurl %}

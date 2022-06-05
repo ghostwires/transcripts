@@ -2,10 +2,10 @@
 layout:          post
 title:           "MAG189.05 - MAG Commentary - Retrospective #2"
 date:            2020-12-31 11:00:00 -0400
-categories:      special
+episode_type:      special
 tags:            []
 voiced:          [Alexander Newall, Jonny Sims]
-podcast:		 "The Magnus Archives"
+categories:		"tma"
 episode_title:   'MAG Commentary - Retrospective #2'
 episode_number:  '189.05'
 summary:         "In the second of our retrospectives, Jonny and Alex look back at 5 years of the show with commentary on choice clips selected by the cast and crew of The Magnus Archives."

@@ -1,4 +1,9 @@
 ---
+tma:
+  name:      The Magnus Archives
+  shortname: TMA
+  path:      tma.html
+  local:     true
 rqg:
   name:      Rusty Quill Gaming
   shortname: RQG

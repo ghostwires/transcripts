@@ -2,10 +2,10 @@
 layout:          post
 title:           "MAG160.09 - Building the Panopticon - Making MAG 158"
 date:            2020-03-05 11:00:00 -0400
-categories:      incomplete
+episode_type:      incomplete
 tags:            []
 voiced:          []
-podcast:		 "The Magnus Archives"
+categories:		"tma"
 episode_title:   'Building the Panopticon - Making MAG 158'
 episode_number:  '160.09'
 summary:         "SPOILERS NOTE: This ep includes discussion for the whole of Season 4, up to and including MAG160. <br/><br/>Anil hosts in this peek behind the curtain as members of the TMA production team talk about what it took to get gargantuan episode <i>Panopticon</i> to your ears!"

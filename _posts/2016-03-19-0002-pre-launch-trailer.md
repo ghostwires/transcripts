@@ -2,13 +2,13 @@
 layout:          post
 title:           "MAG000.2 - #20111507 - Pre-Launch Trailer"
 date:            2016-03-19 12:00:00 -0400
-categories:      [trailer, episode]
+episode_type:      [trailer, episode]
 trailer:         true
 tags:            [Trailers, Jacob, Elias Bouchard, Gertrude Robinson, The Archivist, Scopophobia, The Eye]
 statement_of:    [Jacob]
 recorder:        [The Archivist]
 voiced:          [The Archivist]
-podcast:		 "The Magnus Archives"
+categories:		"tma"
 episode_title:   'Pre-Launch Trailer'
 episode_number:  '000.2'
 case_number:     '20111507'

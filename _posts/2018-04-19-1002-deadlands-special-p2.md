@@ -2,9 +2,9 @@
 layout:          post
 title:           "MAG100.2 - Deadlands Special Part 2"
 date:            2018-04-19 12:00:00 -0400
-categories:      special
+episode_type:      special
 tags:            [Non-Canon, Deadlands]
-podcast:		 "The Magnus Archives"
+categories:		"tma"
 episode_title:   'Deadlands Special Part 2'
 episode_number:  '100.2'
 summary:         "Join Jonny Sims outside of his role as the Archivist as he leads Alex J Newall, James Ross, Bryn Monroe and Ben Meredith through the second half of their spooky adventure in the Deadlands Campaign setting of Savage Worlds. <br/><br/>Listen to our gang slowly fall apart as they desperately attempt to survive in a world populated by supernatural horror."
