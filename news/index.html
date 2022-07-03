@@ -1,0 +1,13 @@
+---
+layout: page_default
+title: 'Site News'
+---
+
+<table class="toc-table">
+<tbody>
+{% assign news_posts = site.news | reverse %}
+{% for post in news_posts -%}
+<tr><td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y-%m-%d" }} - <b>{{ post.title | escape }}</b></a></td></tr>
+{%- endfor %}
+</tbody>
+</table>
