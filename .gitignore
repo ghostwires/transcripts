@@ -4,3 +4,4 @@ _site/
 Gemfile.lock
 *.zip
 edit_posts.py
+.DS_Store
