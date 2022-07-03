@@ -8,7 +8,14 @@ tags:            [Trailers, Martin Blackwood, The Archivist, Mysterious Voice, T
 statement_of:    []
 recorder:        []
 voiced:          [The Archivist, Mysterious Voice]
-categories:		"tma"
+categories:			"tma"
+title_prefix:		"MAG"
+prev_episode:   '0002-pre-launch-trailer'
+next_episode:   '001'
+prev_episode_num:		'000.2'
+next_episode_num:		'001'
+prev_episode_title:		Pre-Launch Trailer
+next_episode_title:		Anglerfish
 episode_title:   'Launch Trailer'
 episode_number:  '000.3'
 case_number:     

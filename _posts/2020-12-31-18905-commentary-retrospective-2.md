@@ -5,7 +5,14 @@ date:            2020-12-31 11:00:00 -0400
 episode_type:      special
 tags:            []
 voiced:          [Alexander Newall, Jonny Sims]
-categories:		"tma"
+categories:			"tma"
+title_prefix:		"MAG"
+prev_episode:   '18904-twilight-abyss-3'
+next_episode:   '18906'
+prev_episode_num:		'189.04'
+next_episode_num:		'189.06'
+prev_episode_title:		Twilight Abyss - Part 3
+next_episode_title:		Act III Finale Trailer
 episode_title:   'MAG Commentary - Retrospective #2'
 episode_number:  '189.05'
 summary:         "In the second of our retrospectives, Jonny and Alex look back at 5 years of the show with commentary on choice clips selected by the cast and crew of The Magnus Archives."
@@ -1949,7 +1956,7 @@ But what a blast from the past!
 
 #### JONNY
 
-I was like, 'Oh, that's gonna to take a while''. But no, it's, it's been a delight.
+I was like, 'Oh, that's gonna to take a while.' But no, it's, it's been a delight.
 
 #### ALEX
 

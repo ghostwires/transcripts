@@ -302,7 +302,7 @@ div#cookie-warning {
                 text-align: left;
             }
         }
-
+        
         .post-summary {
 
         }
@@ -469,7 +469,9 @@ table.toc-table {
         td.ep-status { 
             text-align: right; 
             font-weight: bold;
-            a.incomplete { color: $warning-text-color; }
+            // a.incomplete { color: $warning-text-color; }
+            // a.special { color: $blue; }
+            // a.trailer {color: $; }
             @include media-query($on-palm) { padding-right: 0.6rem; }
         }
         td.ep-date {

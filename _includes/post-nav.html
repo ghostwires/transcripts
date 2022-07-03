@@ -1,17 +1,17 @@
 <div class="post-nav">
   <div class="previous">
-    {% if page.previous.url %}
-    <a href="{{ site.baseurl }}{{ page.previous.url }}">
-      <span>← MAG{{ page.previous.episode_number }}</span>
-      {{ page.previous.episode_title }}
+    {% if page.prev_episode %}
+    <a href="{{ site.baseurl }}/{{ page.categories[0] }}/{{ page.prev_episode }}.html">
+      <span>← {{ page.title_prefix }}{{ page.prev_episode_num }}</span>
+      {{ page.prev_episode_title }}
     </a>
     {% endif %}
   </div>
   <div class="next">
-    {% if page.next.url %}
-    <a href="{{ site.baseurl }}{{ page.next.url }}">
-      <span>MAG{{ page.next.episode_number }} →</span>
-      {{ page.next.episode_title }}
+    {% if page.next_episode %}
+    <a href="{{ site.baseurl }}/{{ page.categories[0] }}/{{ page.next_episode }}.html">
+      <span>{{ page.title_prefix }}{{ page.next_episode_num }} →</span>
+      {{ page.next_episode_title }}
     </a>
     {% endif %}
   </div>

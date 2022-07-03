@@ -2,10 +2,17 @@
 layout:          post
 title:           "MAG160.09 - Building the Panopticon - Making MAG 158"
 date:            2020-03-05 11:00:00 -0400
-episode_type:      incomplete
+episode_type:      [special, incomplete]
 tags:            []
 voiced:          []
-categories:		"tma"
+categories:			"tma"
+title_prefix:		"MAG"
+prev_episode:		'16008-duskhollowpd-part3'
+next_episode:		'16010-rustyfears-noxmare'
+prev_episode_num:		'160.08'
+next_episode_num:		'160.10'
+prev_episode_title:		MAG Duskhollow PD - Part 3
+next_episode_title:		Rusty Fears Competition Winner - Nox Mare
 episode_title:   'Building the Panopticon - Making MAG 158'
 episode_number:  '160.09'
 summary:         "SPOILERS NOTE: This ep includes discussion for the whole of Season 4, up to and including MAG160. <br/><br/>Anil hosts in this peek behind the curtain as members of the TMA production team talk about what it took to get gargantuan episode <i>Panopticon</i> to your ears!"

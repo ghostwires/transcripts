@@ -5,7 +5,14 @@ date:            2020-08-27 12:00:00 -0400
 episode_type:      special
 tags:            [Bloopers, Special]
 voiced:          [Alexander Newall, Fay Roberts, Ian Hayles, Francesca Renée Reid, Paul Sims, Sue Sims, Lydia Nicholas, Jonathan Sims, Mike LeBeau, Frank Voss, Ben Meredith]
-categories:		"tma"
+categories:			"tma"
+title_prefix:		"MAG"
+prev_episode:   '17605-podukhorrorpanel'
+next_episode:   '177'
+prev_episode_num:		'176.05'
+next_episode_num:		'177'
+prev_episode_title:		MAG - Pod UK Horror Panel
+next_episode_title:		Wonderland
 episode_title:   'MAG Bloopers - Totally Normal Real Humans'
 episode_number:  '176.06'
 summary:         "<strong>The Magnus Archives</strong> is brought to you by folks who are completely serene and professional humans at all times, on and off-recording. Totally and absolutely. <br/><br/>Featuring voices of: Alexander J Newall, Fay Roberts, Ian Hayles, Francesca Renée Reid, Paul Sims, Sue Sims, Lydia Nicholas, Jonathan Sims, Mike LeBeau, Frank Voss, Ben Meredith."
@@ -21,7 +28,7 @@ wiki_url:
 
 ##### [CLICK]
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 -- We can use "nondescript" for normal-looking... Again, I've never known anyone to say the word "nondescript" in conversation.
 
@@ -43,7 +50,7 @@ But normal people might not...
 
 Not "normal people," people who aren't in this room.
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 I've done a lot of research to *normals,* and apparently --
 
@@ -77,7 +84,7 @@ _[overlapping, dramatically]_ *-- But when the blast of war --*[^1]
 
 [^2]: *Macbeth,* Act 2, Scene 1.
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 _[overlapping]_ Excellent.
 
@@ -107,7 +114,7 @@ _[calmly]_ Okay.
 
 I'll play it their way for now. But, _[stomach growling]_ when it comes down to it --
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 Sorry, got your stomach.
 
@@ -115,7 +122,7 @@ Sorry, got your stomach.
 
 -- my stomach! I'm really hungry, Alex! Look, it's a *growl* -- it's atmospheric, it won't foul the --
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 It sounds like a creaking ship.
 
@@ -127,7 +134,7 @@ It was like a ship in a storm. _[wood-creaking noises]_
 
 Look, mate, I'm hungry all the time. -- should I just go away, get chips, and come back?
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 No, you're alright.
 
@@ -157,7 +164,7 @@ Oh, uh, uh, right --
 
 Yes, well, you're not the only one that knows his way around the tunnels.
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 And we have the eternal question: face-to-face, or butt-to-butt?
 
@@ -169,7 +176,7 @@ Yup, yup, yup.
 
 _[overlapping]_ _[laughs]_ Yeah, there's some -- it's gonna have to happen!
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 Okay, we're gonna do another take, I need something to cut across...
 
@@ -181,7 +188,7 @@ Yep.
 
 Okay.
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 Ummm...
 
@@ -225,7 +232,7 @@ Not with that *thong* --
 
 Wooooow.
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 Put your pants on and we'll talk!
 
@@ -243,7 +250,7 @@ Well, there is a reason to believe that the Archivist conversations are always d
 
 ##### [FROM EPISODE 114, 'CRACKED FOUNDATION':]
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 Go from top; also, for the "all clear," could you do this one -- louder? I don't know --
 
@@ -253,7 +260,7 @@ I don't know why, but you said "louder" and in my head I was like -- "higher pit
 
 ##### [LAUGHTER]
 
-#### ALEX NEWELL AND JONNY SIMS
+#### ALEX NEWALL AND JONNY SIMS
 
 _[falsetto]_ "All clear?"
 
@@ -261,7 +268,7 @@ _[falsetto]_ "All clear?"
 
 Basically.
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 _[falsetto]_ It's me, Terrence, the very small air-raid warden!
 
@@ -285,7 +292,7 @@ We don't do well with the heat, here.
 
 Oh, we have fun.
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 Um, so yeah, if you can go, uh, louder with it --
 
@@ -309,7 +316,7 @@ _[goofy voice]_ Mm, it's so warm.
 
 ##### [CLICK]
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 Go a little bit higher.
 
@@ -317,7 +324,7 @@ Go a little bit higher.
 
 _[falsetto]_ "Good!" _[snort]_ _[more-normal]_ "Good. Good!"
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 -- the moment you're going, _[lower]_ "Good," it should be _[higher]_ "Good!" "Good!"
 
@@ -325,7 +332,7 @@ _[falsetto]_ "Good!" _[snort]_ _[more-normal]_ "Good. Good!"
 
 _[overlapping]_ "Good!" All right.
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 "Good!", you *fffucking dickhead.*
 
@@ -333,7 +340,7 @@ _[overlapping]_ "Good!" All right.
 
 _[overlapping]_ Fucking... *Fuck __you__!* Ran away from me, just like my dad!
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 _[wailing]_ *I loved you!*
 
@@ -343,7 +350,7 @@ _[wailing]_ *I loved you!*
 
 How's the plane?
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 Still going by.
 
@@ -353,7 +360,7 @@ What is it, is it a jet, or is it a propjet?
 
 ##### [PAUSE]
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 Twin-turbine.
 
@@ -361,7 +368,7 @@ Twin-turbine.
 
 *Really.* _[laugh]_ Amazing!
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 I should have done -- I'd've been *amazing* on a submarine! Got...
 
@@ -379,7 +386,7 @@ _[quietly]_ Okay...
 
 ##### [CLICK]
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 Ben and -- Zim, sorry, can you talk amongst yourselves for a second?
 
@@ -401,7 +408,7 @@ _[overlapping, rapid monotone]_ Fantastic.
 
 ##### [THEY LAUGH AT THEIR OWN HUMANITY]
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 -- and now I've gone too far the other way -- again -- that was *golden*, by the way, that's *exactly* what I need.
 
@@ -425,7 +432,7 @@ That's how you talk to sheep, I hear.
 
 ##### [FRANK AND BEN LAUGH]
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 -- who's on mic four...?
 
@@ -433,7 +440,7 @@ That's how you talk to sheep, I hear.
 
 Uh, that would be me.
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 'kay, can all *three* of you have a human interaction, now?
 
@@ -469,7 +476,7 @@ _[rapid monotone]_ Yes, I, three, am human.
 
 _[monotone]_ I am continuing to talk like a human.
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 _[snort]_ Okay.
 
@@ -495,7 +502,7 @@ _[solemnly]_ Mary had a little lamb. Mary had a little lamb. One-two-one-two. Ca
 
 ##### [CLICK]
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 Okay, let's go again from top.
 
@@ -503,7 +510,7 @@ Okay, let's go again from top.
 
 Uh-huh...
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 Ben: you crept closer and closer and closer...
 
@@ -515,13 +522,13 @@ Well, damn...!
 
 _[squeaky voice, apparently mimicking Alex]_ To the mic...!
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 You're a good villain! You know, a good villain needs to *make love* to the microphone...!
 
 ##### [LAUGHTER, OVERLAPPING]
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 But, uh, _[femme fatale voice]_ you're kind of getting all up in my grill, Ben...
 
@@ -529,7 +536,7 @@ But, uh, _[femme fatale voice]_ you're kind of getting all up in my grill, Ben..
 
 _[overlapping]_ _[femme fatale voice]_ Sure, yeah...
 
-#### ALEX NEWELL
+#### ALEX NEWALL
 
 ...You're getting all up into my pop filters, Ben.
 

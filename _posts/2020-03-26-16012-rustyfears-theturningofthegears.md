@@ -2,10 +2,17 @@
 layout:          post
 title:           "MAG160.12 - Rusty Fears Competition Winner - The Turning of the Gears"
 date:            2020-03-26 11:00:00 -0400
-episode_type:      incomplete
+episode_type:    [special, incomplete]
 tags:            []
 voiced:          []
-categories:		"tma"
+categories:			"tma"
+title_prefix:		"MAG"
+prev_episode:		'16011-season-5-trailer'
+next_episode:		'161'
+prev_episode_num:		'160.11'
+next_episode_num:		'161'
+prev_episode_title:		Season 5 Trailer
+next_episode_title:		Dwelling
 episode_title:   'Rusty Fears Competition Winner - The Turning of the Gears'
 episode_number:  '160.12'
 summary:         "In preparation for the much anticipated arrival of season 5, we continue the tone that was set by last week's competition winner with the second of two winning stories from our Rusty Fears3: Fearsome competition. <br/><br/>\"The Turning of the Gears\" is written by <b>Duncan Watson</b> and read by Jonathan Sims. <br/><br/>Note: this is a piece of stand-alone fiction and not a part of the Magnus canon."

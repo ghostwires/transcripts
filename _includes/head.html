@@ -1,5 +1,5 @@
 {%- if page.episode_number and page.episode_title -%}
-	{%- assign page_title = "MAG" | append: page.episode_number | append: ' - ' | append: page.episode_title | append: ' • ' | append: site.title -%}
+	{%- assign page_title = page.title_prefix | append: page.episode_number | append: ' - ' | append: page.episode_title | append: ' • ' | append: site.title -%}
 {%- elsif page.title -%}
 	{%- assign page_title = page.title | append: ' • ' | append: site.title -%}
 {%- else -%}

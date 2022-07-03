@@ -8,7 +8,14 @@ tags:            [Trailers, Jacob, Elias Bouchard, Gertrude Robinson, The Archiv
 statement_of:    [Jacob]
 recorder:        [The Archivist]
 voiced:          [The Archivist]
-categories:		"tma"
+categories:			"tma"
+title_prefix:		"MAG"
+prev_episode:   '0001-seed'
+next_episode:   '0003-launch-trailer'
+prev_episode_num:		'000.1'
+next_episode_num:		'000.3'
+prev_episode_title:   Seed
+next_episode_title:		Launch Trailer
 episode_title:   'Pre-Launch Trailer'
 episode_number:  '000.2'
 case_number:     '20111507'

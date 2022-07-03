@@ -4,7 +4,14 @@ title:           "MAG100.1 - Deadlands Special Part 1"
 date:            2018-04-11 12:00:00 -0400
 episode_type:      special
 tags:            [Non-Canon, Deadlands]
-categories:		"tma"
+categories:			"tma"
+title_prefix:		"MAG"
+prev_episode:   '100'
+next_episode:   '1002-deadlands-special-p2'
+prev_episode_num:		'100'
+next_episode_num:		'100.2'
+prev_episode_title:		I Guess You Had To Be There
+next_episode_title:		Deadlands Special Part 2
 episode_title:   'Deadlands Special Part 1'
 episode_number:  '100.1'
 summary:         "Join Jonny Sims outside of his role as the Archivist as he leads Alex J Newall, James Ross, Bryn Monroe and Ben Meredith through a spooky adventure in the Deadlands Campaign setting of Savage Worlds. <br/><br/>Meet our band of questionable desperadoes as they attempt a bank heist in a world populated by supernatural horror. Its a straightforward job and surely nothing could go wrong... right?"

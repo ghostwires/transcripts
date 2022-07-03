@@ -3,7 +3,7 @@
 {% include post-nav.html %}
 
 <div class="post-subtitle">
-  <div class="post-episode-number">MAG{{page.episode_number}}</div>
+  <div class="post-episode-number">{{page.title_prefix}}{{page.episode_number}}</div>
   {%- if page.case_number %} 
   <div class="divider"> - </div> 
   <div class="post-case-number">#{{page.case_number}}</div>

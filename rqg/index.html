@@ -1,12 +1,11 @@
 ---
 layout: page_default
-title: 'The Magnus Archives'
-permalink: /tma/
+title: 'Rusty Quill Gaming'
 ---
 
 <table class="toc-table">
 <tbody>
-{% assign episodes = site.categories.tma | reverse %}
+{% assign episodes = site.categories.rqg | where: "episode_type", "episode" | reverse %}
 {% for post in episodes %}
 <tr>
   {% assign url = post.url | prepend: site.baseurl %}
