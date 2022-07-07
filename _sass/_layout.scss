@@ -479,6 +479,14 @@ table.toc-table {
             a { color: $muted-text-color; }
             @include media-query($on-palm) { display: none; }
         }
+        td.ep-podcast { 
+            text-align: right; 
+            font-weight: bold;
+            // a.incomplete { color: $warning-text-color; }
+            // a.special { color: $blue; }
+            // a.trailer {color: $; }
+            @include media-query($on-palm) { padding-right: 0.6rem; }
+        }
 
         td.ep-source { // Used in '/sources.html'
             text-align: right;

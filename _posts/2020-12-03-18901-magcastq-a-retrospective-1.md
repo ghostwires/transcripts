@@ -240,7 +240,7 @@ Give a ten second pitch on why *your* character should survive, or be resurrecte
 
 #### ALASDAIR
 
-They're on their way to destroy a wannabe good that has destroyed reality. What possible word could better describe John, Martin and their merry band than being, oh, so very lonely.
+They're on their way to destroy a wannabe god that has destroyed reality. What possible word could better describe John, Martin and their merry band than being, oh, so very lonely.
 
 #### FAY
 

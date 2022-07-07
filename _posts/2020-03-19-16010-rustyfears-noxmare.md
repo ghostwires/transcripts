@@ -13,7 +13,7 @@ prev_episode_num:		'160.09'
 next_episode_num:		'160.11'
 prev_episode_title:		Building the Panopticon - Making MAG 158
 next_episode_title:		Season 5 Trailer
-episode_title:   'Rusty Fears Competition Winner - Nox Mare'
+episode_title:   'Nox Mare (Rusty Fears Winner)'
 episode_number:  '160.10'
 summary:         "As we build up to Season 5, this week's episode is the first of two winning stories from the Rusty Fears 3: Fearsome writing competition. <br/><br/><i>Nox Mare</i> is written by <b>Elizabeth Wynn</b> and read by Jonathan Sims. <br/><br/>Note: this is a piece of standalone fiction and not a part of the Magnus canon."
 content_flags:   [Drowning]

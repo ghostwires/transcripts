@@ -13,7 +13,7 @@ prev_episode_num:		'160.11'
 next_episode_num:		'161'
 prev_episode_title:		Season 5 Trailer
 next_episode_title:		Dwelling
-episode_title:   'Rusty Fears Competition Winner - The Turning of the Gears'
+episode_title:   'The Turning of the Gears (Rusty Fears Winner)'
 episode_number:  '160.12'
 summary:         "In preparation for the much anticipated arrival of season 5, we continue the tone that was set by last week's competition winner with the second of two winning stories from our Rusty Fears3: Fearsome competition. <br/><br/>\"The Turning of the Gears\" is written by <b>Duncan Watson</b> and read by Jonathan Sims. <br/><br/>Note: this is a piece of stand-alone fiction and not a part of the Magnus canon."
 content_flags:   [Graphic Injury, Fire]
