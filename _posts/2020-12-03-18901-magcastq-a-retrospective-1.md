@@ -6,13 +6,18 @@ episode_type:      special
 tags:            []
 voiced:          [Imogen Harris, Ian Hayles, Evelyn Hewitt, Mike LeBeau, Ben Meredith, Lydia Nicholas, Chioma Nwalioba, Fay Roberts, Sasha Sienna, Jonathan Sims, Sue Sims, Alasdair Stuart, Frank Voss]
 categories:			"tma"
-title_prefix:		"MAG"
-prev_episode:   '189'
-next_episode:   '18902-twilight-abyss-1'
-prev_episode_num:		'189'
-next_episode_num:		'189.02'
-prev_episode_title:		Peers
-next_episode_title:		Twilight Abyss - Part 1
+podcasts: ["tma"]
+title_prefix:	"MAG"
+prev_categories: ["tma"]
+prev_prefixes: ["MAG"]
+next_categories: ["tma"]
+next_prefixes: ["MAG"]
+prev_episode:   ['189']
+next_episode:   ['18902-twilight-abyss-1']
+prev_episode_num:		['189']
+next_episode_num:		['189.02']
+prev_episode_title:		["Peers"]
+next_episode_title:		["Twilight Abyss - Part 1"]
 episode_title:   'MAG Cast Q&A - Retrospective #1'
 episode_number:  '189.01'
 summary:         "We kick off the mid-season break for The Magnus Archives with a retrospective look, as Jonny poses a few questions to various cast members, past and present, about their involvement with the show. <br/><br/>Featuring: <br/><br/>Imogen Harris, Ian Hayles, Evelyn Hewitt, Mike LeBeau, Ben Meredith, Lydia Nicholas, Chioma Nwalioba, Fay Roberts, Sasha Sienna, Jonathan Sims, Sue Sims, Alasdair Stuart & Frank Voss"

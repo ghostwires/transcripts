@@ -6,13 +6,18 @@ episode_type:      special
 tags:            []
 voiced:          [Alexander Newall, Jonny Sims]
 categories:			"tma"
-title_prefix:		"MAG"
-prev_episode:   '18904-twilight-abyss-3'
-next_episode:   '18906'
-prev_episode_num:		'189.04'
-next_episode_num:		'189.06'
-prev_episode_title:		Twilight Abyss - Part 3
-next_episode_title:		Act III Finale Trailer
+podcasts: ["tma"]
+title_prefix:	"MAG"
+prev_categories: ["tma"]
+prev_prefixes: ["MAG"]
+next_categories: ["tma"]
+next_prefixes: ["MAG"]
+prev_episode:   ['18904-twilight-abyss-3']
+next_episode:   ['18906']
+prev_episode_num:		['189.04']
+next_episode_num:		['189.06']
+prev_episode_title:		["Twilight Abyss - Part 3"]
+next_episode_title:		["Act III Finale Trailer"]
 episode_title:   'MAG Commentary - Retrospective #2'
 episode_number:  '189.05'
 summary:         "In the second of our retrospectives, Jonny and Alex look back at 5 years of the show with commentary on choice clips selected by the cast and crew of The Magnus Archives."

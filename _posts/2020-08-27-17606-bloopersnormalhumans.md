@@ -6,13 +6,18 @@ episode_type:      special
 tags:            [Bloopers, Special]
 voiced:          [Alexander Newall, Fay Roberts, Ian Hayles, Francesca Renée Reid, Paul Sims, Sue Sims, Lydia Nicholas, Jonathan Sims, Mike LeBeau, Frank Voss, Ben Meredith]
 categories:			"tma"
-title_prefix:		"MAG"
-prev_episode:   '17605-podukhorrorpanel'
-next_episode:   '177'
-prev_episode_num:		'176.05'
-next_episode_num:		'177'
-prev_episode_title:		MAG - Pod UK Horror Panel
-next_episode_title:		Wonderland
+podcasts: ["tma"]
+title_prefix:	"MAG"
+prev_categories: ["tma"]
+prev_prefixes: ["MAG"]
+next_categories: ["tma"]
+next_prefixes: ["MAG"]
+prev_episode:   ['17605-podukhorrorpanel']
+next_episode:   ['177']
+prev_episode_num:		['176.05']
+next_episode_num:		['177']
+prev_episode_title:		["MAG - Pod UK Horror Panel"]
+next_episode_title:		["Wonderland"]
 episode_title:   'MAG Bloopers - Totally Normal Real Humans'
 episode_number:  '176.06'
 summary:         "<strong>The Magnus Archives</strong> is brought to you by folks who are completely serene and professional humans at all times, on and off-recording. Totally and absolutely. <br/><br/>Featuring voices of: Alexander J Newall, Fay Roberts, Ian Hayles, Francesca Renée Reid, Paul Sims, Sue Sims, Lydia Nicholas, Jonathan Sims, Mike LeBeau, Frank Voss, Ben Meredith."

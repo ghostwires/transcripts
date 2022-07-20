@@ -1,18 +1,32 @@
 <div class="post-nav">
-  <div class="previous">
-    {% if page.prev_episode %}
-    <a href="{{ site.baseurl }}/{{ page.categories[0] }}/{{ page.prev_episode }}.html">
-      <span>← {{ page.title_prefix }}{{ page.prev_episode_num }}</span>
-      {{ page.prev_episode_title }}
-    </a>
-    {% endif %}
-  </div>
-  <div class="next">
-    {% if page.next_episode %}
-    <a href="{{ site.baseurl }}/{{ page.categories[0] }}/{{ page.next_episode }}.html">
-      <span>{{ page.title_prefix }}{{ page.next_episode_num }} →</span>
-      {{ page.next_episode_title }}
-    </a>
-    {% endif %}
-  </div>
+	<div class="previous">
+		{% if page.prev_episode %}
+			{% for i in (0..page.prev_episode.size) %}
+				{% if page.prev_episode[i] %}
+					<a href="{{ site.baseurl }}/{{ page.prev_categories[i] }}/{{ page.prev_episode[i] }}.html">
+						<span>← {{ page.prev_prefixes[i] }}{{ page.prev_episode_num[i] }}</span>
+						{{ page.prev_episode_title[i] }}
+					</a>
+					<br/><br/>
+				{% else %}
+					{% break %}
+				{% endif %}
+			{% endfor %}
+		{% endif %}
+	</div>
+	<div class="next">
+		{% if page.next_episode %}
+			{% for i in (0..page.next_episode.size) %}
+				{% if page.next_episode[i] %}
+					<a href="{{ site.baseurl }}/{{ page.next_categories[i] }}/{{ page.next_episode[i] }}.html">
+						<span>{{ page.next_prefixes[i] }}{{ page.next_episode_num[i] }} →</span>
+						{{ page.next_episode_title[i] }}
+					</a>
+					<br/><br/>
+				{% else %}
+					{% break %}
+				{% endif %}
+			{% endfor %}
+		{% endif %}
+	</div>
 </div><!-- /div.post-nav -->

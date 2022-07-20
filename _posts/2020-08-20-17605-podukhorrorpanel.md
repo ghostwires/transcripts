@@ -6,13 +6,18 @@ episode_type:    [special, incomplete]
 tags:            []
 voiced:          []
 categories:			"tma"
-title_prefix:		"MAG"
-prev_episode:   '17604-epiphany'
-next_episode:   '17606-bloopersnormalhumans'
-prev_episode_num:		'176.04'
-next_episode_num:		'176.06'
-prev_episode_title:		MAG Fluff - Epiphany
-next_episode_title:		MAG Bloopers - Totally Normal Real Humans
+podcasts: ["tma"]
+title_prefix:	"MAG"
+prev_categories: ["tma"]
+prev_prefixes: ["MAG"]
+next_categories: ["tma"]
+next_prefixes: ["MAG"]
+prev_episode:   ['17604-epiphany']
+next_episode:   ['17606-bloopersnormalhumans']
+prev_episode_num:		['176.04']
+next_episode_num:		['176.06']
+prev_episode_title:		["MAG Fluff - Epiphany"]
+next_episode_title:		["MAG Bloopers - Totally Normal Real Humans"]
 episode_title:   'MAG - Pod UK Horror Panel'
 episode_number:  '176.05'
 summary:         "Recorded live at PodUK 2020, Alexander J Newall, Gemma Amor (No Sleep Podcast, Calling Darkness) and David Ault (No Sleep Podcast, Shadows at the Door) moderated by Alasdair Stuart (Escape Artists Inc., The Magnus Archives) talk about the world of modern audio horror."

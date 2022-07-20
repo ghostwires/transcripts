@@ -5,19 +5,21 @@ title: 'Rusty Quill Gaming'
 
 <table class="toc-table">
 <tbody>
-{% assign episodes = site.categories.rqg | where: "episode_type", "episode" | reverse %}
+{% assign episodes = site.posts | reverse %}
 {% for post in episodes %}
-<tr>
-  {% assign url = post.url | prepend: site.baseurl %}
-  <td class="ep-number"><a href="{{ url }}">{{ post.episode_number | escape }}</a></td>
-  <td class="ep-title"><a href="{{ url }}">{{ post.episode_title | escape }}</a></td>
-  <td class="ep-status">
-    {%- if post.trailer %}<a class="trailer" href="{{ url }}">TRAILER</a> {% endif -%}
-    {%- if post.episode_type contains "special" %}<a class="special" href="{{ url }}">SPECIAL</a> {% endif -%}
-    {%- if post.episode_type contains "incomplete" %}<a class="incomplete" href="{{ url }}">INCOMPLETE</a> {% endif -%}
-  </td>
-  <td class="ep-date"><a href="{{ url }}">{{ post.date | date: "%Y&#8209;%m&#8209;%d" }}</a></td>
-</tr>
+	{% if post.podcasts contains "rqg" %}
+		<tr>
+			{% assign url = post.url | prepend: site.baseurl %}
+			<td class="ep-number"><a href="{{ url }}">{{ post.episode_number | escape }}</a></td>
+			<td class="ep-title"><a href="{{ url }}">{{ post.episode_title | escape }}</a></td>
+			<td class="ep-status">
+				{%- if post.trailer %}<a class="trailer" href="{{ url }}">TRAILER</a> {% endif -%}
+				{%- if post.episode_type contains "special" %}<a class="special" href="{{ url }}">SPECIAL</a> {% endif -%}
+				{%- if post.episode_type contains "incomplete" %}<a class="incomplete" href="{{ url }}">INCOMPLETE</a> {% endif -%}
+			</td>
+			<td class="ep-date"><a href="{{ url }}">{{ post.date | date: "%Y&#8209;%m&#8209;%d" }}</a></td>
+		</tr>
+	{% endif %}
 {% endfor %}
 </tbody>
 </table>

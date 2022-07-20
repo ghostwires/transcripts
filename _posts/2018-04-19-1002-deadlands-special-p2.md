@@ -1,17 +1,22 @@
 ---
 layout:          post
-title:           "MAG100.2 - Deadlands Special Part 2"
+title:           "XXX100.2 - Deadlands Special Part 2"
 date:            2018-04-19 12:00:00 -0400
 episode_type:      special
 tags:            [Non-Canon, Deadlands]
-categories:			"tma"
-title_prefix:		"MAG"
-prev_episode:   '1001-deadlands-special-p1'
-next_episode:   '1003-lucid'
-prev_episode_num:		'100.1'
-next_episode_num:		'100.3'
-prev_episode_title:		Deadlands Special Part 1
-next_episode_title:		Lucid (Rusty Fears Winner)
+categories:			"crossover"
+podcasts: ["tma", "rqg"]
+title_prefix:	"XXX"
+prev_categories: ["crossover"]
+prev_prefixes: ["XXX"]
+next_categories: ["tma"]
+next_prefixes: ["MAG"]
+prev_episode:   ['1001-deadlands-special-p1']
+next_episode:   ['1003-lucid']
+prev_episode_num:		['100.1']
+next_episode_num:		['100.3']
+prev_episode_title:		["Deadlands Special Part 1"]
+next_episode_title:		["Lucid (Rusty Fears Winner)"]
 episode_title:   'Deadlands Special Part 2'
 episode_number:  '100.2'
 summary:         "Join Jonny Sims outside of his role as the Archivist as he leads Alex J Newall, James Ross, Bryn Monroe and Ben Meredith through the second half of their spooky adventure in the Deadlands Campaign setting of Savage Worlds. <br/><br/>Listen to our gang slowly fall apart as they desperately attempt to survive in a world populated by supernatural horror."

@@ -6,13 +6,18 @@ episode_type:      special
 tags:            []
 voiced:          [Jonny Sims, Frank Voss, Lowri Ann Davies, Alexander Newall, Sasha Sienna]
 categories:			"tma"
-title_prefix:		"MAG"
-prev_episode:		'16007-duskhollowpd-part2'
-next_episode:		'16009-buildingthepanopticon'
-prev_episode_num:		'160.07'
-next_episode_num:		'160.09'
-prev_episode_title:		MAG Duskhollow PD - Part 2
-next_episode_title:		Building the Panopticon - Making MAG 158
+podcasts: ["tma"]
+title_prefix:	"MAG"
+prev_categories: ["tma"]
+prev_prefixes: ["MAG"]
+next_categories: ["tma"]
+next_prefixes: ["MAG"]
+prev_episode:		['16007-duskhollowpd-part2']
+next_episode:		['16009-buildingthepanopticon']
+prev_episode_num:		['160.07']
+next_episode_num:		['160.09']
+prev_episode_title:		["MAG Duskhollow PD - Part 2"]
+next_episode_title:		["Building the Panopticon - Making MAG 158"]
 episode_title:   'MAG Duskhollow PD - Part 3'
 episode_number:  '160.08'
 summary:         "It's the finale of our Duskhollow PD special and our team has 24 hours to crack the case! <br/><br/>Archie's investigations begin at the library, Emma is a proud mentor, Gabrielle Schreiber goes for coffee and Detective Sergeant Carl Husselback is questioning his life choices."
@@ -1108,7 +1113,7 @@ Fantastic. Bye!
 
 I salt him a little bit more --
 
-_[Librarian makes sounds of shock and distress]_
+##### [Librarian makes sounds of shock and distress]
 
 #### ALEX
 
@@ -1214,7 +1219,7 @@ You do also have a shotgun, as I recall.
 
 #### ALEX
 
-Yeah, well, I see which way the winds blowing. _[loud]_ Due alien! _[normal]_ With a hint of salt. So, my logic is... I have expertise in engineering.
+Yeah, well, I see which way the wind's blowing. _[loud]_ Due alien! _[normal]_ With a hint of salt. So, my logic is... I have expertise in engineering.
 
 #### JONNY
 
@@ -1518,7 +1523,7 @@ _[overlapping]_ Wooow. Big budget.
 
 #### JONNY
 
-_[continuing]_ -- you've got an actual siren, It's going around, it's one of those domed ones.
+_[continuing]_ -- you've got an actual siren, it's going around, it's one of those domed ones.
 
 #### FRANK
 
@@ -2526,7 +2531,7 @@ _[overlapping]_ Too much.
 
 _[overlapping]_ -- too much.
 
-[DICE ROLLING]
+##### [DICE ROLLING]
 
 #### FRANK
 
@@ -2764,7 +2769,7 @@ I assume it's Die Hard style.
 
 #### JONNY
 
-It's been awhile since you've seen Die Hard, isn't it, 'cause that -- it *messes him up*!
+It's been awhile since you've seen Die Hard, isn't it, 'cause that -- it *messes him up!*
 
 #### ALEX
 
@@ -2836,7 +2841,7 @@ Who made the arrest?
 
 #### GABRIELLE
 
-I did your honor.
+I did, your honour.
 
 #### JUDGE
 
@@ -2852,7 +2857,7 @@ What is the evidence?
 
 #### GABRIELLE
 
-She had been corresponding with the deceased. Right, your honor, I'll just -- I'll lay it out for you, I've got it all figured out, right, okay. Angela Grockle --
+She had been corresponding with the deceased. Right, your honour, I'll just -- I'll lay it out for you, I've got it all figured out, right, okay. Angela Grockle --
 
 #### JUDGE
 
@@ -2932,9 +2937,9 @@ I knew it.
 
 Anyway, point is, I tried to summon a demon train and it went badly for me...
 
-#### ALEX [OVERLAPPING]]
+#### ALEX [OVERLAPPING]
 
-I love how you have a team of cops who are derailing your *confession*! _[quieter]_ Pun intended.
+I love how you have a team of cops who are derailing your *confession!* _[quieter]_ Pun intended.
 
 #### CARL
 
@@ -3072,7 +3077,7 @@ I can't believe *you* survived.
 
 #### ALEX
 
-[high-pitched] I know!
+_[high-pitched]_ I know!
 
 #### JONNY
 
@@ -3170,7 +3175,7 @@ Bye everyone.
 
 #### JONNY
 
-Good bye!
+Goodbye!
 
 #### ALL
 

@@ -5,13 +5,18 @@ date:            2017-11-08 12:00:00 -0400
 episode_type:      special
 tags:            []
 categories:			"tma"
-title_prefix:		"MAG"
-prev_episode:   '0804-mag-s3-trailer'
-next_episode:   '081'
-prev_episode_num:		'080.4'
-next_episode_num:		'081'
-prev_episode_title:		Season 3 Trailer
-next_episode_title:		A Guest for Mr. Spider
+podcasts: ["tma"]
+title_prefix:	"MAG"
+prev_categories: ["tma"]
+prev_prefixes: ["MAG"]
+next_categories: ["tma"]
+next_prefixes: ["MAG"]
+prev_episode:   ['0804-mag-s3-trailer']
+next_episode:   ['081']
+prev_episode_num:		['080.4']
+next_episode_num:		['081']
+prev_episode_title:		["Season 3 Trailer"]
+next_episode_title:		["A Guest for Mr. Spider"]
 episode_title:   'The Making of Magnus'
 episode_number:  '080.3'
 summary:         "Join Alex, Mike, Anil, Martyn and Ben as they discuss what it takes to get an episode of The Magnus Archives from the page to your ears."

@@ -6,13 +6,18 @@ episode_type:      special
 tags:            []
 voiced:          [Jonny Sims, Frank Voss, Lowri Ann Davies, Alexander Newall, Sasha Sienna]
 categories:			"tma"
-title_prefix:		"MAG"
-prev_episode:		'16005-bloopers'
-next_episode:		'16007-duskhollowpd-part2'
-prev_episode_num:		'160.05'
-next_episode_num:		'160.07'
-prev_episode_title:		Magnus Bloopers Special
-next_episode_title:		MAG Duskhollow PD - Part 2
+podcasts: ["tma"]
+title_prefix:	"MAG"
+prev_categories: ["tma"]
+prev_prefixes: ["MAG"]
+next_categories: ["tma"]
+next_prefixes: ["MAG"]
+prev_episode:		['16005-bloopers']
+next_episode:		['16007-duskhollowpd-part2']
+prev_episode_num:		['160.05']
+next_episode_num:		['160.07']
+prev_episode_title:		["Magnus Bloopers Special"]
+next_episode_title:		["MAG Duskhollow PD - Part 2"]
 episode_title:   'MAG Duskhollow PD - Part 1'
 episode_number:  '160.06'
 summary:         "Join Jonny, Frank, Sasha, Alex and Lowri as they play MacGuffin & Co's original TTRPG 'Duskhollow PD' <br/><br/>In this first episode of 3 we meet a team of likely cops whose task it is to solve completely normal crimes..."
