@@ -45,9 +45,9 @@ search:
   path:      search.html
   local:     true
 github:
-  name:      "Snarp/magnus_archives_transcripts"
+  name:      "ghostwires/transcripts"
   shortname: GitHub
-  path:      https://github.com/Snarp/magnus_archives_transcripts
+  path:      https://github.com/ghostwires/transcripts
 warnings:
   name:      Community-Maintained Episode Content Warnings
   shortname: Content Warnings

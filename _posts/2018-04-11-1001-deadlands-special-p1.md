@@ -1509,7 +1509,7 @@ Gotta get in before the sheriff comes back.
 
 #### BLACKJACK
 
-Exactly. And, to be honest... I don't like this area. My boys were killed... not a day's ride from here, and the sooner we can get out--_[sighs]_--get further west into California with as much money as we can carry, happier I'm gonna be.
+Exactly. And, to be honest... I don't like this area. My boys were killed... not a day's ride from here, and the sooner we can get out -- _[sighs]_ --get further west into California with as much money as we can carry, happier I'm gonna be.
 
 #### ZEKE
 
@@ -2493,7 +2493,7 @@ He will do it slowly, and probably be stopping, often. So--actually, make me a I
 
 #### JAMES
 
-Oh, yeah, I could've... been more intimidating there, couldn't I? Well, I've sh--_[laughs]_--threatened to shoot his crotch off, is...
+Oh, yeah, I could've... been more intimidating there, couldn't I? Well, I've sh -- _[laughs]_ --threatened to shoot his crotch off, is...
 
 #### JONNY
 
@@ -2503,7 +2503,7 @@ Yeah, that's why--that's where the--
 
 #### JONNY
 
---_(laughing)_ intimidation comes in.
+-- _(laughing)_ intimidation comes in.
 
 #### JAMES
 
@@ -2805,7 +2805,7 @@ Y--aaahhh.
 
 #### NATHANIEL
 
-_(distantly)_ Ca-caww. Ca-caa--_[Alex laughs]_--aww.
+_(distantly)_ Ca-caww. Ca-caa -- _[Alex laughs]_ -- aww.
 
 #### JONNY
 
@@ -4103,7 +4103,7 @@ You went--like--you disappeared over the horizon.
 
 #### BEN
 
-S--_[laughs]_--so they come across me by the side of the trail with my thumb out.
+S -- _[laughs]_ -- so they come across me by the side of the trail with my thumb out.
 
 ##### [ALEX AND JAMES LAUGH]
 
@@ -4169,7 +4169,7 @@ And the tavern.
 
 #### BLACKJACK
 
-And--_[sighs]_--Carl, you... *shot* t--_[sighs]_--now there--there ain't no way they're gonna leave off the chase now. All right, ummm... _(muttering)_ lemme think.
+And -- _[sighs]_ -- Carl, you... *shot* t -- _[sighs]_ -- now there -- there ain't no way they're gonna leave off the chase now. All right, ummm... _(muttering)_ lemme think.
 
 ##### [PAUSE]
 
@@ -4793,7 +4793,7 @@ _(Skeletor)_ But I can't steal any *meat*, *can* I? Otherwise where would I put 
 
 #### ALEX
 
-_(Skeletor)_ Although it's weird that I have a comb--_[laughs]_--when I'm Skeletor! What's with that? _(normal)_ No. I'll find something else.
+_(Skeletor)_ Although it's weird that I have a comb -- _[laughs]_ -- when I'm Skeletor! What's with that? _(normal)_ No. I'll find something else.
 
 #### BEN
 

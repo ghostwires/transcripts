@@ -4,7 +4,7 @@ layout: page_default
 
 # SNARP'S TODO
 
-* Make next/prev links on News posts smaller (or yyyy-mm-dd strings non-breaking) on mobile.
+* <del>Make next/prev links on News posts smaller (or yyyy-mm-dd strings non-breaking) on mobile.</del> DONE (second one)
 
 * Page with short explanation of how to submit corrections via Github or email.
 

@@ -981,7 +981,7 @@ Yeah, I just pocket it. No one knows that I have my gun, but I'd rather have a g
 
 #### BRYN
 
-I--yeah, I'm just gonna explore this cavern fully.
+I -- yeah, I'm just gonna explore this cavern fully.
 
 #### ZEKE
 
@@ -989,7 +989,7 @@ Maybe it weren't a coyote.
 
 #### NATHANIEL
 
-You *see?* You see--this--*this* is what I'm getting at.
+You *see?* You see -- this -- *this* is what I'm getting at.
 
 #### CIGARILLO
 
@@ -997,15 +997,15 @@ _[PANTING]_ What d--what d'y--_[coughs]_--what d'you think it was? I...
 
 #### NATHANIEL
 
-I think it was *death on legs*. I think it was death on legs, and it's coming for us, and we can *leave*. W--there are *horses*.
+I think it was *death on legs.* I think it was death on legs, and it's coming for us, and we can *leave.* W -- there are *horses.*
 
 #### ZEKE
 
-There's plenty--
+There's plenty --
 
 #### NATHANIEL
 
-Horses have *four*. This thing--
+Horses have *four.* This thing--
 
 #### ZEKE
 
@@ -2437,7 +2437,7 @@ _[SNORTS]_ All right, uh...
 
 #### ALEX
 
-That's--_[laughs]_--that's a *death snort*. I know a death snort.
+That's -- _[laughs]_ -- that's a *death snort*. I know a death snort.
 
 #### JONNY
 
@@ -2665,11 +2665,11 @@ Let's go back to the entrance and see what's going on.
 
 #### NATHANIEL
 
-No no no. You *can't*, be--_[nervous laugh]_--y--you *can't*, because the *sheriff's at the entrance*.
+No no no. You *can't*, be -- _[nervous laugh]_ -- y-you *can't*, because the *sheriff's at the entrance*.
 
 #### CIGARILLO
 
-So w--
+So w --
 
 #### NATHANIEL
 

@@ -813,7 +813,7 @@ Until Summer here.
 
 #### ALEX
 
-Yeah. I just punish the poor thing, and then it was just, we had to take breaks, and it was like, 'Oh, is this so that your actors can rest?' I was, like, 'Pffft! They don't need rest, no!
+Yeah. I just punish the poor thing, and then it was just, we had to take breaks, and it was like, 'Oh, is this so that your actors can rest?' I was, like, 'Pffft! They don't need rest, no!'
 
 #### JONNY
 
