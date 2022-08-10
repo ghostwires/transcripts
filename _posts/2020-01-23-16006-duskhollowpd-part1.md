@@ -261,7 +261,7 @@ _[overlapping]_ Intricate conspiracies require evidence.
 
 #### LOWRI
 
-They do require evidence and *I know*. But the world doesn't know. So she may have tampered with some evidence in the past.
+They do require evidence and *I know.* But the world doesn't know. So she may have tampered with some evidence in the past.
 
 #### JONNY
 
@@ -1287,7 +1287,7 @@ _[overlapping]_ And you say you found the body, did you?
 
 #### HOUSEKEEPER
 
-Uh, I did, so a-about _[pause, thinking]_ about maybe midday? I heard a lot of crashing from the room, but that's not -- that's not always that unusual and generally if I -- if I, you know, if I check up, Geoffrey gets a little bit -- *got*, got a little bit irate. So I left it for a while but he didn't come out when it was dinnertime so I-I checked and I found... well, I found him like this but there was the window -- the window was open and I-I ran to it and I saw someone climbing over the -- the back fence to get away.
+Uh, I did, so a-about _[pause, thinking]_ about maybe midday? I heard a lot of crashing from the room, but that's not -- that's not always that unusual and generally if I -- if I, you know, if I check up, Geoffrey gets a little bit -- *got,* got a little bit irate. So I left it for a while but he didn't come out when it was dinnertime so I-I checked and I found... well, I found him like this but there was the window -- the window was open and I-I ran to it and I saw someone climbing over the -- the back fence to get away.
 
 #### GABRIELLE
 
@@ -1973,7 +1973,7 @@ _[overlapping]_ Seen what I need to see.
 
 #### DOCTOR SMILTON
 
-What's *not* inside? *Sergeant*, you intrigue me.
+What's *not* inside? *Sergeant,* you intrigue me.
 
 #### CARL
 
@@ -2157,7 +2157,7 @@ Uh, that's the fence.
 
 #### ALEX
 
-*Oh*, okay: metagame, for some reason I'm assuming we're pre-DNA *but* you can do a blood type match, *that's* a thing.
+*Oh,* okay: metagame, for some reason I'm assuming we're pre-DNA *but* you can do a blood type match, *that's* a thing.
 
 #### FRANK
 

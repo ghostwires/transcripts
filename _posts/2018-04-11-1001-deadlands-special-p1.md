@@ -393,7 +393,7 @@ Right. Well...
 
 #### JAMES
 
-That's not quite true. I can't do one *sensitively*. So--
+That's not quite true. I can't do one *sensitively.* So--
 
 #### JONNY
 
@@ -453,7 +453,7 @@ ARE YOU MY WIFE?
 
 #### ALEX
 
-_(through laughter)_ Ohhh, *god*, James.
+_(through laughter)_ Ohhh, *god,* James.
 
 #### JONNY
 
@@ -1307,7 +1307,7 @@ Yeah.
 
 #### ALEX
 
-_(laughing)_ I'm *really sorry*, Jonny.
+_(laughing)_ I'm *really sorry,* Jonny.
 
 ##### [BRYN STARTS LAUGHING AGAIN]
 
@@ -1565,7 +1565,7 @@ _(simult.)_ --in the neck?
 
 #### NATHANIEL
 
-No, it's fine, I'll *yell*, and then Zeke, you--you're a strong guy, you can come out...
+No, it's fine, I'll *yell,* and then Zeke, you--you're a strong guy, you can come out...
 
 #### ZEKE
 
@@ -2177,7 +2177,7 @@ We are but His playthings.
 
 #### NATHANIEL
 
-*So about the* *steeple*, Father.
+*So about the* *steeple,* Father.
 
 #### PASTOR
 
@@ -2259,7 +2259,7 @@ _(simult.)_ ...horrific drawn-out effects--
 
 #### NATHANIEL
 
-Father, I'm--I'd really like to... to see God's creation from on *high*, could ya facilitate that for me, Father?
+Father, I'm--I'd really like to... to see God's creation from on *high,* could ya facilitate that for me, Father?
 
 ##### [PAUSE]
 
@@ -2425,7 +2425,7 @@ I mean...
 
 #### CARL
 
-_(lowering voice)_ Yeah, r--that is *novel*. How *interesting*. I'm gonna put it in some *bags* now, if that's all right?
+_(lowering voice)_ Yeah, r--that is *novel.* How *interesting.* I'm gonna put it in some *bags* now, if that's all right?
 
 ##### [ALEX LAUGHS]
 
@@ -2581,7 +2581,7 @@ Two explosions on my--do--I reroll both, _[indistinct]_?
 
 #### JONNY
 
-Yeah yeah, you reroll both. Take the highest.
+Yeah, yeah, you reroll both. Take the highest.
 
 ##### [DICE ROLLING]
 
@@ -2673,11 +2673,11 @@ So yeah. You see each other. Then your eyes go back to the saloon, as the doors 
 
 #### ALEX
 
-I immediately stop, to a skidding halt, look *incredibly panicked at Cigarillo*, immediately turn around, and run back, and whilst going past the bank, just sort of... gesture, going:
+I immediately stop, to a skidding halt, look *incredibly panicked at Cigarillo,* immediately turn around, and run back, and whilst going past the bank, just sort of... gesture, going:
 
 #### NATHANIEL
 
-_(urgent whisper)_ _Ca-cawww! Ca-**cawwww**! Ca-caww!_
+_(urgent whisper)_ _Ca-cawww! Ca-**cawwww!** Ca-caww!_
 
 ##### [JAMES LAUGHS]
 
@@ -2847,7 +2847,7 @@ It *definitely* alerts--
 
 #### BRYN
 
-If I had a gun, I would shoot *you*, Alex.
+If I had a gun, I would shoot *you,* Alex.
 
 ##### [ALEX LAUGHS]
 
@@ -4591,7 +4591,7 @@ _(whispering)_ Blackjack.
 
 #### NATHANIEL
 
-_(simult, whispering loudly)_ We're gonna *die*, Blackjack.
+_(simult, whispering loudly)_ We're gonna *die,* Blackjack.
 
 #### JONNY
 
@@ -4615,7 +4615,7 @@ Dead people?
 
 #### NATHANIEL
 
-Yeah definitely.
+Yeah, definitely.
 
 ##### [PAUSE]
 
@@ -4627,7 +4627,7 @@ You sure? Have a look.
 
 #### NATHANIEL
 
-Uh, yup I can see. Yup. Loads of--loads of that. Stuff.
+Uh, yup, I can see. Yup. Loads of--loads of that. Stuff.
 
 #### JONNY
 
@@ -4789,7 +4789,7 @@ _(Skeletor)_ *I'm* _[indistinct]_ for the laaaand!
 
 #### JAMES
 
-_(Skeletor)_ But I can't steal any *meat*, *can* I? Otherwise where would I put it? That would look *creepy!*
+_(Skeletor)_ But I can't steal any *meat,* *can* I? Otherwise where would I put it? That would look *creepy!*
 
 #### ALEX
 

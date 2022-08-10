@@ -3,45 +3,49 @@
 {% include post-nav.html %}
 
 <div class="post-subtitle">
-  <div class="post-episode-number">{{page.title_prefix}}{{page.episode_number}}</div>
-  {%- if page.case_number %} 
-  <div class="divider"> - </div> 
-  <div class="post-case-number">#{{page.case_number}}</div>
-  {%- endif %}
+	{%- if page.cmv_campaign %}
+		<div class="post-episode-number">{{page.title_prefix}} {{page.cmv_campaign}} {{page.episode_number}}</div>
+	{%- else %}
+		<div class="post-episode-number">{{page.title_prefix}}{{page.episode_number}}</div>
+	{%- endif %}
+	{%- if page.case_number %} 
+	<div class="divider"> - </div> 
+	<div class="post-case-number">#{{page.case_number}}</div>
+	{%- endif %}
 </div>
 <h1 class="post-title" itemprop="name headline">
-  <a href="{{ page.url | prepend: site.baseurl }}">{{page.episode_title}}</a>
+	<a href="{{ page.url | prepend: site.baseurl }}">{{page.episode_title}}</a>
 </h1>
 <div class="post-date post-meta">{{ page.date | date: "%B %-d, %Y" }}</div>
 
 {% if page.summary -%}
 <div class="post-header-section post-summary post-links post-meta">
-  <div class="label">Summary</div>
-  <div class="content">{{ page.summary }}</div>
+	<div class="label">Summary</div>
+	<div class="content">{{ page.summary }}</div>
 </div>
 {%- endif %}
-    
+		
 {% if page.content_flags and page.content_flags.size > 0 -%}
 <div class="post-flags post-header-section post-links post-meta">
-  <div class="label" onclick="document.querySelector('.spoiler-hidden').classList.remove('spoiler-hidden');"><p>Warning</p></div>
-  <div class="content" title="Click to view.">
-    <p class="spoiler-label spoiler-label-hidden">(Click to view.)</p>
-    <p class="spoiler">{{ page.content_flags | join: ", " }}</p>
-  </div>
+	<div class="label" onclick="document.querySelector('.spoiler-hidden').classList.remove('spoiler-hidden');"><p>Warning</p></div>
+	<div class="content" title="Click to view.">
+		<p class="spoiler-label spoiler-label-hidden">(Click to view.)</p>
+		<p class="spoiler">{{ page.content_flags | join: ", " }}</p>
+	</div>
 </div><!--/.post-flags-->
 {%- endif %}
 
 <div class="post-meta post-links">
-  <a class="acast-link" target="_blank" href="{{ page.acast_url }}">Listen on ACast</a>{% if page.wiki_url %} | <a target="_blank" href="{{page.wiki_url}}">View on Wiki</a>{% endif %}
+	<a class="acast-link" target="_blank" href="{{ page.acast_url }}">Listen on ACast</a>{% if page.wiki_url %} | <a target="_blank" href="{{page.wiki_url}}">View on Wiki</a>{% endif %}
 
 {%- if page.official -%}
-  <br/>Source: <a class="source-link source-homepage" target="_blank" href="https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM">Official Transcript Archive</a>
+	<br/>Source: <a class="source-link source-homepage" target="_blank" href="https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM">Official Transcript Archive</a>
 {%- elsif page.unofficial_name -%}
-  <br/>Source: <a class="source-link source-homepage" target="_blank" {% if page.unofficial %} href="{{ page.unofficial }}"{% endif %}>{{page.unofficial_name}}</a> <span class="unofficial-label">[UNOFFICIAL]</span>
+	<br/>Source: <a class="source-link source-homepage" target="_blank" {% if page.unofficial %} href="{{ page.unofficial }}"{% endif %}>{{page.unofficial_name}}</a> <span class="unofficial-label">[UNOFFICIAL]</span>
 {%- endif -%}
 
-  <br/>Formats: <a class="markdown-link" target="_blank" href="https://github.com/ghostwires/transcripts/blob/main/{{ page.path }}">Markdown</a>
-  {%- if page.formats %}{%- for link in page.formats %} | <a target="_blank" href="{{ link[1] }}">{{ link[0] }}</a>{% endfor %}{% endif %}
+	<br/>Formats: <a class="markdown-link" target="_blank" href="https://github.com/ghostwires/transcripts/blob/main/{{ page.path }}">Markdown</a>
+	{%- if page.formats %}{%- for link in page.formats %} | <a target="_blank" href="{{ link[1] }}">{{ link[0] }}</a>{% endfor %}{% endif %}
 </div>
 
 {% if page.unfinished -%}

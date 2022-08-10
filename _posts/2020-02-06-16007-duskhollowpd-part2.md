@@ -635,7 +635,7 @@ So less oppressive and more repressive rain?
 
 #### JONNY
 
-Little bit, little bit, little bit. All the windows, curtains closed, except they twitch sometimes like someone's just looking out, staring at you as you roll by. Angela Grockles's house looks no different to any of the others. The only difference is that it is number *fifteen*. The one before it? Number thirteen. One after it? Number twenty. Where's seventeen? Or nineteen. Who knows?
+Little bit, little bit, little bit. All the windows, curtains closed, except they twitch sometimes like someone's just looking out, staring at you as you roll by. Angela Grockles's house looks no different to any of the others. The only difference is that it is number *fifteen.* The one before it? Number thirteen. One after it? Number twenty. Where's seventeen? Or nineteen. Who knows?
 
 #### LOWRI
 
@@ -731,7 +731,7 @@ You are... Ms. Grockle?
 
 #### ANGELA
 
-*Mrs*. Grockle, yes.
+*Mrs.* Grockle, yes.
 
 #### CARL
 
@@ -2367,7 +2367,7 @@ Now try the goo!
 
 #### MARIE
 
-_[getting aggressive]_ What's this *about*, officers?
+_[getting aggressive]_ What's this *about,* officers?
 
 #### LOWRI
 
@@ -2685,7 +2685,7 @@ So he wasn't there -- he wasn't dead when you got there but he was dead when you
 
 #### MARIE
 
-I was -- I was told: go there. I was told he'd be dead already. I was told to cut the whistle out, I was told to take the cap, and I was told to return it. But when I got there, he was still reading his stuff, he was doing his whole *dance*, I don't know what the hell. So I stood there, I had a smoke, I waited -- he didn't see me, I was outside the window -- and then he keeled over dead. So when he was dead, like I was told he was gonna be, I went in -- look, this whole job has been a hell of a lot more of a headache then it was meant to be.
+I was -- I was told: go there. I was told he'd be dead already. I was told to cut the whistle out, I was told to take the cap, and I was told to return it. But when I got there, he was still reading his stuff, he was doing his whole *dance,* I don't know what the hell. So I stood there, I had a smoke, I waited -- he didn't see me, I was outside the window -- and then he keeled over dead. So when he was dead, like I was told he was gonna be, I went in -- look, this whole job has been a hell of a lot more of a headache then it was meant to be.
 
 #### EMMA
 

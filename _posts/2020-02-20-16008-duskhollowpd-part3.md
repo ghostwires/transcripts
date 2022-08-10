@@ -49,7 +49,7 @@ _[continuing]_ -- you picked the worst possible episode imaginable to start on o
 
 #### JONNY
 
-Yeah, also, if this is your first episode of anything in this feed, *stop*. Go back to episode 1 of The Magnus Archives. If you just want to know what is going on here, go back two episodes, 'cause this is part three and it will be *very* confusing for you. I am here with some other people!
+Yeah, also, if this is your first episode of anything in this feed, *stop.* Go back to episode 1 of The Magnus Archives. If you just want to know what is going on here, go back two episodes, 'cause this is part three and it will be *very* confusing for you. I am here with some other people!
 
 #### LOWRI
 
@@ -1607,7 +1607,7 @@ Mm-hmm.
 
 #### ALEX
 
-So, his logic is very simple which is "you can't burn through your ropes using the cigarette, it won't -- it'd take too long", but what he's doing is he's slowly accruing as much dust as he can, buying time to then light the cigarette in hopes that the aluminium oxide thermite will go _[imitates burst of flame]_, and then burn through the ropes so that he can *then*, with the big bright light going off from the thermite, both escape and run away as a distracting bright light goes off.
+So, his logic is very simple which is "you can't burn through your ropes using the cigarette, it won't -- it'd take too long", but what he's doing is he's slowly accruing as much dust as he can, buying time to then light the cigarette in hopes that the aluminium oxide thermite will go _[imitates burst of flame]_, and then burn through the ropes so that he can *then,* with the big bright light going off from the thermite, both escape and run away as a distracting bright light goes off.
 
 #### JONNY
 

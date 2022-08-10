@@ -415,7 +415,7 @@ _[overlapping, rapid monotone]_ Fantastic.
 
 #### ALEX NEWALL
 
--- and now I've gone too far the other way -- again -- that was *golden*, by the way, that's *exactly* what I need.
+-- and now I've gone too far the other way -- again -- that was *golden,* by the way, that's *exactly* what I need.
 
 ##### [ALEX AND FRANK LAUGH]
 

@@ -261,7 +261,7 @@ Yeah. There is *technically* a monster.
 
 #### ALEX
 
-Yeah. But that's what I mean. It's like *technically*, but you could have had exactly the same story without that, and it would still be super scary. It just wouldn't have that one extra tiny little element, but it's always that one extra little element that codified so many of early *Magnus* episodes.
+Yeah. But that's what I mean. It's like *technically,* but you could have had exactly the same story without that, and it would still be super scary. It just wouldn't have that one extra tiny little element, but it's always that one extra little element that codified so many of early *Magnus* episodes.
 
 #### JONNY
 
@@ -361,7 +361,7 @@ And we were like, what? Did we do something wrong? Were our performances not up 
 
 #### ALEX
 
-Oh, yeah! It was almost like there was speech jamming happening. You *could not* tell the difference *at all*, because his slightly dour voice __was__ your Archivist voice.
+Oh, yeah! It was almost like there was speech jamming happening. You *could not* tell the difference *at all,* because his slightly dour voice __was__ your Archivist voice.
 
 #### JONNY
 
@@ -487,11 +487,11 @@ Yeah, that was *Fatigue*.
 
 #### ALEX
 
-Yeah! *Fatigue*, that was it. That's not me condoning it by the way! That's just me saying *Fatigue* is another one that had that feel to it.
+Yeah! *Fatigue,* that was it. That's not me condoning it by the way! That's just me saying *Fatigue* is another one that had that feel to it.
 
 #### JONNY
 
-To be fair, for *Fatigue*, that was actually kind of a deliberate thing. I'd kind of put myself in that position intentionally to get that slightly dreamlike sense.
+To be fair, for *Fatigue,* that was actually kind of a deliberate thing. I'd kind of put myself in that position intentionally to get that slightly dreamlike sense.
 
 #### ALEX
 
@@ -1861,7 +1861,7 @@ I am __so__ happy cos it was... really difficult to get the casting through. And
 
 #### JONNY
 
-I, I, I think, even by the time we were rem-- we were recording *Piecemeal*, which is Salesa's first, like, appearance. And you were telling me that I had to make it, like, a hundred percent less sweary. It was all F-bombs, all the time, first draft of *Piecemeal*.
+I, I, I think, even by the time we were rem-- we were recording *Piecemeal,* which is Salesa's first, like, appearance. And you were telling me that I had to make it, like, a hundred percent less sweary. It was all F-bombs, all the time, first draft of *Piecemeal*.
 
 #### ALEX
 

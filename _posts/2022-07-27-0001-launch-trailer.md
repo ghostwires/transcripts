@@ -47,7 +47,7 @@ _(slow, victorious)_ My girls return! _(louder)_ And they've only gone and got t
 
 ##### [SFX: He kicks something over. Small metallic pieces -- gold coins -- pour onto the deck, rolling off in all directions. CHEERS! FOOT-STAMPING! PIRATES!!!!]
 
-##### [THE CHEERS FADE INTO THE RUMBLINGS OF A FARAWAY STORM. EVERYTHING IS quiet and hushed – a burnt-out-sounding husk of a place. Distantly, insects buzz. Pottery crunches underfoot.]
+##### [THE CHEERS FADE INTO THE RUMBLINGS OF A FARAWAY STORM. EVERYTHING IS quiet and hushed - a burnt-out-sounding husk of a place. Distantly, insects buzz. Pottery crunches underfoot.]
 
 ##### [MUSIC FADES IN. IT SOUNDS -- IS THERE SUCH A THING AS LIVELY *AND* MOURNING?]
 

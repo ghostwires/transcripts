@@ -71,7 +71,7 @@ _(simult.)_ Waheyyyyyy!
 
 #### JONNY
 
-So, we'll continue right now. So, everyone hears an ear-splitting scream, from deep inside the cavern. Zeke, you are part of the way down your tunnel when you hear a scream from behind you. I will say, for our listeners, that in the meantime, there has been... some *secret rolling*, between Alex and the thing that was once Blackjack Bronson.
+So, we'll continue right now. So, everyone hears an ear-splitting scream, from deep inside the cavern. Zeke, you are part of the way down your tunnel when you hear a scream from behind you. I will say, for our listeners, that in the meantime, there has been... some *secret rolling,* between Alex and the thing that was once Blackjack Bronson.
 
 ##### [BRYN GASPS]
 
@@ -345,7 +345,7 @@ During this conversation, Carl has taken Marjorie down and is now holding it at.
 
 #### NATHANIEL
 
-Okay. New plan. Okay? Great. Here--here's what we're gonna do. Right? I am gonna--I'm gonna *sit*, *here*, like, *on the ground*, okay? You can *point* your guns at me, that's fine, as long as one of you keeps pointing your gun at *that cave*. Because *death*. Lots of *death*. Death.
+Okay. New plan. Okay? Great. Here--here's what we're gonna do. Right? I am gonna--I'm gonna *sit,* *here,* like, *on the ground,* okay? You can *point* your guns at me, that's fine, as long as one of you keeps pointing your gun at *that cave.* Because *death.* Lots of *death.* Death.
 
 #### CIGARILLO
 
@@ -433,7 +433,7 @@ It's probably just a coyote or something.
 
 #### NATHANIEL
 
-Y--*sure*. That. I mean. It--it kinda ate him while I was there. And it was invisible, and it ate him from the inside out, and it's gonna kill us all, ish, sorta--
+Y--*sure.* That. I mean. It--it kinda ate him while I was there. And it was invisible, and it ate him from the inside out, and it's gonna kill us all, ish, sorta--
 
 #### CIGARILLO
 
@@ -449,7 +449,7 @@ _(simult.)_ --now, why don't we--
 
 #### NATHANIEL
 
-_(tiredly)_ *I don't know*, 'cause I can't see it, let's go, give me my gun or something, we flee, we go, like, I--t--*how--how is no one perturbed by this?*
+_(tiredly)_ *I don't know,* 'cause I can't see it, let's go, give me my gun or something, we flee, we go, like, I--t--*how--how is no one perturbed by this?*
 
 #### CIGARILLO
 
@@ -1127,7 +1127,7 @@ I'm just sort of backing and standing *deliberately* right next to Cigarillo.
 
 #### NATHANIEL
 
-*So*. *You* wanna hunt this thing, that's a great idea. How do you feel--you feel that I'm safe now? We can go guard--
+*So.* *You* wanna hunt this thing, that's a great idea. How do you feel--you feel that I'm safe now? We can go guard--
 
 #### CIGARILLO
 
@@ -1143,7 +1143,7 @@ I still don't--no! I still don't trust you!
 
 #### NATHANIEL
 
-Oh come *on*, man.
+Oh come *on,* man.
 
 #### CIGARILLO
 
@@ -1289,7 +1289,7 @@ _(simult.)_ Fine. Fine. Fine. Fine.
 
 #### CIGARILLO
 
-Wait. The w--ohh *no*, I musta dropped it! Sorry, I've lost your gun.
+Wait. The w--ohh *no,* I musta dropped it! Sorry, I've lost your gun.
 
 #### NATHANIEL
 
@@ -1563,7 +1563,7 @@ This way.
 
 #### NATHANIEL
 
---thing that *carried a person away*. Let's list the animals that *carry things away*.
+--thing that *carried a person away.* Let's list the animals that *carry things away*.
 
 #### CIGARILLO
 
@@ -1571,7 +1571,7 @@ Uh, humans?
 
 #### NATHANIEL
 
-*Yes*. Okay? Humans are *scary*...
+*Yes.* Okay? Humans are *scary*...
 
 #### CIGARILLO
 
@@ -1653,7 +1653,7 @@ And although I've loaded my rifle I'm holding it like this.
 
 #### JONNY
 
-Yeah. So, you two are bickering, you two are heading down this passage. It leads to a smaller room, and in the walls, it's got divots, sort of carved. And hanging from them... look to be very old hooks. Some of which... yes, *have* *more skin on them*. But in the corner is quite a well-kept looking chest. Or a trunk. Probably the sort you'd use for coach travel.
+Yeah. So, you two are bickering, you two are heading down this passage. It leads to a smaller room, and in the walls, it's got divots, sort of carved. And hanging from them... look to be very old hooks. Some of which... yes, *have* *more skin on them.* But in the corner is quite a well-kept looking chest. Or a trunk. Probably the sort you'd use for coach travel.
 
 #### BRYN
 
@@ -1971,7 +1971,7 @@ And he just begins patting himself down.
 
 #### CARL
 
-GOT ALL CONFUSED. YOU *BUGGER*, YOU'VE TAKEN ME *MINTS!* GO ON!
+GOT ALL CONFUSED. YOU *BUGGER,* YOU'VE TAKEN ME *MINTS!* GO ON!
 
 #### JONNY
 
@@ -2437,7 +2437,7 @@ _[SNORTS]_ All right, uh...
 
 #### ALEX
 
-That's -- _[laughs]_ -- that's a *death snort*. I know a death snort.
+That's -- _[laughs]_ -- that's a *death snort.* I know a death snort.
 
 #### JONNY
 
@@ -2463,7 +2463,7 @@ That made things worse!
 
 #### JONNY
 
-Yeah, no, *okay*, you didn't get a *real* good look at it when it was coming, *now* you have, and, mmm, no, okay. So, you've made things worse for yourself.
+Yeah, no, *okay,* you didn't get a *real* good look at it when it was coming, *now* you have, and, mmm, no, okay. So, you've made things worse for yourself.
 
 #### ALEX
 
@@ -2625,7 +2625,7 @@ Sorry, Fletcher!
 
 #### NATHANIEL
 
-Haaaahh. *Haaahhh*. _(shaky whisper)_ Ca-caw. _[continues ca-cawing quietly]_
+Haaaahh. *Haaahhh.* _(shaky whisper)_ Ca-caw. _[continues ca-cawing quietly]_
 
 #### CARL
 
@@ -2665,7 +2665,7 @@ Let's go back to the entrance and see what's going on.
 
 #### NATHANIEL
 
-No no no. You *can't*, be -- _[nervous laugh]_ -- y-you *can't*, because the *sheriff's at the entrance*.
+No no no. You *can't,* be -- _[nervous laugh]_ -- y-you *can't,* because the *sheriff's at the entrance.*
 
 #### CIGARILLO
 
@@ -2687,7 +2687,7 @@ There's just one of them, there's still four of us.
 
 #### NATHANIEL
 
-*Yyyes*. Okay.
+*Yyyes.* Okay.
 
 #### ZEKE
 
@@ -3031,7 +3031,7 @@ Yeah. Ahhhh.
 
 #### ALEX
 
-Should've *fleed*. Fled. Floweden.
+Should've *fleed.* Fled. Floweden.
 
 #### JAMES
 
@@ -3147,7 +3147,7 @@ What's that, Lydia's ghost? No, I don't think he will shut up.
 
 #### JAMES
 
-This is what Hell is, Lydia! *Me* talking *near you*, for aaaaall eteeeeernity!
+This is what Hell is, Lydia! *Me* talking *near you,* for aaaaall eteeeeernity!
 
 #### ALEX
 
@@ -3247,7 +3247,7 @@ _(simult.)_ About costumes.
 
 #### JONNY
 
---in a bowler hat puts on *other* hats in a costume shop, and becomes all sorts of... spacemen, knights, and *even*, at some points, a cowboy!
+--in a bowler hat puts on *other* hats in a costume shop, and becomes all sorts of... spacemen, knights, and *even,* at some points, a cowboy!
 
 #### JAMES
 

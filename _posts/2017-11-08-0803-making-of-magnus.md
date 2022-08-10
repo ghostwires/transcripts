@@ -301,7 +301,7 @@ It's really, yeah.
 
 #### MIKE
 
-That's the hardest part about editing the music for *Magnus*. Because getting that, striking that balance between things being not quite visible in terms of you're not focusing on the music but being present, that's the trick. And we only really know that we've done that once we go through the mastering stage, where that's sort of where I pass it back to Alex and say, "Hey what do you think of this?"
+That's the hardest part about editing the music for *Magnus.* Because getting that, striking that balance between things being not quite visible in terms of you're not focusing on the music but being present, that's the trick. And we only really know that we've done that once we go through the mastering stage, where that's sort of where I pass it back to Alex and say, "Hey what do you think of this?"
 
 #### ALEX
 

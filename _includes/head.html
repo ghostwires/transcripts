@@ -1,5 +1,9 @@
 {%- if page.episode_number and page.episode_title -%}
-	{%- assign page_title = '' | append: page.title_prefix | append: page.episode_number | append: ' - ' | append: page.episode_title | append: ' • ' | append: site.title -%}
+	{%- if page.cmv_campaign -%}
+		{%- assign page_title = '' | append: page.title_prefix | append: ' ' | append: page.cmv_campaign | append: ' ' | append: page.episode_number | append: ' - ' | append: page.episode_title | append: ' • ' | append: site.title -%}
+	{%- else -%}
+		{%- assign page_title = '' | append: page.title_prefix | append: page.episode_number | append: ' - ' | append: page.episode_title | append: ' • ' | append: site.title -%}
+	{%- endif -%}
 {%- elsif page.title -%}
 	{%- assign page_title = page.title | append: ' • ' | append: site.title -%}
 {%- else -%}
