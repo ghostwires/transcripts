@@ -2556,7 +2556,7 @@ Very odd name.
 
 #### MADDY
 
-Good, good alright. And so, you gather your supplies for the trip into town, gather your horses, make sure that they're not tripping too much.
+Good, good, alright. And so, you gather your supplies for the trip into town, gather your horses, make sure that they're not tripping too much.
 
 ##### [LAUGHTER]
 
@@ -2582,11 +2582,11 @@ Do the NPCs come with us? Or do they get left at the camp?
 
 #### MADDY
 
-Well, that is entirely up to you, if you want to bring them then you can, but it's also, that's a lot of people to be infiltrating a mansion.
+Well, that is entirely up to you. If you want to bring them then you can, but it's also, that's a lot of people to be infiltrating a mansion.
 
 #### BEN
 
-I really like the idea where the werewolves stepped out and went "we're werewolves, you're vampires," like none of our friends knew that we were vampires, and they were like "Oh my goodness!"
+I really like the idea where the werewolves stepped out and went, "We're werewolves, you're vampires," like none of our friends knew that we were vampires, and they were like "Oh my goodness!"
 
 #### MADDY
 
@@ -2698,11 +2698,11 @@ And Ben, how about you?
 
 #### BEN
 
-Yeah, I do stories with my brother every Sunday at Twitch.tv/thebrothersmeredith. 
+Yeah, I do stories with my brother every Sunday at twitch.tv/thebrothersmeredith. 
 
 #### MADDY
 
-Fantastic. We hope to see you next time on Chapter and Multiverse, but until then from all of us here in the space between worlds, goodbye. 
+Fantastic. We hope to see you next time on Chapter and Multiverse, but until then, from all of us here in the space between worlds, goodbye. 
 
 #### EVERYONE
 
