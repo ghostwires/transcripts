@@ -4,7 +4,7 @@ fin.close()
 new_text = ""
 text = text.split('\n')
 for line in text:
-    line = line.replace("Trice Forgotten – 1 – Below Decks – Authenticity in Historical Fiction", "").strip("")
+    line = line.replace("Rusty Quill Gaming – SEAS - Below Deck 2", "").strip("")
     line = line.replace('’', '\'')
     line = line.replace('‘', '\'')
     line = line.replace('–', '-')

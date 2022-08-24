@@ -16,7 +16,7 @@ next_episode_num:		['001']
 next_episode_title:		["The First Blow"]
 episode_title:   'Launch Trailer'
 episode_number:  '000.1'
-summary:         "Listen to Trice Forgotten, the newest Audio Drama by Rusty Quill<br/>Premiering 2 August 2022, wherever you get your podcasts."
+summary:         "Listen to <i>Trice Forgotten,</i> the newest Audio Drama by Rusty Quill<br/><br/>Premiering 2 August 2022, wherever you get your podcasts."
 content_flags:   []
 acast_url:       https://play.acast.com/s/trice-forgotten/seas-launch-trailer
 formats:
@@ -73,4 +73,4 @@ Ready -- set --
 
 #### VOICE
 
-Rusty Quill Presents: Trice Forgotten. Premiering August the second, 2022, wherever you get your podcasts.
+Rusty Quill Presents: *Trice Forgotten.* Premiering August the second, 2022, wherever you get your podcasts.
