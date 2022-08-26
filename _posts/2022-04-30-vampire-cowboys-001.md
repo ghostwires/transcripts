@@ -1,3 +1,29 @@
+---
+layout:          post
+title:           "CHAP Vampire Cowboys 1 - A Hairy Problem"
+date:            2022-04-30 11:00:00 -0400
+episode_type:      episode
+tags:            []
+voiced:          []
+categories:			"cmv"
+podcasts: ["cmv"]
+title_prefix:	"CHAP"
+prev_categories: ["cmv"]
+prev_prefixes: ["CHAP"]
+prev_episode:	['masks-001']
+prev_episode_num:		['001']
+prev_episode_title:		["Meet Our Heroes"]
+prev_cmv_campaign: 'Masks'
+episode_title:   'A Hairy Problem'
+episode_number:  '001'
+cmv_campaign: 'Vampire Cowboys'
+summary:         "Embark on a vampiric adventure with Ben Meredith, Helen Gould, Lowri Ann Davies, Lydia Nicholas and GM Maddy Searle, as they begin their one-shot of Vampire Cowboys!<br/><br/>This week, Cigar Lionel, Squishy Chewing, Gunbo Baggins and Choo Choo Strongstart return from a successful train robbery to discover a rather hairy problem right on their doorstep."
+content_flags:   ["Innuendo", "Loss of consciousness", "Physical violence", "Guns", "Supernatural transformation (inc. SFX)", "Discussions of: blood & murder, robbery, drugs", "Mentions of: smoking, food & alcohol", "SFX: horses & crickets, gunfire, growling"]
+acast_url:       https://play.acast.com/s/chapter-and-multiverse/chap-vampire-cowboys-1-a-hairy-problem
+formats:
+official:        true
+---
+
 ##### [SHOW THEME - INTRO]
 
 #### THE ETERNAL TAVERN KEEPER
@@ -2660,7 +2686,7 @@ So, yeah, as you set off towards the town of Chapter to investigate Jedediah Fen
 
 #### LOWRI
 
-I am @LowriTweets which is a misnomer because I do not tweet ever!
+I am @LowriTweets, which is a misnomer because I do not tweet ever!
 
 ##### [LAUGHTER]
 

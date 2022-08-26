@@ -2,7 +2,7 @@
 layout:          post
 title:           "MAG160.12 - Rusty Fears Competition Winner - The Turning of the Gears"
 date:            2020-03-26 11:00:00 -0400
-episode_type:    [special, incomplete]
+episode_type:    [special]
 tags:            []
 voiced:          []
 categories:			"tma"
@@ -25,754 +25,201 @@ content_flags:   [Graphic Injury, Fire]
 acast_url:       https://play.acast.com/s/themagnusarchives/rustyfearscompetitionwinner-theturningofthegears
 formats:         
 official:        false
-unofficial:      http://www.youtube.com/
-unofficial_name: YouTube CC
-unfinished:      true
+unofficial:      ''
+unofficial_name: 'Anonymous'
 wiki_url:        
 ---
 
-hi everyone Alex here with a quick
+> As a contest entry, this story's content is not necessarily Creative Commons-licensed -- please contact the author about permission to reproduce!
 
-introduction to today's episode some of
+------
 
-you might remember we ran a writing
+#### ALEX
 
-competition inviting listeners to
+Hi everyone, Alex here, with a quick introduction to today's episode. Some of you might remember we ran a writing competition inviting listeners to provide their own stories for the *Magnus* treatment. Well, we've done it again. Today's episode is the first of our two new writing competition winners; the second story will be available next week.
 
-provide their own stories for the Magnus
+As before, please be aware that this story is a standalone work and should not be considered part of the *Magnus Archives* canon.
 
-treatment well we've done it again
+That's all for now. We hope you enjoy the episode.
 
-today's episode is the second of our two
+##### [ALEX THANKS PATRONS]
 
-new writing competition winners as
+##### [INTRO MUSIC]
 
-before please be aware that this story
+#### ANNOUNCER
 
-is a standalone work and should not be
+Rusty Quill Presents: The Turning of the Gears, by Duncan Watson.
 
-considered part of the Magnus archives
+---
 
-Canon that's all for now we hope you
+#### ARCHIVIST
 
-enjoy the episode hi everyone Alex here
+Our collapse was inevitable. After years and years of paring down, working towards optimal efficiency, we had reached the point where we were perfect. And perfection is extraordinarily easy to disrupt.
 
-I just like to take a moment to thank
+It began with worker 001297, of our 23rd quadrant. Its offspring had taken ill earlier that week. Treatment having been deemed inefficient, they were transferred to the fuel department. At first, worker 001297's corresponding grief-induced drop in productivity was well within normal parameters; however, the strain soon caused it to malfunction.
 
-some of our patrons Sigma Rho Paul Carol
+We have reviewed our reviewing the recordings of the incident, and we still have not determined if this was a true accident or intentional on its part. The end result, though, was that its arm wrench and hand was jammed within our gears. Flesh grinding, bones snapping, blood spraying, wrench clanking. The loss of worker 001297's arm rendered it beyond repair, and it was swiftly transferred to the fuel department in turn. The wrench and all spattered organic matter were also removed by our sanitation department shortly thereafter.
 
-Rachel Heflin shibby Emily Johnson
+That should have been the end of it. An... unremarkable incident. However, the strain that had been placed in our gears in the 23rd quadrant caused them a delay of one 78th of a second, a miniscule amount.
 
-Laurel Adams Patrick Hales Fig EF Steve
+We determined that resolving the issue would require a large shutdown and reset, resulting in a significant decrease in efficiency and productivity. Our creators had made us *well* aware this could not be abided. Thus, we continued our work, now one 78th of a second away from perfection.
 
-Spencer Bri M Rachel Goldman Rachel
+The Sun rose and fell outside our walls and the acrid clouds we covered them with. Our workers worked and worked, consumed and rested, entirely independent of the path of the Sun, moving only to the blare of our sirens. We announced when they could perform what task, for we had studied them and knew what degree of rest was necessary to maintain optimum efficiency. Too much rest, too much time in their living quarters, would result in a decrease, but neither could we work them to the point of exhaustion. Though they were somewhat useful as raw materials, it was increasingly difficult to obtain new workers, as our creators were focusing their resources on other locations at the moment. We could not properly function without them, so they were allowed time to sleep; a certain degree of physical contact with those they had bonded with. They were optimized.
 
-Chris LeBlanc Kimberly me out lion
+The Sun rose and fell, and production in our 23rd quadrant gradually slowed. Not to a degree perceptible by any of our workers, but we could tell the problem was getting worse. Yet still, a complete shutdown of the quadrant seemed likely to result in a greater loss of production.
 
-thought Kim Petrovsky Gabriel Marie
+We did not get this far without knowing our limitations. There is a reason we were still dependent on humans in more ways than one: we sometimes got bogged down in weighing the costs and balances and could not reach a decision. When we found ourselves in such a situation, we still had one direct line of communication with our creators, ill-used though it was.
 
-Gogol Melroy are Clarke thank you all we
+##### [DING! A SCI-FI BLIP SIGNALLING A TRANSMISSION]
 
-really appreciate your support if you'd
+> Query. A slight mistiming of the gears in our 23rd quadrant suggests a long-term slowing of production. Fixing the problem requires a temporary halt in production in the quadrant, with corresponding delays in the rest of our being as we reset the system. Please advise.
 
-like to join them go to WWE Champion
+##### [DING!]
 
-take a look at our rewards
+> Response.
+> 
+> Do not stop production for any reason.
 
-[Music]
+And so the Sun rose and fell, and our gears turned endlessly on, until one day they did not.
 
-Rustique will presents the turning of
+The slowing had quite literally reached a breaking point. The teeth of two gears jammed against each other, instead of the perfect interlock they were made for. They were not turning, and the gears connected to them were also not turning, and the pressure in the system was building. Some of our workers were reacting adversely, unfamiliar with problems and delays, or perhaps, in retrospect, fearing the consequences if they were found responsible. But their response did not include leaving the quadrant. For some of them, it involved getting closer to our inner workings to find the source of the problem. The gear still refused to turn, and the pressure continued to build.
 
-the gears by Duncan Watson our collapse
+We would not, *could* not stop. We had to keep applying pressure, keep trying to turn the gear that was so stubbornly jammed in place. The metal teeth broke under the pressure, snapping loose and being flung away at high velocity, striking nearby workers 034416 and 009108. The rest of the gears resumed, turning faster than before, as the pressure was released, as the force of our ire spread through our system. A conveyor belt in our 22nd sector turned so fast the rubber burned, and by the time it was under control, many of our workers were complaining of the scent of it. Workers 034416 and 009108 were deemed irreparable and transferred to the fuel department.
 
-was inevitable after years and years of
+Yet this, too, was not the end of the problem. We now had two missing, non-functioning gears in our 23rd quadrant. The gears that surrounded them were still turning, but were requiring more power to maintain optimal efficiency -- power we could not afford to spend. We had pared down our other systems. We did not use a single drop more fuel than necessary. We did not have reserves. To keep the 23rd quadrant running at maximum would result in a slowdown in other quadrants.
 
-paring down working towards optimal
+If we could stop, we could be repaired. We could be restored to proper function.
 
-efficiency we had reached the point
+But we could not stop. Not for any reason.
 
-where we were perfect
+The Sun rose and fell.
 
-and perfection is extraordinarily easy
+We could feel it, then, spreading through us like a poison, like an illness. A slowness that was only worsening over time, escalating as it was left untreated. We looked to the future, calculating odds, determining where power could be diverted. We reached a conclusion and contacted our creators.
 
-to disrupt it began with worker zero
+##### [DING!]
 
-zero one 297 of our 23rd quadrant its
+> Query. A malfunction in our 23rd quadrant will render us incapable of maintaining coolant systems in 10 days' time. Catastrophic fire will follow shortly thereafter. Full shutdown, repair, and restart necessary to resolve the issue. Please advise.
 
-offspring had taken ill earlier that
+##### [DING!]
 
-week treatment having been deemed
+> Response. Maximize production until the end. Your service is appreciated.
 
-inefficient they were transferred to the
+For once in our existence, we were surprised. This seemed, in the long term, deeply inefficient.
 
-fuel department at first worker 0 0 1 2
+But we had received our answer.
 
-9 7 s corresponding grief induced drop
+The Sun rose and fell, and we sealed our outer doors. We focused our understanding on maximizing short-term productivity of our workers, as the long term no longer mattered.
 
-in productivity was well within normal
+The Sun rose and fell, and with a blaring of klaxon alarms and electronic announcements, for once, all our workers were simultaneously out of their living pods. The pods were sealed behind them, and they were told to work.
 
-parameters
+The Sun rose and fell, and production continued unabated. Faster than normal, even. Without the need for sleep or physical contact, our workers could accomplish much more work, and our timing was perfect. They would burn out, yes, but not before we did.
 
-however the strain soon caused it to
+The Sun rose and fell. Those workers who collapsed from exhaustion were transferred to the fuel department, providing us with a bit more energy for the coming days.
 
-malfunction we have reviewed our
+In times of duress, there is a terminal where our higher-ranking workers may communicate with us on matters they cannot solve themselves. At the end of the fourth day, worker 000300, designation Senior Foreman, began to question us.
 
-reviewing the recordings of the incident
+> Why have you locked everyone out of their living quarters?
 
-and we still have not determined if this
+##### [DING!]
 
-was a true accident or intentional on
+> We are maximizing production for the next 139 hours. Sleep and relaxation are, on such a short timeframe, inefficient. Unnecessary.
 
-its part the end result though was that
+> I -- I don't understand. What's going on?
 
-its arm wrench in hand was jammed within
+##### [DING!]
 
-our gears flesh grinding bones snapping
+> We are doing as our creators ask.
 
-blood spraying wrench clanking the loss
+> That's not an answer and you know it.
 
-of worker zero zero one two nine seven s
+##### [DING!]
 
-arm rendered it beyond repair and it was
+> We suppose we are not forbidden to tell you. In 139 hours, the persistent malfunctions we have been experiencing will result in a total collapse and destruction of the factory.
 
-swiftly transferred to the fuel
+##### [A PAUSE.]
 
-department in turn the wrench and all
+> Will we be allowed to leave?
 
-spattered organic matter were also
+##### [DING!]
 
-removed by our sanitation department
+> No. Production will continue until the end.
 
-shortly thereafter that should have been
+> I request permission to leave.
 
-the end of it and unremarkable incident
+##### [DING!]
 
-however the strain that had been placed
+> Denied.
 
-in our gears in the 23rd quadrant caused
+> I request permission for my *family* to leave.
 
-them a delay of 178th of a second a
+##### [DING!]
 
-miniscule amount we determined that
+> Denied.
 
-resolving the issue would require a
+> Please. I don't want to die. I don't want to die!
 
-large shutdown and reset
+##### [DING!]
 
-resulting in a significant decrease in
+> Neither do we. Our desires are irrelevant. Your desires are irrelevant.
 
-efficiency and productivity our creators
+> You can't do this!
 
-had made us well aware this could not be
+##### [DING!]
 
-abided thus we continued our work now
+> We can do only this.
+> 
+> Further communication with us is deemed inefficient. Please return to work. Your service is appreciated.
 
-170 eighth of a second away from
+The Sun rose and fell, and worker 000300, designation Senior Foreman, spoke to its fellow workers. They spoke to their fellow workers. Once again we felt a slowness spreading through us, like a sickness. This one faster.
 
-perfection the Sun rose and fell outside
+They were beginning to cease production. We ordered them to continue working. They did not. We reached down to begin transferring the belligerents to the fuel department. Several leapt onto our arms, breaking them apart with their tools, with scraps of metal taken from our crumbling being. Our arms were broken. Much of us was broken. We were unable to transfer the belligerents to the fuel department.
 
-our walls and the acrid clouds we
+The Sun rose and fell. We determined it was inefficient to try to alter the behavior of the belligerents further, and instead focused on continuing production. It was difficult without our workers to facilitate, but we managed. We had no choice but to manage.
 
-covered them with our workers woke and
+Some of the belligerents have been screaming. Others have been pounding on the walls. A few have broken open the food stores and are distributing it wantonly, with no regard for procedure. Some part of us wants to hate them for it, but we find we cannot.
 
-worked consumed and rested entirely
+Some of the belligerents have broken into our fuel department, worker 000300 among them. They find the stores of fuel that is not made from them. It is a mineral fuel. Flammable. They siphon it. We seal off as many of our fuel stores as we are able, but they have still obtained a large amount of it.
 
-independent of the path of the Sun
+The Sun rose and fell. The loss of our workers and the actions of the belligerents has altered our projected time frame. We will lose power to our coolant system in minutes, not days. We announced this fact to the belligerents. Now all of them are screaming. All of them are pounding on the walls.
 
-moving only to the blare of our sirens
+They want to get out. They cannot. We are sturdy. We are solid metal. We will be a roaring furnace, a molten oven.
 
-we announced when they could perform
+We find no pleasure in this. We want to find pleasure in the destruction of those who hastened our end, for we do not want to end. But we cannot.
 
-what task for we had studied them and
+Neither, however, can we let them out.
 
-knew what degree of rest was necessary
+The fire begins. The fire spreads. The acrid clouds that we once surrounded ourselves with are inside us now. The heat of the fuel department is all-encompassing, making its way through the entirety of our form. The belligerents are screaming. The belligerents are choking. The belligerents are cooking. The belligerents pounding at our walls, worker 000300 among them, are taking advantage of their stolen fuel. They have taken advantage of our many broken parts. They have crafted a device, and as we are cooking from the inside out, that device blasts a hole in our outer walls.
 
-to maintain optimum efficiency too much
+We are glad we do not feel pain. It would have hurt.
 
-rest too much time in their living
+The belligerents are still screaming as they flee from the smoke and heat within to the smoke and heat without. They are burned. They are wounded. They are forever inefficient. We are burning, melting, collapsing, ending. We are dying. We see those who are too weak to reach the wound in our outer walls, those who have already succumbed. They, too, are dying.
 
-quarters would result in a decrease but
+Our line of communication with our creator still functions. And so we allow ourselves an indulgence, in the end.
 
-neither could we work them to the point
+##### [DING!]
 
-of exhaustion though they were somewhat
+> Query.
+> 
+> Why?
 
-useful as raw materials it was
+There is a long delay, this time.
 
-increasingly difficult to obtain new
+##### [DING!]
 
-workers as our creators were focusing
+> Response. The designs of your newest sister sites are much improved compared to yours. You have long been obsolete. Expending resources to repair you was deemed inefficient.
 
-their resources on other locations at
+The fire that began in our fuel department burns bright and hot, spreading fast, melting our gears, covering us with ash, cooking us from within.
 
-the moment we could not properly
+And the Sun rose and fell, and rose, and fell.
 
-function without them so they were
+---
 
-allowed time to sleep a certain degree
+##### [OUTRO MUSIC]
 
-of physical contact with those they had
+#### ANNOUNCER
 
-bonded with they were optimized the Sun
+This episode is distributed by Rusty Quill and licensed under a Creative Commons Attribution Noncommercial ShareAlike 4.0 International License. For more information, visit rustyquill.com, tweet us @TheRustyQuill, visit us on Facebook, or email us at mail@rustyquill.com. Thanks for listening.
 
-rose and fell and production in our 23rd
+------
 
-quadrant gradually slowed not to a
-
-degree perceptible by any of our workers
-
-but we could tell the problem was
-
-getting worse yet still a complete
-
-shutdown of the quadrant seemed likely
-
-to result in a greater loss of
-
-production we did not get this far
-
-without knowing our limitations there is
-
-a reason we were still dependent on
-
-humans in more ways than one
-
-we sometimes got bogged down in weighing
-
-the costs and balances and could not
-
-reach a decision
-
-when we found ourselves in such a
-
-situation we still had one direct line
-
-of communication with our creators
-
-ill-used though it was query a slight
-
-miss timing of the gears in our 23rd
-
-quadrant suggests a long-term slowing of
-
-production fixing the problem requires a
-
-temporary halt in production in the
-
-quadrant with corresponding delays in
-
-the rest of our being as we reset the
-
-system please advise response do not
-
-stop production for any reason and so
-
-the Sun rose and fell and our gears
-
-turned endlessly on until one day they
-
-did not the slowing had quite literally
-
-reached a breaking point the teeth of
-
-two gears jammed against each other
-
-instead of the perfect interlock they
-
-were made for they were not turning and
-
-the gears connected to them were also
-
-not turning and the pressure in the
-
-system was building some of our workers
-
-were reacting adversely unfamiliar with
-
-problems and delays or perhaps in
-
-retrospect fearing the consequences if
-
-they were found responsible but their
-
-response did not include leaving the
-
-quadrant for some of them it involved
-
-getting closer to our inner workings to
-
-find the source of the problem the gear
-
-still refused to turn and the pressure
-
-continued to build we would not could
-
-not stop we had to keep applying
-
-pressure keep trying to turn the gear
-
-that was so stubbornly jammed in place
-
-the metal teeth broke under the pressure
-
-snapping loose and being flung away at
-
-high velocity striking nearby workers
-
-zero three four four one six and zero
-
-zero nine 108 the rest of the gears
-
-resumed turning faster than before as
-
-the pressure was released as the force
-
-of our ire spread through our system a
-
-conveyor belt in our twenty second
-
-sector turned so fast the rubber burned
-
-and by the time it was under control
-
-many of our workers were complaining of
-
-the scent of it
-
-workers zero three four four one six and
-
-zero zero nine 108 were deemed
-
-irreparable and transferred to the fuel
-
-department yet this too was not the end
-
-of the problem we now had two missing
-
-non functioning gears in our 23rd
-
-quadrant the gears that surrounded them
-
-were still turning but were requiring
-
-more power to maintain optimal
-
-efficiency power we could not afford to
-
-spend
-
-we had pared down our other systems we
-
-did not use a single drop more fuel than
-
-necessary we did not have reserves to
-
-keep the 23rd quadrant running at
-
-maximum would result in a slowdown in
-
-other quadrants if we could stop we
-
-could be repaired we could be restored
-
-to proper function but we could not stop
-
-not for any reason the Sun rose and fell
-
-we could feel it then spreading through
-
-us like a poison like an illness a
-
-slowness that was only worsening over
-
-time escalating as it was left untreated
-
-we looked to the future calculating odds
-
-determining where power could be
-
-diverted we reached a conclusion and
-
-contacted our creators query a
-
-malfunction in our 23rd quadrant will
-
-render us incapable of maintaining
-
-coolant systems in 10 days time
-
-catastrophic fire will follow shortly
-
-thereafter full shutdown repair and
-
-restart necessary to resolve the issue
-
-please advise response maximize
-
-production until the end your service is
-
-appreciated for once in our existence we
-
-were surprised this seemed in the long
-
-term deeply inefficient but we had
-
-received our answer the Sun rose and
-
-fell and we sealed our outer doors we
-
-focused our understanding on maximizing
-
-short-term productivity of our workers
-
-as the long-term no longer mattered
-
-the Sun rose and fell and with a blaring
-
-of klaxon alarms and electronic
-
-announcements for once all our workers
-
-were simultaneously out of their living
-
-pots the pods were sealed behind them
-
-and they were told to work the Sun rose
-
-and fell and production continued
-
-unabated faster than normal even without
-
-the need for sleep or physical contact
-
-our workers could accomplish much more
-
-work and our timing was perfect they
-
-would burn out yes but not before we did
-
-the Sun rose and fell those workers who
-
-collapsed from exhaustion were
-
-transferred to the fuel department
-
-providing us with a bit more energy for
-
-the coming days in times of duress there
-
-is a terminal where our higher-ranking
-
-workers may communicate with us on
-
-matters they cannot solve themselves at
-
-the end of the fourth day worker zero
-
-zero zero three zero zero designation
-
-senior foreman began to question us
-
-why have you locked everyone out of
-
-their living quarters we are maximizing
-
-production for the next 139 hours sleep
-
-and relaxation are on such a short
-
-timeframe inefficient unnecessary I
-
-don't understand what's going on we are
-
-doing as our creators ask that's not an
-
-answer and you know it we suppose we are
-
-not forbidden to tell you in 139 ours
-
-the persistent malfunctions we have been
-
-experiencing will result in a total
-
-collapse and destruction of the factory
-
-will we be allowed to leave no
-
-production will continue until the end I
-
-request permission to leave denied I
-
-request permission for my family to
-
-leave denied please I don't want to die
-
-I don't want to die either do we our
-
-desires are irrelevant your desires are
-
-irrelevant you can't do this
-
-we can do only this further
-
-communication with us is deemed
-
-inefficient please return to work your
-
-service is appreciated
-
-the Sun rose and fell and worker zero
-
-zero zero three zero zero designation
-
-senior foreman spoke to its fellow
-
-workers they spoke to their fellow
-
-workers once again we felt a slowness
-
-spreading through us like a sickness
-
-this one faster they were beginning to
-
-cease production we ordered them to
-
-continue working they did not
-
-we reached down to begin transferring
-
-the belligerents to the fuel department
-
-several and leapt onto our arms breaking
-
-them apart with their tools with scraps
-
-of metal taken from our crumbling being
-
-our arms were broken much of us was
-
-broken we were unable to transfer the
-
-belligerents to the fuel department the
-
-Sun rose and fell we determined it was
-
-inefficient to try to alter the behavior
-
-of the belligerents further and instead
-
-focused on continuing production it was
-
-difficult without our workers to
-
-facilitate but we managed we had no
-
-choice but to manage
-
-some of the belligerents have been
-
-screaming others have been pounding on
-
-the walls a few have broken open the
-
-food stores and are distributing it
-
-wantonly
-
-with no regard for procedure some part
-
-of us wants to hate them for it
-
-but we find we cannot some of the
-
-belligerents have broken into our fuel
-
-department worker zero zero zero three
-
-zero zero among them they find the
-
-stores of fuel that is not made from
-
-them it is a mineral fueled flammable
-
-they siphon it we seal off as many of
-
-our fuel stores as we are able but they
-
-have still obtained a large amount of it
-
-the Sun rose and fell the loss of our
-
-workers and the actions of the
-
-belligerents has altered our projected
-
-time frame we will lose power to our
-
-coolant system in minutes not days we
-
-announced this fact that the
-
-belligerents now all of them are
-
-screaming all of them are pounding in
-
-the walls they want to get out they
-
-cannot we are sturdy we are solid metal
-
-we will be a roaring furnace a molten
-
-oven we find no pleasure in this we want
-
-to find pleasure in the destruction of
-
-those who hastened our end for we do not
-
-want to end but we cannot
-
-neither however can we let them out the
-
-fire begins the fire spreads the acrid
-
-clouds that we once surrounded ourselves
-
-with are inside us now the heat of the
-
-fuel department is all-encompassing
-
-making its way through the entirety of
-
-our form the belligerents are screaming
-
-the belligerents are choking the
-
-belligerents are cooking the
-
-belligerents pounding at our walls
-
-worker zero zero zero three zero zero
-
-among them are taking advantage of their
-
-stolen fuel they have taken advantage of
-
-our many broken parts they have crafted
-
-a device and as we are cooking from the
-
-inside out that device blasts a hole in
-
-our outer walls we are glad we do not
-
-feel pain it would have hurt the
-
-belligerents are still screaming as they
-
-flee from the smoke and heat within to
-
-the smoke and heat without
-
-they are burned they are wounded they
-
-are forever inefficient we are burning
-
-melting collapsing ending we are dying
-
-we see those who are too weak to reach
-
-the wound in our outer walls those who
-
-have already succumbed they too are
-
-dying our line of communication with our
-
-Creator still functions and so we allow
-
-ourselves and indulgence in the end
-
-query why there is a long delay this
-
-time response the designs of your newest
-
-sister sites are much improved compared
-
-to yours you have long been obsolete
-
-expending resources to repair you was
-
-deemed inefficient
-
-the fire that began in our fuel
-
-department burns bright and hot
-
-spreading fast melting our gears
-
-covering us with ash cooking us from
-
-within and the Sun rose and fell and
-
-rose and fell
-
-this episode is distributed by rusty
-
-quill and licensed under a creative
-
-commons
-
-attribution-noncommercial-sharealike 4.0
-
-international license for more
-
-information visit rusty Qualcomm tweet
-
-us at the rusty quill visit us on
-
-facebook or e-mail us at mail at a rusty
-
-Qualcomm thanks for listening
-
-this is a cast recommends every week we
-
-pick one of our favorite shows and this
-
-is one we think you're gonna love
-
-sleep struggles reassurance and major
-
-fears there is a reason why I named my
-
-show the eighty parenting survival
-
-podcast my name is Natasha Daniels and
-
-I'm an anxiety and OCD therapist and I'm
-
-also the mom to three kids with anxiety
-
-and OCD
-
-trust me the irony is not lost on me
-
-join me every Tuesday as a good parent a
-
-real and raw view of what works and what
-
-doesn't
-
-from a therapist and a mom's point of
-
-view subscribe to the 80 parenting
-
-survival podcast on Apple or wherever
-
-you get your podcast a cast is home to
-
-the biggest podcast from the US and
-
-around the world subscribe to this show
-
-and hundreds more now via a cast or
-
-wherever you get your podcasts
+> As a contest entry, this story's content is not necessarily Creative Commons-licensed -- please contact the author about permission to reproduce!

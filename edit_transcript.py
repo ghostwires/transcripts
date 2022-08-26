@@ -23,7 +23,7 @@ fout.close()
 new_new_text = ""
 new_text = new_text.split('\n')
 for line in new_text:
-    line = line.replace('“', '"').replace('”', '"')
+    line = line.replace('"', '"').replace('”', '"')
     if line == '':
         continue
     if line[0] == "#":
