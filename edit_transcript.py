@@ -4,14 +4,16 @@ fin.close()
 new_text = ""
 text = text.split('\n')
 for line in text:
-    line = line.replace("Rusty Quill Gaming – SEAS - Below Deck 2", "").strip("")
+    line = line.replace("Ep 4 Tides Rise", "")
+    line = line.replace("Rusty Quill", "")
+    line = line.replace("TRICE FORGOTTEN", "")
     line = line.replace('’', '\'')
     line = line.replace('‘', '\'')
     line = line.replace('–', '-')
     line = line.replace(' -', ' --')
     if line.isdigit() or line == '' or line.isspace():
         continue
-    if line[0] == '[':
+    if line[0] == '[' and ']' not in line:
         line = '##### ' + line.upper()
     elif line.upper() == line:
         line = '#### ' + line

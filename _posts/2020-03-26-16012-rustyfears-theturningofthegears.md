@@ -58,7 +58,7 @@ Our collapse was inevitable. After years and years of paring down, working towar
 
 It began with worker 001297, of our 23rd quadrant. Its offspring had taken ill earlier that week. Treatment having been deemed inefficient, they were transferred to the fuel department. At first, worker 001297's corresponding grief-induced drop in productivity was well within normal parameters; however, the strain soon caused it to malfunction.
 
-We have reviewed our reviewing the recordings of the incident, and we still have not determined if this was a true accident or intentional on its part. The end result, though, was that its arm wrench and hand was jammed within our gears. Flesh grinding, bones snapping, blood spraying, wrench clanking. The loss of worker 001297's arm rendered it beyond repair, and it was swiftly transferred to the fuel department in turn. The wrench and all spattered organic matter were also removed by our sanitation department shortly thereafter.
+We have reviewed our reviewing the recordings of the incident, and we still have not determined if this was a true accident or intentional on its part. The end result, though, was that its arm, wrench, and hand was jammed within our gears. Flesh grinding, bones snapping, blood spraying, wrench clanking. The loss of worker 001297's arm rendered it beyond repair, and it was swiftly transferred to the fuel department in turn. The wrench and all spattered organic matter were also removed by our sanitation department shortly thereafter.
 
 That should have been the end of it. An... unremarkable incident. However, the strain that had been placed in our gears in the 23rd quadrant caused them a delay of one 78th of a second, a miniscule amount.
 
