@@ -4,9 +4,7 @@ fin.close()
 new_text = ""
 text = text.split('\n')
 for line in text:
-    line = line.replace("Ep 4 Tides Rise", "")
-    line = line.replace("Rusty Quill", "")
-    line = line.replace("TRICE FORGOTTEN", "")
+    line = line.replace("SEAS - Below Deck 3", "")
     line = line.replace('’', '\'')
     line = line.replace('‘', '\'')
     line = line.replace('–', '-')
