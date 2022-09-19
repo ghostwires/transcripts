@@ -4,13 +4,16 @@ fin.close()
 new_text = ""
 text = text.split('\n')
 for line in text:
-    line = line.replace("SEAS - Below Deck 3", "")
     line = line.replace('’', '\'')
     line = line.replace('‘', '\'')
     line = line.replace('–', '-')
     line = line.replace(' -', ' --')
     if line.isdigit() or line == '' or line.isspace():
         continue
+    if line in ('Trice Forgotten', 'SEAS 4', 'Trawl'):
+        continue
+    if line[0].isdigit():
+        line = line[2:]
     if line[0] == '[' and ']' not in line:
         line = '##### ' + line.upper()
     elif line.upper() == line:
@@ -23,7 +26,7 @@ fout.close()
 new_new_text = ""
 new_text = new_text.split('\n')
 for line in new_text:
-    line = line.replace('"', '"').replace('”', '"')
+    line = line.replace('“', '"').replace('”', '"')
     if line == '':
         continue
     if line[0] == "#":
