@@ -1,997 +1,245 @@
-SEAS 5 -- Trawl Content Warnings 
+Trice Forgotten -- Below Deck 4 -- Ethical Research and Colonial Critique 
 
-#### •
+#### CONTENT WARNINGS
 
+ Discussions of: human remains & death, animal remains & death, colonialism & racism, climate change  Mentions of: slavery, food, guns & murder  SFX: distant creaking & waves [Show Theme -- Intro] 
 
+#### ANNOUNCER
 
-#### •
+Rusty Quill presents: Below Decks, a Trice Forgotten deep dive, Episode 4: Ethical Research and Colonial Critique. 
 
+#### RAF
 
+Hello and welcome to the fourth episode of below deck, where we dig into some of the research questions, stories, and generally tangential interesting things that went into making Trice Forgotten I'm Raf, my pronouns are she, they, and I'm the director of the series as well as one of the writers. So today we're gonna be talking about ethical research and colonial critique. This is coming out after episode five of the podcast. So by now we've had stories about catching stingrays. We've had snails, we've met William Henry Baker Blair of the Queens museum, and we have been introduced to Inez De Luna, self described natural extraordinaire. So it's in this context of decolonizing natural histories that we're gonna be talking today. We are thrilled to be joined by our guest, Jonathan Ablett. John, could you introduce yourselves with your pronouns and tell us what you do? 
 
-#### •
+#### JON
 
+Hi, I'm Jon Ablett, most people call me, he/him and I'm senior curator in charge of molluscs at the Natural Histry Museum in London. 
 
+#### RAF
 
-#### •
+Very excited <laugh> and of course we are also joined by Nemo Martin who needs little introduction, but I'm gonna ask them for one anyway. Nemo, could you introduce yourself? 
 
+#### NEMO
 
+Yeah. Hi, I'm Nemo Martin. I use say them pronouns and I am the creator and lead writer of Trice Forgotten. 
 
-#### •
+#### RAF
 
+Brilliant. So John, can you explain your job? 
 
+#### JON
 
-#### •
+Oh, Tricky one. Um, okay. So I often tell people that I am like a librarian instead of looking after books, I look after dead animals and those animals just happen to be Molluscs to me and my team. We look after about 8 million Molluscs specimens, some dry, some preserved in alcohol or some other various liquids. And we store these specimens in order to learn more about the natural world. Sometimes it's us inside the museum, doing the research often it's scientists from around the world, a truly global audience of scientists using all the specimens. We have all the literature or the artwork, all the kind of attached knowledge, usually to learn more about the natural world. But we do also work with architects, engineers, designers, historians, anyone that kind of wants to get some sense of any information really, I guess, or, or how things link together using the natural history objects that we care for 
 
-Sickness & Nausea Emetophobia Food & malnutrition Discussions of: Medical care & medicine, animal death Mentions of: Guilt SFX: Sustained high pitched SFX, continuous low tones, retching, stomach noises, metallic clanking, squelching (fish), wind & waves, creaking [Show Theme -- Intro] 
+#### RAF
 
-#### ANH
+So to start very broad then, and this is, I think a question for both of you, we've become very aware, rightly of conversations about decolonizing in the context of places like the British museum and history, museums and museums that have a more kind of anthropological lens. So how does colonial critique and ethical research play into your fields in the fields of natural history? Ooh, I've asked you the biggest question <laugh> that I can imagine explain the topic of today's episode. 
 
-Rusty Quill Presents: Trice Forgotten. Episode 5 -- Trawl. 
+#### JON
 
-#### INT. NETAOANSOM -- CAPTAIN'S CABIN -- EARLY MORNING
+Yeah. Okay. So as we all know, this is incredibly complex. You know, there are huge amount of different views and opinions on this. And I would like to say at the start, mine is not necessarily the view of the natural history museum <laugh> is a personal one that I have picked up for good or bad along the way. And I think is separate. I know some people don't agree from the arguments that we have with the British museum. Mm-hmm <affirmative>. I mean, maybe I feel that because I don't work in sort of archeology and ethnographic sort of realms, I think that firstly, that we have to talk about name honor, the specimens that came from places where especially when they were taken without the consent of local peoples often when local peoples indigenous people were used for collections, mm-hmm, <affirmative> maybe not in the most pleasant of ways. I mean, without backtracking at the beginning, there are wonderful historical cases of a, kind of a real collaboration, even in the 18/17 hundreds between indigenous people and sort of Western European collectors. But I'm sure that was not the case in at all times. 
 
+#### NEMO
 
+I guess like part of the problem is that we already live in the world where the damage has been done to a certain extent. And so now it's like, what can we do with what we have? And as someone who has gone through, like, <laugh>, I'm not sure whether this happened with when I was working with you in snails, but definitely in when we were working in fish, like old men would die. And then all of the stuff in their garages would be donated to the museum. And then it would be my job for like two weeks to go through every crusty, old jam jar, literal jam jars that they had filled with random fish that they had taken from random rivers with no notes or like notes in a code that only they understood with a document from like 50 years ago. And you had to decode everything. And it was like sometimes having jars that were like a tub of fish with thousands of fish in it. And like going through all these gunky off fish and being like, oh my God. And keeping those together has its story in a certain way that I feel like a lot of people don't really, I, I think people go to the museum and see like, oh, well obviously that tiger specimen was got by itself. And it was like taken by this person. And so it would be very easy to return it, but then sometimes like the behind the scenes stuff of like, yeah, having a whole jam jar of stuff in it. Also this jam jar of fish had a sea horse and a turtle and like a rat or a bat once in a fish jar <laugh> I was just like, it's not clean behind the scenes, I guess 
 
-#### ALESTES
+#### RAF
 
-Please.... I'm sorry........ Whoever you are..... Whatever I've done to you...... I can make it right. Just please.... Stop this..... The cabin door rolls open with a resounding SLAM. 
+Thinking about, um, collections. Actually, this is a big question which maybe I should ask at the end, but I I'm gonna ask it now. <laugh> um, I, I was thinking about the act of curating because it seems to me as an outsider and not someone who's ever worked in a museum that the act of curating a collection is in its own way, a narrative act. And as with all narrative acts, you're choosing the story that you want to tell with this collection of specimens. And I wondered if part of the colonial critique of collections and research would be to think about what narrative we are applying by how we order objects or specimens together. 
 
-#### ALESTES
+#### NEMO
 
-(weakly) Baker..... Baker.......... Trice Forgotten 
+It was a really interesting exhibit. And I'm trying to remember what museum is. It's like one of the small ones in like near Soho, it's like an old house that's been turned into a museum with 
 
-#### NOOR
+#### JON
 
-Baker's not coming. 
+Not the John Stone museum, the one in spill 
 
-#### ALESTES
+#### NEMO
 
-Please... I need to see him....... 
+Maybe. One of those small natural museums in London, which started off as one person's collection, there was a really interesting job. They did once where they went and relabeled everything. And there was a, a ship worm in spirits. And the label now read this ship. Worm is buried in wood that came from a ship that used to hold enslaved people. And that information hadn't been with the exhibit to begin with, but because of their attempts to, I think decolonize is not the right word to use there, but in their attempts to tell the story of colonization through specimens, they did tell a narrative that was like, yeah. I mean, I, I, I still remember seeing that and being like, oh, it's not just a fascinating little worm in a piece of wood. Like this was taken from something that once held people as well. And I thought that was a really interesting way of like simply telling a narrative that doesn't get told very often. 
 
-#### NOOR
+#### JON
 
-Drink this. 
+And I think it's a really interesting part of Natural history that, I mean, obviously it's come to the four recently and I remember can even launch out to Miranda Lowe that very wonderful curator of crustacea at the Natural history museum. And she did a talk a few years ago, maybe 10 years ago. It was the first time I'd ever heard. I can't remember. There was another lady that did the talk with her who was not from natural museum. They did a talk about decolonization of natural issue. 
 
-#### ALESTES
+#### NEMO
 
-Baker!!! Baker..... 
+Mm-hmm <affirmative> 
 
-#### NOOR
+#### JON
 
-He's in the sick bay with Siva. 
+and it blew me away at the time. I couldn't decide whether it was amazing or nonsense. And I say that respectfully Miranda, love you, but I did not. I, you know, when someone says something so new that your brain has not registered, I, you know, thought I had thoughts about the ELGAN marbles and things like that. And I had never applied it to natural history objects before and hearing it for the first time. I remember that the room was in shock silence people, I think again, I mean, um, maybe wrong, but I think people had kind of got this new idea and I was like, oh yeah. Oh, do I like this? Oh no. Am I a bad person? Um, and I think we are learning so much at like in lots of fields and I think it is so interesting and the way we deal with things I'm sure is not great at all times. And it's very clumsy and clunky, but there are little examples. And when you see something done like that, I think it changes the view of the, of the, the non- museum person, the, the general public. But I think it also, and it just importantly changes the opinion of museum professionals. Some who are crusty, are white men. I'm getting there, not like that. Um, but, um, you know, it does make a good change to the, the people that work in museums and deal with collections. 
 
-#### ALESTES
+#### NEMO
 
-He should be here with me..... 
+I, I, I believe the other person might have been Savira Das because they published a, uh, article in the journal of natural science collections, which is free to read. And I really recommend reading it. It was like one of the first things that I did read for this show. The article was called nature red in black and white to decolonial approaches to interpreting natural history collections. And one thing that I really enjoyed about that article, cause it did start from the like, you know, what can we, as natural history museums do to, to approach decolonial attitudes to museums, but it also talked about how it's impossible or not impossible. I don't think that's the word that they used, but that their research can only be the first step of doing the research. We can all be doing this research, but actually what they identified, they identified a need in like telling the stories in a way that you can't do in like, uh, a natural history journal, like a scientific journal. And that was one of the things that I was like, oh, I can do that. <laugh> um, like I can get this research that people are doing and starting to do. And, and there are loads of people now who have the colonial thinking groups about museums and the history of natural history is like a really interesting place where all these conversations are happening. But for people who don't work in museums and people who don't work in this field, that information doesn need to be transferred some way <laugh> and hopefully in a way that's not just a lecture. And so hopefully people are going to listen to Trice Forgotten and have these thoughts and be like, oh, I can go and do more research about it, but that you're not getting like the experience of having someone talk at you about science. 
 
-#### NOOR
+#### RAF
 
-Come on, Captain. Take a few small sips for me. 
+I remember you saying, well, you've said, I think on this, on this podcast, a couple of times the Trice Forgotten originally was gonna be more about food. Mm. Um, and then over time it turned into a show about science. Mm. And I was gonna ask you sort of why that happened or when that happened. 
 
-#### ALESTES
+#### NEMO
 
-How do I know it's not more poison? Trice Forgotten 
+I think because I actually was gonna soften the idea of colonialism in the show. So I was formulating this idea about nautical epics and wanted to do it about collection and collecting, but was a bit scared. <laugh> that? Cuz I really, really like my friends at the natural history museum <laugh> that I wouldn't be able to say anything that would, I guess, upset that relationship. Like, you know, also because I was working there, not just like had friends there and it was in conversations with people like John and the other people that we're going to be talking to that I was like, actually I don't think that I need to be afraid of that. <laugh> hopefully, and they were starting the conversations with me and giving me ideas. And I mean, uh, any time that I was in <laugh>, there's a coffee break room where, um, John works. And so I would have my phone out and be writing things on my phone as John and I 
 
-#### NOOR
+#### JON
 
-If I wanted to poison you, I'd have done it while you were still delirious so you didn't know it was me. 
+Saw you. Yeah. I saw you do <laugh>. 
 
-#### ALESTES
+#### NEMO
 
-Did you do this to me?! 
+It was literally anytime, anything interesting, like was raised. And I was like, got my phone up pretending to text, I do wanna say that nothing is fully based on anyone at the museum. John is not a character <laugh>. Um, but yes, initially was like, okay, maybe food would be an interesting thing. Cuz you still have things about plants. You still have things about animals. You still have things about like collecting and killing and all of those conversations, but it wasn't to do with museums. And then I was like, no, I think it does have to be about museums. It does have to be about cuz those are the people who were making the, this terminology like taxonomy into vocabulary that then went into racial science and gender science and all of those kind of things. So yeah. That's why <laugh> um, I hopefully made it more complicated, which is a good thing. Well, 
 
-#### NOOR
+#### RAF
 
-Why would I poison everyone I work with? 
+That's a really, really good segue actually into asking about, um, methods of collection, uh, in terms of speaking of ethical research. Um, cause obviously we have in episode five, a a lively discussion, uh, bruise of the, the catching of the, the coelecanth and Inez, uh, our character Inez makes the argument, uh, no, we absolutely have to kill it because if we don't look at the insides, how can we collect all of this valuable data around it? And some of our other characters, uh, Noor and Siva in particular kind of very pro keeping it alive. So you've kind of touched on something there Nemo in that episode about methods of collection, obviously with a living specimen in this kind of also veers into sort of zoological territory methods of preservation. But yeah. How does that kind of intersect with ethical research? Well, 
 
-#### ALESTES
+#### JON
 
-To steal my treasure! 
+So I, I'm not sure in the past again, views my own natural history museum. I'm not sure in the past that the museum have been great or, and I don't just mean in London. I mean any museum, any natural museum about saying that we go out and we kill for want better word animals. We remove plants from the environment to preserve them in the museum. Mm-hmm <affirmative> and I've occasionally given talks or given tours to people and you can see slowly, they understand, oh, you actually go and kill these occasionally. And sometimes there is some people can be upset by that. And I understand that, you know, I love natural history. I work in natural history. I don't enjoy killing animals, but what I try to explain to people is when, I mean, we can talk about days gone past, you know, people going out to another country, shooting something, putting their suitcase coming back. Of course, that happened nowadays. If I go and do field work, I have to get permission from the highest sort of areas in science. Say, I want to do this. I want to go and collect these kinds of animals. And this is the kind of research it's gonna be. This is the gap it's gonna fill in our knowledge, if it's in another country, for example, I have to go and do the same with the national park or the local landowners, the local wildlife officials. Uh, I have to get export permits. I have to get import permits for this country. And we have a team of registrars who make sure that we do everything legally by the book. For example, in 2019, I went on a Marine collecting trip. And one of the things that we collected with keflapods and keflapods is one of the few invertebrates that they're actually protocols about how to set euthanize them. Mm. So, you know, I, I hope, and I like to think that pretty much everyone that works in naturality has a huge respect for the animals that they work on, that they care for. And you want to kill dispatch. However you want to pretty up, uh, things with the least harm, only take what you need. And when we have these objects, by making them available to the global community, it means that other people don't need to go. We can have a, you know, a limited number of collecting trips saying that you do need series. One of the most important things that people often say is, is why do you need another one? You've got one tree snail. Why do you want another tree snail? And I always say our specimen or a group of specimens are an example of a species collected at one time. And one place. If you want to see changes over time, if you want see changes globally, then you need representatives of that species from every corner of where it exists. And also through time, you know, things getting bigger, smaller, rarer, more females in the populations. Are there more males? Are you seeing deformities? What happens when there are, uh, industrial incidents pre and post atomic bomb testing? How does this affect animals, global climate change? Can you detect that in the shells or the bones or the structures or animals that we have in our collection? So there is a need for ongoing collection, but I hope that people understand and I, and I'm sure museums do practice safe and ethical and responsible collecting. 
 
-#### NOOR
+#### NEMO
 
-What treasure would that be, 'ukhtaa? 
+Yeah. I remember I, I think one of the things that I've held in my brain for a really long time, and especially when I was writing this show, it must have been you who told me that, like anytime I have anything to do with snails in my head, I'm like, it must have been John. I don't know where else it could have come from, but the idea that sea snails are getting demonstratively thinner in their shells because of the acid in the water is I believe what I remember of that conversation. Yeah. And the idea of like we can actually track between the 19th century and the 21st century, how the level of acid in the ocean is affecting animals. And thus it will affect human beings. Cause these collections do exist at the natural history museum. And so that was one of the things when I was writing Inez is like not written out loud, but Inez will be one of these characters who is arguing for that. <laugh> that it's not just about having a trophy on the wall as a lot of 19th century or 18th century collectors, um, were seeing natural history, but as a way to hopefully understand the natural world. Yeah. And then I was also doing loads of research about indigenous people. And obviously that's also filtered into the conversation a little bit. And there was one story about a man who grows, I think pine Martins in M'ikmaki. And he helps female pine Martins go through like breeding season. And in order to like make sure that they like survive through winters. And they were saying, this is not just altruism by understanding the, the community of animals that they were also then able to see how many that they could take and kill and use for food or clothing. And so it's not just like, you know, white men, scientists who are doing these kind of like cataloging, but even in indigenous times, even though we wouldn't have seen it as being like natural history science, that same idea of like understanding what the population is in order to ensure that you're not taking too much. And in order to ensure that the whole population of creatures or plants or trees is good to take from, I, I thought it was really interesting that they, they did line up in my head, even though these characters on the ship are a bit like, uh, uh, uh, <laugh> 
 
-#### ALESTES
+#### RAF
 
-Oooohhhhh tricky trickster. Trying to steal your bracelets back!! 
+To be fair. Siva makes the argument for not killing the coelecanth cuz it's cute. So yeah. I don't think he's wholly on the side of scientific inquiry. 
 
-#### NOOR
+#### NEMO
 
-I didn't poison you, Captain. Trice Forgotten 
+Yeah, yeah, 
 
-#### ALESTES
+#### JON
 
-If it wasn't you, then how come you're fine? NOOR (gently) Probably because I'm the only one that did not eat the fish that was slimy and smelled bad. 
+Yeah. Just, uh, if anyone wants to check it out, what you're referring to do you remember was terapods, these kind of sea angels, beautiful, very thin shell organisms. And as the changes in ocean acidification happen. Yeah. These shells are starting to get thinner, well dissolved. They're kind of what call an indicator species. Mm. And actually it could happen with lots of things. Things like baby squid, octopus have very thin, you know, uh, internal shells that, you know, these other things that may be affected and yeah, you're right. And sorry, I just thinking I'm brain dumping. Now, what I really liked going back to the podcast is Inez. This tone of voice. I love the way that I love the character. I kind of kept changing. I couldn't quite place them for a long time, but there were definitely ways I spoke that I could see that, that natural historian element as not a professional natural historian, but you know, somewhere with a great understanding and respect nature mm-hmm <affirmative> and, and funny enough in the way they spoke, not necessarily the words, but some kind of sentence structure. I, I saw that in other people I've heard, maybe something you were noting down on the TV room, you never know. Yeah. It was really interesting to see that in a character. So 
 
-#### INEZ (O.S.)
+#### RAF
 
-Hellloooooo? 
+I need to bring a character into the mix who has a scientific method basically. Um, is we have other characters on the ship who are interested in the natural world around them, but probably in a, in a way that's much more like, um, about sort of communing with it. But actually I think what's really lovely about what you've both just said about why it's so important to do these studies and to take from the population, but to know how much you're taking is actually that fit feels like it sits across both of those approaches because these measures of populations are a way of, of commuting with those populations so that, you know, exactly knowing how much you can can take. Mm let's. Use that actually to step back in time a little bit to sort of take us back to some of the stuff that we probably, again, I, we probably should have talked about at the beginning, I've hosted this episode very well <laugh> um, which is, so we've been talking a lot about things we can do in the present to make sure that the research is ethical to apply colonial critique. But I wondered if you could talk a bit about why we had to apply a colonial critique to natural sciences in the first place. So I'm thinking about things like museums being sort of these in their original inception, these BAS of empire and ways of preserving ensuring up empire. Yeah. I wonder if that's either of you something that you could talk about, 
 
-#### NOOR
+#### JON
 
-I'll go see who that is. 
+Oh, that's a tricky one, because like I said, this whole way of thinking it's completely new for me. I, I think I sometimes be quite wide wide-eyed and naive about things and you know, I just think nice scientists do nice things. I think, first of all, it's about acknowledging the harm and the people that went along with these things. I mean, I think probably the notion of setting up museums, I mean a very old ones, you know, museums have existed for thousands of years and I think people like to share their knowledge or show off about their knowledge, at least. And, and people love order. You know, whether you are ordering your CD collection, your book collection, your comic collection, whatever, you know, we love order. We love organizing the natural world. And I think the aims of a museum are usually pure, you know, all the lovely Greek Babylonian examples libraries as well, libraries are, you know, was the type of museum. Mm. But the reason I think it's important is obviously these are global things and they happened at a time when there was things like slavery. There were obviously things were transported on boats. I'm sure where slavery was involved in somehow, either within the shipping or, you know, the boat owners, the people that, uh, funded the boats, made their money by sending the products of slavery back through, you know, things like that. You know, people had to transport these natural history objects some way or other, um, the way that they were collected using indigenous folk, the way that, uh, I'm sure areas were cleared of their natural history, which may have been useful for farming, agriculture, wood, whatever, you know, habitats possibly damaged in collecting them. And I think these stories need to be told, and I think the society are hopefully becoming more aware that what happened in history didn't happen in a capsule and, and affected more than the storyteller and the people that you, you know, you think of these people, these famous collectors and explorers, but, you know, they were only the per people that we hear about the whole other story of the people that helped them assisted them, uh, freely or not. And I, it's not something that I know a huge amount of in a professional way, but it's something that I am fascinated by. And I love the fact that we talk about it within the museum over coffee, as much as we talk about it in conferences, it's not, it's not something that I think people are wheeling out because they feel they should say it. It's something that the community is starting to question and understand slowly. And, and I find it really fascinating and I'm a hundred percent not an authority about it, but at someone that's stuck in the middle, uh, you know, I, I hope that my knowledge and understanding it grows and, and how we can deal with it better. Cause I'm sure we're not doing it as, as best as we can. 
 
-#### ALESTES
+#### NEMO
 
-Whoever it is, tell them I can still shoot fine and I won't be… 
+Now. I think one of the, the first things that made me think about it was I was, um, actually working on a theater project with someone who is, um, Canadian first nations person. And when I told them that I was working at the natural history museum, they asked me outright whether any of the bones of their family were at the museum. And I was like, I don't know, actually, and I will check for you. I don't think so because it's the natural history museum in my head. Like we were kind of saying at the beginning, like, oh, it it's not the British museum. So, uh, um, there's like fish and snails, but it was only fairly recently that human remains were moved from the natural history museum to the British museum, I believe. And I, I then went and read a book by Samuel Redman called bone rooms from scientific racism to human prehistory, into museums. And he talks quite a lot about this idea of moving from not just collecting animal specimens, but how human remains became seen as animal specimens because of scientific racism. And so the, the moving from like, there were quite like graphic descriptions, I guess, in this book about people who then started hunting people in the same terminology of hunting animals, because they knew that museum curators wanted specimens to analyze. And that, and, and there was some complicated stuff in there in that, like, it wasn't always that museum, people who worked at museums were like, we want all of these things, but people got it into their head cuz they were going to museums and seeing human specimens that they were like, oh, they want those things. They'll probably pay me to hunt some people. So they would just like kill people first and then give them to the museums and be like, so you're gonna pay me for killing these human beings similar with like human zoos and stuff like that, which in my head very attached to museums. And yeah, I, I think that's where for me, it's like, we can't fully detangle what we have now from where it came from, because yeah, like I said, it was only recently that the natural history museum didn't have human bones in the basement. And I mean, they've also recently changed one of the exhibits that was there for a long time was like the human being exhibit or something like that. And it's now like, not that, or they're revamping it, I'm not sure, but they were like human skull in the same kind of way that like animal skull were being presented. And I don't think in anyone's brains, it was like outright, like, because non-white people are animals, but that is where it started. <laugh> and that is the kind of like convention. Um, so yeah, so that's kind of where the like messiness for me comes in with like someone who really likes natural history museums, like you said, RAF, like I have loads of really good experiences there and I really like the science and I think that there is so much benefit in them, but also a lot of tragedy. And that was, um, I, I think a storyline that we were considering putting in with these bone rooms, if human remains, but ultimately decided wasn't the right fit for this show because it's a lot, it's very traumatizing for a lot of people, not people that I am a part of and I didn't feel like it was appropriate for me to be writing those stories. And I'm sure if you are interested in those kind of stories, you can, you can search them out from, from own voices. But yeah, just wanted to acknowledge that that was a thing that we wanted to talk about, but was probably a step too far. The, this is a dark podcast. Yeah. 
 
-#### NOOR
+#### RAF
 
-Drink your medicine, Captain. 
+Well, as, as, as you have, right. Number of times, it's not a podcast designed to re-traumatize, uh, anyone quite rightly. Um, so listening to that, it feels like, um, and I'm just literally putting this together kind of, as I speak, it feels like the common thread through a lot of what we've been discussing, both in terms of the history of natural history. And now contemporary practices is that when we have the, this sort of boundless drive for kind of sharing of scientific knowledge and expansion of scientific ideas, which is really phenomenal, has a real material impact on human lives that sometimes is overlooked in, uh, at worst, probably in this way sort of going like it's science, it's just science. And we are kind of above this conversation that kind of at its worst in and at its sort of quote unquote best is this, this sort of naivety, I think of kind of that we're all sort of waking up to this idea that actually this is something that impacts natural history just as much as it does archeological history. So yes, that's sort of, I think where I'm coming to on this is, uh, I don't have an end to that. So I hope whoever's editing. This can do much <laugh> with that. 
 
-#### INT. NETAOANSOM -- GALLEY -- DAY
+#### JON
 
+Could I, can I just pick, I just wanted to carry on from Nemo cause I was really intrigued what you were saying, cuz it's the whole of human biology that was recently deconstruct. I obviously been around it many times. I, I, no idea if the, the skull in it were real or models, I once studied in a, uh, institution, which I won't name it did hold human remains. And I found it very unnerving working with 'em. I did not like working with 'em so somehow my brain just disconnected dead animal specimens. But when faced with dealing with human, I just, I did not like it. I mean, they were very old and they were they're now not in this institution, they've been moved to a more suitable institution. Um, but there are wonderful, there's the, um, wonderful Royal college of surgeons museum, which is harrowing, but beautiful in linine field. You know, it's, it's a, it's a medical teaching museum first and forward that there is a public aspect to it as well. And it talks about the history of medicine and I'm sure there are some traumatic, I know there are some traumatic stories and sort of artifacts in there, but they do deal with it very well, but it's a completely in my head it's completely different from natural history museum. But of course there's crossover. 
 
+#### NEMO
 
-#### NOOR
+Yeah. I mean even the stuff of like, yeah, whether they're real, real skull or fabricated ones. I remember like also other specimens on public display. Obviously a lot of them are real skins and stuff, but I know there's a lot of fiberglass used so that people don't steal things. <laugh> um, there's also in the honeymoon museum, the absolutely hilarious chunky boy walrus, um, who is like, yeah, the icon of like bad taxidermy, if you've never seen it, it's great. You should look him up. But he's like this walrus that I believe the story is that because the scientists hadn't seen a real walrus, they didn't know it was supposed to be wrinkly. So they just kept stuffing it and stuffing it until it was just the chunkiest boy, just 
 
-That's Siva, he's Baker. Trice Forgotten 
+#### RAF
 
-#### INEZ
+Hilarious. The smooth, chunky boy of the Museum. <laugh> 
 
-Uncle! How was the fish? 
+#### JON
 
-#### NOOR
+I love those old kind. Like when people send back kangaroo skins and then someone try to reconstruct him in a painting and they're like these floppy skins, they're like, yeah, I think it's a bit like this, this dude. They're like, it's not really a kangaroo. I love these things. They're so wonderful. Yeah. 
 
-That's a raw subject. 
+#### RAF
 
-#### INEZ
+Is these beautiful bits of kind of unfinished stories they'll kind of attempted or fragmented stories popping up through? So I, what am was I looking at the other day? Um, someone tweeted an image of, I think it was a dinosaur skeleton, but it kind of with this sort of capture saying, this is widely regarded to be the worst reconstruction of any kind of remains ever. And it is the sort of the head sort of the tail is attached to the head sort of a head and a tail under a leg <laugh> uh, and you're looking going, do you have my dude? You can't have thought it really actually looks like that, but yeah. And you are reconstructing from nothing. I dont know, maybe. 
 
-Listen, I'm not the kind of person who says "I told you so". 
+#### NEMO
 
-#### BAKER
+Yeah. I, I just find that really funny. <laugh> like in my head, I'm like, I think it's funny because people were trying to reconstruct, they were trying to classify people that they had never met based on bones that like they had been given and in the same way, the same people maybe within a century were also trying to reconstruct like dinosaurs. I, I know the one that you were talking about RAF and it's like, got this huge, like unicorn horn on its head. And it's like, got like little troll legs. And, and in my head, those ideas are really connected. One is very funny and one is like, has serious ramifications on how people are treated in the 21st century. Um, but they are linked because they both are to do a taxonomy. They're both to do with, um, taxidermy. They're both to do with categorizing. And, and like you say, John, like, I love organizing things that I loved working at the natural history museum cuz part of my job was making things go in the right order <laugh> and making it all neat. And like sometimes with snails, just like moving loads of boxes around in a drawer in order to make it fit nicely and like a nice little ju jigsaw puzzle. Great job. Um, I, I guess the kind of like ongoing question is where is the, where is the middle? Where is the not doing genocide thinking, but is doing good thinking about the world and our place in it. Yeah. Trice Forgotten. <laugh> <laugh> 
 
-Did you need something? 
+#### RAF
 
-#### SIVA
+I was say if, if, if the question didn't have complexity in it, you wouldn't have created an entire series to explore it. Probably something that I wanted to ask both of you, which we've touched on a few times is this idea of the museum as an archive or a library as well as the public collections. And I wonder if there's a bit of this, um, idea of our perception of science, museums and natural history museums not having as much to do with colonial critique as other museums might sort of, because we, as visitors, we see the public collections and we sort of don't see these miles and miles of what's going on kind of behind those scenes. We only really see kind of the tip of the iceberg. Is it feel like a child asking this what's it like behind the scenes? What are, what are, what are the archives and libraries like? Do you, um, do you deal with specimens differently kind of back there? What's the, 
 
-You two know one another? 
+#### JON
 
-#### INEZ
+Yeah, I think despite the museum's best efforts, I think lots of people come to the museum, they see the whale, they see the dinosaur, they have a coffee, they buy a rubber and they go home <laugh> and they have no idea that we have, you know, over 300 scientists working on the natural history museum that we have 80 million objects, which is a crazy number. I just cannot get my head around, like me and my team look after 8 million snail specimens. And it is rooms and corridors with cupboards. As far as you can see filled draw after draw after draw of specimens, dry snail shelves, jars on shelves. And I feel immensely proud and lucky to work in the institution, take away all the, you know, difficult conversation. We've had a little minute ago, just for one second. <laugh> I, you Cannot believe sometimes I get to work. Uh, it's wonderful to think that I am a small cog in a chain of curators, starting from when the naturals museum was part of the British museum, cuz separated in 1881. And I, you know, it's like the campsite where you should leave your collection in better condition than you found it in. I try to acknowledge adding new specimens, uh, updating the information on the things we have caring for it as well as I can. And hopefully whoever takes over my job and the person after them will continue doing this. And you know, the collection will be able to grow. I always think the museum's different from like a gallery. A gallery is, you know, things are on a wall, on a pedestal and you look at it and that's it. Like we want people to take the things off the shelves, open the jars. I mean by people, I mean other scientists, hopefully, you know, we want them to <laugh> to look at them, photograph them, dissect them. If it's acceptable, cut a bit off and, and do whatever test they need to do literally. But it's, it's a living collection that changes our understanding, our classification, our knowledge. And if we don't prop them, weigh them, cut them, examine them, photograph them. Then we're not doing our job because it isn't just to be looked at. I mean, it's one, of course we have to put on display because educating the public inspiring their wonder of natural world. And especially, you know, at this time a huge climate change and you know, habitat loss, species, disruption, I think the job of museums should be and is certainly as a natural museum in London is to inspire passion and wonder and appreciation of the natural world. So there, there is this double edge sword. And I think maybe we do get away from some of the tricky questions because people go as a kid, they sometimes goes a parent or a grandparent. So people possibly have more of an emotional attachment to the Nat museum than they may do to other museums or galleries. Because for me, I remember going, I went for my seventh birthday. I have a picture underneath the giant squid, which I now look after. It was a model at the time. Um, thumbs up looking really happy. I have this lovely image for my seventh birthday. I remember going to school, you know, you have these kind of emotional attachments and the museum grows with them that lovely. There was a bit of an out cry when they decide to move dippy from the central H 
 
-We met at the market! 
+#### RAF
 
-#### BAKER
+I was sad. 
 
-The concerned traveller was giving unsolicited advice. 
+#### JON
 
-#### INEZ
+I was initially sad, but the whale is beautiful. 
 
-Trice Forgotten Make a nice kinilaw, did we? Squeeze of kalamansi to cut through the smell? If you have any left I'd love to study it. 
+#### RAF
 
-#### NOOR
+<laugh> the whale is beautiful. And I, I have been back since we're moving towards a really beautiful place to kind of wrap this up. So I will just tell you that. Um, very shortly after I got together with my now husband, we were having a conversation when we realized neither of us could remember how fossils were formed <laugh> and we went, should we go to the natural history museum? And we just took the tube across town to the natural history museum, um, because it is free. And that is an astonishing thing. So off the back of what you just said, John, if you, if you are able to, if you have access to it, go to the natural history museum as an adult, it's free and it's Great. 
 
-You said you had a proposition? 
+#### NEMO
 
-#### INEZ
+And go on the spirit specimen tour, because tucked away at the back of the natural history museum in London is the like new building, which is where I mostly worked, which is the spirit building. And so you can see through the glass windows, all of the like fish specimens, and you can see how many layers of building there are because there are corridors and corridors, floors of floors and you can really get a sense of like, oh my God, there are so many specimens in there that like, we'll just never be able to see and you can go on spirit tours. I believe they're free or 
 
-Yes! Let me be frank. I've been watching your crew come and go. 
+#### JON
 
-#### BAKER
+They're not free anymore. Sadly. 
 
-You've been watching us? For how long? 
+#### NEMO
 
-#### INEZ
+Oh really? 
 
-Enough time to assume we're all family here. 
+#### RAF
 
-#### SIVA
+Wow. Okay. Can the museum's not entirely free, but it's mostly free. I stand by what I can. You 
 
-Oh, no, we're not related. 
+#### JON
 
-#### INEZ
+Can, if you want to get an idea of this, I mean the spirit corrections, if you can afford them, they are well Worthing. They're really wonderful. But even if you just go onto the principle for of the Darwin center, you can get an idea. The, because it's got the same layout you can see through the glass. But yeah, I agree. And it's a wonderful place again over at. 
 
-Ay no, the other kind of family. SIVA (still has no idea) Riiiigghhht yes, of course, I completely understand. Trice Forgotten 
+#### NEMO
 
-#### NOOR
+Yeah. And they're creepy specimens. It's not all the cute little panders or whatever, no clean bone things. You get to see some of the weird stuff <laugh> 
 
-Let's say we are. 
+#### RAF
 
-#### INEZ
+Yeah. You wanna see a squid eye, the size of the fist 
 
-Perfect. I thought about asking one of these other fishing boats, you know, but it gets exhausting, explaining every time: "My name is Inez de Luna, I am sometimes a man, sometimes a woman, sometimes nothing, sometimes everything, and I come with a job offer." So I say to myself: Inez, where else is a girl like you to go with a goldmine like this? 
+#### NEMO
 
-#### ALESTES
+<laugh> 
 
-Did someone say gold? 
+#### JON
 
-#### INEZ
+And you can see my giant squid. It is mine. Mo museum might loan it, but it is mine. Um, eight, 8.6, two meter giant squid. 
 
-Jesus, where did you come from? 
+#### RAF
 
-#### ALESTES
+So 
 
-Where did you come from? 
+#### NEMO
 
-#### NOOR
+Cool. Yeah. And it is just creepy. Like I, I working there sometimes there'll be like nobody else on the floor. And there are these like really dark rooms that are really they're really air conditioned. So it like blows cold air and it's like freezing in there and to save electricity, the lights don't turn on, unless you turn them on. And you're walking down these dark corridors, um, of like metal and glass. Sometimes the like cabinets are, uh, glass doored. And there's like this one area, this one corner where there's like loads of eels in jars and they're so creepy. And I always creep myself out every time I'm walking down cuz there's this like whistling sound and it's like pitch black and it's freezing cold and you're all alone and your podcast is playing. But like that means you can't tell who's behind you. And it's just like, yeah, if there's a horror movie set anywhere, I know that it, 
 
-You should be in bed, Captain. 
+#### RAF
 
-#### ALESTES
+We, we, we're gonna start talking about our new horror podcast <laugh> yeah. 
 
-Trice Forgotten Took the medicine. Feeling better. Tell me about the money. 
+#### NEMO
 
-#### INEZ
+Go 
 
-... So there's this fish ALESTES Nope. 
+#### RAF
 
-#### INEZ
+After this episode. Great, lovely. So I think that is a, a lovely place to wrap things up there in that place of horror and wonder, thank you so much. Listen for joining us this week. That is it from me RA. That is it from Nemo. Bye. And from John, thank you so much for joining us, John. 
 
-But 
+#### JON
 
-#### ALESTES
+Oh, such pleasure. I've had a real, really lovely time. So thank you and 
 
-Fish are forbidden from my vicinity until- ... until I say so. 
+#### RAF
 
-#### INEZ
+Goodbye. We will see you next time below deck. [Show Theme -- Outro] Trice Forgotten is a podcast distributed by Rusty Quill, and licensed under a Creative Commons Attribution Non-Commercial Sharealike 4.0 International License. The series is created be Nemo Martin and directed by Rafaella Marcus. 
 
-This is a boat. How can you forbid fish. 
+#### TODAY'S EPISODE FEATURED
 
-#### ALESTES
-
-It's a ship, and as Captain, my word is final. 
-
-#### INEZ
-
-(sizing Alestes up) ... All right. 
-
-#### ALESTES
-
-Trice Forgotten All right. 
-
-#### INEZ
-
-(sighs) I suppose the soldiers on the Exchange will appreciate an extra grand or two. 
-
-#### SIVA
-
-The Exchange? That's Mr. Blair's ship! 
-
-#### ALESTES
-
-Mr. Blair? 
-
-#### SIVA
-
-He's a naturalist. He works for the Queen's Museum in London! 
-
-#### ALESTES
-
-Did you get kidnapped again? 
-
-#### SIVA
-
-No! 
-
-#### NOOR
-
-His brain did. Trice Forgotten 
-
-#### SIVA
-
-He was very nice and he gave me a book! 
-
-#### INEZ
-
-There are people from the Queen's Museum on the Exchange? 
-
-#### SIVA
-
-Uh-huh! He's on a field expedition collecting samples. 
-
-#### INEZ
-
-Hm. ... They won't even want the money. Well, it was a pleasure meeting you all. 
-
-#### SIVA
-
-Likewise! 
-
-#### BAKER
-
-Good riddance. 
-
-#### ALESTES
-
-Wait. 
-
-#### INEZ
-
-Trice Forgotten ... Wait? 
-
-#### ALESTES
-
-Exactly how much money did you say this fish was worth? 
-
-#### EXT. NETAOANSOM -- DECK -- DAY
-
-The NETAOANSOM is sailing -- wind in the sails, wood creaks, chains rattle and rope pulls. 
-
-#### SIVA
-
-This was the last coil of rope I could find in the hold. 
-
-#### INEZ
-
-Let us hope it's enough. 
-
-#### NOOR
-
-A fish is a fish, no? Why must we make such a device. 
-
-#### SIVA
-
-Yeah! Noor taught me how to catch Stingrays with my bare hands! I'm a dab hand at it! Trice Forgotten 
-
-#### NOOR
-
-You certainly showed improvement. 
-
-#### INEZ
-
-No, no, the real money is in the data. See these weights? They ensure that the trawl isn't just trailing behind the ship but goes to a specific depth. Doing it this way, we mark the exact location. 
-
-#### NOOR
-
-And this, ah.... 
-
-#### SIVA
-
-Coelacanth! From the Greek: koilos, hollow, and akantha, spine! Though they've clearly gone with the modern Latin adaptation Cœlacanthus, hence the "see"sound! 
-
-#### NOOR
-
-They'd really pay that much money for a fish? 
-
-#### INEZ
-
-If found alive, confirmed alive, it would be an unparalleled scientific discovery. 
-
-#### NOOR
-
-But... it's a fish. Trice Forgotten 
-
-#### INEZ
-
-Here, look. 
-
-#### SIVA
-
-Did you paint these? 
-
-#### NOOR
-
-They're beautiful. This one -- we catch them in Aden. The scale pattern... you have it perfectly. 
-
-#### INEZ
-
-Thank you! It took many attempts -- the angle, counting the blasted finrays... but it's not right. I can't make the paint shimmer the way the scales do in reality, you know? 
-
-#### SIVA
-
-Can you not ... varnish it? With some sort of lacquer? 
-
-#### INEZ
-
-The whole piece would be shiny and stiff, not just the scales. 
-
-#### SIVA
-
-Ah. Right. Yes. Trice Forgotten 
-
-#### NOOR
-
-...I have seen, long ago, a painter who would visit the silversmiths, asking for the dust and scrapings. He would grind it into his paint, and then he would finish the work with a glaze of honey. He painted hummingbirds. The light would shine from their feathers, in a way I have seen no other artist's work capture. 
-
-#### INEZ
-
-Honey and silver? Huh. I'll attempt that next time. Thank you, Noor. 
-
-#### NOOR
-
-(A moment of budding friendship.) My pleasure. 
-
-#### SIVA
-
-Didn't you have something you wanted to show us? About the coelacanth? 
-
-#### INEZ
-
-This is a reproduction of the fossil they discovered recently. With a hollow spine, as you observed Siva. ...If the fossil evidence is correct, the coelacanth is the missing link between the fish and the four-legged land animal. 
-
-#### SIVA
-
-The "missing link"?! They believe it's still alive? Trice Forgotten 
-
-#### INEZ
-
-They don't! They think it as dead as the dinosaur -- They haven't even considered it might have living ancestors, let alone 
-
-#### SIVA
-
-So we're on a wild goose chase? 
-
-#### INEZ
-
-No no, my friend. This is where naturalist-extraordinaire Inez de Luna comes in. Men like your buddies on the Exchange, they pick about in rockpools and markets, then they order their "local boys" to keep their eyes out for anything special while they go have their high teas in their lodgings. But me? I saw one. 
-
-#### SIVA
-
-You did? 
-
-#### INEZ
-
-I swear it. A flash, before my very eyes. Large, two yards at least -- and a beautiful, matt dark, covered in white specks... like stars in the clearest night sky. It was stunning. 
-
-#### NOOR
-
-Why not catch it then? Trice Forgotten 
-
-#### INEZ
-
-I was not in a position to do so. 
-
-#### SIVA
-
-Why not? 
-
-#### INEZ
-
-Because I wasn't. 
-
-#### INEZ
-
-Right. This should be tight enough. Let's give this net a trial run, shall we? 
-
-#### EXT. NETAOANSOM -- DECK -- AFTERNOON
-
-
-
-#### INEZ
-
-Heave! ...Heave! ...Heave! Last spurt, let's go. And, heave! Heave! Heave 
-
-#### ALESTES
-
-Anything? 
-
-#### INEZ
-
-Give me a moment Trice Forgotten 
-
-#### ALESTES
-
-It's a big bugger isn't it? Can't you tell on sight? 
-
-#### BAKER
-
-The process would go faster if we had the whole crew hauling. 
-
-#### ALESTES
-
-I am, unfortunately, indisposed at the moment. 
-
-#### NOOR
-
-Would you like me to prepare you another dose of stomach medicine, habibti? 
-
-#### ALESTES
-
-No, no. I'll just stand back here and let you all do the heavy lifting while I recover. 
-
-#### INEZ
-
-If she's injured, it'll only slow us down. 
-
-#### SIVA
-
-What does she even do on this ship? Trice Forgotten 
-
-#### INEZ
-
-No. Not here. 
-
-#### BAKER
-
-Right, let's pick out the best eating fish and throw the rest back. 
-
-#### NOOR
-
-We have already filled two barrels... may we not free this load? 
-
-#### BAKER
-
-Who knows when we'll have a bounty like this again? 
-
-#### NOOR
-
-And who do you expect to gut and salt a hold's worth of fish? Awkward silence. 
-
-#### NOOR (CONT'D)
-
-Come on Siva, let's throw them back while Baker and Inez prepare the next trawl. 
-
-#### SIVA
-
-Trice Forgotten Could we, perhaps, take a tea break? My hands... they're not used to this kind of work. 
-
-#### INEZ
-
-We've only done three trawls... But if you need the break... Baker? Noor? 
-
-#### NOOR
-
-...I could keep going. 
-
-#### BAKER
-
-It's a bit early to start a fire, just for tea… 
-
-#### SIVA
-
-Right. Yes. Of course. ...A couple more rounds. EXT. NETAOANSOM -- DECK -- EVENING 5 Later. 
-
-#### BAKER
-
-
-
-#### HEAVE. HEAVE.
-
-
-
-#### SIVA
-
-My blisters are growing blisters. Trice Forgotten 
-
-#### BAKER
-
-Another few days of this and you'll have muscles like mine and Noor's, Siva. 
-
-#### SIVA
-
-Cartographers don't need muscles, they need working fingers... 
-
-#### NOOR
-
-I didn't think I would miss this. But it's nice. ...Familiar. 
-
-#### BAKER
-
-Your family would use nets in their fishing? 
-
-#### NOOR
-
-Yes. ...In Aden, we would take out our four boats, and we would create a square between us. The net would go down and all of us would pull as one. You had to make sure you had the right balance -- Amr akhi would never think and always pulled too hard, too soon. Half the time I thought he was doing it on purpose, trying to get us to fall in. 
-
-#### BAKER
-
-I've been on many ships with the same type. So eager to prove his worth, he shows how inexperienced he is. Hell, as a young man, me and your brother would have got along very well. 
-
-#### INEZ
-
-It's not here. Trice Forgotten 
-
-#### BAKER
-
-We're losing light, let's go again in the morning. 
-
-#### INEZ
-
-But 
-
-#### BAKER
-
-We'll work better after food and rest. 
-
-#### INEZ
-
-... fine. 
-
-#### EXT. NETAOANSOM -- DECK -- DAY 6
-
-
-
-#### INEZ
-
-Steady... steady... 
-
-#### NOOR
-
-Baker? Why is the ship called The NETAOANSOM? Does it have a meaning? 
-
-#### BAKER
-
-Trice Forgotten Mm. In Mi'kma'ki, where I grew up, the Elders there tell us the Creation story. Upon the Earth, Ootsitgamoo, all life is given to us from our Mother Earth we call Oetsigitpogooin. Not too long after everything was created, the Life-Giver caused bolts of lightning to strike and hit the earth. It formed the shape of a person -- Gellulaskiv; Glooscap. After thanking the creators, Glooscap now started to explore his world around him. Glooscap one day decided he would walk down to the water. As he was walking along the sweet smelling grass, a young man stood up in front of him. He was tall and he had long hair and white sparkling eyes. "Who are you, where did you come from?" He said: "I am you sister's son, Netaoansom. Far out in the ocean, Widjosin the whirlwind caused the water to foam up, and foam began to form on top of the water, and finally was blowing along the sand, and it rested on this tall, sweet smelling grass. And with the help of the Life-Giver and the ShadowGiver and Mother Earth, they gave me a life of a young man. I have strength in my arms and my legs. I can run and help Grandmother and you. I have vision. With my eyes, I can see far away into the future. You will be able to be guided by my strength, my vision. And I also am gifted with the spirit to guide you." So Glooscap was happy that his nephew came into the world. He called upon the fish from the waters to come ashore. And he told his nephew: "Gather the fish and bring them to Grandmother, because it's the fish that will give us food and medicine and tools." So, they had a feast of fish to celebrate Glooscap's nephew's arrival to the world. Our ship, the Netaoansom, has the speed, the strength and the vision of the young who follow us. He is a reminder: how one lives their life has its great effect on those who come seven generations after you. A respectful beat of silence. 
-
-#### NOOR
-
-You blessed the ship with a beautiful name. 
-
-#### BAKER
-
-I didn't name the ship. ...Alestes did. Trice Forgotten 
-
-#### SIVA
-
-The Captain?! 
-
-#### BAKER
-
-She has a good heart in her, as much as she likes to pretend that she doesn't. 
-
-#### INEZ
-
-Come, friends. On my mark... And, HEAVE. And... 
-
-#### EXT. NETAOANSOM -- DECK -- NIGHT
-
-
-
-#### ALESTES
-
-
-
-#### HELP! HELP!
-
-
-
-#### BAKER
-
-Noor, Inez, you go! Siva hold the line with me. 
-
-#### ALESTES
-
-(absolutely delighted) It's the motherload!! 
-
-#### INEZ
-
-You've been over here rod-fishing?! Trice Forgotten 
-
-#### ALESTES
-
-Come on, help me! 
-
-#### INEZ
-
-I can't believe- I thought you were ill!! 
-
-#### NOOR
-
-Captain, lean into me, here, I'll anchor you while you pull. Inez, you grab a net! 
-
-#### ALESTES
-
-This is it! I can feel it! Oh we're feasting tonight, crew! It's a tuna for sure! 
-
-#### NOOR
-
-Reel! And now some slack -- Some slack Reel! Reeling. Slack. Reeling -- grunts of effort -- 
-
-#### INEZ
-
-I see it, I see it! 
-
-#### ALESTES
-
-Trice Forgotten 
-
-#### YES! YESS!
-
-
-
-#### INEZ
-
-Oh my God. 
-
-#### ALESTES
-
-What an ugly bastard! 
-
-#### INEZ
-
-Cosmoid scales, three-lobed caudal fin 
-
-#### NOOR
-
-Baker, Siva! Drop the trawl! Come help 
-
-#### ALESTES
-
-What are you doing?! 
-
-#### NOOR
-
-Come on, you too -- lift! 
-
-#### ALESTES
-
-My fish!! My catch, my dinner! Where are you taking it?! Trice Forgotten 
-
-#### SIVA
-
-Matt dark, covered in white specks like stars... 
-
-#### NOOR
-
-Let's go, down to the aquarium, quick! 
-
-#### INT. NETAOANSOM -- AQUARIUM -- NIGHT
-
-
-
-#### SIVA
-
-It's definitely not two yards. 
-
-#### INEZ
-
-But the patterning -- definitely the same, or similar 
-
-#### BAKER
-
-A child, perhaps? 
-
-#### ALESTES
-
-(babytalking) Little baby's gonna bring mummy the gold, yeah? Beautiful money baby!
-
-#### INEZ
-
-A shame it's not an adult, but I'm sure the insides will be just as valuable 
-
-#### SIVA
-
-Insides?? 
-
-#### INEZ
-
-Tomorrow we do a full anatomical dissection. Who's to say, we might even find some amphibious quirks -- (realising) Did any of you notice whether it seemed to have lung capacity on deck?? And the rod!! We have to note the depth your line went -- but, agh, without the weights, who's to say the line was fully perpendicular 
-
-#### SIVA
-
-We can't kill it! 
-
-#### INEZ
-
-What? Why? 
-
-#### SIVA
-
-Look how cute it is! 
-
-#### INEZ
-
-"Cute"? Siva, you understand what this specimen will mean to the development of our understanding of human lineage, yes? Trice Forgotten 
-
-#### NOOR
-
-I think it would be a shame to kill such a creature. 
-
-#### INEZ
-
-Oh come on! 
-
-#### BAKER
-
-If they are a child... we should return them. 
-
-#### INEZ
-
-It's not a baby we've orphaned! It's an adolescent at least -- perhaps -- who knows, hundreds of years old. 
-
-#### BAKER
-
-You know that? For certain? 
-
-#### INEZ
-
-Baker, that Glooscap story. They had a feast of fish. 
-
-#### BAKER
-
-That's… 
-
-#### INEZ
-
-Trice Forgotten Different? I'll offer anything that'll appease you. Tobacco, sweetgrass -- and I'll use every part of it, and I'll give thanks to whichever Creator you want me to thank. 
-
-#### BAKER
-
-You do not take the first you find, in case they are the last. 
-
-#### INEZ
-
-Uh-huh. That ethos work out in your previous jobs? 
-
-#### BAKER
-
-(uncharacteristically dark) What would you know about 
-
-#### ALESTES
-
-(changing the subject) It wasn't that hard to catch. I caught it in an hour on the line. 
-
-#### SIVA
-
-We were trawling for four days! 
-
-#### ALESTES
-
-I go out there, catch another, make them breed, we raise the eggs, BAM. Money maker, guaranteed. 
-
-#### INEZ
-
-Trice Forgotten If we don't kill it, we can't dissect it to count its bones, look at its organs, see what it has in its stomach, see what it's eaten in the wild. 
-
-#### SIVA
-
-What if it's one of the last of its species? One of the last and we just... cut it up like it's nothing. (clearly projecting onto the fish) ...Maybe it has a family that loves it more than anything in the world. The crew consider the fish, and one another for a moment. 
-
-#### ALESTES
-
-Keep it alive. 
-
-#### INEZ
-
-But 
-
-#### ALESTES
-
-I caught it, you didn't. It's mine to make do with as I see fit, and we're keeping it until I know whether it's worth more dead or alive. 
-
-#### INEZ
-
-Do none of you understand what 
-
-#### NOOR
-
-Inez, your drawings... The scales, the colouration... that will take a while, no? Trice Forgotten 
-
-#### INEZ
-
-...it will. 
-
-#### NOOR
-
-Why not make a start with those? 
-
-#### INEZ
-
-Fine. But I'm not leaving this ship until I'm satisfied. 
-
-#### ALESTES
-
-And here I thought, as Captain, I chose who stayed aboard. 
-
-#### INEZ
-
-I get a wage equivalent to Baker's for any labour undertaken on the ship, I demand my own compartment, and I will have this documented in a written contract. 
-
-#### SIVA
-
-Should... should we have contracts like that? 
-
-#### NOOR
-
-We very much should. Trice Forgotten 
-
-#### INEZ
-
-And Alestes? (darkly, to Alestes) Unlike the rest of your associates, I won't be gutted in an alleyway over a fight about prices. 
-
-#### ALESTES
-
-(smiling threat) Welcome to the crew, Inez. 
-
-#### INT. NETAOANSOM -- CAPTAIN'S CABIN -- NIGHT
-
-
-
-#### ALESTES
-
-Enter. The door rolls open, BAKER enters. 
-
-#### BAKER
-
-I've come to apologise. 
-
-#### ALESTES
-
-For...? 
-
-#### BAKER
-
-... I noticed you kept yourself distant, this week. More than usual. Trice Forgotten 
-
-#### ALESTES
-
-You expect the Captain to be out there hauling nets and singing folk songs? 
-
-#### BAKER
-
-And you've been eating badly. 
-
-#### ALESTES
-
-Can you blame me? 
-
-#### BAKER
-
-And your colour's been off. 
-
-#### ALESTES
-
-What's your point, old man? 
-
-#### BAKER
-
-I'm sorry. I acted with pride at the market, and made you ill. But you don't need to protect my feelings. You must punish me in front of the crew. 
-
-#### ALESTES
-
-Why would I do that? 
-
-#### BAKER
-
-To uphold your image. You heard Inez, she doesn't see you as a Captain. Trice Forgotten 
-
-#### ALESTES
-
-No. She doesn't. 
-
-#### BAKER
-
-Because you've been lenient on me. 
-
-#### ALESTES
-
-... I'm glad she's choosing to join us. 
-
-#### BAKER
-
-...You are? 
-
-#### ALESTES
-
-I am. She pisses me off, and I'm sure I'll want to gut her by the end of the week, but... it's entertaining, isn't it? The challenge? I think I understand that desire, better. Him better. 
-
-#### BAKER
-
-... That sounds like something someone building a permanent crew might say. 
-
-#### ALESTES
-
-Does it? Trice Forgotten 
-
-#### BAKER
-
-... is that something you want? 
-
-#### ALESTES
-
-A real crew... might not be so bad. 
-
-#### BAKER
-
-A real crew, a real future... Not so bad at all. But we've got plenty of time for conversations like that. Right now, you look tired. You get some rest, and I'll make you something warm, all right? 
-
-#### ALESTES
-
-No slime this time, Baker. 
-
-#### BAKER
-
-I can't promise you much, but I can assure you we're never eating mystery slime fish again. ALESTES takes the plate out of her desk drawer. She hums ZHU ANRAN's lullaby as she and places it on the table. 
-
-#### ALESTES
-
-A real crew, huh. Trice Forgotten [Show Theme -- Outro] 
-
-#### SIVA
-
-Trice Forgotten is a podcast distributed by Rusty Quill, and licensed under a Creative Commons Attribution Non-Commercial Sharealike 4.0 International License. The series is created by Nemo Martin and directed by Rafaella Marcus. Today's episode was written by Nemo Martin and edited by Nico Vettese, Maddy Searle, Katharine Seaton and Catherine Rinella. Trice Forgotten features: Rebecca Brough Vic Zander Shahan Hamza Ashley Goh 
-
-#### &
-
-Gigi Zahir Trice Forgotten is produced by Ian Geers, Lowri Ann Davies and production manager Natasha Johnston with executive producers Alexander J Newall and April Sumner To subscribe, view associated materials or join our Patreon visit rustyquill.com. Trice Forgotten Rate and review us online, tweet us @therustyquill, visit us on Facebook or email us at mail@rustyquill.com. Thanks for listening. 
+Rafaella Marcus Nemo Martin Jonathan Ablett And was edited by Lowri Ann Davies, and Catherine Rinella Trice Forgotten is produced by Ian Geers, Lowri Ann Davies and production manager Natasha Johnston with executive producers Alexander J Newall and April Sumner To subscribe, view associated materials or join our Patreon visit rustyquill.com. Rate and review us online, tweet us @therustyquill, visit us on Facebook or email us at mail@rustyquill.com. Thanks for listening. 

@@ -10,14 +10,14 @@ for line in text:
     line = line.replace(' -', ' --')
     if line.isdigit() or line == '' or line.isspace():
         continue
-    if line in ('Trice Forgotten', 'SEAS 4', 'Trawl'):
+    if line in ('SEAS_BelowDecks_4 (Completed 09/19/22)', 'Transcript by Rev.com'):
+        continue
+    if line[:4] == 'Page' and line[-5:] == 'of 18':
         continue
     if line[0].isdigit():
         line = line[2:]
-    if line[0] == '[' and ']' not in line:
-        line = '##### ' + line.upper()
-    elif line.upper() == line:
-        line = '#### ' + line
+    if line[-1] == ':':
+        line = '#### ' + line[:-1].upper()
     new_text += line + '\n'
 fout = open('etr_middle.txt', 'wt')
 fout.write(new_text)
