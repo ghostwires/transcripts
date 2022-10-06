@@ -1,4 +1,4 @@
-filename = '2022-09-14-005.md'
+filename = '2022-10-04-006.md'
 fin = open('_posts/' + filename, 'rt')
 read = fin.read()
 fin.close()
