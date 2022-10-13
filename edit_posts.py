@@ -28,59 +28,76 @@ for path in f:
     text = str(fin.read())
     fin.close()
     try:
-        ind = index_end(text, "prev_categories:")
+        ind = index_end(text, "title_prefix:")
         if ind < 0:
             pass
         else:
             while text[ind].isspace():
                 ind += 1
-            endind = ind
-            while text[endind] != ']':
-                endind += 1
-            prev_categories = text[(ind + 1):(endind)].split(',')
-            # print(prev_categories)
-            prev_prefixes = []
-            for cat in prev_categories:
-                if cat == '"tma"':
-                    prev_prefixes.append('"MAG"')
-                elif cat == '"rqg"':
-                    prev_prefixes.append('"RQG"')
-            addition = ', '.join(prev_prefixes)
-            # print(addition)
-            ind = index_end(text, "prev_prefixes:")
-            while text[ind].isspace():
-                ind += 1
-            ind += 1
-            text = insert(text, ind, addition)
+            if text[ind:(ind + 6)] == "\"SEAS\"":
+                ind = index_end(text, "episode_type:")
+                while text[ind].isspace():
+                    ind += 1
+                if text[ind:(ind + 7)] == "special":
+                    text = text.replace("special", "[\"special\", \"belowdecks\"]", 1)
+            else:
+                pass
     except:
-        pass
-    try:
-        ind = index_end(text, "next_categories:")
-        if ind < 0:
-            pass
-        else:
-            while text[ind].isspace():
-                ind += 1
-            endind = ind
-            while text[endind] != ']':
-                endind += 1
-            next_categories = text[(ind + 1):(endind)].split(',')
-            # print(next_categories)
-            next_prefixes = []
-            for cat in next_categories:
-                if cat == '"tma"':
-                    next_prefixes.append('"MAG"')
-                elif cat == '"rqg"':
-                    next_prefixes.append('"RQG"')
-            addition = ', '.join(next_prefixes)
-            # print(addition)
-            ind = index_end(text, "next_prefixes:")
-            while text[ind].isspace():
-                ind += 1
-            ind += 1
-            text = insert(text, ind, addition)
-    except:
-        pass
+        pass            
+    # try:
+    #     ind = index_end(text, "prev_categories:")
+    #     if ind < 0:
+    #         pass
+    #     else:
+    #         while text[ind].isspace():
+    #             ind += 1
+    #         endind = ind
+    #         while text[endind] != ']':
+    #             endind += 1
+    #         prev_categories = text[(ind + 1):(endind)].split(',')
+    #         # print(prev_categories)
+    #         prev_prefixes = []
+    #         for cat in prev_categories:
+    #             if cat == '"tma"':
+    #                 prev_prefixes.append('"MAG"')
+    #             elif cat == '"rqg"':
+    #                 prev_prefixes.append('"RQG"')
+    #         addition = ', '.join(prev_prefixes)
+    #         # print(addition)
+    #         ind = index_end(text, "prev_prefixes:")
+    #         while text[ind].isspace():
+    #             ind += 1
+    #         ind += 1
+    #         text = insert(text, ind, addition)
+    # except:
+    #     pass
+    # try:
+    #     ind = index_end(text, "next_categories:")
+    #     if ind < 0:
+    #         pass
+    #     else:
+    #         while text[ind].isspace():
+    #             ind += 1
+    #         endind = ind
+    #         while text[endind] != ']':
+    #             endind += 1
+    #         next_categories = text[(ind + 1):(endind)].split(',')
+    #         # print(next_categories)
+    #         next_prefixes = []
+    #         for cat in next_categories:
+    #             if cat == '"tma"':
+    #                 next_prefixes.append('"MAG"')
+    #             elif cat == '"rqg"':
+    #                 next_prefixes.append('"RQG"')
+    #         addition = ', '.join(next_prefixes)
+    #         # print(addition)
+    #         ind = index_end(text, "next_prefixes:")
+    #         while text[ind].isspace():
+    #             ind += 1
+    #         ind += 1
+    #         text = insert(text, ind, addition)
+    # except:
+    #     pass
     fout = open('_posts/' + path, 'w')
     fout.write(text)
     fout.close()
