@@ -1505,7 +1505,7 @@ No, it was when everyone was freaking out because the Unknowing happened. We did
 
 So Alex, you were doing most of the soundscape in -- for Season 4. Were there any specific issues that the soundscape in -- for MAG 158 raised?
 
-Uh, what happened in 158 corridor by the way has done these things where they've read the questions ahead of time they prepare the know Sasha was release yeah okay not Sasha releasing let's go through that they're not Sasha releasing was astonishingly easy because Yves just on it he's another one who can just do villain, straight out the gate. Yeah Yves very much a one-take wonder, where she'll do it look like actually it needs to be this just like oh I didn't realize banging it starts so Yves Yves lovely to work for for that I know the the tunnels are okay because we have a lot of pre-made templates --
+Uh, what happened in 158 corridor by the way, has done these things where they've read the questions ahead of time, they prepare the not-Sasha was release yeah okay not Sasha releasing let's go through that they're not Sasha releasing was astonishingly easy because Yves just on it. She's another one who can just do villain, straight out the gate. Yeah, Yves -- very much a one-take wonder, where she'll do it look like actually it needs to be this just like oh I didn't realize banging it starts so Yves Yves lovely to work for for that I know the the tunnels are okay because we have a lot of pre-made templates --
 
 Yeah.
 

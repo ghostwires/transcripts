@@ -6,16 +6,18 @@ text = text.split('\n')
 for line in text:
     if line.isdigit() or line == '' or line.isspace():
         continue
-    if line in ('Rusty Quill Gaming – Episode 9 – Other London'):
+    if line in ('SEAS_BelowDecks_6 (Completed 10/24/22)', 'Transcript by Rev.com'):
+        continue
+    if line[:4] == 'Page' and line[-5:] == 'of 12':
         continue
     line = line.replace('’', '\'')
     line = line.replace('‘', '\'')
     line = line.replace('–', '-')
     line = line.replace(' -', ' --')
-    if line[0].isdigit():
-        line = line[3:]
-    if line[:4] == line[:4].upper():
-        line = '#### ' + line.upper()
+    # if line[0].isdigit():
+    #     line = line[3:]
+    if line[-1] == ':':
+        line = '#### ' + line[:-1].upper()
     new_text += line + '\n'
 fout = open('etr_middle.txt', 'wt')
 fout.write(new_text)
