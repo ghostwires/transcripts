@@ -1,281 +1,1005 @@
-This transcript was exported on Oct 24, 2022 -- view latest version here. Trice Forgotten -- Below Deck 6 -- Decolonizing the Museum 
 
-#### CONTENT WARNINGS
 
- Discussions of: human remains & death, animal remains & death, colonialism & racism  SFX: distant creaking & waves [Show Theme -- Intro] 
+#### TRICE FORGOTTEN -- EPISODE 8 -- A RIGGED GAME
 
-#### ANNOUNCER
+SFX this week by Katharine Seaton; Catherine Rinella; Soundsnap; Sonniss; Free To Use Sounds; and previously credited artists via freesound.org. Content Warnings 
 
-Rusty Quill presents: Below Decks, a Trice Forgotten deep dive, Episode 6: Decolonizing the Museum 
+#### ●
 
-#### NEMO
 
-Hello and welcome to the sixth episode of Below Decks where we dig into some of the research questions, stories, and generally tangential interesting things that went into making trice forgotten. I'm Nemo my pronouns are they them. And I'm the creator and lead writer of the series. This episode's coming out after episode seven of the podcasts. Shore Leave where we've just seen a treasure hunt, Love of all kinds, and some final goodbyes Today, on Below Deck, we're going to be talking about decolonizing the museum, which in my head is a part two to the conversation we had with John Adler in the previous episode. And to do so, I'm excited to be joined by Natalie Cooper, could you introduce yourself with your pronouns and tell us a bit about what you do? 
 
-#### DR. COOPER
+#### ●
 
-Yeah. I'm Dr. Natalie Cooper. My pronouns are she, her, I'm a senior researcher at the Natural History Museum in London. And so my job's a bit different from John's, so he was a, a curator, so he's in charge of the collections and keeping them safe and and using them. Whereas my job is more research focused, so I'm in charge of kind of using the collections and the data that we get from them to ask exciting questions in ecology, evolution and conservation and things like that. 
 
-#### NEMO
 
-Yeah, it's really cool. Before I worked at the museum, I didn't know really that there were different groups of people and to have different jobs and the kind of distinction between curators and researchers and yeah, that there's kind of an ecology of museum workers behind the scenes. 
+#### ●
 
-#### DR. COOPER
 
-<laugh>, yes, there's like a taxonomy of us in the same way as we are doing this taxonomy and sort of ordering of things, but only weirdly at the Natural History Museum in London. So most other museums around the world, curators will do both jobs combined. So we're quite lucky that we get to split them out. 
 
-#### NEMO
+#### ●
 
-That is really interesting. Is there a specific reason, do you know why in the Natural History Museum in London that it's so split 
 
-#### DR. COOPER
 
-<laugh>? It's probably just one of those things that was started in like 1881 and everyone's too frightened to change it. <laugh>. 
+#### ●
 
-#### NEMO
 
-Oh yeah. Woo. Which is a kind of good way into this conversation about decolonizing the museum. And for our listeners' sake, I uh, feel like saying up front, like immediately before starting this recording call, I was like bottling it and being like, I don't know if I This transcript was exported on Oct 24, 2022 -- view latest version here. want to talk about this <laugh>. Mostly because I was reading this really great article by Samaya Kasim called The Museum Will Not Be Decolonized, Where Samaya was basically arguing that institutions like the Natural History Museum, uh, impossible to decolonize in how we understand decolonization. I 
 
-#### DR. COOPER
+#### ●
 
-Mean, we, we could have a really quick up episode which would literally just be <laugh> burn it all down. That's 
 
-#### NEMO
 
-The only 
+#### ●
 
-#### DR. COOPER
+Kidnapping Claustrophobia Colonialist violence (inc. destruction of property) Alcohol & alcohol use Discussions of: sex work, innuendo, grief & loss, murder Mentions of: racism, colonialism, mortal peril SFX; Eating , loud crowds, high-pitched sounds (kettle whistle), insects, waves/ocean. [Show Theme -- Intro] 
 
-Solution. Yeah. We're we're done. I think that's the conversation over 
+#### 1. EXT. KALITIVU -- PORT MARKET
 
-#### NEMO
+[The crew (bar BAKER) is together, waiting in a queue -- something is sizzling on the other end] 
 
-<laugh>. Yeah, exactly. So, so maybe, um, other than burn it it all down, which I guess is the standpoint that I'm slightly coming from right now, I, I feel like people should go and read that article. It's a very good article and they say it better than I could. But Natalie, for you, what do you think we actually mean when we're talking about decolonizing museums and is there a difference in that between natural history collections versus places like the British Museum? 
+#### SIVA
 
-#### DR. COOPER
+-and then on the East side of the island INEZ No offence, Siva butSIVA -there's this HUGE rock that artists go to sit on, have done for decades INEZ Siva. 
 
-Yeah, so I think it's one of those weirdly emotional subjects for people at the moment because people think about museums and think about their childhood and, and get very upset and, uh, sort of blaming, you know, the woke woke-irrate for coming in and stealing their childhoods and um, giving back their dinosaurs and things like that. But, you know, this is something that people have been talking about for a really long time. So one of the things I think most British people have as part of their kind of the cultural understanding is this whole idea of the path and marbles or the elgan marbles as they're, they're often called and thinking about sending those back to Greece and the, the fuss that that's caused. And I realized earlier that I must have known about this for a really long time because up until I was 14 and went to the British Museum for the first time, I thought they were actual marbles. Um, so like children's toys that 
+#### ALESTES
 
-#### NEMO
+There's no use trying to cut him off. Once he gets like this, he just keeps going. 
 
-Somebody had stolen. It's so cute. I love that so much for you. And I wish that was true. 
+#### SIVA
 
-#### DR. COOPER
+They sit on the coast and paint, then sell theirINEZ Siva! 
 
-It was so confusing to me and I was like, oh, right, there's statues and actually brilliantly, I went to Athens a few years ago and in their beautiful new museum where they've got the other marbles, there's actually a sign on the wall that says we don't have these. They were stolen by the British. Like, Yes, go. You just like straight in there <laugh> don't sugarcoat. Yeah. So I think that's part of the problem is people hear decolonizing and they start thinking about, you know, giving stuff back. But I think in a natural history museum's context, it's maybe even more complicated cuz of course they are colonial institutions and perhaps more so than places like the British Museum in some ways. But actually how we go about dealing with that is I think a little bit more complicated than this kind of debate of do we send it back or not 
+#### SIVA
 
-#### NEMO
+Yes? 
 
-With the, like, do we send it back or not? I feel like there are different understandings of like how you can, whether you can't just send things back or how you send things back, or I mean the, the idea that it would be easy to slash simple to slash possible to slash all This transcript was exported on Oct 24, 2022 -- view latest version here. of these questions about repatriation. Do you have thoughts about how that is different between like natural history museums versus other collections? 
+#### INEZ
 
-#### DR. COOPER
+You've been talking about Kalitivu non-stop since we got here. 
 
-Yeah, so I think part of the problem with natural history collections, and that's not to say that we shouldn't send stuff back, and I should have said at the start, these are all my opinions, none of this is the opinion of the Natural History Museum in London. You know, there there's a debate about whether things should be returned to the countries they were taken from, but some of it is is newer and was done with permits. And as, as John mentioned in his episode, you know, we do still do collecting now, but we work with local people and we get permits from the countries that we're working in to collect specimens. And often we'll either leave those specimens in country or we'll kind of split it. So there are duplicates that that come back with us and we leave the originals in the country that we're working in. So some of it kind of is not quite so bad as all that. The, the funny thing often with the, what most people come to use our collections for, so this is the stuff that's behind the scenes that we use for research is people are coming to use it for taxonomy. So taxonomy is the naming of things. Uh, so, you know, when we're trying to discover new species, and I can be rude about taxonomists because I'm not one, I love them 
+#### ALESTES
 
-#### NEMO
+You'll learn to start drowning it out eventually. 
 
-<laugh>, 
+#### INEZ
 
-#### DR. COOPER
+Shouldn't a mapmaker know to leave us something to discover on our own? 
 
-But the joke I have with my taxonomist friends is that essentially they turn up a collection and they take all the specimens out that they want to look at, uh, they line them up and they just look at them. Uh, so you come into the office and you just see them with this little parade of species like, Oh, hello, doing some taxonomy today, 
+#### NOOR
 
-#### NEMO
+I don't believe that you're making the point that you are trying to make. 
 
-Basically don't like spot the difference. It 
+#### INEZ
 
-#### DR. COOPER
+What? 
 
-Really is, I mean it's cool, it's the kind of differences as well there as an untrained person, I just can't see those differences, but they're really clear to the taxonomists. But yeah, so one of the issues there is that when you name a new species, you have to deposit what's called the type specimen in a museum. 
+#### NOOR
 
-#### NEMO
+A cartographer is the last person who would want to leave anything to be discovered by someone else. 
 
-Mm-hmm. <affirmative>. 
+#### SIVA
 
-#### DR. COOPER
+Yeah! Cartographers are discoverers. 
 
-And so this is like the perfect example of that species. So then if you want to come back and name another species, you have to compare it to all the other types. And so in many ways it's easier if many of those types are in the same place, rather than you having to travel to a hundred different museums to look at them all 
+#### INEZ
 
-#### NEMO
+What's the last thing that you discovered, Siva? 
 
-mm-hmm. <affirmative>. 
+#### SIVA
 
-#### DR. COOPER
+Well there's -- the- I was just saying about the rock? With the artists? And then there's this route, up by theINEZ Ugh. 
 
-So in some cases it's almost easier if they're on in one place, uh, at a time. But again, of course that that's a, a really colonial attitude too. So, you know, maybe we're just back to burning it all down again. <laugh>. This transcript was exported on Oct 24, 2022 -- view latest version here. 
+#### NOOR
 
-#### NEMO
+If you don't have anything nice to say, Inez... 
 
-Yeah, I was going round in circles in my head with that because part of my job was digitizing. And so the idea of like not having to have people come to one place and they can access high quality photos or scans or all of these things, but then does that mean then that if fish or snails or whatever were like repatriated to the places that they were caught in or belonged to, are there places that can hold onto it? How granular do you get, I guess is maybe another question that I would have. If there's two or three museums, do you send it to the closest one? Do you send it to the place of the best ability to hold those fish? 
+#### INEZ
 
-#### DR. COOPER
+This William is clearly a no-show. Let's grab what we need to re-provision and get going. 
 
-Yeah, it, it's, it's really complicated, but I think you're right in the, I think eventually technology is gonna save us in, in this circumstance. I think some of the problem at the moment is we're kind of in that in between stage where the technology is not quite good enough because the digitization that you were doing, for example, was incredible, but it took a huge amount of time and effort to get, you know, I can't remember how many species you ended up sort of covering. 
+#### SIVA
 
-#### NEMO
+But I haven't even shown you theINEZ Didn't you say you were nearly shot by British soldiers the last time you were here? 
 
-Not very many <laugh>. 
+#### SIVA
 
-#### DR. COOPER
+Yes? 
 
-Yeah. So the, the museum has, um, over 80 million specimens in its collections, which is just an insane number. And actually it's probably more than that because nobody's really actually ever gone and counted 80 million things. It's just a kind of guesstimate. So I think eventually if we can digitize everything to a standard whereby we have all the information that we need to be able to designate different species or do other kinds of research, then yeah. That, that sort of won't be a problem anymore. But then, you know, you get into these arguments of whether you even need a, a museum, I, I think you do still, I think it would, it's still cool to have these physical objects and I think part of that is we don't know what they're gonna be used for in the future. So it's been really cool chatting to one of my colleagues and and your colleague as well, Nemo, Ollie Crimmon. So he's been at the museum for 50 years, which is incredible. And he talks about how things have changed a huge amount in the time he's been there and that the specimens are being used now for the kinds of studies that he would never have even considered doing 50 years ago. Mm. And so holding onto those physical objects I think is a sensible plan, but again, that there's gotta be equity and there's gotta be consideration of, of the histories of those objects as well. 
+#### INEZ
 
-#### NEMO
+How do we know William isn't one of them? Luring you here? 
 
-And I feel like some of the conversations that I had with the people who are doing loads of DNA testing on specimens who wish that other museum staff handled the specimens in certain ways and stuff like that, like everyone has different desires for the handling of museum specimens. <laugh>, like I feel like I remember some people talking about how they wish that in the 19th century preservation techniques have been different because it's really hard to get DNA samples from wet specimens I think. 
+#### SIVA
 
-#### DR. COOPER
+That was all a big misunderstanding. And anyway, they're not all like that, Inez. All of my friends -- excepting you of course -- are British. 
 
-Yeah. So basically anything preserved in formalin, so the really old stuff we have, you can get DNA out of, but then anything that is there after the point that they discovered you could use formalin is useless because formalin degrades dna, it's, it's one of the main things that it does. It's, it's why we don't use it anymore because it's also carcinogenic. Woo. But that means that there's this whole sort of time period of This transcript was exported on Oct 24, 2022 -- view latest version here. specimens that we can't get any DNA information out of. Whereas new stuff we preserve them in, in a hundred percent in ethanol. So you can get DNA out of those. But yeah, it's definitely interesting cuz there's specimens now where we can do surface scanning or we can take beautiful photographs where somebody in like the early 18 hundreds just sliced it up because they wanted to see what his stomach looked like and so you then can't use the external thing. So yeah, there's, there's a lot of like cursing Victorians that goes on in the museum. <laugh>, 
+#### ALESTES
 
-#### NEMO
+Some friends. [A bamboo flute on the wind. Nobody takes note of it ADVIKA moves past the crew, brushing against ALESTES] 
 
-I remember a lot of like things stuck to boards and things like rotting in my hands and just loads of gross oil coming out of places and I'm like, those Victorians 
+#### ADVIKA
 
-#### DR. COOPER
+(seductive) You feel like rowing a boat, Captain? 
 
-<laugh>. Yeah, I mean that basically sums up the museum gross oil coming out of things in weird places. <laugh>. 
+#### ALESTES
 
-#### NEMO
+Depends on the boat. 
 
-So you mentioned briefly about still kind of going on expeditions, still going and, and getting local involvement. Do you think there are better practices that museums can be doing is institutional racism and stuff like that and, and it's linked to science still having an effect on how science is being done now? 
+#### ADVIKA
 
-#### DR. COOPER
+Moving gently down the stream... 
 
-So yeah, I, I think despite the, the government liking to tell us that, you know, there is no institutional racism, <laugh> unfortunately science is institutionally racist either overtly and you know, we're seeing this frightening resurgence of race science in the last sort of five, 10 years. Um, so you know, if you've read Angela San's book Superior, which is incredible. Mm. And so if you haven't read that, I would definitely recommend, uh, taking a look if you're interested in how that's sort of coming back into the mainstream and it's sort of a horrible way, but it's also racist in these really sort of small ways. So, you know, people having research sites where they go out there and they maybe don't involve local people in the way that they should do. So there's, you know, a lot of issues with what people refer to as either parachute science or helicopter science. So this idea of somebody from the global north sort of coming in with their research team and doing this research project and then just disappearing off and getting all these amazing scientific papers and discoveries but not really contributing to anything that's going on in countries. So you get a lot of local people being acknowledged as, you know, field techs or research assistants, but the projects aren't really being led by people from the local area. And so this is just, you know, Neuvo colonialism really, which is, uh, slightly disturbing. So I know there's, there's definitely been quite a few, few efforts recently to do something about this. Yeah, as I always say, you've have to, you have to know it's a problem before you can do things. So a lot of uh, scientific journals for example are asking now for an inclusivity statement. So explaining how everyone is involved and especially if you're doing work in the global south and you are not from the global south, there's also been lots of discussions about sort of things which perhaps seem minor, but one of the ways that a scientist we get judged is by who reads our papers and then who cites our papers in other papers. And there's lots of research that suggests that's again, massively biased towards citations of researchers from the global north and particularly our, our favorite straight This transcript was exported on Oct 24, 2022 -- view latest version here. white man norm in the global north seems to be the person who gets all the citations even now, which is, uh, pretty depressing. Uh, so again, burn it all down <laugh>. 
+#### ALESTES
 
-#### NEMO
+I prefer to really put my back into it. 
 
-Yeah, I feel like from that it's probably likely that also papers that are written in English are probably privileged over other Languages. 
+#### SIVA
 
-#### DR. COOPER
+Are those code words? (gasps) Pirate code-words!? 
 
-Definitely a hundred percent. Um, that's, that's another really tricky problem. So there's some papers by a researcher who's based in Argentina called Martin Nunez. And so he's been really angry about this on Twitter, which is, uh, always entertaining <laugh> and he's been trying to push for people not complaining so much about English language and publishing in different languages. So a lot of journals will now let you translate your abstract into another language, but it's still, you know, it's difficult I guess to get a PhD student in the UK or the US to learn, you know, 20 different languages in order to read all of the research. So again, hopefully this is a place where technology will save us. Yeah. And then hopefully people will start reading these papers and these translations and then we'll have a much better sort of global science undergoing. 
+#### INEZ
 
-#### NEMO
+We'll tell you when you're older. 
 
-Mm. It's interesting, I remembered that this is a Trice forgotten podcast and was like, oh yeah, I should probably be making links to Trice Forgotten. But that was a really interesting link in that thinking about the characters of Trice Forgotten and the fact that they speak English, all of them speak English. And when I was looking at what characters I was going to be making for this show, picked places where Britain has had some colonial power. So there is some feasible like reason why they're speaking in English and they are speaking in English. And it was something that Morgan and Raf and I talked about in like, are we going to have these characters be speaking like a different language? But as a listener we are hearing it in English because it's how we hear it. But actually like, you know, if if anyone else came across them they'd hear Arabic or Spanish or any other language and we decided that no, actually they are all speaking English unless they're not speaking English. So, you know, there is some Arabic, there is some Bengali and Tamil and hokkian in there, but the only reason that I'm able to write this show is because I'm writing it in English <laugh> and not in a different language. And the only reason that anyone is listening to it is because it's in English and not in a certain other language. And, and the way that even that is a colonial feature of the show, like they are not "free," I guess quote unquote in scare quotes, heavily scare quoted <laugh>, they are not free to talk in native languages or indigenous languages. And then on the upside that does mean that they can communicate with each other. They have found a language that they can communicate with each other, which has great. But it's always been a slightly messy feeling for me as well with, with that. Yeah, 
+#### ADVIKA
 
-#### DR. COOPER
+See you at the Jolly Jan, Captain. [ADVIKA moves away from them] 
 
-Yeah, that's, that's really interesting actually cause I'd never thought about that. Cause I think you kind of, we've gotten used to watching TV programs where people speak different languages to each other and you just understand via subtitles and how you do that with the podcast. Yeah, yeah, that's, that's a really interesting point. Yeah, This transcript was exported on Oct 24, 2022 -- view latest version here. 
+#### SIVA
 
-#### NEMO
+Was that a friend? A pirate friend? 
 
-It's, it's even come into the, like the script and the transcripts. I believe the decision was for transcripts, if there is another language outside of English, it's actually translated in the transcripts for you. Whereas that's not something that is translated on the podcast. So when Nani is singing, obviously we don't hear that in the English translation. We just have to go and look up what those lyrics are. But if you are reading the transcript then you get translations. 
+#### ALESTES
 
-#### DR. COOPER
+Inez, you're in charge. 
 
-Yeah, I, I think so Miranda Low, I, I saw her give a talk recently about all this decolonization stuff and then she was saying, you know this, the problem with a lot of this is there aren't any easy answers to any of it. Yes. It's all just super complicated. But if there are any easy answers I guess, uh, you know, phone in and let us know <laugh> cause that would be awesome. 
+#### INEZ
 
-#### NEMO
+Excuse me? 
 
-Yeah, literally one person's just like, Oh, it's easy, you just go A, B and C and then it's fine. 
+#### ALESTES
 
-#### DR. COOPER
+I've got some... "business" to attend to. Keep the blathering fool safe. 
 
-Which would be great 
+#### INEZ
 
-#### NEMO
+Security?! That is not my job- This is no time to be gallivanting at the Jolly damned Jan! 
 
-<laugh>. So other than things like repatriation, other, other things that can really considered under the bracket of like decolonization. Yeah. 
+#### ALESTES
 
-#### DR. COOPER
+This is the perfect time to gallivant! [ALESTES leaves] 
 
-So I think, again, this is written about really beautifully in Miranda Lowe and Saadia Das paper, which again you mentioned with John, their idea is that really a lot of this is about investigating the specimens that we have, finding out more about their histories and sharing that with people. So making sure that we have this context. So I think again, in one of your earlier one of these shows, I've been learning huge amounts from these below deck episodes. By the way, somebody was talking about how a lot of these narratives, it's not that they weren't known about, they deliberately got wiped out because people wanted to be important and they wanted it to be this kind of narrative of these incredible explorers. So yeah, this, this idea of all these stories that we've kind of hidden and actually having that information on the museum labels and in our catalogs and on our websites. And I think that's probably part of it that we're doing a little bit better on kind of telling those stories. So maybe that's one thing. And another thing that Miranda talks about a lot is that we need to decolonize the kinds of people that work in museums. Meaning that if you look at the workforce, it's still predominantly white, middle class straight people. So how do you make sure that you are creating not only an equal environment, but an environment that people feel that they can bring their whole selves to. And again, I think sometimes the museum does a good job at that and sometimes it does a terrible job of that. I think as an institution it might not always do a great job. The people I work with face to face tend to get on really well with. And we have these kinds of conversations, which is great. This idea of just trying to diversify the workforce, that it's, it's ridiculous that, you know, Miranda, who's one of the very few black curators, is doing so much of this work on top of her normal work. Mm. This transcript was exported on Oct 24, 2022 -- view latest version here. 
+#### SIVA
 
-#### NEMO
+Do you think we should order enough for her? In case she comes back with her friend? 
 
-I mean, to be quite open, there is a reason why I asked John and you Natalie, both white people because I feel like it, it's all of our responsibilities. And I've said this over and over again at this podcast, even though I would class myself as a person of color, I still have two very imperial backgrounds, Japan and the uk. And so I always feel like I also have to specify, I also have to do a lot of decolonization. And so a lot of this research that I've been doing has been because of interrogating my own background, interrogating my own upbringing, the people that I've always been surrounded by. I mean, that's what decolonization is, right? It's like having a colonial mindset because of the way that you're educated. I've always been educated in the UK and to Decolonize that is to go and like self-educate yourself and do Research. 
+#### INEZ
 
-#### DR. COOPER
+I doubt we'll be seeing much of her the rest of the day. 
 
-Yeah, no, I'm glad you brought that up actually about John and I both being white, cisgendered straight people in that it it is, it's really tricky cuz I wanted to come on here and to be, you know, part of the conversation, but at the same time really anxious about not centering my experience in that. So definitely had this conversation with a few other people at work about whether it was appropriate for me to come and talk about this. But I think, like you say, if white people don't get involved in the conversation, then we are just perpetuating the problem. 
+#### SIVA
 
-#### NEMO
+Oh. Right! So(to the seller, in Tamil) Naalu parimaanum, tayavu ceytu mama. [Four servings please, uncle!] [Four servings are handed out] 
 
-Yeah. I've always been very frustrated with change, not coming fast enough, <laugh>, I I've always been a person who has been okay to do consultancy and to talk of other people and to genuinely be quite open about myself in order to educate other people. And you know, that's also why I write this podcast. I do want people to learn from it, but when it's only people of color talking about decolonization, then that's not decolonization because it's not really the people of color who have to learn about it. It is white people and it's white people who have to, and not just white people, again, Japanese people, other imperial forces, Europe, blah blah blah. Everyone needs to decolonize themselves. And that has to be something that you kind of just have to get the energy to do even though everything is awful all the time, <laugh> and there's always so much to learn that hopefully being filtered through <laugh> podcast medium is, is a slightly more accessible way of doing 
+#### SIVA (CONT'D)
 
-#### DR. COOPER
+One for you, and you, aaaaand a portion to take back for Baker! 
 
-That. Yeah, I mean I think one thing that's somewhat a po I'm gonna take it as a positive take in that actually if we think about decolonization, it really beautifully wraps up with all of the other things that we want to do in the museum. So like you and I have had conversations about this idea of queering the museum and, and what is a museum in the 21st century and how do we make sure there's space for LGBTQ plus communities as well as, as people from ethnic minority communities, but also how do we do that in a sustainable way, in a green way, in a way where we've got this climate crisis and this biodiversity crisis. And I think you can either be completely overwhelmed by the fact that there's all these problems that we're trying to deal with all at the same time and, uh, half of of Europe's government seems to be fascist at the moment. Woo. Woohoo. Or you can take it as like a really positive opportunity and meet lots of really amazing young people through work like young activists and you know, they're bringing together all of this knowledge and all of this good practice to try and tackle all these things at the same time. And so yeah, whilst we're burning it down, maybe we're building it back up, uh, into something different, something better. Yeah, This transcript was exported on Oct 24, 2022 -- view latest version here. 
+#### INEZ
 
-#### NEMO
+Hm. Surprisingly good. 
 
-It really reminds me, I mean that was such a positive point and then I'm immediately gonna do it down, but hopefully we can come back up again. <laugh>, that's just what this is. It's just that highs and lows burn it down, bring it back up again. Um, so in the burning it down, it was really reminding me of the recent death of the Queen and the fact that like during all of those conversations that were happening, like just after she died and into her funeral when people were saying I think quite rightly that we should be on picking how like her imperialism really affects everyone in the UK and abroad versus people who are saying things like, she's like my grandmother who's just died. Now's not the time. So when is the time to talk about decolonization? If not now it, it is kind of interesting because in Trice forgotten, it's not the Natural History Museum of London that William works for. He works for the Queens Museum of London <laugh>, 
+#### SIVA
 
-#### DR. COOPER
+Oh! You know what goes well with this? That stall across the way sells the besthere, stay here[SIVA skips away] 
 
-Which is very different. It's 
+#### INEZ
 
-#### NEMO
+So? 
 
-Super different and it's not the same museum Bizarre everywhere. <laugh> 
+#### NOOR
 
-#### DR. COOPER
+So? 
 
-Well yeah, I mean the, the patron, our official patron is, uh, Catherine Princess of Wales. Is that the right title? Check me out with My Royal Knowledge <laugh>. Um, so I mean we have some kind of remit there. I think it's, it's a little confusing to me. I'm not really sure what a patron does other than occasionally turns up and shakes people's hands. 
+#### INEZ
 
-#### NEMO
+Do you like him, or what? 
 
-Sure, sure, sure. 
+#### NOOR
 
-#### DR. COOPER
+Of course I like him. 
 
-I would prefer it was David Attenborough, but you know, <laugh>, what can you do? 
+#### INEZ
 
-#### NEMO
+Oh, come on. Don't be obtuse. [NOOR doesn't say anything] 
 
-The only true royalty 
+#### INEZ (CONT'D)
 
-#### DR. COOPER
+Fine. Keep it to yourself. But stringing him on like this isn't kind. 
 
-<laugh>. Yeah, I mean it's, it, it is really horrifying when you look back on, you know, the museum and, and the history of it and, and how it all started and how really incredibly built upon enslaved people it is. Like that's where the money came from. That's where the specimens came from. I mean, Han Sloan, who the collection is, is originally based on his stuff. You know, he literally sent enslaved people out into his plantations to collect things. So, you know, we, we have this sort of pretty horrifying legacy and it does seem like we do need to talk about it more because every time you talk about it, people go, Oh really? I didn't know that when actually if you looked it up on the internet, there's tons of stories on the Nhm website and things like that. Like this is not hidden anymore. It just seems to be something people don't wanna think about. They wanna think about dinosaurs and dippy versus the whale. You know, that's the big controversies of our time. Yeah. Rather than some of those pretty horrific stories as to where we got those specimens from. Mm. 
+#### NOOR
 
-#### NEMO
+You are on his side, now? 
 
-Yeah. It seems like every time I write anything about like, you know, and I have fairly surface level as surface level as in I've only really known about these things for the last four years-ish. And every time I write about something I'm like, surely somebody's got to have written something about this before because like, there's so much, and it's so like, I mean you don't have to look very hard to find, uh, at least the things that, you know, we, we've talked about so far and, but no <laugh> and every time I'm surprised that This transcript was exported on Oct 24, 2022 -- view latest version here. institutional racism does exist and, and, and that people are scared of tainting something that is like you say this childhood memory of like going to the museum, but for some people it can't be a nice happy childhood memory. And so that is also an inequality. 
+#### INEZ
 
-#### DR. COOPER
+"Sides". It's painful to watch him give you those damned puppydog eyes. Either kiss him, or turn him down. 
 
-Yeah, I mean the one good thing about our, well there are many good things about our museum. One of the good things about our museum is it's free <affirmative> so you don't have to pay to go in. Yeah. If you live somewhere in London, if you can get there, you can go in for free. But I think there's still a demographic of people that go to the museum more regularly than others in that is that kind of middle class sort of contingent. And so, you know, we're not really reaching lower income families perhaps. And unless we're able to do that and we're able to, you know, give them a reason that they want to come to the museum, then yeah, we're failing at that kind of, you know, this mission to engage and inspire people about the natural world and to create advocates for the planet. I think we're doing a reasonable job with the people we get in the door, but there's so many people that just never come in the first place. And I think that's, that's the trick is how do we make those people feel like they're welcome and they wanna be in that space. 
+#### NOOR
 
-#### NEMO
+Inez... 
 
-Mm-hmm. <affirmative> and, and not just in the space, but like building the space behind the scenes. We talked about how like a lot of people don't know that behind the scenes in the museums there are curators and researchers and I, when before I worked there didn't know that, didn't know that that was a job that could be done until I watched it happen to watch a YouTube channel about it from someone in America. And you know, like you don't see, I mean if you think about natural history and, and natural programs, you do think of David Attenborough, you think of scientists who go on TV and they do skew white ci male, now female. I feel like there's a slight gender balance now in, in who you see on tv, but it still does skew middle class and white. And so if you don't see yourself talking about natural history, then obviously you don't know how to get into those industries and then you don't know how to Yeah. How to change things and how to, how to be there as a human being, not just as someone who is a decolonial tool. <laugh>. Uh, 
+#### INEZ
 
-#### DR. COOPER
+What? Now's the perfect chance. Might as well deal the final blow at the same time as he realises a kid like him will never actually make it at a museum like[SIVA bounds up, along with MARY] 
 
-So, so one thing that is new at the museum, which is this incredible, um, program called the Natural History Museum Explorers Club. Mm. Which is designed to help black minority, um, ethnic group students and um, mostly aimed at younger people get careers in natural history and natural sciences. So if anyone listening to this podcast is interested or knows of anyone who's interested, they should definitely check that out on our website and sign up because they do lots of really cool events, get to meet awesome people like Miranda Low and, and find out about her career as a curator at the museum. Also, Patrick is involved Patrick Campbell, who's, uh, my officemate who's again been at the museum forever and works on reptiles and is super cool. And so you get to meet, uh, the slightly more diverse end of our staff, which is great to, to kind of hopefully inspire people to want to do these jobs in the future. And like you say, Nemo just like to know that these jobs even exist. Cause I don't think I knew any of this existed until I was doing a PhD. I didn't, I didn't really know what a PhD was until I was doing a PhD, which was a interesting experience. <laugh>. This transcript was exported on Oct 24, 2022 -- view latest version here. 
+#### SIVA
 
-#### NEMO
+Inez, Noor, this is -- oh! I forgot to ask for your name! 
 
-Yep. Mood. Same, same, same. <laugh> <laugh>. I hope that more people have this curiosity about museums and at the same time as deeply, deeply desiring to burn them down and repatriating things do also come out of this episode and, and do more research I guess like for themselves about museums and all of these conversations. Obviously they do track to other institutions as well, universities and banks and literally everything needs to also be thinking about these kind of conversations. So hopefully if you are in any kind of institution, you will also be having these conversations and and knowing that now is the time to be having them because we need to continually be having them and we're not gonna reach an end point where we're like, well we've decolonized. So <laugh>, great job everyone <laugh> the end. Um, yeah. 
+#### MARY
 
-#### DR. COOPER
+You may call me Mary. 
 
-Yeah. I mean, again, on a more positive points, I feel like I've been very negative <laugh>. I love the museum. It is my favorite place in the whole world. And somebody once told me what I think is a, a really good way of thinking about people who work at the museum is that we all love it and we all want to save it. We just have different ideas about how we should save it <laugh>. So that's why, I mean these are my opinions, not necessarily the opinions of my colleagues and definitely not the opinions of the museum as a whole. But it is an amazing place. If you haven't been, I urge you to come and have a look around and check out some of the, the exhibitions and try and see some of the behind the scenes stuff if you can. It is a really, really cool place with issues, um, like every other place like you said. So it's, it's not just the museum, this is my attempt to be sort of pull it back from just museum bashing <laugh>. 
+#### SIVA
 
-#### NEMO
+Mr Blair sent Ms Mary to collect me! We were waiting on the wrong side of the road, like silly geese! 
 
-Mm. And I'm sure if you don't live in London UK <laugh>, your nearest museum listener will also be doing very similar things or different things and, and I, I've learned about loads of different museums across the world, lot of nautical museums that are doing loads about whaling, histories of whaling and stuff like that, which is something that is briefly touched upon and tries, forgotten loads of things about Aboriginal people, First Nations, people from First Nations and Aboriginal people. And I do intrigue you to go and look at what programs people are running at museums cuz usually they do have workshops and free events and stuff like that run by own voice people as well as museum stuff and experts. 
+#### INEZ
 
-#### DR. COOPER
+Uhh-huh. It didn't say in the letter what the job posting was. 
 
-Yeah. And I think a lot of places as well have things on YouTube now. So certainly, yeah, we've done a bunch of recent behind the scenes tours on YouTube. So if you wanna see stuff, you know, just look up museums you're interested in and see if they have a YouTube channel and you can see stuff that way you don't have to physically go to a museum. Yeah, 
+#### MARY
 
-#### NEMO
+Did it not? 
 
-My, that's how I got my interest started through museum YouTubes. So I feel like that's a slightly hopeful, not quite as Bernie it down ending, uh, in parallel I can contain multitudes and the multitudes are burn it down while also going on YouTube and looking at museums. So thank you so much Natalie for joining us. It's been a delight to talk to you as ever and also to learn more. I love learning all the time. 
+#### INEZ
 
-#### DR. COOPER
+It didn't. Perhaps you could expand on that? 
 
-<laugh>. Cool. Yeah, thanks for having me. It's great to be on the show and I'm really excited to hear the rest of the episodes This transcript was exported on Oct 24, 2022 -- view latest version here. 
+#### MARY
 
-#### NEMO
+Of course. When Mr. Blair mentioned a person of Siva's... experience, I was rather surprised. But the Museum is in dire straits, and desperately needs a cartographer of his calibre to restore maps that would otherwise be lost. 
 
-<laugh>, as of I, So that's it from me, Nemo, and goodbye from Natalie. Bye. We'll see you next time below decks. [Show Theme -- Outro] Trice Forgotten is a podcast distributed by Rusty Quill, and licensed under a Creative Commons Attribution Non-Commercial Sharealike 4.0 International License. The series is created be Nemo Martin and directed by Rafaella Marcus. 
+#### INEZ
 
-#### TODAY'S EPISODE FEATURED
+I didn't know your lot had a map department. 
 
-Nemo Martin Natalie Cooper And was edited by Lowri Ann Davies, and Catherine Rinella Trice Forgotten is produced by Ian Geers, Lowri Ann Davies and production manager Natasha Johnston with executive producers Alexander J Newall and April Sumner To subscribe, view associated materials or join our Patreon visit rustyquill.com. Rate and review us online, tweet us @therustyquill, visit us on Facebook or email us at mail@rustyquill.com. Thanks for listening. 
+#### MARY
+
+We are all about preservation. 
+
+#### SIVA
+
+Preservation? I'd be good at that. 
+
+#### INEZ
+
+Half your clothes are stained with food, Siva. 
+
+#### NOOR
+
+He is truly skilled. It is almost miraculous, his way with maps. 
+
+#### INEZ
+
+What's miraculous is how long he's stayed alive. 
+
+#### MARY
+
+Mr. Blair can explain more about the post in person. 
+
+#### NOOR
+
+Can we accompany him? 
+
+#### MARY
+
+You? ...All of you? Whatever for? 
+
+#### NOOR
+
+We've had a fair few run-ins with unsavoury people, and letting him wander off alone... 
+
+#### MARY
+
+This is, unfortunately, a delicate and... private matter. 
+
+#### SIVA
+
+That's what Lieutenant-Colonel Shaw used to say! "Cartography is a delicate, intricate matter, and, above all, must be treated with ultimate confidentiality." 
+
+#### MARY
+
+Yes, Shaw is... known for his wisdom in such things. 
+
+#### SIVA
+
+You know the Lieutenant Colonel? 
+
+#### MARY
+
+We are very much acquainted. 
+
+#### INEZ
+
+This Shaw... he's someone you trust? 
+
+#### SIVA
+
+He's the one who promoted me! 
+
+#### NOOR
+
+And Siva would just be going to talk with Mr. Blair? 
+
+#### MARY
+
+Iron out a few details, do a few test maps, that kind of thing. 
+
+#### INEZ
+
+And if he decides that the job isn't for him? 
+
+#### MARY
+
+We'll return him right back to your ship. Not to put too fine a point on this, but I cannot be certain how long this opportunity will last. Siva is very skilled, of course, but hardly the only cartographer the Queen's Museum has access to. 
+
+#### INEZ
+
+I see. Well, Siva? Up to you. 
+
+#### SIVA
+
+...Noor, could I have a moment of your time? 
+
+#### NOOR
+
+Of course. 
+
+#### SIVA
+
+...In private? 
+
+#### NOOR
+
+Oh. Er. Sure. [INEZ wolf-whistles to himself] [NOOR and SIVA walk a few paces away] 
+
+#### SIVA
+
+Noor... what do you think? 
+
+#### NOOR
+
+I think that it is up to you. But, if you do get the position, I have no doubt you will do wonderfully. 
+
+#### SIVA
+
+...Is that- I've been... Baker told me that people don't really say what they actually mean, which makes me confused, sometimes. 
+
+#### NOOR
+
+You have a question for me. 
+
+#### SIVA
+
+... Would you feel nothing but joy if I were to leave you, Noor? 
+
+#### NOOR
+
+I think that this job is something that you have wanted for a long time, akhi. ...It is not worth giving up for someone you met a month ago. 
+
+#### SIVA
+
+...You didn't answer my question. 
+
+#### NOOR
+
+Should you get the job, Siva, I would feel nothing but pride for my friend in his new venture. 
+
+#### SIVA
+
+I- ...see. Thank you for your honesty. Right. Yes. Yes! Just a talk! Yes, I think I shall go with you, Ms. Mary. 
+
+#### MARY
+
+Very good. 
+
+#### SIVA
+
+Noor, Inez? I want to make sure Nani knows I was here. Could you go to her, and pay your respects for me? 
+
+#### INEZ
+
+It wasn't top of my list but... [NOOR elbows INEZ] Ow, Noor. Yes, fine.Of course we will. 
+
+#### SIVA
+
+Are you sure you'll be alright by yourselves? I couldNOOR Don't worry about us. Go, do well. We'll see you later. 
+
+#### MARY
+
+Ready? 
+
+#### SIVA
+
+...Yes. Yes, I'm ready. 
+
+#### 2. INT. JOLLY JAN TAVERN
+
+[ALESTES begins ascending the flight of stairs to the second floor] 
+
+#### ADVIKA
+
+I sure hope you're not the type that's all bark and no bite. 
+
+#### ALESTES
+
+That's your first impression of me? 
+
+#### ADVIKA
+
+Plenty of people thought they could handle this before... and let's just say I was underwhelmed. 
+
+#### ALESTES
+
+Sounds like fighting talk to me- 
+
+#### 1. INT. JOLLY JAN -- UPSTAIRS -- BEDROOM
+
+
+
+#### ANH
+
+Hello Alestes. [ANH passes coins to ADVIKA] Thank you, sweetheart. 
+
+#### ADVIKA
+
+A pleasure, as always. [ADVIKA closes the door on her way out] 
+
+#### ALESTES
+
+Really? You couldn't have written an address in your letter? 
+
+#### ANH
+
+Where's the fun in that? And it got you away from your old man and those brats, didn't it? Thought you might want to spare them the nitty gritty, just like in the good old days. 
+
+#### ALESTES
+
+...We've had our differences, Anh, but we could decide to put that behind us and talk like adults. 
+
+#### ANH
+
+There are far more than differences between us. You're a traitor, I'm not. It's that simple. 
+
+#### ALESTES
+
+"A traitor". Still such a loyal pet. 
+
+#### ANH
+
+"Pet!" Oh Alestes. You do test me sometimes. (laughs) I've missed this. I've missed you. And I want you dead, so I can miss you even more. Funny how that works. 
+
+#### ALESTES
+
+Should have known better than to lead with politeness. Go on then, the quicker you get it out, the quicker we can be done. 
+
+#### ANH
+
+The longer I draw this out, the more frustrated that face of yours gets. Fine. Here. Look. [ANH spreads a map across the table] 
+
+#### ANH (CONT'D)
+
+I've searched these parts thoroughly, and still the mice elude me. Chewing holes in our gunpowder storage. Looting cargo. 
+
+#### ALESTES
+
+Mice? 
+
+#### ANH
+
+Wannabe rebels. Call themselves the "Fly Fishers". 
+
+#### ALESTES
+
+You can't handle a local gang yourselves anymore? 
+
+#### ANH
+
+They've been watching us too long -- their leader, Johana, she knows our movements. So I'm switching in a new cat. You can start with the spots I haven't crossed out. 
+
+#### ALESTES
+
+Where'd you get this map? 
+
+#### ANH
+
+Why, do you know something about it? 
+
+#### ALESTES
+
+Markings looked familiar, is all. ... But I look at plenty of maps, no surprise there. 
+
+#### ANH
+
+...We think this map was created by someone close to Johana. The tactical information on it matches strikes against us. 
+
+#### ALESTES
+
+The mapmaker might have been a Fly Fisher rebel? 
+
+#### ANH
+
+It's likely. That or someone with a bone to pick against Gammon. 
+
+#### ALESTES
+
+What would a local rebel group have against a pirate? 
+
+#### ANH
+
+You might have noticed there are blacklist commands in the area. We believe that some of the... locals aren't too keen on Gammon having so much control. They must have thought we were operating out of the Governor's Estate, got the British to do a raid, but they only killed a few maidservants. 
+
+#### ALESTES
+
+Where are you operating out from? 
+
+#### ANH
+
+Oh you'll have to do better than that, my dear. That should be everything you need. Find Johana, and find her quickly. Drag her before Gammon, dead or alive, and then: we're even. 
+
+#### ALESTES
+
+Understood. [ALESTES rolls up the map] 
+
+#### ANH
+
+"Understood?" 
+
+#### ALESTES
+
+Understood. 
+
+#### ANH
+
+That's... it? I give you a command, and you do it? 
+
+#### ALESTES
+
+That's usually how these things work. 
+
+#### ANH
+
+Not -- not between us. Not... Where's your fight? 
+
+#### ALESTES
+
+I'll see you around, Anh. 
+
+#### 2. INT. NANI'S HOME -- AFTERNOON
+
+[NOOR and INEZ enter] 
+
+#### NOOR
+
+You're sure this is the right house? 
+
+#### INEZ
+
+I wouldn't hear the end of it if I couldn't follow his damned instructions. 
+
+#### NOOR
+
+He didn't say that his home had been… Inez please, show a little respect for the dead. 
+
+#### INEZ
+
+You think I'm going to be haunted, just because I'm looking around? 
+
+#### NOOR
+
+Inez. 
+
+#### INEZ
+
+Alright, alright. Looks like people rougher than us have had a good rummage anyway. 
+
+#### NOOR
+
+The soldiers looking for Siva, maybe. It makes me uncomfortable, sometimes. He makes me uncomfortable. 
+
+#### INEZ
+
+Siva? 
+
+#### NOOR
+
+He is... bright. Like when he is looking at me, he is seeing the ghost of this home. His smile... it feels... heavy. Too heavy for me...Let us pay our respects. 
+
+#### INEZ
+
+I don't even know what the woman looked like. 
+
+#### NOOR
+
+We are in her house, and we know the person she raised. That's enough. 
+
+#### INEZ
+
+... Fine. 
+
+#### NOOR
+
+Oh Allah, forgive Nani, and elevate her station among those who are guided. Send her along the path of those who came before, and forgive us and her, Oh Lord of the worlds. Enlarge for her her grave and shed light upon her in it. 
+
+#### 3. INT. SMALL TEA SHOP -- EVENING
+
+[ALESTES enters] 
+
+#### ALESTES
+
+You. 
+
+#### TEA SHOP OWNER
+
+What can I do for you, ...miss? 
+
+#### ALESTES
+
+I need information. 
+
+#### TEA SHOP OWNER
+
+All we sell here is tea. 
+
+#### ALESTES
+
+Tea. 
+
+#### TEA SHOP OWNER
+
+It is a tea shop. Here. I have the perfect blend for you. [The TEA SHOP OWNER hands ALESTES a small cup of chai] 
+
+#### ALESTES
+
+I don't have time for TEA SHOP OWNER Try it. Won't disappoint. Green cardamom, cinnamon stripped right around the corner, jaggery, buffalo milk. 
+
+#### ALESTES
+
+It's good. But it won't distract me from what I need to know. 
+
+#### TEA SHOP OWNER
+
+As I said, I don't know much. 
+
+#### ALESTES
+
+The thing is, I don't believe you. 
+
+#### TEA SHOP OWNER
+
+I reallyALESTES Running a shop like this, people passing through, a plantation worth of workers gathering tea on their breaks, and you don't have any information sitting between those ears of yours? 
+
+#### TEA SHOP OWNER
+
+I just run my shop; try to keep my customers happy. Tend to my family. 
+
+#### ALESTES
+
+So you know nothing about a woman named Johana? Nothing about Lord Graham's raided estate? The Fly Fishers? [The tea shop quiets] 
+
+#### TEA SHOP OWNER
+
+I don't know anything that can help you. 
+
+#### ALESTES
+
+Judging by the colour draining from your face and the tremble in your hand, I'd say you were lying. But who am I to say, I'm just a stranger. 
+
+#### TEA SHOP OWNER
+
+Yes, yes- a stranger, who doesn't know about this island, doesn't know the people hereALESTES But who does know how to make people start telling the truth. 
+
+#### TEA SHOP OWNER
+
+You don't understand- 
+
+#### ALESTES
+
+Five. 
+
+#### TEA SHOP OWNER
+
+Wait, just waitALESTES Truly delicious stuff. Four. 
+
+#### TEA SHOP OWNER
+
+There's nothing I can do to help youALESTES Three. 
+
+#### TEA SHOP OWNER
+
+Are you listening to me? I said I can'tALESTES Two. [ALESTES puts her pistol on the table] 
+
+#### TEA SHOP OWNER
+
+There are things at stake here beyondALESTES -your life? 
+
+#### TEA SHOP OWNER
+
+Beyond my life. 
+
+#### ALESTES
+
+A shame. [The hammer cocks] Tell me where to find Johana. 
+
+#### TEA SHOP OWNER
+
+Find her? But- You've already killed her. 
+
+#### ALESTES
+
+Killed her? [ALESTES taps the gun against the table] 
+
+#### ALESTES (CONT'D)
+
+Johana? 
+
+#### TEA SHOP OWNER
+
+Yes. She was killed in the raidALESTES I thought only maidservants got killed in the raid. Johana was a servant. How better to keep tabs than to be invisible. 
+
+#### TEA SHOP OWNER
+
+You're not... a British ally? 
+
+#### ALESTES
+
+Do I look like I'm a British damned ally? The rebels, the Fly Fishers. Who's second in command? You said you had a family. 
+
+#### TEA SHOP OWNER
+
+There's nobody -- she kept everything to herself -- we think she told her plans to her grandson, but he ran away -- nobody's seen him since. 
+
+#### ALESTES
+
+Skinny, about this tall? 
+
+#### TEA SHOP OWNER
+
+Yes, yes, the mapmaker- 
+
+#### ALESTES
+
+Oh for fuck's sake. 
+
+#### 4. EXT. DENSE FOREST -- EVENING
+
+[SIVA and MARY are moving through a dense forest] 
+
+#### SIVA
+
+Are we almost there? 
+
+#### MARY
+
+Just a little further. 
+
+#### SIVA
+
+I believe you, I do. It's just, you said it was only a little further some time ago, now, and I'm growing quite parched. Are you thirsty? I'm terribly thirsty. 
+
+#### MARY
+
+I'm sure Mr. Blair will have plenty for you to drink when we arrive. 
+
+#### SIVA
+
+And where are we going? The shops are all in town, and it makes more sense to stay closer to the port, doesn't it? Easier to ship antiquities back and forth. Out here there's onlyMARY Perhaps you'll be less thirsty if you talked less. 
+
+#### SIVA
+
+Right. Yes. Of course. This really is a trek, isn't it. You can't mean to tell me that you walk this route every single day. Talk about 'off the beaten track', this isn't even a path that I've mapped, and I've mapped every inch of this place! Look at how thick these trees are -- so easy to get turned around without any source of light... And in this humidity. I forgot how hot it gets here, even in the pitch dark of night! Just astoundingly sticky, the type of sticky heat my grandmother use toMARY Siva. Would you just. For a moment. Be quiet. 
+
+#### SIVA
+
+...Did I say something wrong? 
+
+#### MARY
+
+If you don't shut up, I'm going to kill you, and then all my plans are ruined. 
+
+#### SIVA
+
+Oh Ms Mary! You really are quite the jokester! Yes, the heat and the humidity does get the tension up, doesn't it! One gets so irritable out here. Kill me, you say. Don't you worry, you'll have a return of spirits once we're in the shade. 
+
+#### 5. EXT. NETAOANSOM -- DECK -- EVENING
+
+[The sounds of the waves hitting the sides of the ship. A busy port.] [NOOR and INEZ walk up the gangway.] 
+
+#### BAKER
+
+Noor, help me lower this cargo into the hold. Inez, you go down and start sorting the goods. 
+
+#### NOOR
+
+That is... an impressive amount of food. Is the Captain planning on an ocean voyage, no safe harbour in sight? 
+
+#### INEZ
+
+Don't tempt fate, Noor. 
+
+#### BAKER
+
+Where's the Captain? 
+
+#### INEZ
+
+Brothel. 
+
+#### BAKER
+
+At a time like this- Inez, you run to the... to bring back the Captain, Noor you help me here. 
+
+#### NOOR
+
+Is everything alright? 
+
+#### BAKER
+
+Everything is fine. Nothing to worry about. 
+
+#### INEZ
+
+Nothing to worry about, let's just pack up six months' worth of provisions? 
+
+#### BAKER
+
+Siva -- did he give an idea of whenNOOR Baker. We can't help if we don't know what we're running from. 
+
+#### BAKER
+
+There, on the horizon. See that flag? 
+
+#### INEZ
+
+The one dripping red? 
+
+#### BAKER
+
+The Galloping Englishman. 
+
+#### NOOR
+
+The Galloping -- Gammon's ship? 
+
+#### INEZ
+
+So there's a ship on the horizon, who cares? 
+
+#### BAKER
+
+I care!! Listen, that's not just a ship of Gammon's, it's the ship. It means just beyond him is a fleet of ships, full of men as ruthless as he is. I'm all for standing and fighting, believe you me, but I don't believe in fighting to lose. And right now, we'd not just lose, we'd be destroyed. 
+
+#### NOOR
+
+I don't understand, why areWILLIAM Helllooooooo?? Hello?? Anyone up there? [WILLIAM walks up the gangway.] 
+
+#### WILLIAM (CONT'D)
+
+Oh! There you are! What scary expressions, I hope I'm not being a bother. 
+
+#### INEZ
+
+You are. 
+
+#### BAKER
+
+Now is not a good time, sir. 
+
+#### WILLIAM
+
+(oblivious) Ha ha! So sorry, but I recognised the ship. N-E-T-A-O-A-N-S-O-M! Is Siva here? 
+
+#### BAKER
+
+Who's looking? 
+
+#### WILLIAM
+
+William Henry Baker Blair- I believe I'm already acquainted with your big friend over there. 
+
+#### NOOR
+
+Siva's not with you? 
+
+#### WILLIAM
+
+Why would he be with me? 
+
+#### NOOR
+
+Because your... Ms Mary came to collect him. Found us in the market, said she worked with you. 
+
+#### WILLIAM
+
+The only Mary I know is the virgin, I'm afraid! 
+
+#### INEZ
+
+I knew it! I knew it, and I told you. 
+
+#### WILLIAM
+
+Oh, hold on- Did this Mary have brownish hair, an expression like she sucks eggs for a living? 
+
+#### INEZ
+
+Yes. 
+
+#### WILLIAM
+
+Oh dear. 
+
+#### NOOR
+
+You know her? 
+
+#### WILLIAM
+
+I'm not one to speak ill of anyone, least of all a Lady, but... Mary Peters... let's just say there's no place for a Lady at the Queen's Museum, least of all one like her! 
+
+#### 7. EXT. DENSE FOREST -- NIGHT
+
+
+
+#### MARY
+
+Here we are. 
+
+#### SIVA
+
+Goodness, I really was turned around. This is- Governor Graham's house! 
+
+#### 6. INT. GRAHAM'S HIDEAWAY -- NIGHT -- CONTINUOUS
+
+
+
+#### SIVA
+
+I wasn't aware that Mr. Blair was close to Governor Graham. Has the Governor returned? Or is he renting the place to the Museum in his absence? 
+
+#### MARY
+
+For how long would you say you've been making maps? 
+
+#### SIVA
+
+Oh, since I could hold a quill! Nani always made sure I had plenty of things to practise with. Ink, paper, places to map -- places I knew, and had been, places I'd not seen on any other map. I like going into detail, they said that's why I'm so good. 
+
+#### MARY
+
+Good enough to sell? 
+
+#### SIVA
+
+Not yet- and certainly not for lack of trying. You would not believe how terribly rude this one shop owner… 
+
+#### MARY
+
+What kind of places do you like to put on your maps? Places your Nani took you to? She must have taken you all over. To those places you say aren't on any other maps. Were there any places she told you to never, no matter what, give away the location of? 
+
+#### SIVA
+
+No, my maps were -- are -- perfect. If it exists on this island, it's reflected in my work. Is this Mr. Blair's office? It's very... er... closed-off. No windows either -- this won't be very good for... er... Maps do look best in the natural light. ...Are you... not going to come in, Ms. Mary? 
+
+#### MARY
+
+This has been very informative, Siva. That'll be all for now. 
+
+#### SIVA
+
+Ms. Mary? [A lock THUDS shut] 
+
+#### SIVA (CONT'D)
+
+Ms. Mary? Er, excuse me, Ms. Mary? You seem to have locked the door. Oh, no. I've been bloody kidnapped again, haven't I. [Show Theme -- Outro] Trice Forgotten is a podcast distributed by Rusty Quill, and licensed under a Creative Commons Attribution Noncommercial Sharealike 4.0 International License. The series is created by Nemo Martin and directed by Rafaella Marcus. Today's episode was written by Rafaella Marcus and Nemo Martin and edited by Nico Vettese, Maddy Searle, Tessa Vroom, Katharine Seaton and Catherine Rinella. Trice Forgotten features: Rebecca Brough Vic Zander Shahan Hamza Gigi Zahir Ashley Goh Lowri Ann Davies Fay Roberts Alexander J. Newall Imogen Harris Trice Forgotten is produced by Lowri Ann Davies, Ian Geers and production manager Natasha Johnston with executive producers Alexander J Newall and April Sumner To subscribe, view associated materials or join our Patreon visit rustyquill.com. Rate and review us online, tweet us @therustyquill, visit us on Facebook or email us at mail@rustyquill.com. Thanks for listening. 

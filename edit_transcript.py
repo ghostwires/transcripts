@@ -16,8 +16,8 @@ for line in text:
     line = line.replace(' -', ' --')
     # if line[0].isdigit():
     #     line = line[3:]
-    if line[-1] == ':':
-        line = '#### ' + line[:-1].upper()
+    if line == line.upper():
+        line = '#### ' + line.upper()
     new_text += line + '\n'
 fout = open('etr_middle.txt', 'wt')
 fout.write(new_text)
