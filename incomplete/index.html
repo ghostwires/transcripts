@@ -3,19 +3,23 @@ layout: page_default
 title: Incomplete Transcripts
 ---
 
-<p>Some of these episodes may already be partially-transcribed <a href="https://drive.google.com/drive/folders/1EIFIx7OztYBW3DUcalbLz7vBGFQwJ48U">in this publicly-editable Google Docs folder</a>; those linked below can be also be downloaded in Markdown format from their archive pages.</p>
+<!-- <p>Some of these episodes may already be partially-transcribed <a href="https://drive.google.com/drive/folders/1EIFIx7OztYBW3DUcalbLz7vBGFQwJ48U">in this publicly-editable Google Docs folder</a>; those linked below can be also be downloaded in Markdown format from their archive pages.</p> --> <!-- NOTE: THIS LINK DOESN'T WORK ANY MORE. I WASN'T IN CHARGE AND I DON'T KNOW WHY -->
+
+<p>The following episodes' transcripts may be partially transcribed, partially edited, or just entire messes.</p>
+
+<!-- <p>If you've written a transcript for one of these episodes and would like me to host it here, please let me know!</p> -->
 
 <table class="toc-table">
 <tbody>
 {% assign episodes = site.posts | where: "episode_type", "incomplete" | reverse %}
 {% for post in episodes %}
-<tr>
-  {% assign url = post.url | prepend: site.baseurl %}
-  <td class="ep-number"><a href="{{ url }}">{{ post.episode_number | escape }}</a></td>
-  <td class="ep-title"><a href="{{ url }}">{{ post.episode_title | escape }}</a></td>
-  <td class="ep-podcast"><a href="{{ url }}">{% for category in post.categories %}{{ category | upcase }}<br/>{% endfor %}</a></td>
-  <td class="ep-date"><a href="{{ url }}">{{ post.date | date: "%Y-%m-%d" }}</a></td>
-</tr>
+	<tr>
+		{% assign url = post.url | prepend: site.baseurl %}
+		<td class="ep-number"><a href="{{ url }}">{{ post.episode_number | escape }}</a></td>
+		<td class="ep-title"><a href="{{ url }}">{{ post.episode_title | escape }}</a></td>
+		<td class="ep-podcast"><a href="{{ url }}">{% for category in post.categories %}{{ category | upcase }}<br/>{% endfor %}</a></td>
+		<td class="ep-date"><a href="{{ url }}">{{ post.date | date: "%Y&#8209;%m&#8209;%d" }}</a></td>
+	</tr>
 {% endfor %}
 </tbody>
 </table>

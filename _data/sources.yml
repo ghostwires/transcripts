@@ -31,15 +31,15 @@
   episodes: 
   - number: '120.1'
     title: 'Season 3 Q+A'
-    path: '/special/1201-season-3-q-a.html'
+    path: '/crossover/1201-season-3-q-a.html'
     url: 'https://drive.google.com/file/d/16a44Q_FF2ZiHEX2weRsEU8qe9mE32Wcq/'
   - number: '160.01'
     title: 'Season 4 Q+A - Part 1'
-    path: '/special/1601-season4q-apart1.html'
+    path: '/crossover/1601-season4q-apart1.html'
     url: 'https://drive.google.com/file/d/1TCRUUih_ZHrogvfKSSNrL5QkmuPlAQM1/'
   - number: '160.02'
     title: 'Season 4 Q+A - Part 2'
-    path: '/special/1602-season4q-apart2.html'
+    path: '/crossover/1602-season4q-apart2.html'
     url: 'https://drive.google.com/file/d/1VYyAH6eJaSTbRcG09EvGoUfLPSQlSPKR/'
 
 - name: 'Elizabeth Richardson (Author)'
@@ -47,7 +47,7 @@
   episodes:
   - number: '100'
     title: Lucid (Rusty Fears Winner)
-    path: '/special/1003-lucid.html'
+    path: '/crossover/1003-lucid.html'
     url: mailto:delightedmuse@posteo.net
 
 - name: 'mileaftermile.tumblr.com'
@@ -55,15 +55,15 @@
   episodes: 
   - number: 160.06
     title: MAG Duskhollow PD - Part 1
-    path: '/special/16006-duskhollowpd-part1.html'
+    path: '/crossover/16006-duskhollowpd-part1.html'
     url: https://docs.google.com/document/d/1rUzNV4hKN1m9ZGHmGCJQg8jlXpl5-tGkonhxxWZddlY/edit
   - number: 160.07
     title: MAG Duskhollow PD - Part 2
-    path: '/special/16007-duskhollowpd-part2.html'
+    path: '/crossover/16007-duskhollowpd-part2.html'
     url: https://docs.google.com/document/d/1A56AB_1xggwqM6TU906vPJV1xyD-S5X_ac0FKMzSqIg/edit
   - number: 160.08
     title: MAG Duskhollow PD - Part 3
-    path: '/special/16008-duskhollowpd-part3.html'
+    path: '/crossover/16008-duskhollowpd-part3.html'
     url: https://docs.google.com/document/d/1v8n1OapJ454uXAVev0mkNHhis1HWOtrTA6oeHaMZ6qg/edit
 
 - name: 'anatomyhouse.tumblr.com'
@@ -144,7 +144,7 @@
   episodes: 
   - number: '160.05'
     title: 'Magnus Bloopers Special'
-    path: '/special/16005-bloopers.html'
+    path: '/crossover/16005-bloopers.html'
     url: 'https://docs.google.com/document/d/16vI8sAuSb1k4aIoonjMhqEXf0u8ma9kBw2wU4f17ab8/'
     notes: 'Edited by snarp'
 
@@ -201,14 +201,14 @@
     title: "Extended Surveillance"
   - number: '176.06'
     title: "MAG Bloopers - Totally Normal Real Humans"
-    path: "/special/17606-bloopersnormalhumans.html"
+    path: "/crossover/17606-bloopersnormalhumans.html"
 
 - name: 'stellarscripts.tumblr.com'
   url: https://stellarscripts.tumblr.com/
   episodes: 
   - number: '160.05'
     title: "The Magnus Archives... in Spaaaace"
-    path: "/special/16004-inspace.html"
+    path: "/crossover/16004-inspace.html"
     url: https://docs.google.com/document/d/1DpeChM3Id81pz9Q2kkuUQrnf-t5iQHCpmk6foJHkuNI/edit
 
 - name: 'tea wood'
@@ -216,23 +216,23 @@
   episodes: 
   - number: '040.2'
     title: 'Season 1 Q+A'
-    path: '/special/0402-qa1.html'
+    path: '/crossover/0402-qa1.html'
   - number: '080.3'
     title: 'The Making of Magnus'
-    path: '/special/0803-making-of-magnus.html'
+    path: '/crossover/0803-making-of-magnus.html'
   - number: '100.1'
     title: 'Deadlands Special Part 1'
-    path: '/special/1001-deadlands-special-p1.html'
+    path: '/crossover/1001-deadlands-special-p1.html'
   - number: '100.2'
     title: 'Deadlands Special Part 2'
-    path: '/special/1002-deadlands-special-p2.html'
+    path: '/crossover/1002-deadlands-special-p2.html'
 
 - name: 'tmatranscripts.tumblr.com'
   url: https://tmblr.co/mqRcTF4GlrqVQdKIeTGFpDQ
   episodes:
   - number: '120.2'
     title: "Season 4 Trailer"
-    path: '/trailer/episode/1202-season-4-teaser.html'
+    path: '/tma/1202-season-4-teaser.html'
     url: "https://drive.google.com/open?id=1RfpMzGCdoW1mrv30jWpCf3w63QV2N5yhysO5E70MC5o"
   - number: '118'
     title: "The Masquerade"
@@ -317,7 +317,7 @@
     url: "https://tmatranscripts.tumblr.com/post/188732857886/mag160-the-eye-opens-case-0181810pdf"
   - number: '160.11'
     title: "Season 5 Trailer"
-    path: '/trailer/episode/1603-season_5_trailer.html'
+    path: '/tma/1603-season_5_trailer.html'
     url: "https://tmatranscripts.tumblr.com/post/613497633650212864/mag-05-season-5-trailerpdf"
   - number: '161'
     title: "Dwelling"
@@ -369,15 +369,15 @@
     url: https://tmatranscripts.tumblr.com/post/623824050313166848/mag176-blood-ties-case-16pdf
   - number: '176.01'
     title: The Magnus Archives Liveshow
-    path: '/special/17601-liveshow.html'
+    path: '/crossover/17601-liveshow.html'
     url: https://tmatranscripts.tumblr.com/post/624444329573924865/tma-liveshow-london-podcast-festival-2019pdf
   - number: '176.03'
     title: What The Ghost? - The Devil's Dance
-    path: '/special/17603-whattheghost.html'
+    path: '/crossover/17603-whattheghost.html'
     url: https://tmatranscripts.tumblr.com/post/625768530444500992/what-the-ghost-the-devils-dance
   - number: '176.04'
     title: MAG Fluff - Epiphany
-    path: '/special/17604-epiphany.html'
+    path: '/crossover/17604-epiphany.html'
     url: https://tmatranscripts.tumblr.com/post/626395186278367232/mag-fluff-competition-winner-1-epiphanypdf
   # - number: '178'
   #   title: ""
@@ -388,15 +388,15 @@
   episodes:
   - number: '000.1'
     title: Seed
-    path: '/trailer/episode/0001-seed.html'
+    path: '/tma/0001-seed.html'
     url: https://drive.google.com/file/d/11-o-0-ePh5Dzoj99OnVv785uGciq_5R0/
   - number: '000.2'
     title: 'Pre-Launch Trailer'
-    path: '/trailer/episode/0002-pre-launch-trailer.html'
+    path: '/tma/0002-pre-launch-trailer.html'
     url: https://drive.google.com/file/d/11-o-0-ePh5Dzoj99OnVv785uGciq_5R0/
   - number: '000.3'
     title: 'Launch Trailer'
-    path: '/trailer/episode/0003-launch-trailer.html'
+    path: '/tma/0003-launch-trailer.html'
     url: https://drive.google.com/file/d/11-o-0-ePh5Dzoj99OnVv785uGciq_5R0/
   - number: '001'
     title: Anglerfish
@@ -520,7 +520,7 @@
     url: https://drive.google.com/file/d/1_bd3trQmWtvaYJ8TvWxhPiw1VLmNq-tp/
   - number: '040.1'
     title: 'Season 2 Trailer'
-    path: '/trailer/episode/0401-mags2-trailer.html'
+    path: '/tma/0401-mags2-trailer.html'
     url: https://drive.google.com/file/d/11-o-0-ePh5Dzoj99OnVv785uGciq_5R0/
   - number: '041'
     title: Too Deep
@@ -578,11 +578,11 @@
     url: https://drive.google.com/file/d/0BwU6M4sYgbYdOUhKdjFwLTRfY2M/
   - number: QA2
     title: Season 2 Q&A
-    path: '/special/0801-qa2-p1.html'
+    path: '/crossover/0801-qa2-p1.html'
     url: https://drive.google.com/file/d/0BwU6M4sYgbYddXhPSmdxR2pnUFE/
   - number: '080.4'
     title: 'Season 3 Trailer'
-    path: '/trailer/episode/0804-mag-s3-trailer.html'
+    path: '/tma/0804-mag-s3-trailer.html'
     url: https://drive.google.com/file/d/11-o-0-ePh5Dzoj99OnVv785uGciq_5R0/
   - number: '081'
     title: A Guest for Mr. Spider
@@ -722,11 +722,11 @@
 
   - number: '189.1'
     title: 'MAG Cast Q&A - Retrospective #1'
-    path: '/special/18901-magcastq-a-retrospective-1.html'
+    path: '/crossover/18901-magcastq-a-retrospective-1.html'
     url: https://drive.google.com/file/d/1A4EcMVjXMMHp68Wgshs3LVsmukMeZ_aS/view
   - number: '189.5'
     title: 'MAG Commentary - Retrospective #2'
-    path: '/special/18905-commentary-retrospective-2.html'
+    path: '/crossover/18905-commentary-retrospective-2.html'
     url: https://drive.google.com/file/d/1D5D_nxbToqTIK5sxyco1a7FQfyRDSqCY/view
 
   - number: '190'

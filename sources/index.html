@@ -3,34 +3,48 @@ layout: page_default
 title: Transcript Sources
 ---
 
-<p>Any transcripts on this site not listed below were sourced from <a href="https://drive.google.com/drive/folders/0BzWtYJgwf5A9NU1Vd0pMTG9HcmM">the Rusty Quill's official transcript archive</a>. (Unless I let this page get out-of-date; please <a href="mailto:{{site.email}}">let me know</a> if something looks wrong!)</p>
+<p>Any transcripts on this site not listed below were sourced from the Rusty Quill's official transcript archive:</p>
+
+<ul>
+	<li>
+		<a target="_blank" href="https://rustyquillcom.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?id=%2FShared%20Documents%2FRusty%20Quill%20Public%20Access%2FTranscripts%2FThe%20Magnus%20Archives%2FMAG%20PDF&p=true&ga=1">The Magnus Archives official transcripts</a>
+	</li>
+	<li>
+		<a target="_blank" href="https://rustyquillcom.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?id=%2FShared%20Documents%2FRusty%20Quill%20Public%20Access%2FTranscripts%2FRusty%20Quill%20Gaming%2FRQG%20PDF&p=true&ga=1">Rusty Quill Gaming official transcripts</a>
+	</li>
+	<li>
+		<a target="_blank" href="https://rustyquillcom.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?id=%2FShared%20Documents%2FRusty%20Quill%20Public%20Access%2FTranscripts%2FTrice%20Forgotten&p=true&ga=1">Trice Forgotten official transcripts</a>
+	</li>
+</ul>
+
+<p>(Unless I let this page get out-of-date; please <a href="mailto:{{site.email}}">let me know</a> if something looks wrong!)</p>
 
 {% for source in site.data.sources %}
 <h3>
-  {%- if source.url -%}
-    <a target="_blank" href="{{source.url}}" name="{{source.name}}">{{source.name}}</a>
-  {%- else -%}
-    {{source.name}}
-  {%- endif -%}:
+	{%- if source.url -%}
+		<a target="_blank" href="{{source.url}}" name="{{source.name}}">{{source.name}}</a>
+	{%- else -%}
+		{{source.name}}
+	{%- endif -%}:
 </h3>
 <table class="toc-table sources-table">
 <tbody>
-  {%- for episode in source.episodes %}
-    {%- capture ep_path -%}{{site.baseurl}}
-      {%- if episode.path -%}
-        {{episode.path}}
-      {%- else -%}
-        /episode/{{episode.number}}.html
-      {%- endif -%}
-    {%- endcapture -%}
-  <tr>
-    <td class="ep-number"><a href="{{ep_path}}">{{episode.number}}</a></td>
-    <td class="ep-title"><a href="{{ep_path}}">{{episode.title}}</a></td>
-    <td class="ep-source">{% if episode.url -%}
-      <a target="_blank" href="{{episode.url}}">Source</a>
-    {%- endif %}</td>
-  </tr>
-  {%- endfor %}
+	{%- for episode in source.episodes %}
+		{%- capture ep_path -%}{{site.baseurl}}
+			{%- if episode.path -%}
+				{{episode.path}}
+			{%- else -%}
+				/tma/{{episode.number}}.html
+			{%- endif -%}
+		{%- endcapture -%}
+	<tr>
+		<td class="ep-number"><a href="{{ep_path}}">{{episode.number}}</a></td>
+		<td class="ep-title"><a href="{{ep_path}}">{{episode.title}}</a></td>
+		<td class="ep-source">{% if episode.url -%}
+			<a target="_blank" href="{{episode.url}}">Source</a>
+		{%- endif %}</td>
+	</tr>
+	{%- endfor %}
 </tbody>
 </table>
 {% endfor %}

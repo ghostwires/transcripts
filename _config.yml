@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Very Unofficial Transcripts Archive
-email: will fill in later
+email: creeperfromdiscord@gmail.com #ugh i need to make a new one probably
 author: ghostwires
 # description: > # this means to ignore newlines until "baseurl:"
 description: 'Podcast transcripts in more-readable format! Forked from snarp.github.io/magnus_archives_transcripts'

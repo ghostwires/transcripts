@@ -15,7 +15,7 @@ title: 'Special Episodes - Q&A, Contest Winners, Etc.'
 	<td class="ep-status">
 	</td>
 	<td class="ep-podcast"><a href="{{ url }}">{% for category in post.categories %}{{ category | upcase }}<br/>{% endfor %}</a></td>
-	<td class="ep-date"><a href="{{ url }}">{{ post.date | date: "%Y-%m-%d" }}</a></td>
+	<td class="ep-date"><a href="{{ url }}">{{ post.date | date: "%Y&#8209;%m&#8209;%d" }}</a></td>
 </tr>
 {% endfor %}
 </tbody>
