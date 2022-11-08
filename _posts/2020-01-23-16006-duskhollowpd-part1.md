@@ -529,9 +529,9 @@ No, no, the -- Doc Slaughter, she's -- she's the psychiatrist for Duskhollow PD 
 
 #### SASHA
 
-I think you're thinking of, uh, fern sturgeon, ship's surgeon.[^1]
+I think you're thinking of, uh, Fern Sturgeon, ship's surgeon.[^1]
 
-[^1]: This could be something else because I don't know what Sasha's referencing here.
+[^1]: A reference to Rusty Quill Gaming's Not Far to Bermuda special.
 
 #### ALEX
 

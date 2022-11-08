@@ -19,6 +19,7 @@ author: ghostwires
 # description: > # this means to ignore newlines until "baseurl:"
 description: 'Podcast transcripts in more-readable format! Forked from snarp.github.io/magnus_archives_transcripts'
 language: en-us
+correction_form: 'https://forms.gle/Q2K4w5zBCYTd5EPu8'
 
 # # If you're hosting your site at a Project repository on GitHub pages
 # # (http://yourusername.github.io/repository-name)
