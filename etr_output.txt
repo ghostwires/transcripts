@@ -1,3 +1,123 @@
+
+
+#### NEMO
+
+Hello and welcome to the seventh episode of Below Decks where we dig into some of the research questions, stories and generally tangential interesting things that went into making Trice Forgotten. I'm Nemo, my pronouns are they them and I'm the creator and lead writer of the series. This episode is coming out after episode eight of the podcast, A Rigged Game where Siva has introduced the crew to Katlitivu We've met Mary and Alestes has made some threats. Today on Below Decks we're going to be talking about Soundscaping Trice Forgotten and I'm delighted to be talking to two of our audio designers, Cathy Rinella and Katie Seaton. Just wanted to say Maddy was also supposed to be here, but unfortunately she's unwell today. So just wanted to acknowledge her efforts for this show too. So let's do Katie then Cathy, could you introduce yourself with your pronouns and tell us a bit about what you do on the show? 
+
+#### KATIE
+
+Hello? Yeah, Katie here. Uh, billed as Katharine on the show notes I think which, and so is Cathy cause we like to confuse you. <laugh>. My pronouns is She / her. I am one of the soundscapers and also editing in the music and occasionally writing a little bit of extra music where it's needed. 
+
+#### NEMO
+
+Amazing. Cathy, 
+
+#### CATHY
+
+I'm Cathy. My pronouns are she her and I am the masterer for Trice Forgotten and a lot of the other uh, Rusty Quill productions. I basically go in and I make sure everything is good to go post soundscaping and then it's ready to uh, be heard by our lovely audience. 
+
+#### NEMO
+
+So I wanted to start off by saying that this show is edited by a huge group of people. Um, we've got Maddy Searle, Nico Vettese, Tessa Vroom, Lowri Ann Davies, James Austin, and of course you two, Katie and Cathy. And you kind of briefly described a little bit about what you do, things like mastering from my outsider position, I've seen that there's things like a rough cut, a vocal cut, a music cut. Um, can you explain to a listener what all of these things are and why there are so many drafts of the show, I guess? 
+
+#### KATIE
+
+Who's gonna take that one? 
+
+#### CATHY
+
+<laugh>. So I started laughing cause there's so many cuts, there's so many cuts all over the place. I can give a breakdown and Katie maybe you can kinda like describe like the difference between what it is now and what it was before because I'm still relatively a newbie. The process kind of goes, we start with the vocals with all the lines that have been recorded, the raw recordings and our vocal cut editor goes in and uses all of the notes from directors and producers to piece together a rough cut of the audio, which is basically a working cut of all of the actors' lines in the approximation of both timing and takes that were desired to create the full story because all of our actors, because they record remotely, we do multiple takes in these recording sessions. From there the rough cut goes to be reviewed by Raf as director who then checks the see which which takes are good if something needs to be swapped out, if we've got something missing, either the vocal cut editor or Raf makes a flag of it saying "Hey, this wasn't in the script", or "Hey we need to add this", and once we have those notes and we find all the materials to make those corrections, then the rough cut becomes the vocal cut, which is then cleaned up and sent off to the soundscapers. Soundscaping does. Um, Katie if you wanna jump in and describe the the Soundscaping 
+
+#### KATIE
+
+<laugh>. Okay. So we set it into a workflow where Maddy does the initial pass on getting it all put together and creating the world. There's been a few episodes where it's been someone else and the first couple Tessa and Maddy sort of did it as a team and the third episode was all me. And then we sort of settled into what we're doing now, which is Maddy goes in at first and adds all the ambiances and builds sort of a really immersive sort of authentic feeling place to be for the actors and, and then obviously we start sort of putting in all the movements and the little bits of foreground, um, detail that tell us what they're doing, give us that sense of authenticity that makes us believe that the characters are really there and really, really real people. 
+
+#### NEMO
+
+Mm-hmm <affirmative> 
+
+#### KATIE
+
+Cathy then takes a look with a fresh pair of ears for audio quality and whether it's kind of landing right. You know, cause it can be hard when you spent 20 hours auditioning 300 different sounds to try and find the right on or going off with your microphone to try and record them and put it all together. You kind of go I dunno if this works or not now. Yeah, I'm done. You know, and so it's good to have someone to hand over do to listen to the fresh ears and um, Cathy w ill make lots of notes and give feedback. 
+
+#### CATHY
+
+Sorry, 
+
+#### KATIE
+
+Which <laugh> nah that's fine. 
+
+#### NEMO
+
+Lots of notes is good. I say as someone who doesn't get them 
+
+#### KATIE
+
+<laugh>, I personally am quite unusual in audio post cause I quite enjoy working through a list of notes because it means none of that annoying thinking, cause I'm literally just tick, tick, tick. Yeah. So it is quite relaxing when you've done the initial past just be working through director's notes or whatever and Maddy and I share our actioning notes though some things have to be done by Maddy because it's on her computer and it's in her project and we don't work in the same digital audio workstation so we can't quite seriously share projects. And then I will do some of it as well for various reasons. Either just to take workload off her or because there's something which is particularly my thing, I'm quite into soundset dialogue and merge. I'm quite into first person point of view and obviously because I'm doing the music and I'm also a musician, I'm quite into sounds that blend with music and how they interact cause that can sometimes do something really magical. So those sorts of things. Or if it's timing like we're trying to adjust the timing of how the characters are moving or speaking music might have an impact on what we wanna do there. Which is the big difference between audio drama and film when you're working in post.Cause in audio drama you've got a lot more, um, creative power I suppose to reconstruct something to work. Whereas in film you are much more following what the editor has already decided. Right. So yeah, for timing reasons, if I'm reading the edit a little bit, I might take that on and then obviously I'll be editing in Sam's music, Sam's wonderful music, which I'm sure we're gonna come to and passing that on to Raf a final check to make sure it works for Raf too. And then Cathy will take it and do the final processes, get it ready to go out, get it the right loudness and get all the, you know, all the specs in and stuff that 
+
+#### NEMO
+
+It's, oh my gosh, like I knew how much effort goes into it, but you just talking about it. I'm like wow, I didn't know how much effort went into it. <laugh>. It's so many different people listening to make sure that everything sounds good to multiple people as well. Ugh. Ugh, you're so impressive. I'm so in awe. <laugh>. So we've had some like pretty fun conversations about really like really specific sounds needed for this show. I know that Maddy said it took her a surprisingly long time to find the right fish flapping sound effects when I'm working on the design for episode five when the crew are trawling. Are there sounds that you are really happy with that you think an audience might not like, appreciate how difficult it was to find 
+
+#### KATIE
+
+mm-hmm. <affirmative> <laugh>. 
+
+#### NEMO
+
+Slow nodding. Yes, there are next question. <laugh>. 
+
+#### KATIE
+
+That's always the case though. The curse of the sound person is often if you get it right, that's when people don't notice. 
+
+#### NEMO
+
+Yeah. 
+
+#### KATIE
+
+Because you can spend sometimes half an hour just tweaking automation and perspective and stuff to make sure that footsteps really sound like they're coming from over there and this person really 
+
+#### CATHY
+
+mm-hmm. <affirmative>. Mm-hmm. 
+
+#### KATIE
+
+And if you get it right, it just sounds like the world cause that's what you're going for and people will switch off because they're not even paying attention to the sound. So it's surprising how that kind of thing, getting a door close right, or getting footsteps oriented right, or something like that. Or getting somebody who's speaking in the mid distance to sound like they're speaking the mid distance can be harder than like the really dramatic sounds that everyone notices. Like in the trailer, there was a moment right at the beginning of the trailer where the little girl was being pulled out the water and that was quite a dramatic sound and very fun to create. But actually, you know, it, it wasn't the hardest bit <laugh> You know? Right, so... 
+
+#### CATHY
+
+Yeah, I think to go off of what Katie's mentioned, it's deceptive in that some of the hardest stuff is a lot of the mundane stuff because there's so much in day-to-day sounds that people hear that they've come to expect to hear, so they don't realize they're hearing it. So it's like the type of footfalls, the sounds of, of the air and the soundscape around you the sounds that people make when they're fidgeting, when their clothes move. And there's a very fine process of recognizing that those sounds need to be in there and then understanding how to execute them. 
+
+#### KATIE
+
+Mm-hmm. <affirmative> 
+
+#### CATHY
+
+Footsteps are a huge deal. And, and Katie correct me if I'm wrong, but we've not really had much work in the way of footsteps in most of our past series. Stella Firma might be where we've had the most of any of that, but 
+
+#### KATIE
+
+I don't really, Yeah. I've not been working in this side of things for Rusty Quill for that long actually. Um, I was doing most of my sound work outside of Rusty Quill. Yeah. But Stellar is quite formulaic. It's got kind of like a more of a cartoony feel. So I think the footsteps are pretty much the same each time. So probably this is the first time we're doing this kind of thing, yeah. 
+
+#### CATHY
+
+Yeah, exactly. Magnus archives is, you're stuck in the tape recording atmosphere. 
+
+#### KATIE
+
+Yeah. 
+
+#### CATHY
+
+Basically, Stella Firma, you're in the room with David seven and you are just, you get to hear whatever, whatever happens that day. Rusty Quill Gaming revolves around a storytelling aspect where you don't cue in all of the passive action or else it's gonna be too distracting from the actual story that's being told. Same for Chapter & Multiverse. So digging into Trice has meant that our editors have had to rethink how to develop soundscaping, how to deploy it and how to find the right balance to both create a very realistic immersive soundscape without going overboard and trying to find the right balance of like, how do we make this fit into the scene. It's getting back to, to my original example of footsteps. It's one of those things where if you hear it done right. You don't notice it. 
+
+#### NEMO
+
 Yeah. 
 
 #### CATHY
@@ -42,3 +162,432 @@ Cause I was having to construct it in a much more kind of from first principles 
 
 #### CATHY
 
+I'm laughing over here because Katie's got 15 layers of soundscaping for ambience. And then it gets to me and I'm like, you know, we need more foreground sound effects. Can you put it on another layer too on this track instead of, of like, I'm sure there's moments of "Cathy just stop it!" 
+
+#### KATIE
+
+<laugh>. Yeah. 
+
+#### NEMO
+
+I hadn't really thought about it but I, I guess yeah. It's really not the kind of podcast where you can kind of go to Epping Forest or whatever and just be like, Yeah, trees are trees 
+
+#### KATIE
+
+Right, yeah! <laugh>. 
+
+#### CATHY
+
+It really isn't. 
+
+#### KATIE
+
+And there's stuff you don't notice, like, um, humidity in the air, which affects how things sound. There's not so much we can do about that. And it, you've gotta, you've gotta draw the line somewhere. 
+
+#### CATHY
+
+Yeah. Even coming down to, uh, ocean sounds, there's a big difference between, and it partially cause of the temperature of the air. There's a big difference between the sound of the Indian Ocean versus closer to the Arctic. 
+
+#### KATIE
+
+Mm-hmm. 
+
+#### CATHY
+
+There's some great crashy sounds from the rougher seas of the colder oceans. You get a sharper sound out of those wave crashes than you do warmer seas. But that doesn't really fit. It kind of throws off the scene if, if we mix it too much. I think we probably still throw in a little bit here and there for accent, but there's still a difference in that. Some of how we work around that is we do a significant amount of foley on this show. 
+
+#### NEMO
+
+For an audience member who maybe doesn't know what foley is, do you wanna describe what that is? 
+
+#### CATHY
+
+Foley is, uh, the terminology I'm using for foley is the creation of sound to spec based on the script in an analog way. Meaning like, if I need paper rustling, I'm gonna <rustles paper>. 
+
+#### NEMO
+
+Right. 
+
+#### CATHY
+
+"I've got, I've got, I've got this big thing of, uh, papers that I gotta look through here. And, uh, I'm making foley by moving all the papers back and forth here looking through this script" when we can create something using foley or doing something by hand in front of a microphone, it saves us so much time and or stress of having to go and do searching for a very specific sound. 
+
+#### KATIE
+
+So my episode, um, you see the first two episodes were like all drama with kidnappings and the executions and then I get the Fish and Chips episode. 
+
+#### NEMO
+
+Yeah. <laugh> <laugh> 
+
+#### KATIE
+
+Surprisingly complicated. Probably the most complex sound, um, in fish and chips that we've had so far. There was a sound of a sack of potatoes being dropped on a deck which you'd think being fairly everyday kind of objects would be quite easy to source. You know, I've, I've got various subscriptions and sound libraries that I own, you know, and nothing. Nowhere. 
+
+#### CATHY
+
+It all sounds like a body being dropped, right? <laugh>. 
+
+#### KATIE
+
+Yeah, yeah, yeah. So eventually I had to buy some potatoes, put them in a pillow case and drop them on some wood. Yeah. Which is, um, fine. Um, 
+
+#### NEMO
+
+<laugh> <laugh>, 
+
+#### KATIE
+
+Uh, we had a lovely Saag Aloo afterwards, which is great. It's always good when there's food involved cause you, you know, Yeah, 
+
+#### NEMO
+
+Yeah, 
+
+#### KATIE
+
+Nothing goes to waste then, but, um, then there are some times you, you simply cannot do yourself, you know? The one that springs to mind about that is in the tavern, in the first scene of episode three, the script was calling for some local singing, you know, it's like a sort of lively tavern with people having fun and they want some folk songs or tavern, It just, I think it just said like, um, drinking song or something like that, or, so that's one of these things, it's very easy to write and then you think, well, okay, what would it be? You know, we've got kind of a busy port, a kind of world hub in that era who is singing, first of all, is it people who are native to the island and what would they be singing if so, you know, what sort of songs did they sing. Or is it travelers and merchants who've come to port, you know, and are stopping off there? You know, so we, we could have like European folk potentially as well. Raf and I agreed that actually it would be really cool if it kind of felt like a bit of a melting pot and we had. That competing singing almost like, so you could hear all different cultures interacting there. Um, however that went on, I managed to find a lovely recording., actually. We didn't have enough time, unfortunately, to do this in a more kind of, um, planned way. But luckily, um, there were some creative commons recordings of somebody had gone out to India and made some field recordings and we found that that was authentic enough to be used in that setting at that time. Um, I even got in touch with the field recordist and sort of said, Do you know what song they're singing, and they didn't know, but I think we managed to establish that, you know, it was not gonna be anachronistic or whatever. And it was, it was fairly authentic and, you know, it was, it was possible that somebody would've traveled over to Sri Lanka and and be singing there. And then I also managed to find some British folk that was recorded in the British pub. And that was very interesting. I know a bit more about British folk cause like, you know, musician in England and they started off singing a traditional song, which is quite the case in modern British folk when you sort of see it in like a more like actual community setting. They started on something fairly traditional and then they moved into something that actually been written by a folk band in the fifties, you know, and that it, so, but, but actually transitioned musically into it in such a way that it felt seamless. So I was having to find a kind of a good loop point so I could just loop what they were doing. And then I was kind of editing in clap and stomps that I'd recorded to feel like they were doing a little dance with it or whatever. And so, you know, the little bit of background singing in that scene probably took me several hours in total. What with all the research and the recording and the editing, you know? Yes. So it's kind of a patchwork. 
+
+#### NEMO
+
+Yeah. Uh, yeah. It's quite funny cause when I've been listening to it, I've been privy to some of the things that you guys have been talking about on teams. So I've been really appreciating, I think it was episode two when Noor was introduced, you can hear Noor's bracelets on their arm before they mention having bracelets. And I thought that that was Yeah, I, I really love that. And I'm sure like if people go back and listen to episodes, they will hear the, like audio foreshadowing of scenes that are too come that like, you probably don't notice the first time listening to it because it is just part of the world that they're 
+
+#### KATIE
+
+In. Mm. Yeah. That was all Cathy all that Foley. That was lovely that we, to get that down. It's this thing about, like, um, sound is as much storytelling as writing and acting. Um, it may be sort of, it sits in a different place, but yeah. When you start to notice these things, you realize how much, um, storytelling you can do with just audio, which is lovely. 
+
+#### CATHY
+
+Yeah. And to Katie's point, there's so much research that goes into it that I, I don't think even we fully realize until we've dug into this script and starting to look through the, the soundscape work. 
+
+#### KATIE
+
+Fishing rods! 
+
+#### CATHY
+
+Yeah! 
+
+#### KATIE
+
+Oh my goodness. 
+
+#### NEMO
+
+Yeah. Just to get about to say like, um, some of the additional research needed for this show. Like, Yeah. Cathy, you and I have had quite a few conversations about fishing rods and trawling and, and what was invented. What are some of the considerations you've had, like for the fishing? Like tell the fishing rod story 
+
+#### CATHY
+
+<laugh>, you tell your fishing rod story Katie, and, and then we can go into trawling <laugh>. 
+
+#### KATIE
+
+Okay. Yeah. Oh, I think Maddy and I both went through the sort of fishing rod hazing of working on Trice 
+
+#### NEMO
+
+<laugh> <laugh>. 
+
+#### KATIE
+
+So yeah. Things I have Googled that I never thought I would, you know, so, So what is development of the fishing road of the 19th century? It turns out quite a lot of the innovation came from the far east, so, you know, that gives a little bit of leway because the thing is if you have a real old fishing rod, which is just a stick with a bit of string on it, I looked it up and in Europe they were using like hazel with horse hair, but they're using silicon bamboo in the far east, you know, that doesn't make any sound. So it might be authentic, but it's really rubbish for our purposes, you know, whereas lovely reeling in sound. It's beautiful. But we weren't sure if that was actually something we could do. can't remember how we ended up, actually, I think when Alestes was fishing, she was just using a rod and we were kind of making like, kind the flip flip on the water noises where, what's it called? Trolling, right? 
+
+#### NEMO
+
+Yeah. It's good trolling. 
+
+#### CATHY
+
+Yeah. Yeah. So I think when, when it was first introduced Katie, it was your single fishing pole with the silk string, just like simple fishing off the side of the boat. But then we got to episode five, and suddenly the script called for more than that sound could provide, because there was a struggle of trying to pull the coelocanth up out of the water. It required three people and Noor was specifically saying, give it some slack now real, give some slack and real. And in order to keep that tension, we couldn't necessarily leave those lines out. They had to stay in to create that moment. So we had to, 
+
+#### KATIE
+
+Whoa, we, we, we were basically like, okay, so Inez is an innovator, Right. So now they have a reel. <laughs> I bet Alestes nicked Inez's reel! 
+
+#### CATHY
+
+Yeah. There, there, there was an additional conversation I think, uh, on, on teams where we were talking about like, okay, like we know reels are around during this time, but do we know how complicated they are? Can we pass off with this sound...? 
+
+#### KATIE
+
+Mm-hmm. Made would not the plastic that I think I'm hearing... 
+
+#### CATHY
+
+Yeah. Yeah, exactly. It's like that's probably an artificial line being used, but Mm. That, that's kind of where we kind of, we have to figure out where to draw the line. When we do these things, we try to keep out as much anachronistic stuff as possible, but sometimes it just can't be helped 
+
+#### KATIE
+
+<laugh>. Yeah. And this is another actually interesting thing about sound work because you start to realize how much you are relying on a certain amount of semiotics and established conventions and sign posts have been built up since the audio visual era started. And how much of that is actually connected to the 20th century and how the 20th century sounded for example, I've just start to an episode eight, uh, Morgan's written, you hear a character approaching in heels and I'm thinking, But would they have had, I don't know, but I know why that's in the script. Like little heels, maybe we get away with. But that kind of character needs to be wearing heels because that's, it's like, it's Foley is also a form of acting and it tells you stuff about who the character is, you know? And that's something that, you know, you can't just ignore all the semiotics because people are expecting it and it orients them and it gives them information about what we are telling them about the, about the characters and the story. So there's a compromise we had sometimes there as well in terms of authenticity versus actually what is good storytelling. 
+
+#### NEMO
+
+Yeah. I mean, like this character specifically, I'm assuming you're talking about the sex worker and like hearing her in like flip flops would give you a completely different, like, you wouldn't get the, the atmosphere. 
+
+#### KATIE
+
+It might be authentic, but you know, it's not with, 
+
+#### CATHY
+
+And, and even the, the, the difference of, well boots we've heard on a lot of the characters so far, technically boots have heals, so we now we need to find a shoe that sounds more like heels than regular boots. Yeah. But not the same but different. But yeah. <laugh>. 
+
+#### KATIE
+
+Yeah. But most of the, maybe not Siva, but most of the characters are kind of like, they are booty people, you know, they would stomp around and have a bit of weight, you know, in, in the way they move. And it's a, but it's, it's amazing what you Google 
+
+#### CATHY
+
+<laugh> <laugh>. 
+
+#### KATIE
+
+I have, I've seen no concerns about anybody looking at my search history cause it's all stuff like, what kind of sheep did they have in Sri Lanka in the 19th century <laugh>? Oh 
+
+#### CATHY
+
+My God. <laugh> looking up 18th century chairs on nautical ships. 
+
+#### KATIE
+
+Yeah. That's my thing now. 
+
+#### CATHY
+
+Yeah. There, there's so much little stuff that we've had to kind of reteach ourselves. Half of what I end up doing in mastering on my original pass back is just listening for stuff that sounds modern. It's, it's listening for stuff that like, it's, it's impossible to, for any of us to have a full comprehensive view, knowledge, education, understanding of everything. 18th century Yeah. Everything related to this particular geographic location time period. But what we can do is at least listen out for, Okay, that does not sound 18th century. It sounds too modern. It sounds dated. It's taking me out of the story because it's not quite fitting with the world. I mean, with, with the, with the chair thing, for example, I think at one point when we were working on ship stuff, I was a pest <laugh> and, and I went to back to Maddy as we were working on some of the creeks and like furniture movement and was like, okay, well this chair has a little bit of leather creek to it, which normally would be fine, but in terms of, uh, stuff on a ship, it has to be either heavy and sturdy or easily stowed. Because on the ship you're always gonna have movement. You're gonna have rough seas. You have to account for not being at port for a long time. You have to get stuff that is going to stay put. So it's more likely you're looking for like a really heavy wooden chair with wicker used instead of these extra materials. Yeah. It's, it's little stuff like that. And the listener's never gonna know 
+
+#### NEMO
+
+<laugh>. Yeah, yeah, yeah. 
+
+#### CATHY
+
+But but to just get it set up Right and to help us establish an audio atmosphere Mm. And set our own precedence for later episodes as well. It's crucial. Especially in those, those first like, I think four or five episodes we've had to take a lot of notes on materials that we've used, what the characters have been wearing, places we're trying to keep track of. Like, okay, this atmosphere is for this island. This crowd sound we heard on this island, it needs to stay here because <laughs> the same group of people doesn't travel everywhere. 
+
+#### KATIE
+
+There's a script direction that goes "Okay, this same place, but now it's really quiet because it's a hot day." You're like... thanks for that <laugh>. 
+
+#### NEMO
+
+<laugh>. Yeah. When I was writing the episodes, I was like, and they go to another port. It is gonna be another country though, so I'm not, uh, but sorry editors, that's not my responsibility. <laugh>, 
+
+#### KATIE
+
+I love your style of just like inventing like, uh, this is gonna be this place now. That's, that's where they are. Yeah, it's really great. 
+
+#### CATHY
+
+I've never been so happy to see like random unassuming islands that have no name <laugh>. They're great. I love them. 
+
+#### NEMO
+
+<laugh> "this spit of land, which has some bugs on it. Thanks". 
+
+#### CATHY
+
+Yes. It's great. 
+
+#### NEMO
+
+I mean also I did try to like write in the little bit of research that I did do for islands was when I was like, there's this bird on it. Um, which would locate it in a certain way so it wasn't just like seagulls everywhere, which I think is what you do kind of here in most like sea sounds 
+
+#### KATIE
+
+That is one of those signposts I think that cues people in, you know? But yeah, we don't have to, we can invent new ones. Hey. 
+
+#### NEMO
+
+Yeah. 
+
+#### KATIE
+
+Let's have an interesting bird. 
+
+#### NEMO
+
+<laugh>. 
+
+#### KATIE
+
+I was, I was gonna say about like you were talking about, Oh, old sound designers would ever notice this authentic bird. I feel like if any audience is gonna notice it'll be Rusty Quill's audience. 
+
+#### CATHY
+
+Yeah. Our audience is very aware of audio. Very, 
+
+#### KATIE
+
+Which is brilliant, you know 
+
+#### CATHY
+
+Yeah. It's wonderful. 
+
+#### KATIE
+
+It's great. That's what we want. We want people who are noticing what we're doing. 
+
+#### CATHY
+
+Yeah. Right. Yeah. So, uh, for example, episode seven where we go to Canada, we go to Nova Scotia. Mi'kma'ki fortunately for that particular episode, I grew up near Canada or at least able to go visit. So looking at our soundscaping and looking at what the, the script's asking for and everything like that, it was like, okay, I know why we're asking for these things, but we may need to swap out the wildlife. Or I know that little stuff that isn't gonna make it down the cut. Like, um, I think at one point it was asked for cicadas being in there, which is very much North American. But because it's so cold, especially given like the cold atmosphere that we're trying to project to differentiate from the seas. It's too cold for the cicadas. We can't actually have it. We've gotta swap it out with something else. Crickets. We can add crickets in. And it, it seems like such a small thing, but I guarantee we've got listeners in Canada who are going to be hyper aware of how we build the soundscape and be like, Yeah, we don't hear any of that wildlife nearby. I'm gonna call Bull. 
+
+#### NEMO
+
+Yeah, yeah. 
+
+#### KATIE
+
+And we all know what it's like when it's the thing that we happen to know about, then you can pick the holes in it, 
+
+#### NEMO
+
+Yeah. Oh, for sure. I think it's fair to say that music plays a huge part in this show, obviously beautifully composed by Sam Jones. And I think it's also fair to say that decision when to play music is vital in creating the right tone. What are the things you're thinking about when you are kind of making the music cut of the show, deploying music at certain times? You said Katie, that you also are additionally composing some music. When are those things coming into the episodes? 
+
+#### KATIE
+
+I've only written something once so far. The only cue that's by me is in episode five I'm going for, and that was for when Baker tells the origin story for the name of the Netoansom. And it was one of these things I was finding as I was going through and doing the second pass on the sound there, that my attention was wandering a little bit every time I listened to it. And I felt like we needed some device to sort of emotionally focus that story because it, you know, it's quite significant in a way, you know, psychologically speaking that's quite significant to learn that. And you know, what it tells you about Alestes as well as a character who we've not seen the whole of yet, I think. And so we needed to move a little bit more into the emotional space and away from that kind of hyper real ambience that we were creating to try and put people in the, in the physical space. So we wanted to slightly fade out the ambience and fade in some music that says this is a moment, you know, and listening to Baker's story, you know, because it's gonna be significant emotionally speaking and Vic tells it in such a quiet kind of unassuming way, um, to fit the character, you know. And so it is not naturally drawing attention to with performance, you know, So we need to be drawing the audience in rather than shouting it out at them. And because Sam's music is just fantastic and I could go on about it for ages and why it's fantastic, but obviously a certain amount was commissioned for certain purposes and the producers when they were commissioning it, um, didn't necessarily know exactly how the music's gonna be deployed and nor did Sam. So what we have is we have some quite significant amounts of material suites based on, um, character theme. So there's the main theme and we also have suites for different bits of material based around music for Alestes, for Gamon, for Ahn and Siva. And I tried various things in that moment and there wasn't really anything that did what we needed to do. Cause it was quite unusual. Like most of what was going on in the show is, is not like that. But that had a more kind of fairytale legend sort of... to me it looked like one of those silhouette puppet shows like, you know, the, um, creation story, like something that was sort of telling it like in a, in a puppet theater, in a kind of stylized way that that was kinda the image I was getting or the vibe I was getting. And I, I wanted that to be reflected. So in the end, you know, I was just, this isn't working, you know, we need to tailor something for this moment. And so we got permission from April for me to do that, even though I'm not the primary composer for this series. And I was able to kind of put some word painting into music around the sea and the creation of the sea and everything kind of coming to life bit by bit and that kind of shivery feel. And then in the second half of that queue I moved into Sam's chords and to a certain extent his, the rhythms he uses in the main theme. So we are kind of, you know, it has something to touch the rest of the show, but also feels a bit distinct as the story kind of grows in kind of momentum and energy. So there, there, there was good reason then to write my own music. Um, but most of the time what Sam has given us has sufficed for the purposes. 
+
+#### CATHY
+
+I kind of wanna interject on that point real quick, Katie. On that particular track, it was also important that we craft something specifically for that moment because there was a conflict of cultural sound. So a lot of where our themes for Alestes on Gammon crew has been like really, really awesome in making sure that we have sound tailored to those cultures, to their backgrounds. Katie can go more into this, but, uh, making sure that the music is appropriate for the characters. And because this is a Native American story to be told, if there was music that was going to be behind it with a cultural drive. It would not have been appropriate for us to take something other than, uh, like an, an actual Native American source. And the southeastern culture was not going to fit with this Nova Scotia, East Canada culture. So being able to dive into a dream light state was a huge help for that particular instance because it, it allowed us to dive into the storytelling aspect that Baker was doing, making sure that that had its own thing. 
+
+#### KATIE
+
+Totally. There had been conversations around, you know, the degree to which being influenced or inspired as a musician by another culture. And the boundaries between that and basically iwhen it becomes appropriation or, um, mimicry. Um, where that stops being appropriate is being talked about more and more in media music circles, which is for me is wonderful because I feel like it is, you know, certainly in western art, music and classical music, there's this kind of attitude of like, Oh, I've heard this great thing when I went on this trip to this place and I'm gonna use that my music, you know, and now it's fine. And um, and so it's, it is really great that we have to find this compromise between emotional, uh, making emotional sense in the story, but also sort of making cultural sense. And sometimes you can do what we've done, which is write something which is kind outside of that and, and therefore makes sense in a different way.So, so yeah. Cuz obviously I'm, you know, I'm European. 
+
+#### NEMO
+
+Mm. 
+
+#### KATIE
+
+To get back to your original question in terms of where to edit in music, I mean there were so many reasons you might do it. Like, for example, you might use it for comedy. Siva's current suite is actually orchestral, I presume that's because he's like slightly brainwashed by the British at the moment. And so that's like, he made that choice <laugh>, you know, but it has a lovely pacing which actually really, really matches the way Shahan delivers the, um, lines of their character. Um, and so often I find like when Siva's talking or he's ranting about something or off on one, I can edit it in the music. Like the flow, the music just matches how each talks so amazingly, I, I, I doubt that anyone planned there, but it's just worked out so beautifully, you know, like, that's, that's great fun. Cathy, you were gonna say something then? 
+
+#### CATHY
+
+<laugh>? No, no, no. I'm just agreeing with you. Sometimes that timing just works so well. It's like when I'm, it's in my review stage. After you, you've put something together, you figure out the timing and everything like that. I've just sit back and be like, Damn, 
+
+#### KATIE
+
+<laugh>, youu just, you know it. When you hear me you're just like, Ugh, that works. 
+
+#### CATHY
+
+Yeah. I dunno how to subscribe. It just gets in there really well, it's great. 
+
+#### KATIE
+
+Yeah. Like I said before, you know, the, the joy of audio drama is you could like, okay, I need another half a second there to get it on the beat. Yeah. Cause sometimes you can put strong syllable on the beach. You wanna emphasize that sort of comedic tone and um, yeah. That really, really helps. You know, so there's that. Sometimes it's about pulling focus, like I talked about, about changing the emotional space. Sometimes music can really, really assist with emotional pacing. So for example, if you've got a scene transition, obviously the musical transition is something which is quite specific to audio drama. You hear it a bit in theatre in music theatre But in terms of media, that's broadcast or podcasts, audio drama and radio drama is where you mostly hear this idea of having music to bridge scenes to say that something new's happened. And there were a number of functions with that. So quite often it's used to say, okay, new time or new place, passage of time. Meanwhile over there this is happening. That kind of signposting. But what you can also do is you can, you can bring it in at the end of a scene, which is doing one thing and you can merge it into the beginning of a new scene and have the music sort of actually morph the vibe to prepare for something new that's about to happen. 
+
+#### NEMO
+
+Yeah. 
+
+#### KATIE
+
+Sometimes it can help a performance. Like if you've got the performer has chosen to fix on one thing that's going on, but there's something else in the background, you know, there's like a subtext. The music can sometimes kind of be a counter voice to the performance. So for example, if I was about to say something that's a massive spoiler, then I can't do it. 
+
+#### NEMO
+
+<laugh> 
+
+#### CATHY
+
+In episode six, you did a lot of that in episode six, for Alestes having her sick fever dreams. 
+
+#### KATIE
+
+Yeah. So the music was bridging quite a lot there. Sometimes sonic transitions work beautifully as well. And so in episode six, I, I was, I think it was me that did the wave transitions in the end. So we had like water sort of pulling in and out of the subconscious, Aleste's subconscious that way we were, but actually the music could kind of, it could kind of be an arc over the whole thing. So almost like past and pleasant is existing in one plane because it's all feeding into each other at this point. Uh, and the music is helping to kind of establish the relevance of the flashbacks to the present day. So that's another thing it can do. Uh, obviously there's the normal thing of adding a little bit of drama or whatever. 
+
+#### NEMO
+
+<laugh>. Yeah. 
+
+#### KATIE
+
+I just done episode, was it six or seven where uh, we had a cue that finishes on, um, for the musicians out there, it finishes on um, an imperfect cadence, so you get like a fourth three suspension, which is a musical kind of like, not home yet. There's more to come. 
+
+#### CATHY
+
+Is that leading into the outro? 
+
+#### KATIE
+
+Leads into the outro which resolves... 
+
+#### CATHY
+
+Yeah, that's episode six. Yeah. 
+
+#### KATIE
+
+Yeah, yeah. Episode six. Yeah. So as it so happened we could resolve that kind of question that the music was asking at the end of the dialogue between Alestes and Gammon was kind of resolved with the outro. Yep, you're right, there's more to come kind of thing, I had to, I had to do like a cheeky little pitch shift there to make that work out, but it was worth, it was worth it. 
+
+#### NEMO
+
+Oh yeah, that was on the question is "What are you willing to give?" Right. And then Yeah. 
+
+#### KATIE
+
+Yeah, exactly! 
+
+#### NEMO
+
+I thought that was so, it was so cool. I was like, Yeah. 
+
+#### KATIE
+
+And it's interesting when you're a music, editing obviously with the background of composing, for me it's like I've got this material, it's, in some ways it's quite limiting, but when you get that moment where something just works out so well, it's so fun. It's, Oh yeah, there we go. It's like, it's like finding buried treasure, which is quite appropriate for <laughster>. Yeah. I guess the other thing I enjoy doing when it's possible is merging it in with the drama and the, you know, having the internal rhythm of the scene reflected in the musi, like quite overtly. Obviously episode five is the one we did that the most in cause we had all those trolling sequences with the "heave, heave" and I ended up re-editing the vocal cut in order to put all those heaves on the beat the music. 
+
+#### NEMO
+
+Ah, yeah! 
+
+#### KATIE
+
+Which helped to kind of make the sequence into one great big long montage almost with the dialogues in between them kind of punctuating the montage and, and the music kind of doing that each time gave that sense of continuity over that whole of that middle section of that episode. So that's another thing music's lovely for, Music's lovely for loads of stuff. <laugh>. 
+
+#### NEMO
+
+Yeah. It's so cool. So much thought. I hope, Yeah. That a listener does come away from this episode and re listens to all of the episode and just like starts noticing some of the small things. Like, I mean, as you were saying, like obviously if you are doing the naturalistic stuff right, you are not supposed to be noticing them. But I do hope that people do come away from this. Like, there's one of the reasons why I suggested this episode was cause I know some of the really cool things that happened on these episodes and just wanted to like, yeah, appreciate how much work you people are doing <laugh> and yeah, the, the putting things on the beat might not sound like a, a huge thing, but it does, it changes the, the tone and it changes how it lands with you and it makes you feel the excitement, it makes you feel on board with everyone and yeah, I just wanted to be like, look how cool everyone is laugh>, um, 
+
+#### KATIE
+
+What's it like to write a thing and to look something that's cool come out your brain and to sort of hear it become an actual thing. 
+
+#### NEMO
+
+It's really amazing. Like, I obviously did put things in like, something's in like, oh, you know, there's a bird or you know, ching ching ching. They have a sword fight, but actually hearing it, um, and I think it is actually the things like the bracelets and the footsteps and just the um, reality of it, the fake reality I of it I guess, where I'm like, it's so much better than I could ever imagine <laugh> because I'm not an audio person. I'm not an audio designer. And yeah, I I think it's just so beautiful and yeah, that, that moment, cause it was the last episode that I listened to the episode six, the like, "what are you willing to give" and flowing into the music, I was just like, Gah! Yeah. Yeah. Like I could never have written that and it just, it worked so well and yeah. 
+
+#### KATIE
+
+So that was, that was particularly good because it's like, cause in, in terms of the um, story arc of the season s well. You know, it was good to draw attention to kind of that pivotal moment. Yeah. Anyway, 
+
+#### NEMO
+
+<laugh>. So yeah, I'm very appreciative. Okay, amazing. I feel like that's a really, really great place to wrap up. Thank you so much for being here. Katie and Cathy, if people wanted to hear more from you here, see more from you, where can they find you online? 
+
+#### KATIE
+
+Uh, yeah, I'm on Twitter. I'm at KatieSeaton9, as in the digit. It's not very easy to say 
+
+#### NEMO
+
+<laugh>. That's great. And that's Seaton, s e a t o n. That's 
+
+#### CATHY
+
+Right. And me, I'm not really on social media, but I do lurk on Twitch. I'm Lily Foxglove if anybody sees me lurking in various streams 
+
+#### NEMO
+
+Amazing. Cool. So let's wrap up here. Thank you so much Katie and Cathy for joining me. That's it from me, Nemo and goodbye, from Katie and Cathy. 
+
+#### KATIE
+
+Bye. 
+
+#### CATHY
+
+Bye! We'll see you next time Below Decks. 
