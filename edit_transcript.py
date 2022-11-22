@@ -6,7 +6,7 @@ text = text.split('\n')
 for line in text:
     if line.isdigit() or line == '' or line.isspace():
         continue
-    if line in ('This transcript was exported on Nov 07, 2022 - view latest version here.', 'SEAS_BelowDecks_7_V1 (Completed 11/01/22)', 'Transcript by Rev.com'):
+    if line in ('Rusty Quill Gaming – 12 – Keeeeeesh'):
         continue
     if line[:4] == 'Page' and line[-5:] == 'of 19':
         continue
@@ -16,10 +16,10 @@ for line in text:
     line = line.replace(' -', ' --')
     # if line[0].isdigit():
     #     line = line[3:]
-    # if line == line.upper():
-    #     line = '#### ' + line.upper()
-    if line[-1] == ':':
-        line = '#### ' + line[:-1].upper()
+    if line == line.upper():
+        line = '#### ' + line.upper()
+    # if line[-1] == ':':
+    #     line = '#### ' + line[:-1].upper()
     new_text += line + '\n'
 fout = open('etr_middle.txt', 'wt')
 fout.write(new_text)
