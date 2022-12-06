@@ -2652,9 +2652,9 @@ No, that sounds amazing.
 
 #### LYDIA
 
-Because -- that is exactly how I expect our horses to be behaving. Like, both doing the dance but also... he's like, "this is incredible I need to put this horse in a video" -- Snoop Dogg reacting to dressage is exactly what we look like as we ride off into the sun-up.
+Because -- that is exactly how I expect our horses to be behaving. Like, both doing the dance but also... he's like, "this is incredible, I need to put this horse in a video" -- Snoop Dogg reacting to dressage is exactly what we look like as we ride off into the sun-up.
 
-##### [SFX: Hooves] 
+##### [SFX: HOOVES] 
 
 #### MADDY
 

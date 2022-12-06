@@ -14,8 +14,8 @@ for line in text:
     line = line.replace('‘', '\'')
     line = line.replace('–', '-')
     line = line.replace(' -', ' --')
-    # if line[0].isdigit():
-    #     line = line[3:]
+    if line[0].isdigit():
+        line = line[3:]
     if line == line.upper():
         line = '#### ' + line.upper()
     # if line[-1] == ':':
