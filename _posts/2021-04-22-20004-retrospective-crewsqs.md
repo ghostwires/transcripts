@@ -15,9 +15,9 @@ prev_episode_num:		['200.03']
 prev_episode_title:		["MAG Retrospective - Creators Quizzed"]
 next_categories: ["tma"]
 next_prefixes: ["MAG"]
-next_episode:		['20025-campflyingmoose-1']
-next_episode_num:		['200.25']
-next_episode_title:		["Camp Flying Moose - Part 1"]
+next_episode:		['20005-s5qa-1']
+next_episode_num:		['200.05']
+next_episode_title:		["MAG Season 5 Q&A - Part 1"]
 episode_title:   "MAG Retrospective - Crew's Qs with Jonny & Alex"
 episode_number:  '200.04'
 summary:         "Jonny and Alex are put in the hot-seat as the cast and crew of <b>The Magnus Archives</b> ask all the burning questions they've held back for years."

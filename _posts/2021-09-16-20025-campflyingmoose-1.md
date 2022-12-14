@@ -10,9 +10,9 @@ podcasts: ["tma"]
 title_prefix:	"MAG"
 prev_categories: ["tma"]
 prev_prefixes: ["MAG"]
-prev_episode:		['20004-retrospective-crewsqs']
-prev_episode_num:		['200.04']
-prev_episode_title:		["MAG Retrospective - Crew's Qs with Jonny & Alex"]
+prev_episode:		['20005-s5qa-1']
+prev_episode_num:		['200.05']
+prev_episode_title:		["MAG Season 5 Q&A - Part 1"]
 episode_title:   'Camp Flying Moose - Part 1'
 episode_number:  '200.25'
 summary:         "Join us at <b>Camp Flying Moose for Girls of all Kinds</b>, a TTRPG created by Alicia Furness.<br/><br/>In this first instalment of three, we meet Ivy, Rowan, Violet and their fellow campers who are about to be thrown into a world of adventure and mystery."

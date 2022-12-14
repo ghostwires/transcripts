@@ -1,3 +1,4 @@
+#before running this program you must have a file named "etr_input.txt" in the same folder as this program (edit_transcript.py). copy the result of your TXT file
 fin = open('etr_input.txt', 'rt')
 text = fin.read()
 fin.close()
@@ -5,8 +6,11 @@ new_text = ""
 text = text.split('\n')
 for line in text:
     if line.isdigit() or line == '' or line.isspace():
+        #gets rid of blank spaces or page numbers
+        #it does sometimes accidentally eat the numbers that are results of dice rolls, however. if you want to avoid that you can delete the "line.isdigit()" at the beginning so it doesn't eat any numbers
         continue
-    if line in ('The Magnus Archives – Retrospective: Crew’s Qs with Jonny & Alex'):
+    if line in ('The Magnus Archives – Season 5 Q&A, Part 2'):
+        #put any recurring lines you notice up here. the episode title usually is one, since it occurs in the header of each page on the PDF
         continue
     # if line[:4] == 'Page' and line[-5:] == 'of 19':
     #     continue
@@ -42,3 +46,4 @@ for line in new_text:
 fout = open('etr_output.txt', 'wt')
 fout.write(new_new_text)
 fout.close()
+#copy and paste the result from etr_output.txt!
