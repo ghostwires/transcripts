@@ -27,7 +27,7 @@ formats:
 official:        true
 ---
 
-##### [GENTLE MUSIC PLAYS IN THE BACKGROUND, LIKE IN A WELL-TODO HOTEL RECEPTION]
+##### [GENTLE MUSIC PLAYS IN THE BACKGROUND, LIKE IN A WELL-TO-DO HOTEL RECEPTION]
 
 ##### [DING, DING]
 
@@ -687,7 +687,7 @@ What was I—-?
 
 ##### [CLICK]
 
-Uh... Oh, oh. Oh hey. Hey, what— Is this, uh, uh, a tape recorder? Oh, oh, and, and w-what are you, you're recording? Did I start—? Where did... W— There's another one. Y-Y-You have a little friend here. What about, w-what about you? 
+Uh... Oh, oh. Oh hey. Hey, what -- Is this, uh, uh, a tape recorder? Oh, oh, and, and w-what are you, you're recording? Did I start--? Where did... W--There's another one. Y-Y-You have a little friend here. What about, w-what about you? 
 
 #### JONNY (TAPE)
 
@@ -695,6 +695,6 @@ Ah, there you are. It's time for you to remember for a moment. First, who are yo
 
 #### ANNIE
 
-Wh— My name is, uh, m-my name is, is Annie... Annie, uh, Annie... 
+Wh -- My name is, uh, m-my name is, is Annie... Annie, uh, Annie... 
 
 ##### [CLICK]

@@ -1,12 +1,41 @@
-MAG RETROSPECTIVE -- "Creators Quizzed!" Content Warnings  Spoilers for show to date  Explicit language  Discussion of: death, injury  Mentions of: knives, cults, food, fainting, spiders, COVID-19 pandemic 
+---
+layout:          post
+title:           "MAG200.03 - MAG Retrospective - Creators Quizzed"
+date:            2021-04-15 11:00:00 -0400
+episode_type:      special
+tags:            []
+voiced:          []
+categories:			"tma"
+podcasts: ["tma"]
+title_prefix:	"MAG"
+prev_categories: ["tma"]
+prev_prefixes: ["MAG"]
+prev_episode:		['20002-retrospective-crewqa']
+prev_episode_num:		['200.02']
+prev_episode_title:		["MAG Retrospective - Crew Q&A"]
+next_categories: ["tma"]
+next_prefixes: ["MAG"]
+next_episode:		['20025-campflyingmoose-1']
+next_episode_num:		['200.25']
+next_episode_title:		["Camp Flying Moose - Part 1"]
+episode_title:   'MAG Retrospective - Creators Quizzed'
+episode_number:  '200.03'
+summary:         "Chioma Nwalioba (Annabelle Cane) hosts this special episode, where we find out just how well the creators know the show they created!"
+content_flags:   ["Spoilers for all of The Magnus Archives", "Explicit language", "Discussion of: death, injury", "Mentions of: knives, cults, food, fainting, spiders, COVID-19 pandemic"]
+acast_url:       https://play.acast.com/s/themagnusarchives/magretrospective-creatorsquizzed
+formats:
+official:        true
+---
 
 #### CHIOMA
 
-Hello! And welcome to this Magnus Archives special episode, where we find out how well Jonathan Sims and Alexander J Newall know the world that they've created. I'm Chioma Nwalioba and I play Annabelle Cane in the series. And I have in front of me a selection of questions from a quiz, which was run for the Magnus wrap livestream on Twitch. Let's jump straight in, shall we, with Season 1 and start putting them through their paces. 
+Hello! And welcome to this *Magnus Archives* special episode, where we find out how well Jonathan Sims and Alexander J Newall know the world that they've created. I'm Chioma Nwalioba and I play Annabelle Cane in the series. And I have in front of me a selection of questions from a quiz, which was run for the *Magnus* wrap livestream on Twitch.
+
+Let's jump straight in, shall we, with Season 1 and start putting them through their paces. 
 
 ##### [EERIE TRANSITION]
 
-What is the name of the first episode of The Magnus Archives? 
+What is the name of the first episode of *The Magnus Archives?* 
 
 #### ALEX
 
@@ -14,7 +43,7 @@ Ah, hello! Yes! I know that one.
 
 #### JONNY
 
-(Deadpan) Yes, it is: 'Good Morning, Mr. Scary'. 
+_(deadpan)_ Yes, it is: "Good Morning, Mr Scary." 
 
 #### ALEX
 
@@ -26,7 +55,7 @@ Whaaaaaaatt?!
 
 #### ALEX
 
-Because the first episode of The Magnus Archives is of course Anglerfish. However, there was the teaser. So what do we think, Jonny? 
+Because the first episode of *The Magnus Archives* is of course *Anglerfish.* However, there was the teaser. So what do we think, Jonny? 
 
 #### JONNY
 
@@ -34,7 +63,7 @@ But they weren't titled.
 
 #### ALEX
 
-They weren't titled, it was just 'Teaser'. I'm going to reserve the right to give two answers, which is 'Teaser', if someone's playing, you know, tricksie, or Anglerfish, if it's the actual answer. Do you, do you concur, Jonny? 
+They weren't titled, it was just "Teaser." I'm going to reserve the right to give two answers, which is "Teaser," if someone's playing, you know, tricksie, or *Anglerfish,* if it's the actual answer. Do you, do you concur, Jonny? 
 
 #### JONNY
 
@@ -42,11 +71,11 @@ I do concur.
 
 #### CHIOMA
 
-The answer to that, of course, is Anglerfish 
+The answer to that, of course, is *Anglerfish.* 
 
 ##### [TRIUMPHANT NOISES FROM JONNY AND ALEX]
 
-What was the name of the second voice to ever appear on tape in The Magnus Archives? 
+What was the name of the second voice to ever appear on tape in *The Magnus Archives?*
 
 #### ALEX
 
@@ -54,11 +83,11 @@ The name of the second voice...
 
 #### JONNY
 
-I remember it was 13, it was Alone. 
+I remember it was 13, it was *Alone.* 
 
 #### ALEX
 
-If it was 13, it was Alone... I think it would be Katie Davison. 
+If it was 13, it was *Alone*... I think it would be Katie Davison. 
 
 #### JONNY
 
@@ -74,11 +103,11 @@ No.
 
 #### ALEX
 
-When's Lost Johns' Cave? 
+When's *Lost Johns' Cave?*
 
 #### JONNY
 
-No, Lost Johns' Cave is number 15. 
+No, *Lost Johns' Cave* is number 15. 
 
 #### ALEX
 
@@ -90,7 +119,7 @@ Oh, so that's after...
 
 #### ALEX
 
-Hmm. I think it's Katie Davison, but I feel like I'm already— 
+Hmm. I think it's Katie Davison, but I feel like I'm already --
 
 #### JONNY
 
@@ -98,7 +127,7 @@ Cool.
 
 #### ALEX
 
-—I'm already starting to expose how little attention I pay to our own projects. 
+-- I'm already starting to expose how little attention I pay to our own projects. 
 
 #### JONNY
 
@@ -106,11 +135,7 @@ I'm going to back up Alex's answer here, and say it's definitely Katie Davison.
 
 #### ALEX
 
-
-
-##### [UNSURE NOISES] Go on.
-
-
+_(unsure noises)_ Go on.
 
 #### CHIOMA
 
@@ -134,11 +159,11 @@ Pretty sure they're referring to the sound desk, Big Bertha, so...
 
 ##### [ALEX LAUGHS]
 
-When did we start using it, Alex? That would be episode three Across the Street. 
+When did we start using it, Alex?
 
 #### ALEX
 
-Although I couldn't tell you where in the episode it's mentioned in that monologue. 
+That would be episode three, *Across the Street.* Although I couldn't tell you where in the episode it's mentioned in that monologue. 
 
 #### JONNY
 
@@ -150,7 +175,7 @@ But I can't remember at what point it's mentioned, is what I mean. Like, whether
 
 #### JONNY
 
-No, cos she, she's in the, she's in the flat, like, she's just kind of staring at the table being like, 'Oooooh.' 
+No, cos she, she's in the, she's in the flat, like, she's just kind of staring at the table being like, "Oooooh." 
 
 #### ALEX
 
@@ -162,7 +187,7 @@ Yeah, no, absolutely.
 
 #### CHIOMA
 
-Brilliant! The answer is Episode 3, Across the Street. 
+Brilliant! The answer is Episode 3, *Across the Street.* 
 
 #### ALEX
 
@@ -198,11 +223,11 @@ No, no, cos they didn't break into stuff. They were doing repairs and stumbled i
 
 #### ALEX
 
-Yes! No, you're right. It was repairs. It— so it was repairs. So— 
+Yes! No, you're right. It was repairs. It -- so it was repairs. So --
 
 #### JONNY
 
-I'm not a hundred per cent sure, but there's no-one else I can think that it would be, other than, Jurgen Leitner. 
+I'm not a hundred percent sure, but there's no-one else I can think that it would be, other than Jurgen Leitner. 
 
 #### ALEX
 
@@ -226,8 +251,6 @@ I'll be honest, the entire premise of this episode is going to quite upset Mike.
 
 ##### [ALEX LAUGHS AND DESPAIRS]
 
-
-
 #### ALEX
 
 The second you're off the clock, Jonny, the, the absolute second you're off the clock. God... 
@@ -246,7 +269,7 @@ Yeah, yeah, I guess.
 
 #### JONNY
 
-—I couldn't legitimately do this quiz. 
+...I couldn't legitimately do this quiz. 
 
 #### ALEX
 
@@ -262,15 +285,13 @@ What are the first words spoken in the show? Not counting trailers.
 
 ##### [ALEX MAKES A STRANGE SOUND]
 
-
-
 #### JONNY
 
-It will be 'Test, test. One, two, three.'? 
+It will be "Test, test. One, two, three."...? 
 
 #### ALEX
 
-I don't know if it's 'one, two, three.' It's definitely 'Test, test.' I think it might be 'Test, test, one, two, one, two, test, test' or something. 
+I don't know if it's "one, two, three." It's definitely "Test, test." I think it might be "Test, test, one, two, one, two, test, test" or something. 
 
 #### JONNY
 
@@ -278,7 +299,7 @@ I feel like I remember saying a three.
 
 #### ALEX
 
-In which case then it will be something like, 'Test, test, one, two. One, two, three', because at the time I would have found it hilarious that you said three. 
+In which case then it will be something like, "Test, test, one, two. One, two, three," because at the time I would have found it hilarious that you said three. 
 
 #### JONNY
 
@@ -302,11 +323,11 @@ I'll give that to you, but the full answer is "Test, test, test, one, two, three
 
 #### ALEX
 
-Aw, come on, "Test, test— 
+Aw, come on, "Test, test --"
 
 #### JONNY
 
-Okay, cool. So we— we're technically correct. We're technical correct. 
+Okay, cool. So we -- we're technically correct. We're technically correct. 
 
 #### ALEX
 
@@ -318,7 +339,7 @@ Yeah, no, absolutely.
 
 #### ALEX
 
-All audio should start with the words 'Test, test', and if it doesn't, you're doing it wrong. 
+All audio should start with the words "Test, test," and if it doesn't, you're doing it wrong. 
 
 #### CHIOMA
 
@@ -326,11 +347,9 @@ Let's move on to Season 2, shall we. Nice and easy one to start with: Who gives 
 
 ##### [ALEX CHUCKLES DARKLY]
 
-
-
 #### JONNY
 
-I think that's, that's the Archivist, isn't it? Cos he goes in the— into the tunnels. 
+I think that's, that's the Archivist, isn't it? Cos he goes in the -- into the tunnels. 
 
 #### ALEX
 
@@ -354,7 +373,7 @@ Yes. Okay. I cheated the season break there. Okay.
 
 #### JONNY
 
-So there's 40, Human Remains, and then there's 41... Too Deep. 
+So there's 40, *Human Remains,* and then there's 41... *Too Deep.* 
 
 #### ALEX
 
@@ -362,7 +381,7 @@ Okay. Good catch. So in that case then, I feel like it isn't you.
 
 #### JONNY
 
-The Archivist goes into the tunnels and like, is givi— is saying like, 'Oh, went into the tunnels and it was spooky.' 
+The Archivist goes into the tunnels and like, is givi -- is saying like, "Oh, went into the tunnels and it was spooky."
 
 #### ALEX
 
@@ -374,11 +393,9 @@ Of course, it's our very own Jonathan Sims.
 
 ##### [ALEX IS FRUSTRATED]
 
-
-
 #### JONNY
 
-Yeah, we were setting up the whole conceit of Season 2. We, we were like, 'Oh, he doesn't know what's going on. Is he's paranoid?' 
+Yeah, we were setting up the whole conceit of Season 2. We, we were like, "Oh, he doesn't know what's going on. Is he's paranoid?"
 
 #### CHIOMA
 
@@ -390,11 +407,11 @@ Oh.
 
 #### ALEX
 
-I know that it is a plot point that Daisy realises that the dreams are weird because of the T-shirt changing. 
+I know that it is a plot point that Daisy realises that the dreams are weird because of the T-shirt changing.
 
 #### JONNY
 
-Yeah.. But that's, that's Season 3. 
+Yeah... But that's, that's Season 3. 
 
 #### ALEX
 
@@ -406,7 +423,7 @@ I don't think it's a T-shirt.
 
 #### ALEX
 
-No, it is, because she recognises his shirt is like, 'I'm with stupid' in the dream or something. 
+No, it is, because she recognises his shirt is like, "I'm with stupid" in the dream or something. 
 
 #### JONNY
 
@@ -434,7 +451,7 @@ We know that you only get a shared dream with the Archivist after they've given 
 
 #### JONNY
 
-(Forlorn) A knife. 
+_(forlorn)_ A knife. 
 
 #### ALEX
 
@@ -442,7 +459,7 @@ So therefore, what was Daisy's first statement-esque thing?
 
 #### JONNY
 
-That would be Hard Shoulder. It was the one where she encountered Breekon and Hope. 
+That would be *Hard Shoulder.* It was the one where she encountered Breekon and Hope. 
 
 #### ALEX
 
@@ -458,11 +475,11 @@ I'm a bit stumped by that one. I think it could be coffin, or someone's been wor
 
 #### JONNY
 
-A knife 
+A knife.
 
 #### ALEX
 
-But make your call Jonny. And if it's knife, I'm just going to go ahead and say— 
+But make your call, Jonny. And if it's knife, I'm just going to go ahead and say --
 
 #### JONNY
 
@@ -506,15 +523,13 @@ Yes. Above ground. And also it depends if they want to say the Panopticon.
 
 #### JONNY
 
-Millbank Prison was, like, the Panopticon, the two are kind of— 
+Millbank Prison was, like, the Panopticon, the two are kind of --
 
 #### ALEX
 
 I'm just trying to get at the wording, you see. Cos no-one checked these questions beforehand, Jonny. You see? So, we've got to be really careful. 
 
 ##### [JONNY GRUMBLES]
-
-
 
 #### JONNY
 
@@ -526,7 +541,7 @@ Uh, yeah.
 
 #### ALEX
 
-Millbank Prison slash the Panopticon... [LAUGHS] 
+Millbank Prison slash the Panopticon... _(laughs)_
 
 #### JONNY
 
@@ -534,11 +549,11 @@ Slash the Royal Chelsea Military Hospital.
 
 #### ALEX
 
-...slash the Royal Chelsea military hospital. 
+...slash the Royal Chelsea Military Hospital. 
 
 #### CHIOMA
 
-Fantastic. Straightforward one there, that's Milbank Prison. 
+Fantastic. Straightforward one there, that's Millbank Prison. 
 
 #### ALEX
 
@@ -550,7 +565,7 @@ In which episode does Melanie ask about the other Sasha?
 
 #### JONNY
 
-Oh, that's... So, Not!Sasha reveals itself in 79. So it would probably be 78, I want to say. 
+Oh, that's... So, Not!Sasha reveals itself in 79. So it would probably be 78, I want to say.
 
 #### ALEX
 
@@ -558,7 +573,7 @@ I can't believe I have to admit this. I'm going to have to just give up my lead 
 
 #### JONNY
 
-Is that The Kind Mother? 
+Is that *The Kind Mother?*
 
 #### ALEX
 
@@ -566,7 +581,7 @@ I don't know.
 
 #### JONNY
 
-I'm going to say The Kind Mother. 
+I'm going to say *The Kind Mother.*
 
 #### ALEX
 
@@ -574,19 +589,17 @@ I have to confess, out of all the seasons, Season 2 is the one I've least had to
 
 #### JONNY
 
-Also, like, this one specifically is really difficult because the statements were recorded quite separate from the dialogue stuff. So matching the two up in my head is tricky. I think it was The Kind Mother, I'm going to give that. Gonna roll them dice. 
+Also, like, this one specifically is really difficult because the statements were recorded quite separate from the dialogue stuff. So matching the two up in my head is tricky. I think it was *The Kind Mother,* I'm going to give that. Gonna roll them dice.
 
 #### CHIOMA
 
-Good job there. It is of course, Episode 77, The Kind Mother. (NOTE: There was a slight error on the answer sheet. The actual answer is Episode 76, The Smell of Blood) 
+Good job there. It is of course, Episode 77, *The Kind Mother.* [^1]
+
+[^1]: NOTE: There was a slight error on the answer sheet. The actual answer is Episode 76, *The Smell of Blood.*
 
 #### JONNY
 
-
-
-#### YEAH!
-
-
+YEAH!
 
 #### ALEX
 
@@ -614,7 +627,7 @@ In the Unknowing. Are you sure it's not Tim!? No, no, it won't be Tim. Cos he di
 
 #### JONNY
 
-No, no. I mean, Tim does die, but like, that's, that's a pretty— 
+No, no. I mean, Tim does die, but like, that's, that's a pretty --
 
 #### ALEX
 
@@ -622,7 +635,7 @@ Tim didn't die, I don't think.
 
 #### JONNY
 
-—Like, it's, it's not super important to the story, is the thing. 
+—- Like, it's, it's not super important to the story, is the thing. 
 
 #### ALEX
 
@@ -630,7 +643,7 @@ No, you know what it'll be, it'll be Orsinov.
 
 #### JONNY
 
-Yeah, no, Orsinov is— 
+Yeah, no, Orsinov is -- 
 
 #### ALEX
 
@@ -658,23 +671,21 @@ Uh...
 
 #### ALEX
 
-I'm pretty sure it's, like, 'Meredith' or something. 
+I'm pretty sure it's, like, "Meredith" or something. 
 
 ##### [JONNY CRACKS UP]
 
-
-
 #### JONNY
 
-(Laughing) Sorry. 'Who died at the end of Season 3? Tim Meredith.' 
+_(laughing)_ Sorry. "Who died at the end of Season 3?" "Tim Meredith." 
 
 ##### [ALEX BURSTS INTO LAUGHTER]
 
-We just had a huge— We've just got a huge backlog of his voice recordings and they've been, like, just creating this whole artificial... 
+We just had a huge -- We've just got a huge backlog of his voice recordings and they've been, like, just creating this whole artificial... 
 
 #### ALEX
 
-I mean, ultimately, I feel like this question might be making light of all of the people who were in that wax museum— 
+I mean, ultimately, I feel like this question might be making light of all of the people who were in that wax museum --
 
 #### JONNY
 
@@ -682,7 +693,7 @@ Yeah!
 
 #### ALEX
 
-—who got turned, temporarily suspended, into wax. So in a lot of ways, the answer is everyone. Everyone died, but definitely not Tim. 
+—- who got turned, temporarily suspended, into wax. So in a lot of ways, the answer is everyone. Everyone died, but definitely not Tim. 
 
 #### JONNY
 
@@ -697,8 +708,6 @@ I mean, points are more important than, you know, being liked. So yeah, let's go
 Luckily we've managed to sacrifice both. 
 
 ##### [ALEX LAUGHS]
-
-
 
 #### CHIOMA
 
@@ -746,7 +755,7 @@ Also, this is the season that Elias reveals himself.
 
 #### ALEX
 
-Exactly. So do we say Elias is the Big Bad? But I don't think Elias— Depends how you define "Big Bad". Elias is, sort of, 'the Bigger Bad', but I don't think he's 'the Big Bad', he's 'a Big Bad'. 
+Exactly. So do we say Elias is the Big Bad? But I don't think Elias -- Depends how you define "Big Bad." Elias is, sort of, "the Bigger Bad," but I don't think he's "the Big Bad," he's "a Big Bad." 
 
 #### JONNY
 
@@ -770,7 +779,7 @@ I'm getting real worried. I think we're having an easy ride and then someone's g
 
 #### CHIOMA
 
-Next question: What was different about the intro music to Episode 119. 
+Next question: What was different about the intro music to Episode 119?
 
 #### ALEX
 
@@ -782,15 +791,9 @@ I don't know, Alex, help, I've never listened to an episode of this show.
 
 ##### [ALEX CHUCKLES]
 
-
-
 #### ALEX
 
-So Episode 119 was where I co-opted the intro music, so that instead of being 
-
-##### [REPLICATES SNIPPET OF MAG THEME] it was [REPLICATES AN
-
-UPBEAT TRACK] cos it was the Unknowing music. 
+So Episode 119 was where I co-opted the intro music, so that instead of being -- _[hums snippet of the MAG theme]_ -- it was -- _(replicates upbeat music)_ cos it was the Unknowing music. 
 
 #### JONNY
 
@@ -802,27 +805,25 @@ Because the Unknowing started in the episode prior, so we wanted to set a real, 
 
 #### JONNY
 
-(Quickly) Yeah, it's my final answer as well. Our final answer. 
+_(quickly)_ Yeah, it's my final answer as well. __Our__ final answer. 
 
 ##### [ALEX LAUGHS]
 
-
-
 #### CHIOMA
 
-Absolutely correct. It is the calliope music that was playing instead of the Magnus theme. 
+Absolutely correct. It is the calliope music that was playing instead of the *Magnus* theme. 
 
 #### JONNY
 
-(Softly) Yeah. 
+_(softly)_ Yeah. 
 
 #### ALEX
 
-Yeah... the Calliope. Yeah, yeah. I did freeze for a moment there. I was a little bit worried. I was like, 'Oh no, is it some really obscure, like, editing thing that I forgot. 
+Yeah... the calliope. Yeah, yeah. I did freeze for a moment there. I was a little bit worried. I was like, "Oh no, is it some really obscure, like, editing thing that I forgot." 
 
 #### CHIOMA
 
-Next question: During Season 3 of Magnus, Rusty Quill saw a wealth of new fan art come through our postbox and on our socials. But there was one thing that was sent to us more than anything else. What was it? 
+Next question: During Season 3 of *Magnus,* Rusty Quill saw a wealth of new fan art come through our postbox and on our socials. But there was one thing that was sent to us more than anything else. What was it?
 
 #### ALEX
 
@@ -830,11 +831,13 @@ In Season 3?
 
 #### JONNY
 
-I mean, I like— To be fair I, I had no visibility over the PO Box, so I'm going to probably say teeth? 
+I mean, I like -- To be fair I, I had no visibility over the PO box, so I'm going to probably say teeth? 
 
 #### ALEX
 
-Nah, it won't be teeth, it won't be teeth. We did get more biologically hazardous waste than you might think. That had to be immediately destroyed. Please don't send stuff like that. That's not cool. However, I don't think it'd be teeth. So Season 3 wa— Oh no, it'd be Tim kayaking! Season 3? Fanart? It'd be Tim kayaking. It's gotta be. 
+Nah, it won't be teeth, it won't be teeth. We did get more biologically hazardous waste than you might think. That had to be immediately destroyed. Please don't send stuff like that. That's not cool. However, I don't think it'd be teeth.
+
+So Season 3 wa -- Oh no, it'd be Tim kayaking! Season 3? Fanart? It'd be Tim kayaking. It's gotta be. 
 
 #### JONNY
 
@@ -842,15 +845,17 @@ Okay, I'll, I'll go with that.
 
 #### ALEX
 
-I've lost all confidence now. Okay. Give me a second to think. Cos the issue is I haven't been administering the postbox either. Because the clowncore stuff for Orsinov didn't actually come in, in Season 3. People started paying attention to that in Season 4, there was a little bit of a delay. So I think it's going to be, yeah, Tim kayaking. Do you concur Jonathan Sims? 
+I've lost all confidence now. Okay. Give me a second to think. Cos the issue is I haven't been administering the postbox either. Because the clowncore stuff for Orsinov didn't actually come in, in Season 3. People started paying attention to that in Season 4, there was a little bit of a delay.
+
+So I think it's going to be, yeah, Tim kayaking. Do you concur, Jonathan Sims? 
 
 #### JONNY
 
-Yes, I concur Jonathan Sims. 
+Yes, I concur, Jonathan Sims. 
 
 ##### [ALEX CHUCKLES]
 
-Wait, no. I concur Alexander J Newall. 
+Wait, no. I concur, Alexander J Newall. 
 
 #### ALEX
 
@@ -858,11 +863,9 @@ Tim kayaking.
 
 #### CHIOMA
 
-Ooh, not so good. The answer's actually art based on the book, A Guest for Mr. Spider. 
+Ooh, not so good. The answer's actually art based on the book, *A Guest for Mr. Spider.*
 
 ##### [ALEX GROANS]
-
-
 
 #### JONNY
 
@@ -870,7 +873,7 @@ Ohhhhhh, okay. Yeah. That makes sense.
 
 #### ALEX
 
-Oh yeah. Okay. That's annoying. I, I mean I'd— Ah, damn I really thought we could get a perfect score on this one. 
+Oh yeah. Okay. That's annoying. I, I mean I'd -- Ah, damn, I really thought we could get a perfect score on this one. 
 
 #### JONNY
 
@@ -882,7 +885,7 @@ Wasn't teeth though. Thank god.
 
 #### CHIOMA
 
-Final question for Season 3: What was the name of the film produced in Episode 110, Creature Feature? 
+Final question for Season 3: What was the name of the film produced in Episode 110, *Creature Feature?* 
 
 #### JONNY
 
@@ -890,11 +893,11 @@ I mean there were loads.
 
 #### ALEX
 
-But what were they filming in Creature Feature? They were filming... 
+But what were they filming in *Creature Feature?* They were filming... 
 
 #### JONNY
 
-Ah, balls. I don't remember. Like, the thing is I made up so many film titles for that. And I really— Like, some of them of, like, Agents of Orion and The Crawling Ones, have stuck with me. 
+Ah, balls. I don't remember. Like, the thing is I made up so many film titles for that. And I really -- Like, some of them of, like, *Agents of Orion* and *The Crawling Ones,* have stuck with me. 
 
 #### ALEX
 
@@ -902,7 +905,7 @@ But we had to workshop a bunch of them.
 
 #### JONNY
 
-Oh, it was— It's, it's 'spider' in a different language. 
+Oh, it was -- It's, it's "spider" in a different language. 
 
 ##### [ALEX MAKES AGONISED THINKING NOISES]
 
@@ -914,7 +917,7 @@ Oh, no, we can get this on, we can get this one.
 
 #### JONNY
 
-I don't know if I can, I don't remember what— 
+I don't know if I can, I don't remember what --
 
 #### ALEX
 
@@ -934,15 +937,17 @@ Zemilaya?
 
 #### ALEX
 
-Ze— Hm... If it begins with a Z, that's what's coming to my mind. Oh, I feel like we're homing in now. 
+Ze -- Hm... If it begins with a Z, that's what's coming to my mind. Oh, I feel like we're homing in now. 
 
 #### JONNY
 
-Yeah, I know, but I don't think I'm going to land on it. I'm going to say Zemilaya, the Spider. 
+Yeah, I know, but I don't think I'm going to land on it.
+
+I'm going to say *Zemilaya, the Spider.*
 
 #### CHIOMA
 
-Hmmm. Okay. Clearly we need to brush up on our Web knowledge. The answer is Widow's Weave. 
+Hmmm. Okay. Clearly we need to brush up on our Web knowledge. The answer is *Widow's Weave.*
 
 #### ALEX
 
@@ -958,11 +963,13 @@ Ahhh.
 
 #### JONNY
 
-Because the Z one is, like, the original, weird thing that, like, it's— 
+Because the Z one is, like, the original, weird thing that, like, it's --
 
 #### ALEX
 
-That Lagorio saw, and then wanted to emulate in the— Ohhhh! 
+That Lagorio saw, and then wanted to emulate in the -- Ohhhh![^2]
+
+[^2]: UNOFFICIAL, NON-RUSTY-QUILL NOTE: As a matter of fact, the "original, weird thing" in 110 is called *Kumo Ga Tabeteiru,* or "spiders are eating" in Japanese. Also, it was Dexter Banks, not Neil Lagorio, who saw it and was inspired to make *Widow's Weave.* (Neil Lagorio is the practical creature effects creator who is mentioned in 110 and is the focus of 136.)
 
 #### JONNY
 
@@ -974,7 +981,7 @@ Yeah. Okay. No, I'm with you now. It was a remake of an obscure film that no-one
 
 #### JONNY
 
-Yeah. But that said, I did not remember the name Widow's Weave at all. That was not even remotely in my head. So... 
+Yeah. But that said, I did not remember the name *Widow's Weave* at all. That was not even remotely in my head. So... 
 
 #### ALEX
 
@@ -985,8 +992,6 @@ No.
 Onto Season 4. In which island group did Salesa pick up the camera? 
 
 ##### [ALEX GUFFAWS AND WINCES AUDIBLY]
-
-
 
 #### JONNY
 
@@ -1026,15 +1031,13 @@ No, I'm pretty sure I sunk the Isle of Man.
 
 ##### [ALEX CHUCKLES]
 
-
-
 #### ALEX
 
 I got nothing. 
 
 #### JONNY
 
-I'm going to say the Canaries. I don't believe it is, but I'm also drawing what's known in the trade as 'an blank'. 
+I'm going to say the Canaries. I don't believe it is, but I'm also drawing what's known in the trade as "an blank." 
 
 #### CHIOMA
 
@@ -1046,7 +1049,7 @@ Oh, the Maldives...
 
 #### ALEX
 
-(Mock angry) You sank the Maldives?! The Maldives are lovely! 
+_(mock angry)_ You sank the Maldives?! The Maldives are lovely! 
 
 #### JONNY
 
@@ -1062,11 +1065,11 @@ I sunk a single Maldive.
 
 #### ALEX
 
-(Chuckling) You s— You sunk— Oh god, Jonny. 
+_(chuckling)_ You s -- You sunk -- Oh god, Jonny. 
 
 #### CHIOMA
 
-In MAG147, Weaver, when Annabelle Cane runs away from home, what type of shop does she hide out in? 
+In MAG147, *Weaver,* when Annabelle Cane runs away from home, what type of shop does she hide out in? 
 
 #### JONNY
 
@@ -1078,7 +1081,7 @@ She hides in a chip shop?
 
 #### JONNY
 
-Does she— No. It's based on a chip shop. 
+Does she -- No. It's based on a chip shop. 
 
 #### ALEX
 
@@ -1098,7 +1101,7 @@ Oh no, no, no, no, no. This is the one near the beach. It's a square, brick buil
 
 #### ALEX
 
-For some reason my memory is triggering on like a puppet... shop or something, but that would be— 
+For some reason my memory is triggering on like a puppet... shop or something, but that would be --
 
 #### JONNY
 
@@ -1106,7 +1109,7 @@ No...
 
 #### ALEX
 
-—It wouldn't be that. 
+—- It wouldn't be that. 
 
 #### JONNY
 
@@ -1118,11 +1121,11 @@ I wouldn't have allowed it to be that. I don't think.
 
 #### JONNY
 
-Maybe— I probably did change it from a chip show. Cos that's too similar to— 
+Maybe -- I probably did change it from a chip show. Cos that's too similar to --
 
 #### ALEX
 
-Sounds to me like what you should say is 'chip shop', right? And then say that the quiz just doesn't understand the depths of your real world knowledge. 
+Sounds to me like what you should say is "chip shop," right? And then say that the quiz just doesn't understand the depths of your real world knowledge. 
 
 #### JONNY
 
@@ -1146,7 +1149,7 @@ But, like a gift shop? Like a tourist information shop, maybe?
 
 #### ALEX
 
-You might have to just go with 'chip shop' and just— 
+You might have to just go with "chip shop" and just— 
 
 #### JONNY
 
@@ -1198,11 +1201,11 @@ Wasn't it, like, a month or so off, or something?
 
 #### JONNY
 
-Well, uh, no, because the ritual that's conducted is not technically The Watcher's Crown. The name 'The Watcher's Crown' is kind of a red herring. 
+Well, uh, no, because the ritual that's conducted is not technically The Watcher's Crown. The name "The Watcher's Crown" is kind of a red herring. 
 
 #### ALEX
 
-Oh yeah, yeah I guess 
+Oh, yeah, yeah, I guess.
 
 #### JONNY
 
@@ -1218,11 +1221,11 @@ I'll allow it.
 
 #### ALEX
 
-(Scoffs) You'll allow it?! [LAUGHS] 
+_(scoffs)_ You'll allow it?!
 
 #### CHIOMA
 
-How many times in Season 4 are John and Martin in the same scene together. 
+How many times in Season 4 are John and Martin in the same scene together?
 
 #### JONNY
 
@@ -1234,19 +1237,21 @@ Oh, okay. Okay. No, we can work this one out.
 
 #### JONNY
 
-It might just be the once. Like where— Well, okay, it depends on— 
+It might just be the once. Like where -- Well, okay, it depends on --
 
 #### ALEX
 
-It depends, do we count— 
+It depends, do we count --
 
 #### JONNY
 
-Oh no, it's not, it's not just the once. There's a bunch of them, like— 
+Oh no, it's not, it's not just the once. There's a bunch of them, like --
 
 #### ALEX
 
-No, here's the thing, here's the thing, here's the thing, right? Let's discount the trailer. 
+No, here's the thing, here's the thing, here's the thing, right?
+
+Let's discount the trailer. 
 
 #### JONNY
 
@@ -1258,7 +1263,7 @@ Because that's not a scene, that's a trailer.
 
 #### JONNY
 
-There's 'You died!' 
+There's "You died!"
 
 #### ALEX
 
@@ -1270,11 +1275,13 @@ There's the final Lonely.
 
 #### ALEX
 
-You're doing this in a very awkward order for me. [CHUCKLES] 
+You're doing this in a very awkward order for me. _(chuckles)_
 
 #### JONNY
 
-Yeah. There's 'Let's gouge out our eyes and make out'. There's... two scenes in 160: 'Good cows' and 'Oh no!' The question is how many scenes are there between that? 
+Yeah. There's "Let's gouge out our eyes and make out." There's... two scenes in 160: "Good cows" and "Oh no!"
+
+The question is how many scenes are there between that? 
 
 #### ALEX
 
@@ -1286,7 +1293,7 @@ I want to say seven.
 
 #### ALEX
 
-Okay. Cos the question was for the entirety of Season 4. So, going from the beginning, right. 'You were dead' is definitely one. 
+Okay. Cos the question was for the entirety of Season 4. So, going from the beginning, right. "You were dead" is definitely one. 
 
 #### JONNY
 
@@ -1294,15 +1301,17 @@ Yep.
 
 #### ALEX
 
-There's a meeting between John and Martin, where John's like 'Listen, I need to warn you about Peter Lukas'. Is that the same one as the, You're— you were dead'? 
+There's a meeting between John and Martin, where John's like "Listen, I need to warn you about Peter Lukas." Is that the same one as the, "You're -- you were dead"? 
 
 #### JONNY
 
-(Whispers) I don't know. I feel like there are either one, two or three meetings between 'You died' and 'Let's gouge out our eyes'. 
+_(whispers)_ I don't know.
+
+I feel like there are either one, two or three meetings between "You died" and "Let's gouge out our eyes." 
 
 #### ALEX
 
-So, I know what I'm like, structurally-speaking. I would expect me to have allowed three scenes between the two of them, then end game. 
+So, I know what I'm like, structurally-speaking. I would __expect__ me to have allowed three scenes between the two of them, then endgame. 
 
 #### JONNY
 
@@ -1310,19 +1319,19 @@ Then let's say... six or seven, pick your number.
 
 #### ALEX
 
-I am gonna say... six. Cos that way, if it's seven, we can say, 'Oh, they've counted the trailer, so fnar fnar fnar'. 
+I am gonna say... six. Cos that way, if it's seven, we can say, "Oh, they've counted the trailer, so fnar fnar fnar."
 
 #### JONNY
 
-(Whispers) I'm going to say seven. 
+_(whispers)_ I'm going to say seven. 
 
 #### ALEX
 
-(Frustratedly) Oh Jonny, I hate you. It's going to be, like, 12 or something. 
+_(frustratedly)_ Oh Jonny, I hate you. It's going to be, like, 12 or something. 
 
 #### CHIOMA
 
-Okay. I'll give that to you. It is five episodes. Episode 124, Left Hanging; Episode 129, Submerged; Episode 154, Bloody Mary; Episode 159, The Last; and Episode 160, The Eye Opens. 
+Okay. I'll give that to you. It is five episodes. Episode 124, *Left Hanging;* Episode 129, *Submerged;* Episode 154, *Bloody Mary;* Episode 159, *The Last;* and Episode 160, *The Eye Opens.*
 
 #### ALEX
 
@@ -1338,23 +1347,19 @@ Yeah, it's a, it's a moral victory, because we both definitely, definitely said 
 
 #### CHIOMA
 
-Final question of Season 4. How many ribs does John possess at the end of Season 
-
-#### 4?
-
-
+Final question of Season 4. How many ribs does John possess at the end of Season 4?
 
 #### ALEX
 
-Oh no, how many ribs does a human possess in general 
+Oh no, how many ribs does a human possess in general?
 
 #### JONNY
 
-At the end of Season 4— 
+At the end of Season 4 --
 
 #### ALEX
 
-Quiet Jonny! I'm counting my ribs. [CHUCKLES] Ow. Ow. 
+Quiet Jonny! I'm counting my ribs. _(chuckles)_ Ow. Ow. 
 
 #### JONNY
 
@@ -1372,7 +1377,7 @@ Ahhh...
 
 I don't know. 
 
-#### J
+#### JONNY
 
 I don't know. 
 
@@ -1386,11 +1391,11 @@ I'm going to say 21. Cos I think we normally have 22 ribs. He's lost one to Jare
 
 #### ALEX
 
-Let's lock that in. It's the kind of thing Jonny'll know. And I'm, I'm hurting now because I've been poked— 
+Let's lock that in. It's the kind of thing Jonny'll know. And I'm, I'm hurting now because I've been poked --
 
 #### JONNY
 
-I categorically do not know how many ribs a human has. 
+I categorically do __not__ know how many ribs a human has. 
 
 #### ALEX
 
@@ -1398,11 +1403,9 @@ I can't keep poking my torso. It's starting to hurt.
 
 #### CHIOMA
 
-Can't give that to you, I'm afraid. The answer is 23, however, one of these is in a cupboard rather than his rib cage. 
+Can't give that to you, I'm afraid. The answer is 23; however, one of these is in a cupboard rather than his rib cage. 
 
 ##### [ALEX GRIMACES]
-
-
 
 #### JONNY
 
@@ -1410,7 +1413,7 @@ Ahhh, yeah. So, wh-what a human, normal human, has 24 ribs?
 
 #### ALEX
 
-Okay. There we go, there we go. We— 
+Okay. There we go, there we go. We --
 
 #### JONNY
 
@@ -1418,17 +1421,18 @@ Alex, you should have poked harder. I can't believe this.
 
 #### ALEX
 
-(Aggrieved) It hurts! I've legitimately bruised myself. 
+_(aggrieved)_ It hurts! I've legitimately bruised myself. 
 
 #### CHIOMA
 
 Perhaps you should pay more attention to human anatomy. Oh well, onto Season 5. Gertrude inherited Fiona Law as an assistant when she became Archivist. What is it that saved Fiona from being a victim of most, but not all, Powers? 
 
+
 #### JONNY
 
+##### [HE MAKES A CREAKING SOUND EFFECT]
 
-
-##### [MAKES CREAKING SOUND EFFECT]... thump.
+...thump.
 
 That's the sound of somebody fainting. 
 
@@ -1438,7 +1442,7 @@ Yeah, she just passed out all the time, didn't she?
 
 #### JONNY
 
-See, there was Emma, Fiona, Michael, and I want to say Sarah, and one of them survived lots by fainting. And I— And if Fiona Law was the long-lived one, then that will be it. 
+See, there was Emma, Fiona, Michael, and I want to say Sarah, and one of them survived lots by fainting. And I -- And if Fiona Law was the long-lived one, then that will be it. 
 
 #### ALEX
 
@@ -1454,7 +1458,7 @@ But who's the question referring to then?
 
 #### JONNY
 
-Fiona. Uh, like the, like the question I believe is— yeah. 
+Fiona. Uh, like the, like the question I believe is -- yeah. 
 
 #### ALEX
 
@@ -1466,11 +1470,9 @@ Terrific! The answer is fainting.
 
 ##### [NOISES OF SUCCESS]
 
-
-
 #### ALEX
 
-Yeah, there you go. Good job. Good job. I liked that as a story point as well. That was a nice little, like— I really liked that. It just resonated. 
+Yeah, there you go. Good job. Good job. I liked that as a story point as well. That was a nice little, like -- I really liked that. It just resonated. 
 
 #### CHIOMA
 
@@ -1542,11 +1544,9 @@ I think it might go straight to Helen.
 
 #### JONNY
 
-(Softly) Really? I feel like there's another. (Croaky) There is... another... 
+_(softly)_ Really? I feel like there's another. _(croaky)_ There is... another... 
 
 ##### [CHUCKLES]
-
-
 
 #### ALEX
 
@@ -1554,7 +1554,7 @@ The reason I don't think there is, is because, again, this is me revealing all m
 
 #### JONNY
 
-(Pondering) Yeah. 
+_(pondering)_ Yeah. 
 
 #### ALEX
 
@@ -1567,8 +1567,6 @@ And he kills Elias, but he doesn't smite Elias.
 #### ALEX
 
 If they count Elias, then fair enough. But I don't think there's anyone pre-Helen. I might say four brackets five, if you count Elias. 
-
-#### ALEX
 
 Last chance, if you think there's anything before Helen, but I don't... think... there is. 
 
@@ -1586,7 +1584,7 @@ Oh! Breekon!
 
 #### ALEX
 
-Oh! Does— 
+Oh! Does --
 
 #### JONNY
 
@@ -1670,15 +1668,11 @@ The answer is five -- the Not!Them / Not!Sasha, Jude Perry, Jared Hopworth, Bree
 
 ##### [ALEX GIVES A SIGH OF RELIEF]
 
-
-
 #### ALEX
 
 Yeah, getting answers wrong on Season 5 is a particularly egregious error. 
 
-##### [LAUGHS] We kinda got to bat for a thousand right now
-
-
+_(laughs)_ We kinda got to bat for a thousand right now.
 
 #### CHIOMA
 
@@ -1702,23 +1696,27 @@ Oh, ha, ooh. I think it'd be oolong.
 
 #### JONNY
 
-I'm going to say oolong. It's one of those details that, like, I threw in. It's important, I think, that as a character point, Martin dislikes a particular type of tea. 
+I'm going to say oolong. It's one of those details that, like, I threw in. It's important, I think, that as a character point, Martin dislikes a particular type of tea.
 
 #### CHIOMA
 
-Absolutely correct. The answer is oolong. Next question: The statement of Episode 189, Peers, includes the sound of three men in fine suits laughing. Which Rusty Quill member is the uncredited performer of said guffaws? 
+Absolutely correct. The answer is oolong.
+
+Next question: The statement of Episode 189, *Peers,* includes the sound of three men in fine suits laughing. Which Rusty Quill member is the uncredited performer of said guffaws? 
 
 #### JONNY
 
-(Cheerily) Oh, I think I know this one! I think it's Tim Meredith. This actually makes a lot of sense now because someone mentioned Tim Meredith getting an uncredited performance in Season 5. And I was like, 'What?! He did what?!' 
+_(cheerily)_ Oh, I think I know this one! I think it's Tim Meredith. This actually makes a lot of sense now because someone mentioned Tim Meredith getting an uncredited performance in Season 5.
+
+And I was like, "What?! He did what?!"
 
 #### ALEX
 
-If it is, A, I did not allow it. 
+If it is, A, I did __not__ allow it. 
 
 ##### [JONNY LAUGHS]
 
-And B, I know that Elizabeth would have put a request out, knowing that I forbade it anyway. So I think it might be... Tim Meredith, I think you're right. (Chuckling) And I think Elizabeth has some explaining to do. 
+And B, I know that Elizabeth would have put a request out, knowing that I forbade it anyway. So I think it might be... Tim Meredith, I think you're right. _(chuckling)_ And I think Elizabeth has some explaining to do. 
 
 #### JONNY
 
@@ -1729,8 +1727,6 @@ Let's find out.
 Great guess! The answer is Tim Meredith. 
 
 ##### [JONNY SOFTLY CHUCKLES AS ALEX ROARS]
-
-
 
 #### ALEX
 
@@ -1746,8 +1742,6 @@ You have given him a whole show.
 
 ##### [ALEX LAUGHS]
 
-
-
 #### ALEX
 
 I'm going to keep paying him to make stuff. But that's not the point! 
@@ -1762,7 +1756,7 @@ Oh.
 
 #### ALEX
 
-Ooh, I quite like that question. "Insecure, aggressive and desperate to be taken seriously"... 
+Ooh, I quite like that question. "Insecure, aggressive, and desperate to be taken seriously"... 
 
 #### JONNY
 
@@ -1774,7 +1768,7 @@ I think it is, yeah.
 
 #### JONNY
 
-Yeah. I forget who was giving a statement about— 
+Yeah. I forget who was giving a statement about --
 
 #### ALEX
 
@@ -1846,7 +1840,9 @@ I think it was you, Jonny.
 
 #### JONNY
 
-Okay. Hold on, hold on, hold on. It was the Saturday before— Sasha's birthday party was on the fourth; it was the Saturday before that. So what was the Saturday before the 4th of March? 
+Okay. Hold on, hold on, hold on. It was the Saturday before -- Sasha's birthday party was on the fourth; it was the Saturday before that.
+
+So what was the Saturday before the 4th of March? 
 
 #### ALEX
 
@@ -1854,31 +1850,33 @@ I don't know. I don't know. February sometimes has different numbers of days, I 
 
 #### JONNY
 
-I don't think it was a leap year. I'm going to roll the dice. That birthday party was on a Saturday, which we would have made Saturday the 4th of March, which means rolling that back... I'm going to say February the 25th. To be fair, this question is just two old men being, like, 'Now, so I think it was—' 
+I don't think it was a leap year. I'm going to roll the dice. That birthday party was on a Saturday, which we would have made Saturday the 4th of March, which means rolling that back... I'm going to say February the 25th.
+
+To be fair, this question is just two old men being, like, "Now, so I think it was --"
 
 #### ALEX
 
-'It was a Tuesday!' 
+"It was a Tuesday!"
 
 #### JONNY
 
-'I think it was 1963.' 
+"I think it was 1963."
 
 #### ALEX
 
-'It was a Tuesday, because I always eat soup on a Tuesday. It could have been a stew, but if it was a stew, it might've been a Wednesday.' 
+"It was a Tuesday, because I always eat soup on a Tuesday. It could have been a stew, but if it was a stew, it might've been a Wednesday."
 
 #### JONNY
 
-'I hadn't gotten the Citroën— 
+"I hadn't gotten the Citroën" --
 
 ##### [ALEX LAUGHS]
 
-—but I was still working. I was still working at Broad Street, so— 
+-- "but I was still working. I was still working at Broad Street, so" --
 
 #### ALEX
 
-(Laughing) I just had a vision of us on a porch as irritating old men who refuse to listen to each other or anyone else. And won't stop talking. 
+_(laughing)_ I just had a vision of us on a porch as irritating old men who refuse to listen to each other __or__ anyone else. And won't stop talking. 
 
 #### JONNY
 
@@ -1894,11 +1892,11 @@ The answer is the 14th of March 2020.
 
 #### JONNY
 
-Really? There was one after the— I thought that the— No, fair enough. 
+Really? There was one after the -- I thought that the -- No, fair enough. 
 
 #### ALEX
 
-You're talking to someone who deleted the entirety of production from my brain. 
+You're talking to someone who deleted the entirety of production from my brain.
 
 #### JONNY
 
@@ -1906,11 +1904,11 @@ Yeah.
 
 #### CHIOMA
 
-Which Magnus Archives cast or crew member struggles to listen to the show because it is too scary. 
+Which *Magnus Archives* cast or crew member struggles to listen to the show because it is too scary?
 
 #### JONNY
 
-I mean a bunch of them, I think. 
+I mean, a bunch of them, I think. 
 
 #### ALEX
 
@@ -1934,7 +1932,7 @@ The correct answer is, and I cannot believe you forgot your producer, Lowri.
 
 #### ALEX
 
-Oh that is a foolish question! 
+Oh, that is a foolish question! 
 
 #### JONNY
 
@@ -1946,7 +1944,7 @@ Well, I maintain that Bryn also says it's too scary! I query the question!
 
 #### JONNY
 
-Sorry Lowir. 
+Sorry, Lowri. 
 
 #### CHIOMA
 
@@ -1970,7 +1968,9 @@ I am going to say 5,000.
 
 #### ALEX
 
-I'm having to think about order of magnitude, never mind how many. So samples that she used at least once. We did reuse some assets. So that's one of the tricks with audio drama is you can use a storm from a different one as a new storm in a different one if you add an extra element, but even then... 
+I'm having to think about order of magnitude, never mind how many.
+
+So samples that she used at least once. We did reuse some assets. So that's one of the tricks with audio drama is you can use a storm from a different one as a new storm in a different one if you add an extra element, but even then... 
 
 #### JONNY
 
@@ -1994,7 +1994,7 @@ I am better!
 
 #### JONNY
 
-Thant's amateur hour! 
+That's amateur hour! 
 
 #### ALEX
 
@@ -2014,19 +2014,17 @@ I know, I know, I know.
 
 #### ALEX
 
-Half the time she's been running around with her recorder, trying to find sounds in a pandemic, just being like, 'I can make this work! I can make this work!' Poor woman. 
+Half the time she's been running around with her recorder, trying to find sounds in a pandemic, just being like, "I can make this work! I can make this work!" Poor woman. 
 
 #### CHIOMA
 
-Next question: Outside of Alex, which editor worked on the most episodes across all seasons. 
+Next question: Outside of Alex, which editor worked on the most episodes across all seasons?
 
 #### JONNY
 
 Which editor is inside of Alex? 
 
 ##### [ALEX LAUGHS]
-
-
 
 #### ALEX
 
@@ -2054,7 +2052,7 @@ They're just one amorphous blob that I, I gift my genius to. And they, uh, they'
 
 #### ALEX
 
-It's definitely between Elizabeth or Brock. I am going to say something controversial, and guess Brock by, like, one episode or something,. But over the years, it's very difficult to pin. I think it's actually going to be Brock, but not by much. 
+It's definitely between Elizabeth or Brock. I am going to say something controversial, and guess Brock by, like, one episode or something. But over the years, it's very difficult to pin. I think it's actually going to be Brock, but not by much. 
 
 #### JONNY
 
@@ -2086,8 +2084,6 @@ Point to you, Alex, the answer is Brock Winstead.
 
 ##### [ALEX IS OVERJOYED]
 
-
-
 #### ALEX
 
 Yes! 
@@ -2106,8 +2102,6 @@ But not in such a way that earns me a point.
 
 ##### [ALEX LAUGHS]
 
-
-
 #### CHIOMA
 
 And the final question of this quiz: Who is the last character to drop the F-bomb on this show? 
@@ -2122,7 +2116,7 @@ Hmmm.
 
 #### ALEX
 
-I think it's Melanie where it's like, 'You just want to stab Elias.' She's like, 'If you think that, you can f*** off out my tunnels on your high horse.' I think that might be the final F-bomb. 
+I think it's Melanie where it's like, "You just want to stab Elias." She's like, "If you think that, you can fuck off out my tunnels on your high horse." I think that might be the final F-bomb. 
 
 #### JONNY
 
@@ -2130,7 +2124,7 @@ Yeah, I think that's it. It's definitely in 199, because 200, a swear would have
 
 #### ALEX
 
-We said "bastard". 
+We said "bastard."
 
 #### JONNY
 
@@ -2138,7 +2132,7 @@ Well, no, but that's deliberate that it wasn't anything worse, because it's a we
 
 #### ALEX
 
-I don't believe there was any expletives throughout 200— 
+I don't believe there was any expletives throughout 200 --
 
 #### JONNY
 
@@ -2146,15 +2140,15 @@ No.
 
 #### ALEX
 
-—even if it was like, 'Oh no!' as in, like, 'Oh s***!' or whatever. I don't think there was anything like that. 
+—- even if it was like, "Oh no!" as in, like, "Oh shit!" or whatever. I don't think there was anything like that. 
 
 #### JONNY
 
-I think it was Melanie, said f*** off out her tunnels. 
+I think it was Melanie, said fuck off out her tunnels. 
 
 #### ALEX
 
-'F*** off out my tunnels on your high horse.' Yeah, I think that's it. 
+"Fuck off out my tunnels on your high horse." Yeah, I think that's it. 
 
 #### CHIOMA
 
@@ -2162,7 +2156,7 @@ That's right! It's Melanie in Episode 199. Brilliant!
 
 #### ALEX
 
-(Triumphant) Aw yes! 
+_(triumphant)_ Aw, yes! 
 
 #### JONNY
 
@@ -2170,7 +2164,7 @@ I mean, that would it be embarrassing if we hadn't? Cos it wasn't that long ago 
 
 #### ALEX
 
-Okay. So I realise that we were on the same team, but at the same time, I kind of want to know who won within our team. So... 
+Okay. So I realise that we were on the same team, but at the same time, I kind of want to know who won *within* our team. So... 
 
 #### JONNY
 
@@ -2186,19 +2180,15 @@ It's important for the records.
 
 #### ALEX
 
-Who's the MVP of this quote 'team'. 
+Who's the MVP of this quote-"team." 
 
 #### CHIOMA
 
-Out of a possible 29 points. That's 20 for Jonny and 22 for Alex. Not that it's a competition at all [CHUCKLES] 
+Out of a possible 29 points, that's 20 for Jonny and 22 for Alex. Not that it's a competition at all. _(laughs)_ 
 
 #### ALEX
 
-
-
-#### YES!
-
-
+YES!
 
 #### JONNY
 
@@ -2206,7 +2196,7 @@ I don't think that's...
 
 #### ALEX
 
-Yes! I think, I think that is accurate 
+Yes! I think, I think that is accurate.
 
 #### JONNY
 
@@ -2214,11 +2204,11 @@ Think what you've got to remember, though, Alex is a dirty cheat.
 
 #### ALEX
 
-Jonny, it's fine. I'm fine with us being credited as a team. When I privately know there's an extra couple of points kicking around there and that's okay. That's okay. Jonny. 
+Jonny, it's fine. I'm fine with us being credited as a team when I privately know there's an extra couple of points kicking around there, and that's okay. That's okay, Jonny.
 
 #### JONNY
 
-You have to remember is that they've edited out all the additions— There were like ten more questions that I nailed— 
+You have to remember is that they've edited out all the additions -- There were like ten more questions that I nailed --
 
 #### ALEX
 
@@ -2234,7 +2224,9 @@ That's what happened.
 
 #### ALEX
 
-Control history. That's, that's the trick there, yeah. No, I'd like to give a special thanks to, uh, Brock for being the secret sauce behind this, uh, not a win necessarily, that's a strong word, but this triumph, this monumental achievement, I don't know. 
+Control history. That's, that's the trick there, yeah.
+
+No, I'd like to give a special thanks to, uh, Brock for being the secret sauce behind this, uh, not a win necessarily, that's a strong word, but this triumph, this monumental achievement, I don't know. 
 
 #### JONNY
 
@@ -2242,11 +2234,13 @@ I would say embarrassment for you. That you're putting such store by a quiz that
 
 ##### [ALEX CONTINUES TO LAUGH THROUGH JONNY'S RAMBLING]
 
-Like it's not— It's fine. You know, this was just for fun, it was just a little bit, a little bit of post-season content that doesn't, doesn't matter. 
+Like it's not -- It's fine. You know, this was just for fun, it was just a little bit, a little bit of post-season content that doesn't, doesn't matter. 
 
 #### ALEX
 
-(Struggling through laughter) And on that I think we should say bye. Bye everyone! 
+_(struggling through laughter)_ And on that I think we should say bye.
+
+Bye everyone! 
 
 #### JONNY
 
@@ -2254,4 +2248,6 @@ Anyway, I've got to go and do something else. Something that is important, and n
 
 #### CHIOMA
 
-So, that's it from me, I hope you've enjoyed this episode. Stay tuned as we have even more bonus episodes coming your way over the next few weeks. Goodbye! And thanks for listening. 
+So, that's it from me, I hope you've enjoyed this episode. Stay tuned as we have even more bonus episodes coming your way over the next few weeks.
+
+Goodbye! And thanks for listening.
