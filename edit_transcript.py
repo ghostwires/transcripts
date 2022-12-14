@@ -6,17 +6,19 @@ text = text.split('\n')
 for line in text:
     if line.isdigit() or line == '' or line.isspace():
         continue
-    if line in ('Rusty Quill Gaming – 12 – Keeeeeesh'):
+    if line in ('The Magnus Archives – Crew Retrospective'):
         continue
-    if line[:4] == 'Page' and line[-5:] == 'of 19':
-        continue
+    # if line[:4] == 'Page' and line[-5:] == 'of 19':
+    #     continue
     line = line.replace('’', '\'')
     line = line.replace('‘', '\'')
     line = line.replace('–', '-')
     line = line.replace(' -', ' --')
-    if line[0].isdigit():
-        line = line[3:]
-    if line == line.upper():
+    # if line[0].isdigit():
+    #     line = line[3:]
+    if line[0] == '[':
+        line = '##### ' + line
+    elif line == line.upper():
         line = '#### ' + line.upper()
     # if line[-1] == ':':
     #     line = '#### ' + line[:-1].upper()

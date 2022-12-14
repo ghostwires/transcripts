@@ -68,7 +68,7 @@ Hello!
 
 #### LOWRI
 
-No, that was the correct call. Hello, I am Lowri. I was producer of *The Magnus Archives* from about halfway through Season 4, I also played... Celia-slash-… Lynne Hammond! I *really* had to reach for that name then!
+No, that was the correct call. Hello, I am Lowri. I was producer of *The Magnus Archives* from about halfway through Season 4, I also played... Celia-slash-... Lynne Hammond! I *really* had to reach for that name then!
 
 ##### [ANNIE SNICKERS]
 
