@@ -15,9 +15,9 @@ prev_episode_num:		['200.01']
 prev_episode_title:		["MAG Roundtable - Making of Season 5"]
 next_categories: ["tma"]
 next_prefixes: ["MAG"]
-next_episode:		['20025-campflyingmoose-1']
-next_episode_num:		['200.25']
-next_episode_title:		["Camp Flying Moose - Part 1"]
+next_episode:		['20003-retrospective-creatorsquizzed']
+next_episode_num:		['200.03']
+next_episode_title:		["MAG Retrospective - Creators Quizzed"]
 episode_title:   'MAG Retrospective - Crew Q&A'
 episode_number:  '200.02'
 summary:         "The Archivist gets to know some of the crew who worked on The Magnus Archives, now that the show is over and they are no longer neede... sorry. No longer <b>busy.</b>"
