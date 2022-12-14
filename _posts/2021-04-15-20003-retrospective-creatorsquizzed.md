@@ -15,9 +15,9 @@ prev_episode_num:		['200.02']
 prev_episode_title:		["MAG Retrospective - Crew Q&A"]
 next_categories: ["tma"]
 next_prefixes: ["MAG"]
-next_episode:		['20025-campflyingmoose-1']
-next_episode_num:		['200.25']
-next_episode_title:		["Camp Flying Moose - Part 1"]
+next_episode:		['20004-retrospective-crewsqs']
+next_episode_num:		['200.04']
+next_episode_title:		["MAG Retrospective - Crew's Qs with Jonny & Alex"]
 episode_title:   'MAG Retrospective - Creators Quizzed'
 episode_number:  '200.03'
 summary:         "Chioma Nwalioba (Annabelle Cane) hosts this special episode, where we find out just how well the creators know the show they created!"

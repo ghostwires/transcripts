@@ -119,7 +119,7 @@ And you?
 
 #### HELEN
 
-I got involved with *The Magnus Archives* when I happened to arrive early to the studio for a *Rusty Quill Gaming* recording, and Alex just needed a quick voice to be Melanie's therapist. He was like, "We were hoping to save you for a bigger part at some point, but you can do these two lines. I'll just pitch you up, it'll be fine, people won't recognise you," but people who listen to *Rusty Quill Gaming* as well as *TMA* immediately clocked me because my name was in the credits. So that did not go as intended. _(chuckles)_
+I got involved with *The Magnus Archives* when I happened to arrive early to the studio for a *Rusty Quill Gaming* recording, and Alex just needed a quick voice to be Melanie's therapist. He was like, "We were hoping to save you for a bigger part at some point, but you can do these two lines. I'll just pitch you up, it'll be fine, people won't recognise you," but people who listen to *Rusty Quill Gaming* as well as TMA immediately clocked me because my name was in the credits. So that did not go as intended. _(chuckles)_
 
 Then I started as Lead Sensitivity Editor around mid-September in 2020, and I got a lot more involved in behind the scenes stuff for *Magnus* and for Rusty Quill, in general, a lot more after that. 
 
@@ -599,7 +599,7 @@ What passports?
 
 #### LOWRI
 
-Helen and mi—-?
+Helen and mi--?
 
 W-Where? Where did my friend go? 
 
@@ -641,7 +641,7 @@ Right, well that's all the questions. Um, so please, yeah? _(calling)_ Please le
 
 ##### [WHOOSHING AS SOMETHING CRASHES INTO THE GROUND]
 
-Whoa! Hey, do I... do I know—-? 
+Whoa! Hey, do I... do I know--? 
 
 #### JONNY
 
@@ -683,7 +683,7 @@ You've remembered quite a lot, Annie. That's no good. Time to practice your forg
 
 W-w-w-w-wait! I don't want to! I don't, I don't! I, I, I... Oh god, I was just saying, I was...
 
-What was I—-? 
+What was I--? 
 
 ##### [CLICK]
 

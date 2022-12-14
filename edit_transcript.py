@@ -6,13 +6,14 @@ text = text.split('\n')
 for line in text:
     if line.isdigit() or line == '' or line.isspace():
         continue
-    if line in ('The Magnus Archives – MAG Retrospective – Creators Quizzed!'):
+    if line in ('The Magnus Archives – Retrospective: Crew’s Qs with Jonny & Alex'):
         continue
     # if line[:4] == 'Page' and line[-5:] == 'of 19':
     #     continue
     line = line.replace('’', '\'')
     line = line.replace('‘', '\'')
     line = line.replace('–', '-')
+    line = line.replace('—', '-')
     line = line.replace(' -', ' --')
     line = line.replace('…', '...')
     # if line[0].isdigit():
