@@ -95,7 +95,7 @@ Your complete encyclopaedic knowledge!
 
 ##### [ALEX SNIGGERS]
 
-> ##### [CLIP: __[MAG018 -- The Man Upstairs]({{site.baseurl}}/episode/018.html)__]
+> ##### [CLIP: __[MAG018 -- The Man Upstairs]({{site.baseurl}}/tma/018.html)__]
 > 
 > "On my third knock the door swung inwards ever-so-slightly, and I realised it was not locked. There is... little in my life that I regret quite as much as going inside.
 > 
@@ -283,7 +283,7 @@ Oh no. Yeah, no, no, no. Like, I mean, 'hole full of meat' was like an evolution
 
 Yeah, I feel like it could have gone further.
 
-> ##### [CLIP: __[MAG034 -- Anatomy Class]({{site.baseurl}}/episode/034.html)__]
+> ##### [CLIP: __[MAG034 -- Anatomy Class]({{site.baseurl}}/tma/034.html)__]
 > 
 > __"DR. ELLIOTT:__ When I went to the classroom shortly after what should have been their final tutorial, I found something on the desk. It was an apple. Next to it was a handwritten note that said "Thank you for teaching us the insides". I burned the note, just in case.
 > 
@@ -435,7 +435,7 @@ A few of the writers I shared a course with are in here as well, dotted around.
 
 Yeah.
 
-> ##### [CLIP: __[MAG032 -- Hive]({{site.baseurl}}/episode/032.html)__]
+> ##### [CLIP: __[MAG032 -- Hive]({{site.baseurl}}/tma/032.html)__]
 > 
 > "I used to pick at my skin. It was a compulsion. I would spend hours in the bathroom, staring as close as I could get to my face to the mirrors, searching for darkened pores to squeeze and watch the congealed oil worm its way out of my skin. Often I would end with swollen red marks where it had become inflamed with irritation or infection. Did I hear the song then?
 > 
@@ -479,7 +479,7 @@ Yeah, I know. I know. And I, you know, on the other hand, sometimes it did work.
 
 #### ALEX
 
-There's another one that did well by that. And it's the one where, 'I can't sleep with the billboard --
+There's another one that did well by that. And it's the one where, 'I can't sleep with the billboard' --
 
 #### JONNY
 
@@ -515,7 +515,7 @@ Elizabeth's too good for them now. Like...
 
 #### ALEX
 
-cos Brock does the music, the monster. Here's the weirdest pet peeve ever. I don't understand how Brock does what Brock does. Which is, we give him the track and say, Brock, we need the music. And then he turns it around in about four hours. And I don't understand how! Because I know the tool that Brock is using, and I know the materials that Brock's working from. And I can't do it!
+-- cos Brock does the music, the monster. Here's the weirdest pet peeve ever. I don't understand how Brock does what Brock does. Which is, we give him the track and say, Brock, we need the music. And then he turns it around in about four hours. And I don't understand how! Because I know the tool that Brock is using, and I know the materials that Brock's working from. And I can't do it!
 
 And Brock won't tell me what the secret sauce is!
 
@@ -541,7 +541,7 @@ Wh-What's the phrase... 'Git gud'.
 
 You know what? I fear you might be right on that one. God, what a damning indictment.
 
-> ##### [CLIP: __[MAG046 -- Literary Heights]({{site.baseurl}}/episode/046.html)__]
+> ##### [CLIP: __[MAG046 -- Literary Heights]({{site.baseurl}}/tma/046.html)__]
 > 
 > "In my determination to chase a young man stealing a book, I had apparently completely forgotten my age, which returned all at once and I collapsed slightly on the stairs. I began to climb then, slowly, towards the top of the bell tower. I have never been afraid of heights, but as I got higher and higher up those stairs, my head started to swim and my heart was beating so fast I was honestly worried that I was in danger of a heart attack.
 > 
@@ -697,7 +697,7 @@ Okay. Fair point. But all I'm getting at here is, *some* of our stuff will date 
 
 Yeah. I think of it as old school.
 
-> ##### [CLIP: __[MAG062 -- First Edition]({{site.baseurl}}/episode/062.html)__]
+> ##### [CLIP: __[MAG062 -- First Edition]({{site.baseurl}}/tma/062.html)__]
 > 
 > "__GERTRUDE:__ Well?
 > 
@@ -821,7 +821,7 @@ Actors?! No, it's so the equipment can rest.
 
 #### ALEX
 
-No, this is for my, this is for my poor, my poor mixing deck. I actually still got it. It is still our backup. Although I think now it's the backup of the backup. I could not part with it because --
+No, this is for my, this is for my poor, my poor mixing desk. I actually still got it. It is still our backup. Although I think now it's the backup of the backup. I could not part with it because --
 
 #### JONNY
 
@@ -843,7 +843,7 @@ She's gonna be buried alongside you.
 
 Well, it can't be on top, I'd get crushed!
 
-> ##### [CLIP: __[MAG081 -- A Guest for Mr. Spider]({{site.baseurl}}/episode/081.html)__]
+> ##### [CLIP: __[MAG081 -- A Guest for Mr. Spider]({{site.baseurl}}/tma/081.html)__]
 > 
 > "When he reached the entrance, he held up the book and placed it on the front door. I saw that cut-away panel of Mr. Spider's stained and bloody right-hand door. And he knocked on it twice. I saw the words clearly in my mind almost more than I heard the sound: 'KNOCK KNOCK'.
 > 
@@ -949,7 +949,7 @@ So there was an aspect where it was like -- Oh, I'm sorry. I just, I just heard 
 
 Oh yeah!
 
-##### [WHILE THEY WERE TALKING, THE REST OF __[MAG081]({{site.baseurl}}/episode/081.html)__ HAS BEEN PLAYING VERY FAINTLY IN BACKGROUND; STATEMENT IS FADED UP TO HEAR A SNIPPET]
+##### [WHILE THEY WERE TALKING, THE REST OF __[MAG081]({{site.baseurl}}/tma/081.html)__ HAS BEEN PLAYING VERY FAINTLY IN BACKGROUND; STATEMENT IS FADED UP TO HEAR A SNIPPET]
 
 > "__GEORGIE:__ Did you... clean the kitchen?
 > 
@@ -993,7 +993,7 @@ Love to be a sensible creator.
 
 ##### [CHUCKLES ALL ROUND]
 
-> ##### [CLIP: __[MAG097 -- We All Ignore the Pit]({{site.baseurl}}/episode/097.html)__]
+> ##### [CLIP: __[MAG097 -- We All Ignore the Pit]({{site.baseurl}}/tma/097.html)__]
 > 
 > "__ARCHIVIST__: Right. Keep saying it's not meant to trip whenever one bulb goes, but "No, John, I don't want to bother the landlord."
 > 
@@ -1205,7 +1205,7 @@ Well, the issue is that she was too soprano as well. I was like, 'You're coming 
 
 ##### [LAUGHS]
 
-> ##### [CLIP: __[MAG103 -- Cruelty Free]({{site.baseurl}}/episode/103.html)__]
+> ##### [CLIP: __[MAG103 -- Cruelty Free]({{site.baseurl}}/tma/103.html)__]
 > 
 > "It smelled awful on the floor, and as the pink form began to move towards me, my resolve started to waver. It was far too heavy to be supported by its skinny, twig-like legs, but something still propelled it slowly forward, inch by inch, that familiar pink drool leaving a thin path for the enormous body to follow, until it was right on top of me.
 > 
@@ -1359,7 +1359,7 @@ Just vibing.
 
 Always appealed to me.
 
-> ##### [CLIP: __[MAG144 -- Decrypted]({{site.baseurl}}/episode/144.html)__]
+> ##### [CLIP: __[MAG144 -- Decrypted]({{site.baseurl}}/tma/144.html)__]
 > 
 > "'Five. Six. Four. Eight. Four. Six. Four. Seven. Four. Eight. Two. Seven.'
 > 
@@ -1509,7 +1509,7 @@ They leaned very heavily into this ARG element with, like, viewers getting packa
 
 Yeah, yeah, yeah.
 
-> ##### [CLIP: __[MAG135 -- Dark Matter]({{site.baseurl}}/episode/135.html)__]
+> ##### [CLIP: __[MAG135 -- Dark Matter]({{site.baseurl}}/tma/135.html)__]
 > 
 > "Maxwell told me it is in our nature to fear the dark, and I could not disagree. For all my intellectual reverence of it, I could not deny that on those few occasions I had found myself in full and proper darkness, my heart had trembled. And rightly so, he said, for are we not creatures born of the light, contemptible and corrupt? Surely then, this fear of confronting the pure nature of the universe is right and good. Surely this fear of the dark is the truest communion that humanity could ever hope for. And at his words, I felt afraid, and my heart soared in terror and elation as my eyes brimmed with tears, for I knew he spoke the truth.
 > 
@@ -1671,7 +1671,7 @@ We were already in the same sort of circles.
 
 Hmm.
 
-> ##### [CLIP: __[MAG160 -- The Eye Opens]({{site.baseurl}}/episode/160.html)__]
+> ##### [CLIP: __[MAG160 -- The Eye Opens]({{site.baseurl}}/tma/160.html)__]
 > 
 > "Hello, John.
 > 
@@ -1805,7 +1805,7 @@ It's a weird one, because of how the, like, the overall structure works with, li
 
 But yeah, it was an ambitious change, and I'm, I'm very glad that we did it.
 
-> ##### [CLIP: __[MAG181 -- Ignorance]({{site.baseurl}}/episode/181.html)__]
+> ##### [CLIP: __[MAG181 -- Ignorance]({{site.baseurl}}/tma/181.html)__]
 > 
 > "__MARTIN:__ So what's the deal with you two anyway?
 > 

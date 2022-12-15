@@ -81,13 +81,13 @@ Have you had any sinister or supernatural experiences?
 
 #### ALASDAIR
 
-Hi, I'm Alasdair Stewart, and I play Peter Lukas, Tim's favourite kayaking instructor, the enigmatic aikido sensei who taught martin how to live again, Martin's other dad, and the unsung hero of _The Magnus Archives,_ that kind of thing.
+Hi, I'm Alasdair Stewart, and I play Peter Lukas, Tim's favourite kayaking instructor, the enigmatic aikido sensei who taught Martin how to live again, Martin's other dad, and the unsung hero of _The Magnus Archives,_ that kind of thing.
 
 When I was a kid getting ready for school, my dad and I heard someone flushing the toilet in the upstairs bathroom. Now, given that my mum was getting the car, which was not in the upstairs bathroom, and no-one else was in the house... that was interesting.
 
 Same house, different year, I was drifting off to sleep when a female voice -- very sweet, kinda young, definitely not my mum, definitely not my sister or gran who didn't live with us -- said, "Hello." My entire body locked in a spasm of existential terror. And I couldn't open my eyes, because what if I did and someone was there? When I finally did, no-one was.
 
-A few years after that, before I learned about pareidolia, the condition where we see or a perceive pattern that is not there, I was absolutely convinced there was someone standing behind a tree, on a wall, outside my bedroom window in our holiday flat in York. Stone-still, slightly larger than a human would be, outlined by the streetlight, and defined by the leaves. Not moving, just watching me.
+A few years after that, before I learned about pareidolia, the condition where we see or perceive pattern that is not there, I was absolutely convinced there was someone standing behind a tree, on a wall, outside my bedroom window in our holiday flat in York. Stone-still, slightly larger than a human would be, outlined by the streetlight, and defined by the leaves. Not moving, just watching me.
 
 Oh, I also once saw a ghost flicker into existence, head-to-toe in sections, like a rotating sign. He seemed like a nice chap, he smiled at me. I have no idea what any of these experiences were. I do know there are rational explanations for all of them. And I know, especially at night how the brain can perceive light and space and time very differently. So if these were paranormal experiences, I'm both grateful to have had them, and even more grateful they were finite.
 
@@ -163,13 +163,13 @@ _[Laughs]_ No. Casper stealing a bag of treats from me or something. That cat is
 
 #### FAY
 
-What I've been enjoying recently is hearing the outtake stuff, some instances of which I'd actually forgotten. So it's been really nice. 'Oh yeah. That's mine. That's me. Okay.' Sometimes in Daisy voice, sometimes in me voice
+What I've been enjoying recently is hearing the outtake stuff, some instances of which I'd actually forgotten. So it's been really nice. 'Oh yeah. That's mine. That's me. Okay.' Sometimes in Daisy voice, sometimes in me voice.
 
 But I have one which I've shared on social media again recently, where it was the scene with Breekon and Hope, the one where Daisy gets chucked in the coffin. And I had to do hysterical laughter on cue, which turned out so realistic that they, at least one of the actors thought I was corpsing, and was put off and thought that we had to start the scene again.
 
 And like, after a while, he was like, "Oh, oh, you're, you're acting." "Yes. Yes, I am." "That's really realistic." So that one kind of stays with me, but in terms of favourite... _[giggles]_ Oh, it was for my first recordings of Season 4, and _Entombed_ was as intense to record as I'm sure you can imagine, it was a lot. So I came downstairs, going, "Need a cup of tea. I'm not going to drive home straight away." And people had gathered to be recording _Rusty Quill Gaming._
 
-And that was the first time I met Helen, and she had said that she'd started getting into _Magnus_ as a fan. And then there's a bit where we realised that we didn't know each other -- and I think it was either Johnny or Alex introduced us -- and she did a full Macaulay Culkin / The Scream, clasping her hands to her cheek and rocking backwards from where she'd been sitting on the floor going, "Daisy's alive!", which was the best, best response. I think I just went, "Spoilers!"
+And that was the first time I met Helen, and she had said that she'd started getting into _Magnus_ as a fan. And then there's a bit where we realised that we didn't know each other -- and I think it was either Jonny or Alex introduced us -- and she did a full Macaulay Culkin / The Scream, clasping her hands to her cheek and rocking backwards from where she'd been sitting on the floor going, "Daisy's alive!", which was the best, best response. I think I just went, "Spoilers!"
 
 #### LYDIA
 
@@ -213,7 +213,7 @@ It has been absolutely lovely. I'm feeling so overwhelmed by how loved Annabelle
 
 #### BEN
 
-Unsurprised, I would say because everybody loves a good villain, don't they? You know, if you think about Jafar or Scar or, to a certain extent, Gaston or, you know, any of the sort of like classic sort of Disney villains, and the general fan response to those.
+Unsurprised, I would say, because everybody loves a good villain, don't they? You know, if you think about Jafar or Scar or, to a certain extent, Gaston or, you know, any of the sort of like classic sort of Disney villains, and the general fan response to those.
 
 Yeah. I am broadly unsurprised by it, and I think it's lovely that people enjoy the character that I play. I mean, I don't want to be specifically told about everything that they enjoy about the character that I play, but the fact that they enjoy it, is fine. _[Laughs]_
 
