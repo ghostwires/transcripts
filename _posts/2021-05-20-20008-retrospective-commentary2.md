@@ -15,9 +15,9 @@ prev_episode_num:		['200.07']
 prev_episode_title:		["MAG Season 5 Q&A - Part 3"]
 next_categories: ["tma"]
 next_prefixes: ["MAG"]
-next_episode:		['20025-campflyingmoose-1']
-next_episode_num:		['200.25']
-next_episode_title:		["Camp Flying Moose - Part 1"]
+next_episode:		['20009-whattheghost2']
+next_episode_num:		['200.09']
+next_episode_title:		["What The Ghost? - Highgate Cemetery"]
 episode_title:   "MAG Retrospective - Commentary 2"
 episode_number:  '200.08'
 summary:         "Jonny and Alex listen to clips from <b>The Magnus Archives,</b> selected by Rusty Quill Patreon supporters, and regale us with stories of production some more true than others."
@@ -641,11 +641,11 @@ There's a trick with Luke that he really keys into, which is providing a paralle
 
 #### JONNY
 
-I never actually read *Doctor Jonathan Strange & Mr Norrell.*
+I never actually read *Doctor Strange & Mr Norrell.*
 
 #### ALEX
 
-*Doctor Jonathan Strange & Mr Norrell,* there was a BBC, I think it is, adaptation as well, and it had a very good portrayal of, basically a fae trickster, effectively. And I honestly, I think at some point said, "Have you seen this? Can you channel that energy?" At which point Luke goes, "Oh yeah! Okay. Yeah, I got you covered. Great. Here you go." And then just clicked in.
+*Doctor Strange & Mr Norrell,* there was a BBC, I think it is, adaptation as well, and it had a very good portrayal of, basically a fae trickster, effectively. And I honestly, I think at some point said, "Have you seen this? Can you channel that energy?" At which point Luke goes, "Oh yeah! Okay. Yeah, I got you covered. Great. Here you go." And then just clicked in.
 
 And I remember for this one, when he was playing Michael the assistant, he had at that point been aware of some of the stuff I'd done as Martin. And I went, "Could you just do Martin, please?" 
 
