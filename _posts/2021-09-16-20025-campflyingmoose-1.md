@@ -10,9 +10,9 @@ podcasts: ["tma"]
 title_prefix:	"MAG"
 prev_categories: ["tma"]
 prev_prefixes: ["MAG"]
-prev_episode:		['20010-rustyfears-nazar']
-prev_episode_num:		['200.10']
-prev_episode_title:		["Rusty Fears 4 - Nazar"]
+prev_episode:		['20011-rustyfears-thebudding']
+prev_episode_num:		['200.11']
+prev_episode_title:		["Rusty Fears 4 - The Budding"]
 episode_title:   'Camp Flying Moose - Part 1'
 episode_number:  '200.25'
 summary:         "Join us at <b>Camp Flying Moose for Girls of all Kinds</b>, a TTRPG created by Alicia Furness.<br/><br/>In this first instalment of three, we meet Ivy, Rowan, Violet and their fellow campers who are about to be thrown into a world of adventure and mystery."

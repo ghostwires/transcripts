@@ -15,9 +15,9 @@ prev_episode_num:		['200.09']
 prev_episode_title:		["What The Ghost? - Highgate Cemetery"]
 next_categories: ["tma"]
 next_prefixes: ["MAG"]
-next_episode:		['20025-campflyingmoose-1']
-next_episode_num:		['200.25']
-next_episode_title:		["Camp Flying Moose - Part 1"]
+next_episode:		['20011-rustyfears-thebudding']
+next_episode_num:		['200.11']
+next_episode_title:		["Rusty Fears 4 - The Budding"]
 episode_title:   "Rusty Fears 4 - Nazar"
 episode_number:  '200.10'
 summary:         'Welcome to the first of four Rusty Fears competition winners!<br/><br/>This week we present "Nazar" written by <b>Anushka Mehrotra,</b> directed by Elizabeth Moffatt and performed by Karim Kronfli.<br/><br/>Note: this is a piece of stand-alone fiction and not a part of the Magnus canon.'
