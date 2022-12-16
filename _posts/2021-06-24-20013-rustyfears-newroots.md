@@ -15,9 +15,9 @@ prev_episode_num:		['200.12']
 prev_episode_title:		["Rusty Fears 4 - The Final Culling"]
 next_categories: ["tma"]
 next_prefixes: ["MAG"]
-next_episode:		['20025-campflyingmoose-1']
-next_episode_num:		['200.25']
-next_episode_title:		["Camp Flying Moose - Part 1"]
+next_episode:		['20014-martinpoetryanthology1']
+next_episode_num:		['200.14']
+next_episode_title:		["Martin Poetry Anthology 1"]
 episode_title:   "Rusty Fears 4 - New Roots"
 episode_number:  '200.13'
 summary:         'This week we present the fourth and final winning entry of our Rusty Fears 4; "New Roots" written by Cecelia Morelli, directed by Maddy Searle and performed by Ben Meredith.<br/><br/>Note: this is a piece of stand-alone fiction and not a part of the Magnus canon.'
