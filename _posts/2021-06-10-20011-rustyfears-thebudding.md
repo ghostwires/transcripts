@@ -15,9 +15,9 @@ prev_episode_num:		['200.10']
 prev_episode_title:		["Rusty Fears 4 - Nazar"]
 next_categories: ["tma"]
 next_prefixes: ["MAG"]
-next_episode:		['20025-campflyingmoose-1']
-next_episode_num:		['200.25']
-next_episode_title:		["Camp Flying Moose - Part 1"]
+next_episode:		['20012-rustyfears-thefinalculling']
+next_episode_num:		['200.12']
+next_episode_title:		["Rusty Fears 4 - The Final Culling"]
 episode_title:   "Rusty Fears 4 - The Budding"
 episode_number:  '200.11'
 summary:         'This week, as part of our fourth Rusty Fears writing competition, we present "The Budding" written by Thekla Kenneison, directed by Hannah Preisinger and performed by Fay Roberts.<br/><br/>Note: this is a piece of stand-alone fiction and not a part of the Magnus canon.'
