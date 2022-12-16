@@ -15,9 +15,9 @@ prev_episode_num:		['200.11']
 prev_episode_title:		["Rusty Fears 4 - The Budding"]
 next_categories: ["tma"]
 next_prefixes: ["MAG"]
-next_episode:		['20025-campflyingmoose-1']
-next_episode_num:		['200.25']
-next_episode_title:		["Camp Flying Moose - Part 1"]
+next_episode:		['20013-rustyfears-newroots']
+next_episode_num:		['200.13']
+next_episode_title:		["Rusty Fears 4 - New Roots"]
 episode_title:   "Rusty Fears 4 - The Final Culling"
 episode_number:  '200.12'
 summary:         'Our third piece for the fourth Rusty Fears writing competition is "The Final Culling" written by Miranda B, directed by Jeffrey Nils Gardner and performed by Sue Sims.<br/><br/>Note: this is a piece of stand-alone fiction and not a part of the Magnus canon.'
