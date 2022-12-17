@@ -1,7 +1,7 @@
 ---
 layout:          post
 title:           "MAG200.23 - A Hole in the Ground"
-date:            2021-08-12 11:00:00 -0400
+date:            2021-09-02 11:00:00 -0400
 episode_type:      special
 tags:            [Gertrude Robinson]
 voiced:          [Gertrude Robinson]
@@ -15,9 +15,9 @@ prev_episode_num:		['200.20']
 prev_episode_title:		["Martin Poetry Anthology 2"]
 next_categories: ["tma"]
 next_prefixes: ["MAG"]
-next_episode:		['20025-campflyingmoose-1']
-next_episode_num:		['200.25']
-next_episode_title:		["Camp Flying Moose - Part 1"]
+next_episode:		['20024-thatfaceatthewindow']
+next_episode_num:		['200.24']
+next_episode_title:		["That Face at the Window"]
 episode_title:   "A Hole in the Ground"
 episode_number:  '200.23'
 summary:         'Found in the archives, Gertrude Robinson reads a brand-new in-universe statement.<br/><br/>Note: this is a piece of stand-alone fiction and not a part of the Magnus canon.'
@@ -27,7 +27,7 @@ formats:
 official:        true
 ---
 
-##### [TAPE CLICK]
+##### [CLICK]
 
 #### GERTRUDE
 
