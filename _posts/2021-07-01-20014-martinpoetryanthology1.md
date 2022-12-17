@@ -15,9 +15,9 @@ prev_episode_num:		['200.13']
 prev_episode_title:		["Rusty Fears 4 - New Roots"]
 next_categories: ["tma"]
 next_prefixes: ["MAG"]
-next_episode:		['20025-campflyingmoose-1']
-next_episode_num:		['200.25']
-next_episode_title:		["Camp Flying Moose - Part 1"]
+next_episode:		['20020-martinpoetryanthology2']
+next_episode_num:		['200.20']
+next_episode_title:		["Martin Poetry Anthology 2"]
 episode_title:   "Martin Poetry Anthology 1"
 episode_number:  '200.14'
 summary:         'The Archives can sometimes be an inspiring place.<br/><br/><b>Anthology 1</b><br/><ul><li>Streets</li><li>A Country Walk</li><li>Biscuits</li><li>Rains</li></ul>'
