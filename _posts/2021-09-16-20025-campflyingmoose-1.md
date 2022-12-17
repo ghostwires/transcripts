@@ -10,9 +10,9 @@ podcasts: ["tma"]
 title_prefix:	"MAG"
 prev_categories: ["tma"]
 prev_prefixes: ["MAG"]
-prev_episode:		['20020-martinpoetryanthology2']
-prev_episode_num:		['200.20']
-prev_episode_title:		["Martin Poetry Anthology 2"]
+prev_episode:		['20023-aholeintheground']
+prev_episode_num:		['200.23']
+prev_episode_title:		["A Hole in the Ground"]
 episode_title:   'Camp Flying Moose - Part 1'
 episode_number:  '200.25'
 summary:         "Join us at <b>Camp Flying Moose for Girls of all Kinds</b>, a TTRPG created by Alicia Furness.<br/><br/>In this first instalment of three, we meet Ivy, Rowan, Violet and their fellow campers who are about to be thrown into a world of adventure and mystery."

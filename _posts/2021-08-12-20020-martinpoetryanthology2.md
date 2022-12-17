@@ -15,9 +15,9 @@ prev_episode_num:		['200.14']
 prev_episode_title:		["Martin Poetry Anthology 1"]
 next_categories: ["tma"]
 next_prefixes: ["MAG"]
-next_episode:		['20025-campflyingmoose-1']
-next_episode_num:		['200.25']
-next_episode_title:		["Camp Flying Moose - Part 1"]
+next_episode:		['20023-aholeintheground']
+next_episode_num:		['200.23']
+next_episode_title:		["A Hole in the Ground"]
 episode_title:   "Martin Poetry Anthology 2"
 episode_number:  '200.20'
 summary:         'Further works of M. K. Blackwood.<br/><br/><b>Anthology 2</b><br/><ul><li>Visitors</li><li>Yonder</li><li>Filed Away</li><li>Draw State</li></ul>'
