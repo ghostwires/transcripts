@@ -13,11 +13,11 @@ prev_prefixes: ["MAG"]
 prev_episode:		['20029-rustyfears-inheritance']
 prev_episode_num:		['200.29']
 prev_episode_title:		["Rusty Fears 5 - Inheritance"]
-# next_categories: ["tma"]
-# next_prefixes: ["MAG"]
-# next_episode:		['20029-rustyfears-inheritance']
-# next_episode_num:		['200.29']
-# next_episode_title:		["Rusty Fears 5 - Inheritance"]
+next_categories: ["tma"]
+next_prefixes: ["MAG"]
+next_episode:		['20031-rustyfears-tower']
+next_episode_num:		['200.31']
+next_episode_title:		["Rusty Fears 5 - Tower"]
 episode_title:   "Rusty Fears 5 - Final Sale of the Remaining Works of E. Cutler"
 episode_number:  '200.30'
 summary:         "This week's Rusty Fears 5 winner is &quot;Final Sale of the Remaining Works of E. Cutler&quot; written by Cormack Baldwin, directed by Elizabeth Moffatt and performed by Imogen Harris.<br/><br/>Note: this is a piece of stand-alone fiction and not a part of the Magnus canon."
@@ -25,7 +25,7 @@ content_flags:   ["Supernatural compulsion", "Scopophobia", "Death & murder", "D
 acast_url:       https://play.acast.com/s/themagnusarchives/rustyfears5-finalsaleoftheremainingworksofe.cutler
 formats:
 official:        true
---- 
+---
 
 ##### [Show Theme -- Intro]
 
