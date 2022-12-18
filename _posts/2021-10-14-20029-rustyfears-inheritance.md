@@ -13,11 +13,11 @@ prev_prefixes: ["MAG"]
 prev_episode:		['20028-rustyfears-castingline']
 prev_episode_num:		['200.28']
 prev_episode_title:		["Rusty Fears 5 - Casting Line"]
-# next_categories: ["tma"]
-# next_prefixes: ["MAG"]
-# next_episode:		['20029-rustyfears-inheritance']
-# next_episode_num:		['200.29']
-# next_episode_title:		["Rusty Fears 5 - Inheritance"]
+next_categories: ["tma"]
+next_prefixes: ["MAG"]
+next_episode:		['20030-rustyfears-finalsaleoftheremainingworksofecutler']
+next_episode_num:		['200.30']
+next_episode_title:		["Rusty Fears 5 - Final Sale of the Remaining Works of E. Cutler"]
 episode_title:   "Rusty Fears 5 - Inheritance"
 episode_number:  '200.29'
 summary:         'This week Rusty Quill presents another Rusty Fears 5 winner; "Inheritance" written by Matrim Tait, directed by Ian Hayles and performed by Francesca Reneé Reid.<br/><br/>Note: this is a piece of stand-alone fiction and not a part of the Magnus canon.'
