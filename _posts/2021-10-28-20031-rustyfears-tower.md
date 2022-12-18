@@ -13,11 +13,11 @@ prev_prefixes: ["MAG"]
 prev_episode:		['20030-rustyfears-finalsaleoftheremainingworksofecutler']
 prev_episode_num:		['200.30']
 prev_episode_title:		["Rusty Fears 5 - Final Sale of the Remaining Works of E. Cutler"]
-# next_categories: ["tma"]
-# next_prefixes: ["MAG"]
-# next_episode:		['20029-rustyfears-inheritance']
-# next_episode_num:		['200.29']
-# next_episode_title:		["Rusty Fears 5 - Inheritance"]
+next_categories: ["tma"]
+next_prefixes: ["MAG"]
+next_episode:		['20032-rustyfears-derailing']
+next_episode_num:		['200.32']
+next_episode_title:		["Rusty Fears 5 - Derailing"]
 episode_title:   "Rusty Fears 5 - Tower"
 episode_number:  '200.31'
 summary:         "This week's Rusty Fears 5 winner is &quot;Tower&quot; written by Jennifer Hunt, directed by Lowri Ann Davies and performed by Fay Roberts.<br/><br/>Note: this is a piece of stand-alone fiction and not a part of the Magnus canon."
