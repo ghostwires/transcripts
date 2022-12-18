@@ -9,7 +9,7 @@ for line in text:
         #gets rid of blank spaces or page numbers
         #it does sometimes accidentally eat the numbers that are results of dice rolls, however. if you want to avoid that you can delete the "line.isdigit()" at the beginning so it doesn't eat any numbers
         continue
-    if line in ('Rusty Fears 5 – Episode 001 – Casting Line'):
+    if line in ('The Magnus Archives - Rusty Fears 5 – Inheritance'):
         #put any recurring lines you notice up here. the episode title usually is one, since it occurs in the header of each page on the PDF
         continue
     # if line[:4] == 'Page' and line[-5:] == 'of 19':

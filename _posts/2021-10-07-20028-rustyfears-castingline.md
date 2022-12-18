@@ -13,11 +13,11 @@ prev_prefixes: ["MAG"]
 prev_episode:		['20025-campflyingmoose-1']
 prev_episode_num:		['200.25']
 prev_episode_title:		["Camp Flying Moose - Part 1"]
-# next_categories: ["tma"]
-# next_prefixes: ["MAG"]
-# next_episode:		['20025-campflyingmoose-1']
-# next_episode_num:		['200.25']
-# next_episode_title:		["Camp Flying Moose - Part 1"]
+next_categories: ["tma"]
+next_prefixes: ["MAG"]
+next_episode:		['20029-rustyfears-inheritance']
+next_episode_num:		['200.29']
+next_episode_title:		["Rusty Fears 5 - Inheritance"]
 episode_title:   "Rusty Fears 5 - Casting Line"
 episode_number:  '200.28'
 summary:         'The Fear returns.<br/><br/>In the first of 5 winning entries for Rusty Fears 5, Rusty Quill presents; "Casting Line" written by Sarina H, directed by Maddy Searle and performed by Karim Kronfli.<br/><br/>Note: this is a piece of stand-alone fiction and not a part of the Magnus canon.'
