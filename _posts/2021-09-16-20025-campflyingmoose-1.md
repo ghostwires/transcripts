@@ -13,6 +13,11 @@ prev_prefixes: ["MAG"]
 prev_episode:		['20024-thatfaceatthewindow']
 prev_episode_num:		['200.24']
 prev_episode_title:		["That Face at the Window"]
+next_categories: ["tma"]
+next_prefixes: ["MAG"]
+next_episode:		['20028-rustyfears-castingline']
+next_episode_num:		['200.28']
+next_episode_title:		["Rusty Fears 5 - Casting Line"]
 episode_title:   'Camp Flying Moose - Part 1'
 episode_number:  '200.25'
 summary:         "Join us at <b>Camp Flying Moose for Girls of all Kinds</b>, a TTRPG created by Alicia Furness.<br/><br/>In this first instalment of three, we meet Ivy, Rowan, Violet and their fellow campers who are about to be thrown into a world of adventure and mystery."
@@ -23,6 +28,8 @@ official: false
 unofficial: ''
 unofficial_name: 'Anonymous'
 ---
+
+> __Transcriber's Note:__ This is the first of a three-part series. The other two parts have not been transcribed yet.
 
 ##### [THE MAGNUS ARCHIVES THEME -- INTRO]
 
