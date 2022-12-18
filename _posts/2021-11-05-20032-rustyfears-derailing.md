@@ -13,11 +13,11 @@ prev_prefixes: ["MAG"]
 prev_episode:		['20031-rustyfears-tower']
 prev_episode_num:		['200.31']
 prev_episode_title:		["Rusty Fears 5 - Tower"]
-# next_categories: ["tma"]
-# next_prefixes: ["MAG"]
-# next_episode:		['20029-rustyfears-inheritance']
-# next_episode_num:		['200.29']
-# next_episode_title:		["Rusty Fears 5 - Inheritance"]
+next_categories: ["tma"]
+next_prefixes: ["MAG"]
+next_episode:		['20033-goodbyefornow']
+next_episode_num:		['200.33']
+next_episode_title:		["Goodbye For Now"]
 episode_title:   "Rusty Fears 5 - Derailing"
 episode_number:  '200.32'
 summary:         "This week's Rusty Fears 5 winner is &quot;Derailing&quot; written by Josefin Berntsson, performed & directed by Jonathan Sims.<br/><br/>Note: this is a piece of stand-alone fiction and not a part of the Magnus canon."
