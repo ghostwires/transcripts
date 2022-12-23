@@ -15,9 +15,9 @@ prev_episode_num:		['200.13']
 prev_episode_title:		["Rusty Fears 4 - New Roots"]
 next_categories: ["tma"]
 next_prefixes: ["MAG"]
-next_episode:		['20019-outtakes-aneditorsperspective']
-next_episode_num:		['200.19']
-next_episode_title:		["MAG Outtakes - An Editor's Perspective"]
+next_episode:		['20015-mothership-1']
+next_episode_num:		['200.15']
+next_episode_title:		["Mothership - Part 1"]
 episode_title:   "Martin Poetry Anthology 1"
 episode_number:  '200.14'
 summary:         'The Archives can sometimes be an inspiring place.<br/><br/><b>Anthology 1</b><br/><ul><li>Streets</li><li>A Country Walk</li><li>Biscuits</li><li>Rains</li></ul>'
