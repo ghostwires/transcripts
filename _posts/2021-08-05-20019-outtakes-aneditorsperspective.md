@@ -10,9 +10,9 @@ podcasts: ["tma"]
 title_prefix:	"MAG"
 prev_categories: ["tma"]
 prev_prefixes: ["MAG"]
-prev_episode:		['20016-mothership-2']
-prev_episode_num:		['200.16']
-prev_episode_title:		["Mothership - Part 2"]
+prev_episode:		['20017-mothership-3']
+prev_episode_num:		['200.17']
+prev_episode_title:		["Mothership - Part 3"]
 next_categories: ["tma"]
 next_prefixes: ["MAG"]
 next_episode:		['20020-martinpoetryanthology2']
@@ -195,7 +195,7 @@ So I need to -- I need to transition into Haggard Alex.
 
 #### JONNY
 
-"_(really high-pitched)_ Oh look! It's Elias! _(much deeper whisper)_ What do we do about him?"
+_(really high-pitched)_ "Oh look! It's Elias!" _(much deeper whisper)_ "What do we do about him?"
 
 #### ALEX
 
@@ -321,7 +321,7 @@ It's --
 
 #### ALEX
 
-He clicks like a magician, just before the curtains have *pulled aside* and the assistant has disappeared.
+He clicks like a magician, just before the curtains have PULLED ASIDE and the assistant has disappeared.
 
 #### JONNY
 
