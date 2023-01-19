@@ -2411,7 +2411,7 @@ Oh--! Okay. 6, 7, 8, 9, 10, 11, and then the second roll on the 6 was a further 
 
 #### JONNY
 
-13. The bullets sink in its shoulder, which explodes, spraying bits of flesh and ichor and just nastiness all over the walls. It sort of tumbles. It's not dead, and it's not stopping, but it does mean you can just... press yourself against the wall, and let it kind of scramble past you. It's not trying to kill you anymore, 'cause you've hurt it.
+13\. The bullets sink in its shoulder, which explodes, spraying bits of flesh and ichor and just nastiness all over the walls. It sort of tumbles. It's not dead, and it's not stopping, but it does mean you can just... press yourself against the wall, and let it kind of scramble past you. It's not trying to kill you anymore, 'cause you've hurt it.
 
 #### ALEX
 
@@ -2597,7 +2597,7 @@ Yeah. 7.
 
 #### JONNY
 
-7. Okay, what's your Toughness?
+7\. Okay, what's your Toughness?
 
 #### ALEX
 

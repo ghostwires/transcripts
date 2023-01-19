@@ -29,8 +29,6 @@ unofficial: ''
 unofficial_name: 'Anonymous'
 ---
 
-> __Transcriber's Note:__ This is the first of a three-part series. The last part has not been transcribed yet.
-
 ##### [THE MAGNUS ARCHIVES THEME -- INTRO]
 
 #### SASHA

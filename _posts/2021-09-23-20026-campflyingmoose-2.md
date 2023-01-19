@@ -15,9 +15,9 @@ prev_episode_num:		['200.25']
 prev_episode_title:		["Camp Flying Moose - Part 1"]
 next_categories: ["tma"]
 next_prefixes: ["MAG"]
-next_episode:		['20028-rustyfears-castingline']
-next_episode_num:		['200.28']
-next_episode_title:		["Rusty Fears 5 - Casting Line"]
+next_episode:		['20027-campflyingmoose-3']
+next_episode_num:		['200.27']
+next_episode_title:		["Camp Flying Moose - Part 3"]
 episode_title:   'Camp Flying Moose - Part 2'
 episode_number:  '200.26'
 summary:         "In part 2 of <b>Camp Flying Moose for Girls of all Kinds,</b> Violet has a run in with authority, before joining Ivy & Rowan to continue their investigations into the weird happenings at camp."
@@ -28,8 +28,6 @@ official: false
 unofficial: ''
 unofficial_name: 'Anonymous'
 ---
-
-> __Transcriber's Note:__ This is the second of a three-part series. The last part has not been transcribed yet.
 
 ##### [*THE MAGNUS ARCHIVES* THEME -- INTRO]
 
