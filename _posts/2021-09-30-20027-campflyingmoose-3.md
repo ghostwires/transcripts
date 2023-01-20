@@ -283,13 +283,7 @@ Okay. Are you doing anything about the window, the broken pane, and the big stic
 
 #### FRANK
 
-I'm gonna... remove the stick.
-
-##### [DICE ROLLS]
-
-#### FRANK
-
-I'm gonna throw a rock at the window...
+I'm gonna... remove the stick. I'm gonna throw a rock at the window...
 
 ##### [ANNIE CACKLES]
 
@@ -2409,7 +2403,7 @@ And we'll put a link in the show notes as well.
 
 #### SASHA
 
-So thank you so much for listening. I've been Sasha Sienna, you can find more of me on Twitter @SiennaSasha, or if you like more roleplaying games, you can check out my RPG company, MacGuffin and Company. You can find us on Twitter @MacGuffinAndCo, or you can head to our website, www.macguffinandcompany. You can find us on Patreon, patreon.com/macguffinandcompany, or you can check out our Twitch, which is twitch.tv/macguffinandcompany.
+So thank you so much for listening. I've been Sasha Sienna, you can find more of me on Twitter @SiennaSasha, or if you like more roleplaying games, you can check out my RPG company, MacGuffin and Company. You can find us on Twitter @MacGuffinAndCo, or you can head to our website, www.macguffinandcompany.com. You can find us on Patreon, patreon.com/macguffinandcompany, or you can check out our Twitch, which is twitch.tv/macguffinandco.
 
 And I have been joined by Lowri, Frank, and Annie! Lowri, where can people find more of you?
 
@@ -2431,7 +2425,7 @@ And Annie, where can people find more of you?
 
 #### ANNIE
 
-You can follow me on Twitter @AnnieRuby_, don't forget the underscore at the end. You can follow me on Twitch, depending upon when you're listening to this, it will either be twitch.tv/annieruby, no underscore, or it will be twitch.tv/skinnypiggames. If you go to annieruby and it's not there, you know it's skinnypiggames.
+You can follow me on Twitter @AnnieRuby_, don't forget the underscore at the end. You can follow me on Twitch -- depending upon when you're listening to this, it will either be twitch.tv/annieruby, no underscore, or it will be twitch.tv/skinnypiggames. If you go to annieruby and it's not there, you know it's skinnypiggames.
 
 #### SASHA
 
@@ -2461,7 +2455,7 @@ Thanks Sasha! Bye!
 
 #### ALL
 
-Bye!
+Byeeee!
 
 ##### [THE *MAGNUS* THEME FADES IN]
 
