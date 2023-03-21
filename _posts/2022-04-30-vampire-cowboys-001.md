@@ -38,7 +38,7 @@ Oh, hello again, do take a seat, make yourself comfortable. I have a rather diff
 
 #### MADDY
 
-Hello and welcome to Chapter and Multiverse, the actual play podcast where we explore the same city across multiple parallel universes. I am your gamemaster Maddy Searle, pronouns she/her, and today we will be playing a one shot of Vampire Cowboys, a game of my design, which is a hack of Lasers and Feelings with a little sprinkle of Dead Channel by Grant Howitt in there as well -- Lasers and Feelings obviously written by John Harper, a creator of many amazing TTRPGs.
+Hello and welcome to *Chapter and Multiverse,* the actual play podcast where we explore the same city across multiple parallel universes. I am your gamemaster Maddy Searle, pronouns she/her, and today we will be playing a one shot of Vampire Cowboys, a game of my design, which is a hack of Lasers and Feelings with a little sprinkle of Dead Channel by Grant Howitt in there as well -- Lasers and Feelings obviously written by John Harper, a creator of many amazing TTRPGs.
 
 But before we go any further, I must introduce our wonderful and talented players, starting with Lowri. 
 
@@ -56,7 +56,7 @@ Hi, I'm Helen, and my pronouns are she/he/they, and Maddy, I did not realise unt
 
 #### LOWRI
 
-Neither did I until you said it out loud. I was like, what?!
+Neither did I until you said it out loud. I was like, "What?!"
 
 ##### [LAUGHTER]
 
@@ -100,7 +100,7 @@ Hello, I'm Ben Meredith, pronouns he/him.
 
 Wonderful. Alright, now it is time to create our characters. You have to choose a style, a role, a number, and a name for your character, and you also get to choose a character goal as well.
 
-So, let's just go in the same order that we did for the intros, and Lowri -- well, there's seven of them, so you can't roll a D6 for these, but that's how Lasers and Feelings did it, so blame Don Harper.
+So let's just go in the same order that we did for the intros, and Lowri -- well, there's seven of them, so you can't roll a D6 for these, but that's how Lasers and Feelings did it, so blame Don Harper.
 
 ##### [LAUGHTER]
 
@@ -156,11 +156,13 @@ Oh my gosh.
 
 #### MADDY
 
-...keeping in touch with your human side. So, do you want to be more vampiric or more cowboy-y, or kind of slap-bang in the middle? Two is the lowest you can choose and five is the highest you can choose. 
+...keeping in touch with your human side.
+
+So, do you want to be more vampiric or more cowboy-y, or kind of slap-bang in the middle? Two is the lowest you can choose and five is the highest you can choose. 
 
 #### LOWRI
 
-I can't, I've got to let the dice decide, like I am absolutely paralysed.
+I can't, I've got to let the dice decide. I am absolutely paralysed.
 
 ##### [DICE ROLLS]
 
@@ -244,7 +246,7 @@ Because you're a train robber!
 
 #### LYDIA
 
-That's very -- like, you rose from the dead and were like, "I think I vaguely remember what I used to be as a human, like, there was a *sound* I can remember."
+That's very -- like, you rose from the dead and were like, "I think I vaguely remember what I used to be as a human. There was a *sound* I can remember."
 
 ##### [LAUGHTER]
 
@@ -288,7 +290,7 @@ That does imply the existence of the character goal "Bleurgh!"
 
 #### LOWRI
 
-I mean I think maybe my goal could be to drink blood, because I'm, like, I'm sooo hungry!
+I mean I think maybe my goal could be to drink blood, because I'm sooo hungry!
 
 #### HELEN
 
@@ -428,7 +430,7 @@ Super vampire-y.
 
 #### LOWRI
 
-That makes sense, you're ancient, you're so vampiric. 
+That makes sense. You're ancient, you're so vampiric. 
 
 #### MADDY
 
@@ -480,11 +482,11 @@ What?
 
 #### HELEN
 
-Yeah! I have a document where, like, people say phrases that I think would make good names. Squishy Chewing. (Laughter) 
+Yeah! I have a document where people say phrases that I think would make good names. Squishy Chewing. (Laughter) 
 
 #### BEN
 
-So, hang on, so is this like a whole-thing-mononym, or are you like first name Squishy, last name Chewing? 
+So, hang on, so is this a whole-thing-mononym, or are you first name Squishy, last name Chewing? 
 
 #### LOWRI
 
@@ -558,7 +560,7 @@ And also what is your character's goal?
 
 #### HELEN
 
-Shall I just pick the last... "Yee-Haw!" My character goal is to "Yee-Haw!"
+Shall I just pick the last... "Yee-haw!" My character goal is to "yee-haw!"
 
 #### MADDY
 
@@ -582,17 +584,17 @@ Because it doesn't come easily.
 
 #### BEN
 
-Have we just, like, discovered you, and you're like, "cow who? Cow *what?"*
+Have we just discovered you, and you're like, "Cow who? Cow *what?"*
 
 ##### [LAUGHTER]
 
 #### LYDIA
 
-You see, like, Choo-Choo Strongstart wandering around, like -- that is who I want to be.
+You see Choo-Choo Strongstart wandering around, like -- "That is who I want to be."
 
 ##### [LAUGHTER]
 
-Yes, teach me cowboy stuff. 
+"Yes, teach me cowboy stuff!" 
 
 #### MADDY
 
@@ -602,7 +604,7 @@ Lydia, how about you, what's your style for your character?
 
 #### LYDIA
 
-Oo! Charming, charming we like that. 
+Oo! Charming. Charming, we like that. 
 
 #### HELEN
 
@@ -642,7 +644,7 @@ Aw.
 
 #### MADDY
 
-Nice, and what name do you want your character to have? 
+Nice. And what name do you want your character to have? 
 
 #### LYDIA
 
@@ -666,7 +668,7 @@ Ben looks like he's in more and more pain with every name. He's going to be some
 
 #### BEN
 
-No, because if Gunbo Baggins is a gunslinger, like, what is Bilbo Baggins?
+No, because if Gunbo Baggins is a gunslinger, what is Bilbo Baggins?
 
 ##### [LAUGHTER]
 
@@ -674,7 +676,7 @@ Like a duck?!
 
 #### LYDIA
 
-No, he's just... he's always got the receipts. 
+No, he's just... he's always got the receipts.
 
 #### LOWRI
 
@@ -682,7 +684,7 @@ Or the billboards.
 
 #### BEN
 
-I see, just one of the people who, like, swings the billboards on the road.
+I see. Just one of the people who swings the billboards on the road.
 
 ##### [LAUGHTER]
 
@@ -748,7 +750,7 @@ Aw.
 
 #### LYDIA
 
-Well, he's insecure... oh, that doesn't seem right, I don't like that. I'm going to reroll. 
+Well, he's insecure... oh, that doesn't seem right, I don't like that. I'm going to reroll.
 
 #### HELEN
 
@@ -776,7 +778,7 @@ Yes!
 
 #### MADDY
 
-Alright, so Ben, what style and role do you want for your character? 
+Alright. So Ben, what style and role do you want for your character? 
 
 ##### [DICE ROLLS]
 
@@ -838,7 +840,7 @@ It might be, it might be.
 
 #### MADDY
 
-So, please choose a number from two to five. 
+So please choose a number from two to five. 
 
 ##### [DICE ROLLS]
 
@@ -848,7 +850,7 @@ Okay, I am three, vampire.
 
 #### LYDIA
 
-Middling 
+Middling.
 
 #### BEN
 
@@ -856,7 +858,7 @@ Yeah.
 
 #### MADDY
 
-Sweet, and what name does your character have? 
+Sweet. And what name does your character have? 
 
 #### BEN
 
@@ -920,7 +922,7 @@ Nice.
 
 #### MADDY
 
-And now I believe you get to create your camp. So, as a group, you get to pick two strengths for your camp out of the list, including Well-hidden, Defensible, Magic Herbs, Bow Access, Neutral Town Nearby, Ley Lines, and The Horse Paddock. And you've also have to pick one problem, either Angry Bears, Contested Territory, Pathetic Fallacy, or Gold Rush.
+And now I believe you get to create your camp. So as a group, you get to pick two strengths for your camp out of the list, including Well-Hidden, Defensible, Magic Herbs, Bow Access, Neutral Town Nearby, Ley Lines, and The Horse Paddock. And you've also have to pick one problem, either Angry Bears, Contested Territory, Pathetic Fallacy, or Gold Rush.
 
 ##### [DICE ROLLS]
 
@@ -930,11 +932,11 @@ Seven, so "horse paddock."
 
 #### MADDY
 
-Alright, so second strength, do you want to go for something that complements horse paddock, or do you want to do something random? 
+Alright. So second strength, do you want to go for something that complements horse paddock, or do you want to do something random? 
 
 #### BEN
 
-What would... actually, like a sommelier, what would you recommend, what complements "horse paddock"? 
+What would... actually, like a sommelier, what would you recommend? What complements "horse paddock"? 
 
 #### MADDY
 
@@ -958,7 +960,7 @@ Yes.
 
 #### LYDIA
 
-The only reason that I like the idea of magic herbs is that the horses are also there and so they keep eating the magic herbs and having very strange effects or just getting confused.
+The only reason that I like the idea of magic herbs is that the horses are also there, and so they keep eating the magic herbs and having very strange effects or just getting confused.
 
 ##### [LAUGHTER]
 
@@ -1008,19 +1010,19 @@ Same.
 
 #### LOWRI
 
-I just really like the idea of people coming by like really bad moments, really high tension moments...
+I just really like the idea of people coming by really bad moments, really high tension moments...
 
 ##### [LAUGHTER]
 
-...it's, oh, just a... don't mind me. 
+...it's, "Oh, just a... don't mind me."
 
 #### BEN
 
-Seen any gold round here...?
+"Seen any gold round here...?"
 
 #### LYDIA
 
-While we're at like some terribly deep and traumatic point there's the tick-tick of the pickaxe.
+While we're at some terribly deep and traumatic point, there's the tick-tick of the pickaxe.
 
 ##### [LAUGHTER]
 
@@ -1040,7 +1042,7 @@ Another thing that we can do in this game is create NPCs to populate your camps.
 
 ##### [LAUGHTER]
 
-But you may choose whatever you want. So, Lowri what NPC do you think would be hanging around the camp? 
+But you may choose whatever you want. So Lowri, what NPC do you think would be hanging around the camp? 
 
 #### LOWRI
 
@@ -1064,11 +1066,11 @@ Ironically have a shovel.
 
 #### LOWRI
 
-She's always got a deck of cards. No, they, sorry I'd like their pronouns to be they/them -- they've always got a deck of cards. 
+She's always got a deck of cards. No, they, sorry, I'd like their pronouns to be they/them -- they've always got a deck of cards.
 
 #### MADDY
 
-Sweet, deck of cards, okay; and Helen, how about your NPC? 
+Sweet, deck of cards, okay. And Helen, how about your NPC? 
 
 #### HELEN
 
@@ -1082,7 +1084,7 @@ Fabulous.
 
 #### BEN
 
-Gets very confusing around camp. "I'm looking for Horse Paddock -- no, the act -- c'mon -- okay."
+Gets very confusing around camp. "I'm looking for Horse Paddock -- no, the act-- c'mon -- okay."
 
 ##### [LAUGHTER]
 
@@ -1198,7 +1200,7 @@ He plays the violin.
 
 #### BEN
 
-Actually, I don't know, you tell me -- Lowri, you explain to me in very, like, minute detail, why I didn't do that? 
+Actually, I don't know, you tell me -- Lowri, can you explain to me in very minute detail why I didn't do that? 
 
 #### LOWRI
 
@@ -1214,7 +1216,11 @@ Now we have all our characters prepped and ready, why don't we take a short brea
 
 ##### [SFX: A CRACKLING CAMPFIRE, INSECTS CHIRPING, WIND THROUGH TREES]
 
-And welcome back. Now we jump into the story of four vampire cowboys in the state of Wyoming in the year 1898. You are staying at your camp which is on the outskirts of a small town called Chapter, which has only been in existence for a couple of years, and you are currently sitting around your campfire. The moon is full and high in the sky and the wind is whispering through the trees. You have a selection of tents and wagons and lean-tos, which act as your sleeping quarters, and your horses are tied up in their little paddock off to the side with their eyes kind of looking a bit glassy for some reason.
+And welcome back. Now we jump into the story of four vampire cowboys in the state of Wyoming in the year 1898.
+
+You are staying at your camp, which is on the outskirts of a small town called Chapter -- which has only been in existence for a couple of years -- and you are currently sitting around your campfire.
+
+The moon is full and high in the sky, and the wind is whispering through the trees. You have a selection of tents and wagons and lean-tos, which act as your sleeping quarters, and your horses are tied up in their little paddock off to the side, with their eyes kind of looking a bit glassy for some reason.
 
 ##### [SFX: HORSES SNORTING]
 
@@ -1234,7 +1240,9 @@ Oooo.
 
 #### MADDY
 
-So, you are having a little bit of a celebration. You held up a number of the wealthiest passengers of the train, and looted a few lockboxes, and so you have got a bunch of jewellery, pocketwatches, and cold hard cash. So, how are you celebrating in your camp? 
+So, you are having a little bit of a celebration. You held up a number of the wealthiest passengers of the train and looted a few lockboxes, and so you have got a bunch of jewellery, pocketwatches, and cold hard cash.
+
+So how are you celebrating in your camp? 
 
 #### BEN
 
@@ -1242,7 +1250,7 @@ Here's a question, what flavour of vampiric rules are we labouring under? Can we
 
 #### MADDY
 
-Yes. Well, essentially, you can kind of pick-and-mix the vampire lore that works best for you, and it could be that different aspects of vampire lore affects you in different ways depending on your lineage, but yeah. It is entirely up to you. 
+Yes. Well, essentially, you can pick-and-mix the vampire lore that works best for you, and it could be that different aspects of vampire lore affect you in different ways depending on your lineage, but yeah. It is entirely up to you. 
 
 #### LOWRI
 
@@ -1264,7 +1272,7 @@ Nice.
 
 #### BEN
 
-Yeah, I like the idea that maybe we can eat and drink, but as you say, Lowri, like, it doesn't actually keep us alive. 
+Yeah, I like the idea that maybe we can eat and drink, but as you say, Lowri, it doesn't actually keep us alive. 
 
 #### LOWRI
 
@@ -1302,11 +1310,11 @@ Yeah, she's so nice.
 
 #### MADDY
 
-Yeah. Well Professor Hadrogroon...
+Yeah. Well, Professor Hadrogroon...
 
 ##### [LAUGHTER]
 
-Is off in the corner ignoring the celebrations and just kind of digging another trench in a very awkward place, so yeah -- it's where the privy is, so you know that...
+Is off in the corner ignoring the celebrations and just digging another trench in a very awkward place, so yeah. It's where the privy is, so you know that...
 
 ##### [SFX: DIGGING]
 
@@ -1316,7 +1324,7 @@ Oh no!
 
 #### MADDY
 
-Yeah, so you know like in the night-time when you're trying to go to the toilet...
+Yeah, so in the night-time when you're trying to go to the toilet...
 
 #### HELEN
 
@@ -1328,7 +1336,7 @@ Oh.
 
 #### MADDY
 
-...you're going to fall into a trench which has absolutely no fossils in it whatsoever.
+You're going to fall into a trench which has absolutely no fossils in it whatsoever.
 
 ##### [LAUGHTER]
 
@@ -1360,7 +1368,9 @@ Yeah.
 
 #### MADDY
 
-And providing a lovely backdrop to this evening of celebration. I would like everyone to make a Vampire check. If you're using Vampire, you want to roll under your number. 
+And providing a lovely backdrop to this evening of celebration.
+
+I would like everyone to make a Vampire check. If you're using Vampire, you want to roll under your number. 
 
 #### LOWRI
 
@@ -1368,15 +1378,15 @@ I rolled a one, and my number is two.
 
 #### MADDY
 
-Nice, yeah. And also, if you roll exactly your number then you are a true Vampire Cowboy and it's basically a crit, and you get to ask me-as-the-GM a question, and I have to answer truthfully. 
+Nice, yeah. And also, if you roll exactly your number, then you are a true Vampire Cowboy and it's basically a crit. And you get to ask me-as-the-GM a question, and I have to answer truthfully. 
 
 #### LOWRI
 
-Oh nice. 
+Oh, nice. 
 
 #### LYDIA
 
-Does it have to be about the game or just...? 
+Does it have to be about the game or just...?
 
 #### BEN
 
@@ -1390,11 +1400,11 @@ Yeah, you could just ask me what my favourite colour is if you want to.
 
 #### HELEN
 
-I rolled a three so that's a success for me. 
+I rolled a three, so that's a success for me. 
 
 #### BEN
 
-I rolled a one so that is a success for me too. 
+I rolled a one, so that is a success for me too. 
 
 #### MADDY
 
@@ -1430,7 +1440,7 @@ Yeah, you wait until we start rolling Cowboy.
 
 #### MADDY
 
-So, as you are looking around your camp kind of taking in the wonderful celebrations that are happening, you hear a very obvious like, someone stepping on a twig and it breaking off in the undergrowth, and you hear a voice go "Gosh darn it."
+So, as you are looking around your camp, taking in the wonderful celebrations that are happening, you hear a very obvious -- someone stepping on a twig and it breaking off in the undergrowth, and you hear a voice go "Gosh darn it."
 
 ##### [SFX: TWIG SNAPPING, FOLIAGE RUSTLING] 
 
@@ -1488,7 +1498,7 @@ Yeah, strange bush, you got anything to say, you can say it to my face!
 
 #### MADDY
 
-Alright, can you give me a Cowboy check, please, to see if you can charm this bush. 
+Alright. Can you give me a Cowboy check, please, to see if you can charm this bush? 
 
 ##### [DICE ROLLS]
 
@@ -1498,7 +1508,7 @@ _(laughing)_ No! I roll a two and that's below, so I guess it's not good.
 
 #### MADDY
 
-The bush kind of quivers for a moment and then...
+The bush quivers for a moment and then...
 
 ##### [SFX: FOLIAGE RUSTLING] 
 
@@ -1514,7 +1524,7 @@ Dammit, Gunbo, why do you insist on flirting with every damn bush we ever see?!
 
 #### GUNBO
 
-I just like flirting; and how are you doin'?
+I just like flirting. And how are *you* doin'?
 
 ##### [LAUGHTER]
 
@@ -1552,7 +1562,7 @@ I can count...
 
 #### MADDY
 
-And so you can see that there is a African-American couple, one of whom is a man and has these kind of tiny little pince-nez glasses on... 
+And so you can see that there is a African-American couple, one of whom is a man and has these tiny little pince-nez glasses on... 
 
 #### HELEN
 
@@ -1564,7 +1574,7 @@ Aw.
 
 #### MADDY
 
-...and the woman has a very authoritative bearing. There's also a lanky white man who just kind of has a goofy expression on his face. 
+...and the woman has a very authoritative bearing. There's also a lanky white man who just has a goofy expression on his face. 
 
 #### LYDIA
 
@@ -1574,11 +1584,15 @@ He has a podcast.
 
 #### MADDY
 
-Has a podcast. There is also a Mexican man who looks very nervous to be there, and a woman who has a sash of tartan around her clothing who just looks absolutely furious, just constantly furious. The African-American woman steps forward and says --
+Has a podcast. There is also a Mexican man who looks very nervous to be there, and a woman who has a sash of tartan around her clothing who just looks absolutely furious, just constantly furious.
+
+The African-American woman steps forward and says --
 
 #### WOMAN
 
-Alright, we were trying to be stealthy and obviously it didn't work out, so this is very awkward... we were gonna snatch away one of you vamps. Let's just be straight up front about it. We are a gang of werewolves, and we have found that there is a cure to lycanthropy, but that does involve draining the blood of a vampire.
+Alright, we were trying to be stealthy and obviously it didn't work out, so this is very awkward...
+
+We were gonna snatch away one of you vamps. Let's just be straight up front about it. We are a gang of werewolves, and we have found that there is a cure to lycanthropy, but that does involve draining the blood of a vampire.
 
 #### GUNBO
 
@@ -1586,7 +1600,7 @@ _(gulps)_ Oh no, sorry, I'm using my blood. I get a lot of use out of it -- cha-
 
 #### CIGAR
 
-Why would you go and tell us something like that, did you think we were just going to be like, "well, fine, then take one of us and drain us dry."
+Why would you go and tell us something like that? Did you think we were just going to be like, "Well, fine, then take one of us and drain us dry."
 
 ##### [LAUGHTER]
 
@@ -1618,7 +1632,7 @@ You have not seen the vampire thieves that I have seen in my life. If they come 
 
 #### GUNBO
 
-Well, to be fair, these ones haven't been that effective. So, maybe they won't come back.
+Well, to be fair, these ones haven't been that effective. So maybe they won't come back.
 
 #### WOMAN
 
@@ -1630,7 +1644,7 @@ She's like --
 
 #### KIRSTY
 
-I'm right, I was, I was very keen to steal away with one of you, all full blood suckers!
+I'm right. I was very keen to steal away with one of you, all full blood suckers!
 
 ##### [LAUGHTER]
 
@@ -1646,7 +1660,7 @@ The woman continues --
 
 #### WOMAN
 
-But we do have another proposition. Perhaps you could come with us in a town and find some unsuspecting person and turn them into a vampire and give them over to us -- see, we can't turn someone into a vampire. We're werewolves, we turn people into werewolves. But you can, so, perhaps we could come to some sort of uneasy alliance?
+But we do have another proposition. Perhaps you could come with us in a town and find some unsuspecting person and turn them into a vampire and give them over to us. See, we can't turn someone into a vampire -- we're werewolves, we turn people into werewolves. But you can, so perhaps we could come to some sort of uneasy alliance?
 
 #### GUNBO
 
@@ -1662,13 +1676,13 @@ Is that a threat?!
 
 #### WOMAN
 
-Mm, yeah, I would say that is, that is a threat. I was trying to be all subtle-like about it, but seems that you've seen through my ruse.
+Mm, yeah, I would say that is a threat. I was trying to be all subtle-like about it, but seems that you've seen through my ruse.
 
 ##### [LAUGHTER]
 
 #### CIGAR
 
-Well, I mean a threat's not really a threat if you don't know it's a threat. So I'd say it's doing its job. But here's a question for you: why are you trying to be cured from being a werewolf? It's like being a human but you get to do fun stuff on a new moon? No, full moon -- the one where it's big.
+Well, I mean a threat's not really a threat if you don't know it's a threat. So I'd say it's doing its job. But here's a question for you: why are you trying to be cured from being a werewolf? It's like being a human, but you get to do fun stuff on a new moon? No, full moon. The one where it's big.
 
 #### GUNBO
 
@@ -1686,15 +1700,27 @@ Oh, right, well. Yeah, I can make that fun supernatural.
 
 #### CIGAR
 
-Yeah, but you're a vampire, you always make everything fun supernaturally.
+Yeah, but you're a vampire. You always make everything fun supernaturally.
 
 #### GUNBO
 
-I do make everything fun, you're right [big wink]." (Laughter) "Have you ever thought about being double undead? Werewolf/vampire make beautiful werewolf-vampire babies?" 
+I do make everything fun, you're right.
+
+#### LYDIA
+
+Big wink.
+
+##### [LAUGHTER]
+
+#### GUNBO
+
+Have you ever thought about being double undead? Werewolf/vampire make beautiful werewolf-vampire babies?
 
 #### CIGAR
 
-Now hang on, would that be a vamp-wolf or a were-pire? (Laughter) 
+Now hang on, would that be a vamp-wolf or a were-pire?
+
+##### [LAUGHTER]
 
 #### SQUISHY
 
@@ -1718,7 +1744,7 @@ No, the *years!*
 
 #### GUNBO
 
-Ye -- oh! 
+Ye-- oh! 
 
 #### SQUISHY
 
@@ -1744,11 +1770,11 @@ Thank you for clarifying that, Squishy.
 
 #### LOWRI
 
-Choo Choo, having fainted...
+Choo-Choo, having fainted...
 
 ##### [LAUGHTER]
 
-...at the mention of the draining of the blood, has come round and is starving because hasn't eaten for a very long time, and I am wondering if the nervous person of this group -- to me they sound like, if they're nervous maybe they're the weak one of the pack, and Choo-Choo is trying to, like, sneak up behind them to just get a bite, basically. 
+...at the mention of the draining of the blood, has come round and is starving because hasn't eaten for a very long time. And I am wondering if the nervous person of this group -- to me they sound like, if they're nervous maybe they're the weak one of the pack, and Choo-Choo is trying to sneak up behind them to just get a bite, basically. 
 
 ##### [GASPS ALL AROUND]
 
@@ -1758,7 +1784,7 @@ Ooo.
 
 #### LOWRI
 
-Like, has missed the entire discourse and all Choo-Choo can smell is the blood and is like, "c'mon I can do this, I'm so hungry."
+Like, has missed the entire discourse and all Choo-Choo can smell is the blood and is like, "C'mon, I can do this, I'm so hungry."
 
 #### HELEN
 
@@ -1780,7 +1806,7 @@ Unfortunately, the man turns and around and is just like "Wait, what are you doi
 
 #### LYDIA
 
-In that, like, sneak pose with the, like, hands up.
+In that sneak pose with the hands up.
 
 ##### [LAUGHTER]
 
@@ -1832,7 +1858,7 @@ The woman steps forward and says --
 
 #### WOMAN
 
-Alright, okay, so since we are having this conversation, we might as well introduce ourselves. My name is Clarabelle Cranston, this is my husband, Andrew --
+Alright, okay, so since we are having this conversation, we might as well introduce ourselves. My name is Clarabelle Cranston. This is my husband, Andrew --
 
 #### MADDY
 
@@ -1844,7 +1870,7 @@ And this is Jimmy "Two-Toes" Bryant.
 
 #### MADDY
 
-And the man with the goofy expression goes _[Maddy's sound effect similar to Goofy]_
+And the man with the goofy expression goes, _[Maddy's sound effect similar to Goofy]_
 
 #### WOMAN
 
@@ -1852,13 +1878,13 @@ This is Miguel Santos --
 
 #### MADDY
 
-Pointing at the man who Choo Choo just tried to bite.
+Pointing at the man who Choo-Choo just tried to bite.
 
 ##### [LAUGHTER]
 
 #### WOMAN
 
-And finally, this is Kirsty McEwen -- she is not fond of your kind at all, so any provocation and she will attack. The rest of us are more keen to come to things peacefully.
+And finally, this is Kirsty McEwen. She is not fond of your kind at all, so any provocation and she will attack. The rest of us are more keen to come to things peacefully.
 
 #### GUNBO
 
@@ -1884,7 +1910,7 @@ Rarrroh!
 
 #### LYDIA
 
-Gunbo says, stretched against a tree. 
+-- Gunbo says, stretched against a tree. 
 
 #### CIGAR
 
@@ -1936,13 +1962,17 @@ Yeah, that's easy.
 
 #### WOMAN
 
-I was being metaphorical, like, it wasn't a very good metaphor, but anyway...
+I was being metaphorical. It wasn't a very good metaphor, but anyway...
 
 ##### [LAUGHTER]
 
 #### LYDIA
 
-Gunbo, again, still posed against the tree, flicks out guns. Baggsy a fight. You know, because my surname's Baggins...
+Gunbo, again, still posed against the tree, flicks out guns.
+
+#### GUNBO
+
+Baggsy a fight. You know, because my surname's Baggins...
 
 ##### [SFX: UNHOLSTERING GUNS] 
 
@@ -1980,25 +2010,27 @@ Oo, what kind of attack are you going for? That will be -- depend on whether you
 
 #### BEN
 
-I am gonna go for, to begin with... they're werewolves, right, so we want to be at range. So I'm going to roll backwards off of the, like, little camp stool. So I say lunge but actually I was lunging the opposite direction, it's very...
+I am gonna go for, to begin with... they're werewolves, right, so we want to be at range. So I'm going to roll backwards off of the little camp stool. So I say lunge but actually I was lunging the opposite direction, it's very...
 
 ##### [LAUGHTER]
 
-That is what I always intended to do. It was on purpose. So, I'm going to roll backwards and come up holding my six-shooter and try to plug any of them in the head -- aware that this might not stop them, but, like, slow them down at least.
+That is what I always intended to do. It was on purpose.
+
+So, I'm going to roll backwards and come up holding my six-shooter and try to plug any of them in the head -- aware that this might not stop them, but slow them down at least.
 
 ##### [SFX: ROLLING AND UNHOLSTERING WEAPON] 
 
 #### MADDY
 
-Fair enough, alright, give me a Cowboy roll. If you think that you would either be prepared for this or an expert at this, then you can pitch to me that you get an extra one D6 or two D6. 
+Fair enough, alright. Give me a Cowboy roll. If you think that you would either be prepared for this or an expert at this, then you can pitch to me that you get an extra one D6 or two D6. 
 
 #### BEN
 
-Oh, sure. I mean, I would say that the ruse with Gunbo's distraction would count me as prepared. 
+Oh, sure. I mean, I would say that the ruse with Gunbo's distraction would count me as prepared.
 
 #### MADDY
 
-Nice, yeah, alright, two D6 -- go for it. 
+Nice, yeah, alright. Two D6 -- go for it. 
 
 ##### [DICE ROLLS]
 
@@ -2020,7 +2052,7 @@ I would like to shoot Kirsty, because she seemed the most murderous.
 
 Alright, yeah. You send out a shot from your pistol --
 
-##### [SFX: Gunshot and splatter]
+##### [SFX: GUNSHOT AND SPLATTER]
 
 And it shoots right through her skull and out the other side, and she -- unfortunately, because it is not a silver bullet it does not kill her, but she is further enraged and starts to transform into a hulking, hairy wolflike humanoid creature with slavering jaws.
 
@@ -2042,11 +2074,15 @@ Oh yeah!
 
 #### LOWRI
 
-She was just, like, trying to distract herself to stay away, but also lick her face.
+She was just trying to distract herself to stay away, but also lick her face.
 
 ##### [LAUGHTER]
 
-Just rocking and singing like just a little... so hungry. 
+Just rocking and singing, like,
+
+#### CHOO-CHOO
+
+Just a little... so hungry. 
 
 #### MADDY
 
@@ -2072,11 +2108,11 @@ Yeah.
 
 #### HELEN
 
-Squishy is going to stand up. There's not that much of a difference because they are very, sort of small and crooked, and they will say --
+Squishy is going to stand up. There's not that much of a difference because they are very small and crooked, and they will say --
 
 #### SQUISHY
 
-As the cowboys say, here yee!
+As the cowboys say, "Here yee!"
 
 #### HELEN
 
@@ -2086,7 +2122,7 @@ And it starts...
 
 And picks up some of the silver cutlery that we stole from the train.
 
-##### [SFX: Rattling cutlery]
+##### [SFX: RATTLING CUTLERY]
 
 #### BEN
 
@@ -2098,7 +2134,7 @@ Yes, Squishy!
 
 #### HELEN
 
-And starts trying to, like, throw silver knives at the various werewolves. 
+And starts trying to throw silver knives at the various werewolves. 
 
 #### BEN
 
@@ -2110,7 +2146,7 @@ Yes it is.
 
 #### MADDY
 
-Mm hmm, incredible. Yeah, since it is so wise and wisdom-y, please make me a Vampire roll. 
+Mm-hmm, incredible. Yeah, since it is so wise and wisdom-y, please make me a Vampire roll. 
 
 #### HELEN
 
@@ -2122,7 +2158,7 @@ Oh, it's a five... no, but that is my number.
 
 #### MADDY
 
-That is your number, that is Vampire Cowboy, so you also get to ask me a question. 
+That is your number, that is Vampire Cowboy. So you also get to ask me a question. 
 
 #### LOWRI
 
@@ -2130,7 +2166,7 @@ Oo.
 
 #### BEN
 
-Truly on this night you became the Vampire Cowboy.
+Truly, on this night, you became the Vampire Cowboy.
 
 ##### [LAUGHTER]
 
@@ -2156,11 +2192,11 @@ Oh, yeah.
 
 #### HELEN
 
-Yes, that is the que -- I would like to ask, are they sincere, are they actually telling the truth? 
+Yes, that is the que-- I would like to ask, are they sincere, are they actually telling the truth? 
 
 #### MADDY
 
-Yes, they are, they are telling the truth. 
+Yes, they are. They are telling the truth. 
 
 #### HELEN
 
@@ -2180,7 +2216,7 @@ The one that's really angry, that Ben just shot in the head.
 
 #### MADDY
 
-Nice, so Kirsty, yes absolutely. 
+Nice, so Kirsty. Yes, absolutely. 
 
 #### LYDIA
 
@@ -2196,13 +2232,13 @@ Yeah, the French... the incredibly French one.
 
 ##### [LAUGHTER]
 
-You yeet this beautiful silver knife right into Kirsty's wolf-like, kind of like, shoulder. You can tell that she is very wounded but is going to take a couple more hits to get her fully down.
+You yeet this beautiful silver knife right into Kirsty's wolf-like shoulder. You can tell that she is very wounded, but is going to take a couple more hits to get her fully down.
 
 ##### [SFX: Knife cuts through the air and hits Kirsty's shoulder; she growls] 
 
 #### LOWRI
 
-Choo-Choo is very Cowboy. I've also just decided that is quite a new vampire which is why they get so sick at blood, they're just not used to it yet. 
+Choo-Choo is very Cowboy. I've also just decided that is quite a new vampire, which is why they get so sick at blood, they're just not used to it yet. 
 
 #### HELEN
 
@@ -2210,11 +2246,11 @@ Yeah.
 
 #### LOWRI
 
-But since very, very Cowboy, I would like to use my lasso powers to try and lasso Kirsty, the dog, to try and like bring her down, to like "neutralise the threat" kind of thing. I've had a bit of blood now so I'm like, "okay, I'm feeling a little bit stronger." 
+But since very, very Cowboy, I would like to use my lasso powers to try and lasso Kirsty the dog -- to try and bring her down, to "neutralise the threat" kind of thing. I've had a bit of blood now so I'm like, "Okay, I'm feeling a little bit stronger." 
 
 #### BEN
 
-I just got to say I really like describing things you're good at as your powers, like a cowboy has lasso powers...
+I just got to say, I really like describing things you're good at as your powers. Like a cowboy has lasso powers...
 
 ##### [LAUGHTER]
 
@@ -2242,7 +2278,7 @@ Two fours, my number's two.
 
 #### MADDY
 
-For cowboy you want to roll over your number, so yeah, that is a success! 
+For Cowboy you want to roll over your number, so yeah, that is a success! 
 
 #### LOWRI
 
@@ -2264,13 +2300,13 @@ Down, girl!
 
 #### LOWRI
 
-And just like _(makes whip noise)_ gets it round her neck and tried to yank her down. Oh, does yank her down?
+And just like, _(makes whip noise)_ gets it round her neck and tries to yank her down. Oh, *does* yank her down?
 
 ##### [SFX: Lasso swing and werewolf growling] 
 
 #### MADDY
 
-Yeah absolutely, and Kirsty the werewolf grasps at the rope around her neck and is yanked down to the ground and is stopped from doing anymore damage for now.
+Yeah, absolutely. And Kirsty the werewolf grasps at the rope around her neck and is yanked down to the ground, and is stopped from doing any more damage for now.
 
 ##### [SFX: Struggle and thud]
 
@@ -2282,7 +2318,9 @@ So, Gunbo finishes his story...
 
 ##### [LAUGHTER]
 
-About his... how the name Baggins arose from a typo when his ancestors arrived on Ellis Island and the person wrote it down -- it had been something much... like it was associated with royalty, you know. Totally, absolutely wasn't, it was made up. Yeah, as he finishes the story, realises that there is an incapacitated werewolf and goes, "Oh, well!" Gets the guns out. "I was helping all along."
+About his... how the name Baggins arose from a typo when his ancestors arrived on Ellis Island and the person wrote it down -- it had been something much... like it was associated with royalty, you know. Totally, absolutely wasn't, it was made up.
+
+Yeah, as he finishes the story, realises that there is an incapacitated werewolf and goes, "Oh, well!" Gets the guns out. "I was helping all along."
 
 ##### [SFX: Unholstering guns]
 
@@ -2370,13 +2408,13 @@ Wink wink.
 
 #### GUNBO
 
-You should maybe not try and kill us, and instead, like, join that party! I don't know, let's have some fun! We could rob a train together under the moonlight, just you and me. All of you and me and all of them.
+You should maybe not try and kill us, and instead join that party! I don't know, let's have some fun! We could rob a train together under the moonlight, just you and me. All of you and me and all of them.
 
 ##### [LAUGHTER]
 
 #### CIGAR
 
-Cause I've got to be fair, your proposal was "do this or we're gonna kill you." Which ain't the best proposal I ever heard. So, maybe you can find it in your hearts to offer us something for helping you out. Especially since we could very easily dispatch your French friend.
+Cause I've got to be fair, your proposal was "Do this or we're gonna kill you." Which ain't the best proposal I ever heard. So, maybe you can find it in your hearts to offer us something for helping you out. Especially since we could very easily dispatch your French friend.
 
 #### CLARABELLE
 
@@ -2384,7 +2422,7 @@ Yeah, that is a very good point.
 
 #### MADDY
 
--- Says Clarabelle.
+-- says Clarabelle.
 
 #### CLARABELLE
 
@@ -2402,19 +2440,19 @@ Well, I'm sure he has a certain amount of blood that allows him to survive, so..
 
 Okay. 
 
-#### BEN AS CIGAR LIONEL
+#### BEN
 
-Great big man, 8ft tall and 5ft wide, filled to the brim red as an ass.
+Great big man, 8 feet tall and 5 feet wide, filled to the brim, red as an ass.
 
 ##### [LAUGHTER]
 
-#### MADDY
+#### CLARABELLE
 
 He's known as Jedediah Fenton, and he is known for mistreating his servants and his workers. He runs the local mine, and everyone in it is worked to the bone and not offered suitable payments. So... 
 
 #### GUNBO
 
-We are very against bad labour conditions, we are. That's why, in fact, we rob trains...
+We are very against bad labour conditions, we are. That's why, in fact, we rob trains.
 
 ##### [LAUGHTER]
 
@@ -2444,11 +2482,11 @@ Oh, yeah, I am very kind, let me explain things to you.
 
 #### CLARABELLE
 
-And I was about to say that the something in it for you would be, if you took down this terrible man: a) you would be doing a good service to the town of Chapter, but also, he's incredibly rich and because he's one of those paranoid rich types, he keeps all his wealth in his room in his mansion. So, you'd be able to, if you took him out, you'd be able to snaffle that off for yourself. We don't even need a cut. We're fine just doing after ourselves. Anything you steal from that mansion is yours. 
+And I was about to say that the something in it for you would be, if you took down this terrible man: a) you would be doing a good service to the town of Chapter, but also, he's incredibly rich. And because he's one of those paranoid-rich types, he keeps all his wealth in his room in his mansion. So, you'd be able to -- if you took him out, you'd be able to snaffle that off for yourself. We don't even need a cut. We're fine just doing after ourselves. Anything you steal from that mansion is yours.
 
 #### CIGAR
 
-Right, so you're saying that we turn this Jedediah Fenton into a vampire, deliver him to you, you swiftly drain him of all of his juices --
+Right. So you're saying that we turn this Jedediah Fenton into a vampire, deliver him to you, you swiftly drain him of all of his juices --
 
 ##### [LAUGHTER]
 
@@ -2466,7 +2504,7 @@ And then you'll be on your merry way, and we get the contents of his mansion of 
 
 #### CLARABELLE
 
-Absolutely, that is an excellent summary. 
+Absolutely. That is an excellent summary. 
 
 #### CIGAR
 
@@ -2482,11 +2520,11 @@ Yeah!
 
 #### GUNBO
 
-...and said, oh, payment for this tip is man that won't trouble our ethics and is rich, also could you turn him into a vampire and leave him by our door --
+...and said, "Oh, payment for this tip is man that won't trouble our ethics and is rich, also could you turn him into a vampire and leave him by our door" --
 
 ##### [LAUGHTER]
 
-You know, like, just for future negotiations, you might want to start... it's a carrot-stick scenario, and while some of us do like sticks in certain kinds of context, it's often better to start with a carrot. 
+You know, just for future negotiations, you might want to start... it's a carrot-stick scenario, and while some of us do like sticks in certain kinds of context, it's often better to start with a carrot. 
 
 #### CLARABELLE
 
@@ -2520,7 +2558,7 @@ Yeah, well, we might want to give them about a couple of hours for whatever's ha
 
 #### CLARABELLE
 
-Yeah, yeah, one of them gave me this funny look and it seemed to have, like, little spirals going round in its eyes and I was very confused what was going on there.
+Yeah, yeah, one of them gave me this funny look and it seemed to have little spirals going round in its eyes and I was very confused what was going on there.
 
 ##### [LAUGHTER]
 
@@ -2548,7 +2586,7 @@ But I thought it suited a horse, you know, it's just... you want to name animals
 
 #### CLARABELLE
 
-Yeah, because if you have a friend called Jessica and you also have a horse called Jessica and you called out "Jessica," you wouldn't want to be like, "oh no, I meant the horse!" 
+Yeah, because if you have a friend called Jessica and you also have a horse called Jessica and you called out "Jessica," you wouldn't want to be like, "Oh no, I meant the horse!" 
 
 #### GUNBO
 
@@ -2582,7 +2620,9 @@ Very odd name.
 
 #### MADDY
 
-Good, good, alright. And so, you gather your supplies for the trip into town, gather your horses, make sure that they're not tripping too much.
+Good, good, alright.
+
+And so you gather your supplies for the trip into town, gather your horses, make sure that they're not tripping too much.
 
 ##### [LAUGHTER]
 
@@ -2612,7 +2652,7 @@ Well, that is entirely up to you. If you want to bring them then you can, but it
 
 #### BEN
 
-I really like the idea where the werewolves stepped out and went, "We're werewolves, you're vampires," like none of our friends knew that we were vampires, and they were like "Oh my goodness!"
+I really like the idea where the werewolves stepped out and went, "We're werewolves, you're vampires," like -- none of our friends knew that we were vampires, and they were like "Oh my goodness!"
 
 #### MADDY
 
@@ -2652,7 +2692,7 @@ No, that sounds amazing.
 
 #### LYDIA
 
-Because -- that is exactly how I expect our horses to be behaving. Like, both doing the dance but also... he's like, "this is incredible, I need to put this horse in a video" -- Snoop Dogg reacting to dressage is exactly what we look like as we ride off into the sun-up.
+Because that is exactly how I expect our horses to be behaving. Like, both doing the dance but also... he's like, "This is incredible, I need to put this horse in a video." Snoop Dogg reacting to dressage is exactly what we look like as we ride off into the sun-up.
 
 ##### [SFX: HOOVES] 
 
@@ -2682,7 +2722,7 @@ Yes.
 
 #### MADDY
 
-So, yeah, as you set off towards the town of Chapter to investigate Jedediah Fenton's mansion, we shall end the episode there. So, thank you so much for listening to the first episode of our vampire cowboys' adventure. I would like to ask each of you, where can we find you on the internet and do you have anything you would like to plug? Starting with Lowri.
+So yeah, as you set off towards the town of Chapter to investigate Jedediah Fenton's mansion, we shall end the episode there. So thank you so much for listening to the first episode of our vampire cowboys' adventure. I would like to ask each of you where can we find you on the internet, and do you have anything you would like to plug? Starting with Lowri.
 
 #### LOWRI
 
@@ -2698,11 +2738,11 @@ Nice, alright. And Helen?
 
 #### HELEN
 
-I am @Alecto101 and I don't have anything to plug, apart from maybe my Rusty Quill podcast, which is called Enthusigasm, and it's really fun. 
+I am @Alecto101 and I don't have anything to plug, apart from maybe my Rusty Quill podcast, which is called *Enthusigasm* and it's really fun. 
 
 #### MADDY
 
-Nice, it is indeed very, very fun; and Lydia? 
+Nice, it is indeed very, very fun. And Lydia?
 
 #### LYDIA
 
@@ -2728,7 +2768,7 @@ Yeah, I do stories with my brother every Sunday at twitch.tv/thebrothersmeredith
 
 #### MADDY
 
-Fantastic. We hope to see you next time on Chapter and Multiverse, but until then, from all of us here in the space between worlds, goodbye. 
+Fantastic. We hope to see you next time on *Chapter and Multiverse,* but until then, from all of us here in the space between worlds, goodbye. 
 
 #### EVERYONE
 
@@ -2738,4 +2778,4 @@ Goodbye!
 
 #### THE ETERNAL TAVERN KEEPER
 
-Chapter and Multiverse is a podcast distributed by Rusty Quill and licensed under a Creative Commons Attribution Non-Commercial ShareAlike 4.0 International License. It is directed by Maddy Searle and produced by Natasha Johnston, with executive producers Alexander J Newall and April Sumner. The Eternal Tavern Keeper was played by Karim Kronfli. This episode was edited by Maddy Searle and Cathy Rinella, with music by Nico Vettese. Thank you for listening.
+*Chapter and Multiverse* is a podcast distributed by Rusty Quill and licensed under a Creative Commons Attribution Non-Commercial ShareAlike 4.0 International License. It is directed by Maddy Searle and produced by Natasha Johnston, with executive producers Alexander J Newall and April Sumner. The Eternal Tavern Keeper was played by Karim Kronfli. This episode was edited by Maddy Searle and Cathy Rinella, with music by Nico Vettese. Thank you for listening.
