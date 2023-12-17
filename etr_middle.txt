@@ -1,1878 +1,1625 @@
-Rusty Quill Gaming -- Episode 14 -- Knock Knock.......
-RQG --14 -- Knock Knock......
-Content Warnings
-• Physical violence & injury
-• Bombs & explosions
-• Discussions of: food, physical violence (inc. stabbing)
-• Mentions of: drowning, fire, alcohol, death
-• SFX: water, explosions
-##### [Show Theme -- Intro]
-#### ALEX
-Hello and welcome to episode 14 of the Rusty Quill Gaming podcast, we are
-coming to you from London, England and I am Alex Newall, your host and GM,
-and with me as always for better or worse, I have:
-#### JAMES
-James Ross.
-#### BRYN
-Bryn Monroe.
-#### BEN
-Ben Meredith.
-#### LYDIA
-Lydia Nicholas.
-#### ALEX
-And who are you playing?
-#### JAMES
-Sir Bertrand McGuffingham, half man, half man, half man.
-#### BRYN
-Sorry I'm distracted by the terrible maths (group laughter) I'm playing Hamid
-the halfling sorcerer.
-#### BEN
-Zolf, a dwarven cleric of Poseidon.
-#### LYDIA
-Sasha, antiques appraiser and knife fancier.
-(Group laughter)
-#### ALEX
-However given that we've just levelled in between weeks you're also a bit of a
-bomb fancier if I understand?
-#### LYDIA
-Oooh yes.
-#### JAMES
-Just stroking a bomb under there.
-#### LYDIA
-Yeah I'm like a bomb whisperer 'alright, little bomb'. It's all about dominance
-but in a situation of trust.
-#### ALEX
-Well you can't anger the bomb.
-#### LYDIA
-No.
-#### JAMES
-It's very important that one of you is in charge and you both know who that is.
-#### LYDIA
-Yeah.
-#### ALEX
-And instead of...
-#### JAMES
-Stop worrying and love the bomb.
-#### LYDIA
-Stop worrying and love the bomb.
-#### ALEX
-And instead of a shoutout I'm going to tell everyone that I had my first jellied
-eel (group cheering) I ate it yesterday, it was amazing.
-#### LYDIA
-They are delicious.
-#### ALEX
-I genuinely now actually recommend to everyone jellied eels as a thing.
-#### JAMES
-You big Cockney man.
-#### ALEX
-Oh they're great.
-#### LYDIA
-Did you like the jelly because as an actual Cockney, like, I still can't eat the jelly,
-I really like the eel bit.
-#### ALEX
-I could eat the jelly but it was all about the eel for me.
-#### LYDIA
-It's all about the eel.
-#### ALEX
-It was all about the eel, I also reckon it would go well with mustard, so I think...
-#### LYDIA
-Yeah?
-#### ALEX
-So I think I called that in the episode earlier but to repeat yead we did do some
-levelling up. I do still intend us to really have a talk about levelling up and
-picking character routes and things but honestly between level one and level
-two it's so very straightforward that it's just not worth your time.
-#### BRYN
-We'll done one for level three, maybe level four when it's interesting.
-#### LYDIA
-Speak for yourselves, guys, I got bombs.
-#### ALEX
-So Bryn if you can run through quickly sort of the default things that will
-happen and then we'll go round and say what everyone got individually as an
-extra.
-#### BRYN
-So I believe everyone's base attack bonus went up by one. (Group cheering)
-Most people got an increase to a single save, we all obviously got a few hit
-points. Some of us got lots of skill points, looking at Lydia, some of us got a
-couple of skill points.
-#### JAMES
-I fell over.
-#### BEN
-Some of us got three.
-(Group laughter)
-#### BRYN
-Yes.
-#### ALEX
-And that said obviously a couple of you got the chance to pick some feats or an
-extra spell say things like that so I'm just going to go around quickly and just
-get everyone to sort of talk to me about what you did when you levelled and
-then we'll get into the game. So starting with, let's start with you, James.
-#### JAMES
-I took weapon focus bastard sword.
-#### ALEX
-Shocker.
-#### JAMES
-Exactly, it's just Bertie just staring at it for hours going, “Urrgghhh really
-focused urrgghhh!”
-#### ALEX
-Yep and all that is doing is it's specialising sort of and it just makes you better,
-it gives you a plus one bonus.
-#### BRYN
-Yeah plus one to hit with a bastard sword but as with many of Bertie's feats it
-leads on to greater things in the future.
-#### ALEX
-And Bryn yourself?
-#### BRYN
-Well Bertie also got the class feature bravery.
-#### ALEX
-Oh yeah.
-#### BRYN
-Which means his terrible will save is not quite as terrible if someone is making
-him afraid.
-(Group laughter)
-#### JAMES
-If somebody is trying to terrify me I'm fine, if somebody has offered me
-biscuits it's not going to go so well!
-(Group laughter)
-#### ALEX
-Sure, so yeah James obviously got bravery and moving onto you Bryn?
-#### BRYN
-I got precisely no class features, feats or abilities whatsoever. I got to add a
-new zero level spell to my list of spells.
-#### ALEX
-Also known as a cantrip for people who were wondering.
-#### BRYN
-Yes cantrip.
-#### JAMES
-Don't worry Bryn you're already perfect.
-#### BRYN
-Ah. Thank you for lying so beautifully. I took read magic which again is
-incredibly dull as a spell but occasionally useful.
-#### ALEX
-It's one of those ones that you really, really need to have and no one has ever
-been enthused by read magic really.
-#### JAMES
-What does it do?
-#### ALEX
-It allows him to read magical spells that are written down.
-#### JAMES
-Oh. To be fair the clues were all there!
-(Group laughter)
-#### BRYN
-One feels you could have worked that out.
-#### JAMES
-Yeah.
-#### BRYN
-You're the kind of person who walks into a kitchen and asks where the forks
-are without checking the very obvious one and only drawer.
-#### JAMES
-Drawer, yep.
-#### ALEX
-Ben?
-#### BEN
-Again very similar I didn't do much, I got some extra slots because I work a
-little bit differently as a cleric in that I have access to all orisons which is what
-they call their zero level spells but to let people know I won't get it until I
-mediate again but I'm going to be going with burning disarm for tomorrow
-because that's quite good and spark is my orison.
-#### JAMES
-What does burning disarm do?
-#### BEN
-Makes a lump of metal really hot.
-#### JAMES
+©Rusty Quill 2023
+The Magnus Protocol
+Episode 1
+"First Shift"
+Written by Jonathan Sims and Alexander J Newall
+#### 01-08-2023
+Draft 1.6
+##### [1]
+#### 1. INT. OIAR MAIN OFFICE -- NIGHT, RAINING (COMPUTER).
+A decrepit computer turns on in a dated and dingy shared
+office in Royal Mint Court. There is the hum and whine of
+an old PC -- the sort of mid-90s oversized, slightly
+yellowing plastic tower that still has a floppy disk drive.
+A tinny digital fanfare accompanies its awakening, then the
+PC settles into the quiet whirr of its fan.
+There is a slight stutter of digital distortion and then
+the computer's aged microphone abruptly begins recording.
+It is eavesdropping on an anemic work party. SAM, LENA and
+GWEN can be heard quietly talking in another part of the
+office.
+#### ALICE
+##### [What are you] --looking forward to
+the most?
+#### TEDDY
+I mean, occasionally seeing the
+sun could be nice?
+#### ALICE
+Boooo! Your pathetic addiction to
+vitamin D will only make you weak.
+#### TEDDY
+But Alice, my bones! They're ready
+to snap like twiglets!
+#### ALICE
+Listen to me: bones are a lie
+peddled by Big Milk to keep you
+buying. No such thing.
+#### TEDDY
+Right, so what keeps your body
+upright?
+#### ALICE
+(grinning)
+Spite and coffee.
+##### [2]
+#### TEDDY
+(laughing) Well, I'm afraid we
+can't all subsist entirely on
+coffee and social media drama.
+#### ALICE
+Not with that attitude. I reckon
+you could crack it in another 4
+years...
+#### TEDDY
+Another 4 years of you and cracked
+is exactly what I'd be!
+Small laugh.
+Beat.
+#### ALICE
+I'm gonna miss you Teddy.
+#### TEDDY
+Nah, we'll stay in touch, right?
+#### ALICE
+(unconvincingly)
+'course. I mean, yeah, if you
+think you can escape my iconic
+brand of nonsense by getting a
+boring, normal job you're going to
+be sadly disappointed, my friend.
+#### TEDDY
+You know most people would
+consider civil service a boring,
+normal job.
+#### ALICE
+Yeah, well, most people don't work
+here.
+#### COLIN
+(approaching)
+Ain't that the truth.
+COLIN shuffles up, a touch worse for drink.
+##### [3]
+#### ALICE
+Colin! There's my guy! How's it
+hanging? Is it an app yet? Do we
+have a minimalist logo? I assume
+you've finished all the social
+features?
+#### COLIN
+Don't you start. I swear I'm going
+to shove a cable down that prick's
+throat, pull it out his
+ministerial anus and floss him to
+death.
+#### ALICE
+Is that what you mean when you go
+on about things being “backwards
+compatible”?
+Colin sighs wearily.
+Booo!
+#### TEDDY
+#### ALICE
+Don't boo me! I created you, and I
+can destroy you!
+Laughter.
+#### COLIN
+So are we just leaving Sam to the
+wolves then?
+#### ALICE
+He's a big boy, he can look after
+himself. Besides, he's going to be
+working with them.
+#### COLIN
+Sure but you know how Gwen and
+Lena can be...
+#### TEDDY
+- awful?
+##### [4]
+#### COLIN
+(overlapping)
+-intense.
+#### ALICE
+He's fine. 'Course it wouldn't
+have been an issue if we'd just
+done this at the pub like normal...
+#### TEDDY
+You know Lena.
+(imitating)
+"Proper procedure requires any
+provided food and beverages to be
+consumed on site. This includes
+cake.”. Fair play, though, Sam's
+been a good sport. God knows you
+wouldn't have got me to a
+stranger's goodbye party at six in
+the morning.
+#### ALICE
+(moving away)
+Eurgh. Fine, I'll go rescue him.
+Beat.
+#### COLIN
+So... Insurance?
+#### TEDDY
+It's reliable.
+#### COLIN
+True. Just let me know if they
+need an IT guy, yeah?
+#### TEDDY
+Colin, mate, you know you're never
+getting out of here.
+#### COLIN
+Christ, don't say that.
+##### [5]
+#### TEDDY
+Even if his nibs lets you off the
+hook, which he won't, you couldn't
+bring yourself to just leave. Not
+'til you've figured out all these
+fun little errors.
+#### COLIN
+Or they finally kill me.
+#### TEDDY
+I mean, sure, that too.
+Beat.
+#### TEDDY
+Heads up, looks like they're all
+coming over.
+#### COLIN
+(morose)
+Great.
+ALICE, SAM, LENA and GWEN come over.
+Hey!
+#### TEDDY
+#### LENA
+Enjoying the party?
+#### TEDDY
+Colin was just saying how much of
+a blast he's having, isn't that
+right?
+#### LENA
+(sardonic)
+Oh really.
+Uh, sure.
+#### COLIN
+#### TEDDY
+-and how he'd love to take the
+afterparty to the pub.
+##### [6]
+#### ALICE
+What a great idea, Colin.
+#### LENA
+Nonsense. Sam is the only one who
+has had any cake so far.
+#### GWEN
+And that was only because you
+practically forced it down his
+throat.
+#### SAM
+No, no, it was... nice.
+#### LENA
+People like chocolate cake.
+#### GWEN
+(sullen)
+People like being treated like
+adults...
+Beat. Gwen may have overstepped there.
+#### LENA
+Thank you for you feedback, Gwen.
+I will take it under advisement.
+Now I was just telling Sam that he
+can expect supportive co-workers
+here at the O.I.A.R..
+#### ALICE
+Oh Yeah. We're a real family. I#m
+your cool sister, Gwen's your
+uncool sister, Lena's you
+emotionally distant mother, Teddys
+the uncle that just got another
+job, and Colin's the family's
+grumpy IT manager
+#### GWEN
+You'll have to forgive Alice, Sam.
+She's convinced that she's funny.
+##### [7]
+#### SAM
+It's alright, we actually go way
+back.
+#### LENA
+Alice recommended Sam for the job.
+#### GWEN
+Oh? Nepotism, is it?
+#### ALICE
+(acidly)
+I learned from the best.
+#### GWEN
+People are trying to enjoy
+themselves, Alice. Could you
+please just turn it off for a
+moment?
+#### TEDDY
+(gently steering)
+Soooo! I think we might all be
+done on cake, so I'm going to call
+it and suggest anyone who wants to
+can decamp to the pub, ok?
+Plan.
+#### COLIN
+#### LENA
+If that's the consensus, I will
+accept it. Although I'm afraid I
+won't be able to join you at The
+StewardShame...
+#### ALICE
+#### LENA
+-but do take Sam along and enjoy
+yourselves. Just remember it is a
+work night.
+#### SAM
+Oh, er, sure. I'm down.
+##### [8]
+Great!
+#### TEDDY
+#### LENA
+Oh, and Teddy?
+Mm?
+#### TEDDY
+#### LENA
+I understand you're leaving us,
+but that's no excuse for being
+sloppy. Please ensure you shut
+down your workstation before you
+depart.
+#### TEDDY
+Hm? Oh I already d- Oh. That'suh... Right, hang on, I'll justTeddy pushes the power button. The recording ends and the
+internal fans spin down as the computer is shut down.
+#### 2. INT. OIAR MAIN OFFICE -- NIGHT, RAINING -- (COMPUTER).
+The computer boots up and the microphone switches on. Sam
+is sat at his desk, filling out paperwork. ALICE
+approaches.
+#### ALICE
+Right then. Ready?
+#### SAM
+Hang on, I've still got the last
+page to fill in. Do I really have
+to put "Samama Khalid" at the top
+of every single page?
+#### ALICE
+Yeah, they're pretty big on
+paperwork around here.
+#### SAM
+There has to be a way to do this
+online.
+Beat.
+##### [9]
+What?
+#### SAM CONT.
+#### ALICE
+(chuckling)
+You'll see. Anyway, hurry it up,
+time to mold you like clay into
+the perfect government drone for
+the Office of Incident Assessment
+and Response.
+#### SAM
+Speaking of, there's this box for
+a "Response 121" on the form. Do
+you know what that is?
+#### ALICE
+Oh, you can ignore that. There
+used to be a separate "Response"
+department, I think, but now it's
+just us. Guess they never updated
+the onboarding.
+#### SAM
+Ah. I already ticked it -- is that
+a problem?
+#### ALICE
+I doubt it since no one actually
+reads that stuff.
+Beat.
+ALICE (CONT.)
+Right pens down, eyes front, class
+is in session.
 Right.
-#### ALEX
-Makes you want to drop your things.
-#### BEN
-So you'll have to drop it.
-#### LYDIA
-Does it work for anything so like if I have like a stick?
-#### BEN
-It has to be a weapon, so any weapon that someone is holding or an
-unattended lump of metal up to 15lb.
-#### LYDIA
-That's just sitting there! Unloved, its mum has left it.
-(Group laughter)
-#### JAMES
-Can you use it to turn just something into a hot plate?
-#### BRYN
-I don't see why not.
-#### BEN
-No, no, no, it goes away for one, it goes away almost instantly it just heats up
-for one round and then goes away again but you could maybe flash fry
-something with it.
-#### ALEX
-And Lydia, yourself?
-#### LYDIA
-Um yeah, so I got some you know the hit points, I got twelve skill points but
-I've just put them in the same slots I had so I'm just better at everything and
-yeah I decided that after looking at all of the rogue...
-#### BRYN
-Incredibly long list.
-#### ALEX
-Yeah.
-#### LYDIA
-Incredibly long list and there are so many things that I'm sure are like, it's so
-complicated but I thought at the moment we're drowning in bombs and Sasha
-likes making things so she is going to learn to make bombs.
-#### ALEX
-I'm not surprised that this is the way things went. To spell out for listeners by
-the way rogues have a thing where their one of their features is they get to
-pick a rogue talent, what that really is, is rogues have their own extra list of
-feats sort of.
-#### BRYN
-They are not quite as powerful as feats but.
-#### ALEX
-But yeah they are slightly less powerful so what you end up with is rogues get a
-lot of extra rogue talents, one of which is yeah you get bomb making and...
-#### BRYN
-It's a horrendous list though because not only is it incredibly long but some of
-the options on it are picked from this other really long list.
-#### LYDIA
-Yeah I could take ninja tricks, there's alchemist-y thing.
-#### BRYN
-Isn't one of them just taking a combat feat?
-#### LYDIA
-Yes, yeah and I can get all combat feats.
-#### BRYN
-Which again is possibility the longest list of all.
-#### ALEX
-Yeah.
-#### LYDIA
-So a bomb I get three a day because it's my int bonus, it doesn't scale.
-#### ALEX
-It will scale when your int goes up but it doesn't sort of increase relative to.
-#### LYDIA
-Oh I didn't know the int went up?
-#### ALEX
-Yeah it can do if you were to say get some inherent bonuses, a God could come
-along and go I really like you Sasha, I like the way you roll here's another plus
-four to your int.
-#### BEN
-Basically butter Alex up and you'll get more stats.
-#### LYDIA
-Cool yeah and it does my sneak attack damage but I can throw it in people's
-faces and I thought that would be nice.
-#### BRYN
-You also got the class ability evasion.
-#### LYDIA
-Oh yes, yes.
-#### ALEX
-Ooh that's a good one.
-#### LYDIA
-So I dodge stuff, I assume, or evade.
-#### BRYN
-Basically dodging fireballs and stuff if most people when they dodge
-successfully still take half damage, you take none.
-#### LYDIA
-So I read that and I did not understand it, I thought that it was only if things do
-half damage I get to avoid.
-#### ALEX
-No, no, no it's this brilliant thing where is Bryn's fireball accidently goes off and
-deals you know 10d6 to everyone we always used to.
-#### JAMES
-One day.
-#### ALEX
-I always used to have it described to me as you enter rogue space, you sort of,
-step sideways and then sidle out of the world for a couple of moments. The
-explosion goes off and then you sidle back and...
-#### BRYN
-So basically you get to be Link?
-#### ALEX
-Sure yeah, yeah.
-#### BRYN
-What is it, Link Between Worlds?
-#### ALEX
-See I always, I always thought it was like the crawstep from the Nac Mac
-Feegle in the Terry Pratchett books you just sort of do a little bit of a wiggle
-and then you're out of the area for a while and then you come back, anyway.
-#### LYDIA
-What about listeners at home, do you have instances of people hiding behind
-dimensional space?
-#### ALEX
-If you do get on our dedicated forum where we'll have a thread dedicated to
-hiding in extra dimensional spaces.
-#### LYDIA
-Write it on a postcard, and just look at it.
-(Group laughter)
-#### ALEX
-Right I think that's quite enough preamble. So we'll do a quick recap for
-listeners at home but obviously the story is starting to get a bit longer so it's
-going to be a bit of a fly by wire. The simulacrum was stolen and/or destroyed
-later found to be definitely in bits, the party got sent back down into Other
-London to find the people that did it via a quick sidestep through one of
-Sasha's old friends who made a quick deal which Hamid potentially foolishly
-accepted.
-#### BRYN
-I'm a halfling is there's a cursed magic ring we all know where it is going to be.
-(Group laughter)
-#### ALEX
-So after...
-#### BRYN
-I'm just as beautiful as Elijah Wood!
-(Group laughter)
-#### JAMES
-On the inside!
-#### LYDIA
-Awww.
-#### JAMES
-I thought it was a more plausible claim, isn't he a movie star? I don't know I've
-never seen the films.
-#### BRYN
-Like I meant in character.
-#### JAMES
-Oh.
-#### BRYN
-My character is explicitly beautiful.
-#### ALEX
-That's fine you just make valued comments on your co-stars James that's fine.
-#### BRYN
-James doesn't think I'm pretty.
-#### ALEX
-And the party got moved on to a compound which was by the Thames, for
-some of you the first time you've ever seen the river because it just disappears
-beneath the glut that is London and you guys manage to lure off a pair of
-guards and their dogs.
-#### JAMES
-Lore? We dazzled them with our obscure knowledge.
-#### BEN
-Did you know, I didn't I will come with you.
-#### BRYN
-Yes sir.
-#### JAMES
-They call me the trivia whisperer. Pub quiz this way guys.
-#### BEN
-We're just Stephen Fry dazzling people with our general knowledge.
-#### ALEX
-In fairness Hamid did lure them with the lore of a statue they'd never seen.
-#### BRYN
-That's true.
-#### ALEX
-So they all came to investigate, found Bertie stood there all gold-ed up, all
-glammed up.
-#### JAMES
-To be fair Bertie probably does look a bit like Stephen Fry, very tall, lots of
-bottles, very keen on Apple products, supports Norwich City, like all of this.
-Yeah it's all a back story it's only because they've got canaries, they're birds,
-you see.
-#### BRYN
-True.
-#### JAMES
-Anyhow carry on.
-#### ALEX
-So you guys managed to ambush them successfully after having lost that fight
-earlier in Other London so you managed to turn things around and you, you
-really got the drop on these guys.
-#### BRYN
-I didn't even really, I literally didn't need to do anything, I had one action it was
-I wait while the rest of you just slaughtered them.
-#### ALEX
-I like to think of it as a really calculated wait.
-#### BRYN
-Oh it was, oh, absolutely.
-#### ALEX
-So you Sasha, Zolf and then with Hamid playing good cop managed to
-interrogate the remaining guard and find out that there are at least three
-people inside and that the area had been trapped and also then Zolf had a little
-bit of a share with everyone.
-#### BEN
-I revealed a troubling religious belief.
-#### ALEX
-Indeed, Zolf does have a thing about drowning people that he thinks deserves
-it in the eyes of his God.
-#### BEN
-Yeah.
-#### ALEX
-I mean you know it's Poseidon, no one said he was nice.
-#### BEN
-Playing the executioner.
-#### ALEX
-Hmm a little bit, so the deal that you seem to have struck with the rest of the
-party was that you would...
-#### BEN
-Leave these guys alone because they seemed reasonably not super-culpable
-but definitely do it to their leader because he seemed like a real nasty person.
-#### ALEX
-So we're going to pick up exactly after that discussion between Zolf and Hamid,
-you guys are at the pool with a couple of unconscious guards, a dog that's laid
-out and ooh I forgot to mention...
-#### JAMES
-I've got a doggie. I've got a doggie. Bertie's got a doggie called Brutor, he's an
-idiot and I don't have time to train him to do anything before this combat. I
-wonder if he's just going to go off and have his own little adventures in the
-corner as a comic subplot to the comic relief character during this combat.
-#### ALEX
-(Makes dog noises) I smell a spin off. Ok so let's pick up where we left off. Go.
-#### LYDIA
-I've got fourteen daggers, can you see like I've got fourteen.
-#### JAMES
-(Makes noises at Brutor)
-#### LYDIA
-Are you guys still?
-#### BEN
-No I think, I think that's resolved, right?
-#### LYDIA
-Fourteen
-#### BEN
-Are we good?
-#### BRYN
-For now.
-#### BEN
-For now.
-#### BRYN
-I guess.
-#### BEN
-But we're agreed?
-#### BRYN
-Yeah I think so.
-#### LYDIA
-Do you want a dagger?
-#### BRYN
-No thank you.
-#### JAMES
-Bertie runs back over. Hello again, chaps, right so hitting people with things,
-shall we?
-#### BEN
-I think that's probably a good idea if we get down to business.
-#### JAMES
-Now any traps in the building ahead, young lady?
-#### LYDIA
-Well like that guy just said there would be traps.
-#### BRYN
-Yeah he said there would be three people and some traps.
-#### LYDIA
-And like of them can do magic and stuff.
-#### BEN
-Yeah I think he said the leader is a guy who might do magic, shouldn't be too
-much of a problem.
-#### BRYN
-I hope not.
-#### LYDIA
-So do you want to, we could go around the back, that's how I usually get in.
-#### BEN
-We've taken out the perimeter guys that was the entire point so we can just
-wander up.
-#### LYDIA
-Right.
-#### BRYN
-I think just the front gate I mean some you can climb really well some of the
-rest of us can't. I look pointedly at the two men in large armour one of whom
-has one leg.
-#### JAMES
-I'm very good at trying.
-#### LYDIA
-Alright well you do your statue thing we'll wheel you through the front gate.
-#### BEN
-What a statue delivery?
-#### JAMES
-You three could hide inside me and then when they go to open me, woah
-adventurers.
-#### LYDIA
-It worked surprisingly well last time.
-#### BEN
-I think surprising is the operative word there so I think we discussed sending
-you in first to deactivate the traps.
-#### LYDIA
-Right.
-#### BEN
-Not to do any confrontation.
-#### LYDIA
-Loving this plan yeah.
-#### BEN
-Bearing in mind that I'm not particularly quite in my movements nor is Bertie
-so.
-#### JAMES
-Bored now, and Bertie then marches off in the direction of the front gate,
-relatively slowly but he's still definitely marching off in the direction of the
-front gate.
-#### BEN
-I don't, Bertie, Bertie, come.
-#### BRYN
-I think that's the right idea. I scamper after him.
-#### LYDIA
-I'll just make sure like I look at Zolf like “these idiots” and then run quietly but I
-am faster than them.
-#### JAMES
-Going off to hit some things, going off to hit some things.
-#### BRYN
-Just wait outside the front gates while Sasha gets rid of any of the traps, you
-don't want to explode accidentally.
-#### JAMES
-No, no, no.
-#### LYDIA
-I want to run up to the front, the side of the wall on the outside I'm explaining
-this really badly but like basically flat against the wall and sneak up to the door
-so that someone looking out over from the top would not see me.
-#### ALEX
-Yeah that's fine so you're pushing yourself up against the wall so that they
-can't get a, a sort of line of sight.
-#### LYDIA
-Yeah, yeah and then so I assume that means I have to cover some ground but I
-have covered that before.
-#### ALEX
-Honestly it's fine, we can skip to everyone is up against the wall and Sasha is
-now making her approach to...
-#### LYDIA
-The door.
-#### ALEX
-To the main gate.
-#### BRYN
-The three of us should be at the corner while Sasha deals with the gate
-probably.
-#### ALEX
-Yes.
-#### LYDIA
-Gonna detect some traps!
-#### ALEX
-Got for it, give me a perception roll.
-#### LYDIA
-Ah bad, ok, so that's five but plus my new additional... so that's I believe that's
-- I can do maths -- twelve?
-#### ALEX
-Twelve, you detect no traps.
-#### LYDIA
-Oh dear.
-#### BEN
-It might just mean there are no traps.
-#### LYDIA
-Yeah it could.
-#### ALEX
-Oh the eternal, eternal quandary for all rogues everywhere.
-#### LYDIA
-Do I have anything long to prod at the door?
-#### ALEX
-Now you're talking about the thing that you might want to be looking at doing
-is...
-#### LYDIA
-You want the rogue log, he keeps telling me to get a log.
-#### ALEX
-Well there's two things that all rogues will enjoy which is the 10ft pole for
-poking things because you're fairly certain it's going to explode.
-#### BRYN
-It just leads to an arms race between trap manufacturers and pole
-manufacturers. It's not economically worthwhile in the long run.
-#### ALEX
-And then the rogue log which becomes your new best friend where you just
-roll it down corridors and see if things snap at it.
-#### LYDIA
-I feel like I do not have time to detect again so I guess I'm going to try and open
-this door.
-#### BRYN
-You've got the key.
-#### LYDIA
-Yes with the key.
-#### ALEX
-Because you lifted it from one the guards yeah.
-#### LYDIA
-I did so I unlock the door and beckon them over.
-#### ALEX
-The door is unlocked.
-#### LYDIA
-Hooray!
-#### ALEX
-It doesn't explode.
-#### BRYN
-Hooray!
-#### ALEX
-And everyone becomes beckoned.
-#### BEN
-Hooray! I take the beckoned condition.
-(Group laughter)
-#### ALEX
-Yes very good.
-#### BEN
-Yes I stump over.
-#### ALEX
-Ok so you're all now beside Sasha and the gate is open.
-#### BEN
-Lovely.
-#### LYDIA
-I peer round I guess, perception checks?
-#### ALEX
-Yeah if you can give me a perception check unless you want to do the Scooby
-Doo thing of four heads poking around the gate the same time?
-#### JAMES
-'Boink, boink, boink, boink'.
-#### LYDIA
-I think we absolutely should.
-#### BEN
-We don't have the heights!
-#### ALEX
-Oh go on then.
-#### BRYN
-We are a nice distribution of heights.
-#### BEN
-Alright let's do, we're going to Scooby Doo it.
-#### LYDIA
-Shall we do it in order of height?
-#### JAMES
-Also, yes, and I'm only saying this because we've got a dog with us.
-#### ALEX
-Oh yeah Scooby is going to be looking around the door.
-#### JAMES
-Gonna be the Scooby gang.
-#### ALEX
-Yeah, yeah that's Scooby going.
-#### BEN
-Oh no, oh no, this has happened.
-(Group laughter)
-#### BEN
-Who do I want to be? Daphne.
-#### LYDIA
-Does the dog get a perception check as well?
-#### JAMES
-I think the dog should have a perception check, whether it can then
-communicate any useful information.
-#### ALEX
-The dog will be getting a perception check.
-#### LYDIA
-And if it...
-#### BEN
-If it yelps and runs away we're like oh.
-#### LYDIA
-So in order of height I think?
-#### JAMES
-Definitely me first.
-#### ALEX
-And it's definitely Bertie's dog with a roll of 2.
-(Group laughter)
-#### JAMES
-My perception is five. So I can tell there are buildings.
-#### ALEX
-Yes there are.
-#### JAMES
-Yes I've done well.
-#### LYDIA
-Oh right me, ah twenty.
-#### ALEX
-Twenty.
-#### LYDIA
-Not a natural twenty.
-#### ALEX
-Yeah anyone else?
-#### BEN
-That will be on eighteen.
-#### BRYN
-Eighteen as well.
-#### ALEX
-Sure so everyone, Bertie yeah you see yeah there is a compound, “what have I
-been told that there is a compound is true, there is a compound, it is here.”
-Sasha and everyone else sees three buildings there is the hut which is long,
-low, it appears to be narrow at this end it is longer than it is sort of wide and it
-is made of wood and is on stilts, it's a fairly recent build. It looks like it has
-actually been made fairly well and it wouldn't have taken a large group of
-people to necessarily make it, maybe a bit of time. There are two other
-buildings.
-#### JAMES
-How sturdy are the stilts?
-#### LYDIA
-(Laughter).
-#### ALEX
-No it's a fair point, certainly hackable, they are not heffing great logs but there
-are multiple stilts so it's more a case of there are say twelve stilts holding it up
-rather than four with big tree trunk things in each corner.
-#### JAMES
+#### SAM
+Sam puts the paperwork away on the desk.
+#### SAM CONT.
+Lead on, sensei.
+##### [10]
+#### ALICE
+So, this cutting-edge device is
+known as a personal computer, or
+"PC" for shortSAM
+Alice, I know you're joking, but
+how old is this thing? It has a
+floppy drive.
+#### ALICE
+Patience young one. You've got
+your login details from Colin,
+right?
+#### SAM
 Sure.
-#### ALEX
-There are two other buildings, one of which is immediately closest to the gate
-on the left hand side, it appears to be in a very bad state of disrepair, it was
-probably a two storey building. When you look at it in the context of the larger
-building it becomes apparent that yeah it was probably a church and a
-vicarage. The vicarage is the one that looks to be in very bad repair, most of
-the upper floor has gone there's a bit so you could probably say go up there
-and have a look around but it doesn't look like you could you know set up shop
-there. The ground floor, we have some US listeners when I say ground floor I
-mean the one on the ground floor, when I mean the one above that I mean
-first floor. The larger building yeah appears to be a church on closer
-inspection. You wouldn't have noticed it necessarily at first from a distance as
-most of the steeple's gone but the church has two storeys and in addition has a
-raised roof so there might be a loft in there or something similar but they
-obviously are both larger than that hut.
-#### BEN
-I've got an idea guys so if Bertie goes for the hut with stilts, chops them down,
-collapses it, causes a distraction while he's in the yard being big and covered in
-armour they'll run out, try and do stuff, we run in take them from behind.
-#### LYDIA
-Why don't we set it on fire?
-#### BEN
-We could also do that but it makes less of a huge crash. What do we think?
-You wanted to do something, you're bored, that would be exciting.
-#### JAMES
-Distractions you say.
-#### BRYN
-We should just attack them while they're not read, if they hear something
-they'll get time to prepare and cast spells and grab bombs and all that kind of
-thing. We should just get to them as quickly as possible.
-#### BEN
-'Actually that's a point, do you back in the market place didn't you get hold of
-a bomb?'.
-#### LYDIA
+#### ALICE
+(faux portentous)
+Then bestow them unto the device
+that you may gain its ancient
+wisdom...
+#### SAM
+Right.
+Sam types in his login. There's a beep and the computer
+starts to spin up with very retro fanfare.
+#### SAM
+What-?
+#### ALICE
+(sweetly)
+Something wrong sweetie?
+#### SAM
+Is this... Windows 95?
+#### ALICE
+Of course not -- don't be
+ridiculous!
+Beat.
+##### [11]
+#### ALICE
+(cont.)
+This is a modified version of
+Windows NT 4.0, the businessfocused predecessor to 95.
+#### SAM
+H-How is that even-? There's no
+way this is still supported...
+#### ALICE
+I think a good half of Colin's job
+is just making sure the
+workstations don't all try to
+update and instantly brick
+themselves.
+#### SAM
+But... I mean, why?
+#### ALICE
+See that symbol?
+Alice double clicks something on the screen.
+#### SAM
+(reading)
+FR3-d1?
+#### ALICE
+Meet Freddy. The program doesn't
+really have a proper name. Bespoke
+software from the mid-nineties, I
+think. It's the bedrock that the
+whole system is based on, and it's
+been at least fifteen years since
+anyone actually knew how it
+worked.
+#### SAM
+What does it do?
+#### ALICE
+Crashes, mostly. At least it does
+if you try to update it, breath
+too loudly or link it to anything
+developed more recently than the
+Bronze Age collapse.
+##### [12]
+#### SAM
+So what's it supposed to do, then?
+#### ALICE
+It searches online databases,
+newspapers, forums or whatever for
+incidents, flags them, then passes
+them through to us for assessment.
+#### SAM
+What sort of "incidents"?
+Beat.
+#### ALICE
+(slightly hesitant)
+You'll see.
+#### SAM
+Right, so this list is...
+#### ALICE
+Today's case files. Just double
+click on the top one.
+Sam double-clicks.
+#### ALICE
+Ok, so looks like it's an email.
+#### SAM
+And I just... read it? Is that
+even legal?
+#### ALICE
+Probably. We do work for the
+government. Sort of.
+#### SAM
+What about GDPR?
+#### ALICE
+Look, Sam, I don't know what to
+tell you. This is the job. I've
+been doing it for years and
+there's never been any problems.
+Maybe ask Lena? -- She'd probably
+know.
+##### [13]
+#### SAM
+Fine. Sorry. Ok, so...
+He starts reading. Pause.
+This is-
+#### SAM
+#### ALICE
+Yeah, they're all like that. At
+least this one is short, nice easy
+start for you. So, once you've
+read it, you get out the binderShe slaps an enormous ring binder on the desk and starts
+paging through it as she speaks.
+#### ALICE CONT.
+And look up whatever's mentioned
+most in the case. Looking at this
+one we go to “D” and... Sam, eyes on
+me now. We go to “D” and, right,
+would you say this is more "Dolls
+comma watching" or "Dolls comma
+human skin".
+#### SAM
+(a bit shell-shocked)
+IUh- I mean- I guess the human
+skin bit is only implied, so...
+both?
+#### ALICE
+Nah you can only pick one,
+Freddy's dumb as rocks. Right, so,
+after each entry there's four
+numbers. That's the DPHW. So,
+“dolls comma watching” is... 1157.
+Then you cross reference with the
+table here, that would be a 2-C,
+and then you type that into the
+box here, along with date of
+incident if there is one and
+today's date. Which gives us...
+Alice's quickly types.
+##### [14]
+#### ALICE CONT.
+CAT2RC1157- 12052022-13012024 and
+then we hit submit.
+Beat.
+#### ALICE CONT.
+Well go on then.
+#### SAM
+Oh, right!
+Sam double clicks. There's an 8-bit chime.
+#### ALICE
+Excellent work. We'll make a wage
+slave of you yet.
+#### SAM
+Where does it go?
+#### ALICE
+If I were a betting woman, I'd say
+some long dead database that noone will ever look at or care
+about.
+#### SAM
+So why do it?
+#### ALICE
+Because that's what they're paying
+us to do.
+SAM makes an incredulous noise.
+#### ALICE
+Welcome to civil service.
+#### SAM
+What the hell sort of job have you
+gotten me Alice?
+#### ALICE
+One where you get paid to hang out
+with the coolest person left in
+London all night, every night.
+You're welcome.
+##### [15]
+SAM laughs despite himself.
+#### ALICE
+Now you try the next one.
+#### SAM
+Right, so...
+He double-clicks the next case. NORRIS's voice blares from
+the speakers abruptly. They both talk over his monologue.
+NORRIS(computer)
+To: Darla Winstead
+(dwinny@mailpod.com)
+From: Harriet Winstead
+(hpw332@mailpod.com)
+Date: May 12 2022.
+Subject: Re: Re: checking in
+#### SAM
+(talking over)
+Alice, what is this?
+#### ALICE
+(talking over)
+Hey! You got Norris!
+#### SAM
+(talking over)
+What?
+#### ALICE
+(talking over)
+It's... Hang on, you can pause it
+by hitting space.
+She hits spacebar and NORRIS abruptly stops speaking.
+#### ALICE
+Sorry, didn't think you'd get one
+of those so soon.
+##### [16]
+#### SAM
+One of what? Why is it reading it
+out?
+#### ALICE
+Started about a year ago. Best
+Colin can figure, something
+brokeand whichever genius made the
+program ran some redundancy
+through the sound card.
+#### SAM
+Right...
+#### ALICE
 Yeah.
-#### BEN
-So you could lob that from the window?
-#### LYDIA
-Well I don't have a bomb I have a vial fire flask.
-#### ALEX
-Sure so with the fire flask the one that you were throwing is a direct hit, it's not
-a splash, it will do 1d6 of fire damage.
-#### BRYN
-Don't you still have the thunderstone?
-#### LYDIA
-Oh yes I do.
-#### ALEX
-You do have a thunderstone which is an area of effect but it will only deafen
-them it will not deal actual physical damage.
-#### BRYN
-But it will confuse them and stop them casting spells.
-#### LYDIA
-Yes.
-#### ALEX
-It will interfere with spell casting, it doesn't silence the person but they do take
-a significant penalty to try and make any kind of magic happen.
-#### LYDIA
-I think that would be a pretty good distraction yeah.
-#### BEN
-Alright so do you think we need to clear out the inside of the building outside
-of that room first and disarm the traps in there so we can rush in or shall we...?
-#### BRYN
-It looks like they are on the second floor if we can just get to the bottom of the
-stairs without tipping them off and you can throw a bomb inside.
-#### LYDIA
-So like I could... but then I need both places right because I need to undo the
-traps and I need to climb up out the outside and throw the thing in?
-#### BEN
-We've got them by surprise, scout in, come back out and we'll head in and you
-throw the bomb.
-#### LYDIA
-Sasha saves the day! I go into the front door.
-#### BRYN
-Well stick to the fence if we move slowly we won't tip them off, we'll stick to
-the fence and we'll get to the door.
-#### LYDIA
-Stay out the way while I do the adventuring. Right so, because Sasha has been
-told that there are traps here and she doesn't like getting exploded on and she
-has seen big explosions she is going to take a perception check for every single
-step but I think maybe that might take a while so how are we going to play
+Lena won't authorize Colin's
+proposed solution: Smashing it
+with a hammer. All it really means
+to you is that it'll read out
+maybe one in twenty cases and
+won't let you do the next one
+until it finishes.
+#### SAM
+But- No hang on, that doesn't make
+any sense. If Freddy's a search
+program from the nineties, why
+would it have text-to-speech?
+#### ALICE
+Great question. I asked Colin the
+same thing a while back.
+#### SAM
+And what did he say?
+#### ALICE
+Nothing. He just snapped a pencil
+in half and walked away.. Look
+Sam, it's a completely knackered
+system that's old as balls.
+Dangly, grey-haired old man balls.
+And until it finally collapses
+forever, we just have to put up
+and shut up.
+##### [17]
+#### SAM
+So how do we stop it reading them
+out?
+#### ALICE
+No idea. So now, when we come
+across a chatty case, we generally
+take that as a cue to get coffee.
+Then we come back and read it
+through once the computer's done
+waffling.
+#### SAM
+Right. Okay. And who's
+Norris?
+#### ALICE
+So, there are three voices it
+reads them in. I call them Norris,
+Chester and Augustus, although
+Gwen doesn't like it. This one
+here is Neil, he and Chester are
+the most common.
+#### SAM
+But it's okay if I do hear it?
+Like, I'm just thinking I can
+finish up this onboarding here
+while it's running.
+#### ALICE
+Knock yourself out. Just grab me
+in the break room when it's done.
+We've got a load more to get
+through.
+Gotcha.
+#### SAM
+Sam hits spacebar again.
+#### 3. CYBERSPACE
+#### NORRIS
+(computer)
+To: Darla Winstead
+(dwinny@mailpod.com)
+##### [18]
+From: Harriet Winstead
+(hpw332@mailpod.com)
+Date: May 12 2022.
+Subject: Re: Re: checking in
+I'm so sorry. I should have
+listened. I just couldn't face the
+thought of the rest of my life
+never hearing him again, I had to
+try. It wasn't a scam, not like
+you said.
+He sounded different when he
+called. He was all eager with an
+off-putting sort of excitement,
+not like our earlier face-to-face
+consultations. He just gave me an
+address and told me to be there
+that night:: Grantham Cemetery. I
+started to wonder if this was all
+just another messed-up sales
+pitch. Some preachy lesson about
+acceptance and letting go before
+asking for more cash. But I had to
+know, so I went to the cemetery.
+I used to love the night. When
+Arthur couldn't sleep we would
+just walk for hours under the
+lampposts, just us and the
+occasional headlights streaking
+past. It frightens me now. I look
+at the shadows, not the lights.
+They hide whatever it was that
+took him away from me.
+The cemetery gates were wide open.
+I don't know if I would have had
+it in me to break in. I was so
+nervous that the smallest obstacle
+might have sent me running home.
+But they were open. So in I went.
+Slowly, towards the grave.
+##### [19]
+It's not a big graveyard, and
+spacious enough that I could see
+the figure standing there before I
+got too close. For a moment my
+heart skipped and I thought it
+might be Arthur but no, the shape...
+The shape was all wrong. Then my
+step faltered, because I had no
+idea who else it could be. They
+were too short for the consultant.
+Maybe someone else entirely, some
+innocent mourner? In the middle of
+the night? I doubted it.
+I was scared, Darla. I was so
+scared. I was certain I'd been set
+up, that I was going to be
+grabbed. I turned to leave, hoping
+I could get back to the main road
+lights but then the figure began
+to speak from where it was stooped
+in the dark.
+It was
+voice.
+but he
+it was
+place.
+his voice. It was Arthur's
+I know you won't believe me
+called my name and I know
+his voice. I froze in
+It came closer, and as the moon
+escaped the clouds for a moment I
+could make out the discolored
+skin, the mismatched features. It
+moved slowly, shuddering towards
+me with a jerky, ungainly step.
+Something was pressed against its
+skin, from the inside.
+I said the only thing I could
+think:
+“Arthur? Is that you?”
+And that voice I have loved for
+twenty years answered: “Some of
+him.”
+##### [20]
+And then it laughed. Great heaving
+gasps and wheezes that seemed to
+leak out as if through a rotten
+bellows. It laughed and laughed,
+violently throwing its head back
+and forth, faster and faster,
+impossibly fast. So fast I could
+hear bones snapping.
+I ran, and it didn't chase me.
+I don't know what to do now. I've
+not left the house all day. I keep
+thinking I see something at the
+bottom of the garden, but I can't
+bring myself to check. Do I call
+the police? What could I even tell
+them? I tried calling the helpline
+but no one answers. Are you free
+tonight? I don't want to stay at
+the house. I know you warned me
+that it was too full of memories
+but this isn't that. I'm afraid
+Darla and worse, I think it's
+Arthur I'm afraid of. Or what's
+left of him. Please get back to me
+a.s.a.p.
+#### H
+#### 4. INT.
+OIAR main office -- NIGHT, RAINING -- (COMPUTER).
+Sam is sitting there, slightly freaked out by what he's
+just heard. He exhales slowly. Alice comes up behind him
+and he jumps as she speaks.
+#### ALICE
+You didn't come get me?
+#### SAM
+I... Yeah, sorry. I got
+distracted. Are they all like
 that?
-#### ALEX
-Yeah for a lot of, I've known game masters who would require you to search
-every 5ft square and it makes...
-#### JAMES
-Who are these people?
-#### ALEX
-It makes me want to jump off bridges, let's not do that, what I'm going to do is
-you have said I am being careful and watching out for traps so rather than
-doing a roll of each one you can just effectively say yeah I'm taking into
-account that if you run into something that you might run into I'll get you to do
-a roll, what I will do though is I will get you to do a roll say for the journey
-across and depending on that roll you wouldn't necessarily know... so if you got
-a low number on the roll you wouldn't have even known that you passed the
-trap, if you get a high number you know where that trap is do you see what I
-mean? It would be like I would get you to roll to go across a minefield.
-#### LYDIA
-Right.
-#### ALEX
-If you rolled high you know where the mines are, if you don't roll high you
-don't know where the mines are.
-#### LYDIA
-Ok.
-#### ALEX
-But it's still over a larger area, it is just to speed it up.
-#### LYDIA
-Oh ok right.
-#### ALEX
-Just ask one thing are you skirting the wall or are you going through the
-middle?
-#### LYDIA
-I am skirting, oh yeah we're skirting the wall.
-#### BRYN
-We're skirting the wall.
-#### ALEX
-Ok that's fine then give me a single check to get up to the front door of the
-church.
-#### LYDIA
-Oh it's still fifteen.
-#### ALEX
-Fifteen, sure, you skirt the wall, you do not encounter any traps, you do
-however get a glance inside the smaller building, what we'll call the vicarage,
-and it appears that there is some kind of stock pile of stuff in there, you can't
-really see what.
-#### LYDIA
-Ah stuff.
-#### ALEX
-But.
-#### BRYN
-Later!
-#### LYDIA
-I think Sasha would have said that under her breath.
-(Group laughter)
-#### BRYN
-I've got good perception, I have.
-#### ALEX
-Ok so you make it to the front doors of the church which are locked.
-#### LYDIA
-Ooh locked.
-#### ALEX
-I will get you to do another check to see if the doors are trapped.
-#### LYDIA
-Right, yes.
-#### ALEX
-Because now you are in.
-#### LYDIA
-Ooh so that's sixteen, I'm adding the one bonus now by the way.
-#### ALEX
-Yeah, yeah.
-#### LYDIA
-So that's...
-#### ALEX
-We should spell out, it was something I had mentioned earlier for listeners,
-rogues also add half of their level to all checks for traps and half of their level
-to all disable devices. It hasn't mattered before now but as Sasha continues to
-level up it will matter more and more.
-#### LYDIA
-I should say that whilst it barely matters now I did realise when I was listening
-back to them that in the first two episodes, close listeners at home might
-notice that my perception went up by one in between episodes and it was just
-because I was reading the wrong number.
-#### ALEX
-We'll just say you were drunk for the first two episodes.
-#### LYDIA
-Yeah.
-#### BEN
-It's alright the way I've been dealing with my cleric stuff is, is a mess but I'm
-going to get better so keep those angry emails to yourself.
-#### JAMES
-We're all just drunk all the time, guys. In case anybody is wondering, drinking
-is cool and it will make you seem more popular and grown up.
-#### ALEX
-He said on the family friendly podcast. So Sasha searches for the traps and
-gets...?
-#### LYDIA
-I do well... it was, I can do this it's sixteen.
-#### ALEX
-Sixteen, right, you detect a trap.
-#### LYDIA
-Yay.
-#### ALEX
-So as you approach the door you start carefully just sort of prodding the mud
-in front.
-#### LYDIA
-I push everyone back.
-#### ALEX
-And you find that there is a loose flagstone on the top step and you discern
-that it is definitely intentionally loose and we'll treat that as a trap.
-#### BEN
-Ooh it's a classic.
-#### LYDIA
-Ok do I just roll...
-#### JAMES
-Tripping hazard.
-#### LYDIA
-Disable device?
-#### ALEX
-Yes.
-#### LYDIA
-Ok. Oh gosh. Oh dear.
-#### BRYN
-We back up before she rolls.
-#### LYDIA
-Yeah so that's, it's a total of... wait I get another plus one on that as well don't I
-so that's eleven.
-#### ALEX
-Eleven total. So as you go to disable device you start faffing with the stone.
-#### LYDIA
-Oh dear.
-#### ALEX
-And you start to feel something grinding underneath and given what you've
-experienced before you're fairly certain that what they've done is propped a
-very heavy stone directly on top of a thunderstone.
-#### LYDIA
-Ah.
-#### ALEX
-And the thunderstone is taking the weight of that stone so that if anyone trod
-on it the thunderstone would crack and make a loud noise.
-#### LYDIA
-Ah ha.
-#### ALEX
-Unfortunately your roll wasn't high enough to disarm the trap.
-#### LYDIA
-Oh no.
-#### ALEX
-So as you reach down there is a (explosion) and the stone falls, it doesn't do
-any damage to anyone, you're not deafened because it's underneath a stone
-however it was a significantly loud noise.
-#### LYDIA
-Right oh dear.
-#### ALEX
-And almost certainly other people have heard that, all of the party definitely
-heard a loud noise but you're not deafened by any stretch.
-#### BRYN
-When that goes off I will shout, chuck the bomb!
-#### LYDIA
-Right and I ok so I will try and throw the bomb through the window.
-#### BRYN
-First floor window.
-#### LYDIA
-In the first floor window.
-#### BRYN
-Roll initiative.
-#### ALEX
-I will let you throw the bomb before and then we will go into initiative. Ok?
-#### LYDIA
-Right so I'm lobbing it, it is directly, it is on the first floor.
-#### ALEX
-Is this throwing the thunderstone that you had or is this the fire flask?
-#### LYDIA
-This is the thunderstone.
-#### ALEX
-Give me an attack roll, make it good.
-#### JAMES
-Fifteen.
-#### LYDIA
-So that's fifteen and then.
-#### ALEX
-Ooh a total of, so your attack bonus?
-#### LYDIA
-Is one.
-#### BRYN
-The thrown... I've written that on your sheet now.
-#### LYDIA
-Four.
-#### BRYN
-Yeah.
-#### ALEX
-So it's...
-#### BRYN
-Nineteen.
-#### ALEX
-Nineteen total.
-#### LYDIA
-Yeah.
-#### ALEX
-You successfully throw the thunderstone, it smashes through a second storey
-window (smashing sound effect).
-#### BRYN
-Destroying some ancient and beautiful examples of stained glass.
-#### ALEX
-Oh of course it was incredibly valuable but you know wacka wacka wacka so
-you throw the thunderstone in and there is a loud (explosion sound effect)
-and all of the windows blow out.
-#### LYDIA
-Amazing.
-#### ALEX
-Showering glass, thankfully the angle that everyone has taken relative to the
-vicarage means that you guys are safe from the showering glass and we will
-then roll for initiative and while we do that we're going to take a couple of
-minute break for the listeners and when you come back we will be ready to
-start some combat.
-#### LYDIA
-Whoop, whoop!
-##### [AD BREAK]
-#### ALEX
-And welcome back. So we now have taken all of our initiatives so we will start
-with someone who isn't the party.
-BEN and ALEX
-Duh duh duh duhhh.
-#### BRYN
-Hopefully he's going oh I'm deaf.
-#### ALEX
-They've done their move, ok, can we start with Sasha?
-#### LYDIA
-I'm not going to be able to kick the door down so I want to climb up so
-potentially to throw because you need to be able to aim the vial, the fire flask,
-so yes climb up above the door.
-#### ALEX
-Sure in which case give me a climb check.
-#### LYDIA
-Right my climb is now four. So that's twenty three.
-#### ALEX
-Ooh grand, ok, it will take you a standard action to climb just because of the
-nature of the building and so you would still have a move action if you want
-but you cannot climb and throw in this turn.
-#### LYDIA
-Can I...?
-#### BRYN
-Your move action should be to draw probably.
-#### LYDIA
-Yeah.
-#### ALEX
-What I would say as well is just for listeners we're not running into something
-that everyone encounters at some point which is vertical game play in table
-top games, there's one solution of course which is that you spend an
-enormous amount of money and make a really, really high multi levelled thing
-or...
-#### LYDIA
-Should I make a grid of wall?
-#### ALEX
-What yeah what I tend to do is I tend to make a separate floor map for a
-second floor and for anyone who is raised above a normal map.
-#### BEN
-Plonk them on the dice.
-#### ALEX
-We put them on a dice.
-#### EVERYONE
-Ah.
-#### ALEX
-Ok so Sasha, she gets up, drawing her vile as her move action, her standard
-action is to climb and sort of peep in through the blown out window. What she
-sees is a room which is full of crates and some barrels.
-#### LYDIA
-Ooh stuff.
-#### ALEX
-Yeah definitely stuff and there looks to be a small contained cooking fire, a few
-bunk beds and what looks like someone was in the process of cooking. All the
-chairs are thrown back and the food has been dropped as you see two of them
-are still pulling their wits togethers, one of them is already making it and
-darting through the doorway at the far end of the building presumably to head
-down some stairs to the ground floor. The room itself is very much half store
-room, half living room, it looks like they may be very well equipped but it
-doesn't seem like they are particularly luxurious surroundings with which they
-have been living in. So Hamid you're up.
-#### BRYN
-I would like to ready an action, my action is to rush into the building once the
-door has been opened, hopefully by Bertie.
-#### ALEX
-Is that your wording? You rush into the building once the door is opened?
-#### BRYN
-Yeah.
-#### LYDIA
-Aww Hamid.
-#### BEN
-Ooh it's like a genie's wish.
-#### LYDIA
-Yeah Hamid the hero.
-#### BRYN
-I, yeah not like rush fully, like just rush in just one step inside the door that's all
-I mean that's all the movements people have had anyway.
-#### ALEX
-I'm going to throw you a bone. Potentially you may want to clarify if one of
-your party opens the door.
-#### JAMES
-I was going to say follow me I think might be the.
-#### BRYN
-Yeah ok that's thank you.
-#### ALEX
-So if a party member opens the door you step through it?
-#### BRYN
-Yes.
-#### ALEX
-That's fine.
-#### BRYN
-And I'll load my crossbow as I go.
-#### ALEX
-I'm not a pedant but with readied actions it's very specifically says be clear and
-it could come back and bite you in the bum. Ok, you, Sasha, see one of the
-other people gets their stuff together and also darts out of the doorway at the
-far end. You then see a third one, a one who is a bit better dressed, I should
-describe all of them once I've described this, also darts to the stairway. You
-recognise all of them I should spell out.
-#### LYDIA
-Oh.
-#### ALEX
-One of them is one of the ones who got away from Edison's house.
-#### LYDIA
-Right.
-#### ALEX
-The second one is also one who got away from Edison's house and a third one
-it's a face that you've seen in Other London you do not know them personally,
-they are not important to you.
-#### LYDIA
-Oh right.
-#### ALEX
-But it's almost certain that this guy just fell in with this crowd at some point in
-the past.
-#### LYDIA
-Oh ok.
-#### ALEX
-You don't even know their name but it is a face that is familiar to you. The one
-who you will remember was referred to as Guy back at Edison's, they said Guy
-was away, is a gentleman, very, very limber looking, seems better dressed than
-the others. Not poshly dressed by any means but seems to be wearing
-potentially Upper London garb, nothing opulent though.
-#### LYDIA
-Garb?
-#### ALEX
-Hmm-mm long brunette hair and a goatee.
-#### JAMES
-Evil. Clearly evil.
-#### BEN
-Someone has seen a drawing of an evil person, and thought I'm going to be a
-villain.
-#### JAMES
-He has also got a moustache and eyepatch and a British accent.
-#### ALEX
-I'm afraid not.
-#### JAMES
-Is he played by Malcolm McDowell?
-#### ALEX
-We'll have to wait and find out.
-#### JAMES
-Ok.
-#### ALEX
-Also the other one who you saw dash you only caught the tail end of the one
-who had already moved before you so you didn't see who that was.
-#### LYDIA
-Ok.
-#### ALEX
-The other you recognise as the one who you were chasing through the
-basements.
-#### LYDIA
-Ah.
-#### ALEX
-Yeah short hair and wearing just non-descript Other London garbs at this point.
-They do however appear to have grabbed belts and so on that were beside
-them on chairs as they were dashing out so they are probably equipping
-themselves on the fly.
-#### LYDIA
-So they've gone out that way?
-#### ALEX
-Indeed they've gone out the opposite side of the church to the bit that you're
-hanging off.
-#### LYDIA
-Can I, do I have time to whisper “they're coming” to the others?
-#### BRYN
-Not whisper you're up a...
-#### LYDIA
-Well I can shout, right, “they're on their way”.
-#### ALEX
-And next up it's Bertie, you are up.
-#### JAMES
-Super ok so the door, the front door of the building is locked, unlocked?
-#### LYDIA
-Locked.
-#### ALEX
-It is currently locked.
-#### JAMES
-Cool.
-#### BRYN
-Charge it.
-#### JAMES
-Can I charge the door and then barge through it and then just attack the first
-person I see in a heroic.
-#### ALEX
-You can barge through the door you can't barge through and attack the
-people.
-#### JAMES
-Ok.
-#### BRYN
-You probably need to attack the door to open it.
-#### JAMES
-Doors you say, inanimate objects, brilliant. Right I charge the door really hard.
-#### BRYN
-Power attack!
-#### JAMES
-Power attack, I power attack the door.
-#### ALEX
-Power attack the door go for it. So you roll your D20 to hit.
-#### JAMES
-Fifteen plus.
-#### ALEX
-Fifteen it's a door so it's...
-#### JAMES
-Yeah!
-#### ALEX
-Sorry it's quite literally the size of a barn door as well so you're effectively
-rolling to hit the side of a barn and have passed.
-#### JAMES
-(Laughter).
-#### ALEX
-If you take your minus one because you're doing a power attack.
-#### BRYN
-Well you get a plus two for the charge.
-#### JAMES
-Yeah.
-#### ALEX
-So you get plus two.
-#### JAMES
-Straight into a barn door!
-#### ALEX
-Yep so in total you're definitely hitting.
-#### JAMES
-Right.
-#### ALEX
-So roll your damage.
-#### JAMES
-Which is D10 plus three and that's a D10.
-#### BRYN
-So you'll do plus five because of the power attack.
-#### JAMES
-Ooh lovely.
-#### BRYN
-Instead of plus three.
-#### JAMES
-Seven, twelve. Twelve, I've twelve.
-#### ALEX
-Twelve, Bertie with his weapon and shield already in place actually described
-how you'll charge, how you'll attack, whether you barge it with your shield
-which I'd allow, would you attack with the sword, what would you do?
-#### JAMES
-A combination of shield and a hack with the sword at the same time and face
-first.
-(Group laughter)
-#### JAMES
-With an almighty bellow, how dare you defy me, door!
-#### ALEX
-So effectively what you're doing is swinging your left arm wildly, swinging your
-right arm wildly and going (screaming)!
-#### JAMES
-Roaaaaarrrrr!
-#### ALEX
-Yeah you successfully slam into the door bit of stuff and mortar drop, Sasha
-almost needs to make a reflex save not to fall from the impact but nonetheless
-you burst through the door and it swings open. What you see are the far side
-of the church coming down a stairway, like an open stairway, you see one of
-the party who is, yeah, just non-descript urban clothing for Other London. I
-will add it to the map in a second.
-#### JAMES
-Not the swish one?
-#### ALEX
-Not the swish one.
-#### JAMES
-Ok cool.
-#### ALEX
-It's the first one that Sasha didn't really catch a good glimpse of but recognise
-sort of as Other London-y. You see a set of pews are kind of haphazardly
-arranged, they appear to have been pushed to the side all they are really doing
-is giving you difficult cumbersome terrain at the edges.
-#### JAMES
-Pew pew pew pew pew pew! Yeah, sorry.
-#### ALEX
-You see the entrance to what you presumes is the steeple.
-#### JAMES
-Ok.
-#### ALEX
-And him stood in the entrance at the exact opposite end now you've used your
-entire turn but there is a clear, straight run from you to him and vice versa. Ok,
-next Bryn's readied action goes off. You enter and.
-#### BRYN
-Slip just behind Bertie and into the corner.
-#### ALEX
-Well technically actually here's a thing for listeners, when someone moves
-through your square you give the, you are required to either allow them to
-move through your square or resist them moving through your square because
-you're occupying sort of a very narrow space. Will you allow Hamid through or
-will you just block him?
-#### JAMES
-I will allow you through my square.
-#### BRYN
-Ah, what a gentleman.
-#### JAMES
-Yes.
-#### ALEX
-To save time I may go ahead and assume that the party aren't trying to
-sabotage each other at every step but do pipe up if you decide that you want
-to sabotage. Ok after Bertie, it is Bertie's dog who rolled a natural one, same
-as our good old friend Zolf but this natural one was higher because it had a
-higher inherent initiative.
-(Group laughter)
-#### JAMES
-This a dog that is actually drowning in its own spit, he is playing very poor
-genetically speaking.
-#### ALEX
-The dog proceeds to go “ruff ruff ruff ruff ruff”. That's the dog's turn. Zolf you
-are up.
-#### BEN
-Ok cool. Right.
-#### BRYN
-You could at least double move.
-#### BEN
-Oh I could yes I am going to, there we go.
-#### ALEX
-Zolf moves his formidable four squares and is now facing and looking over
-Bertie's shoulder into the church.
-#### JAMES
-He's not looking over my shoulder, looking through my legs.
-#### BEN
-Well given the elevation of the church as well.
-#### ALEX
-Oh yeah you are quite literally staring through Bertie's legs.
-#### BEN
-I have icicles I am going to be firing them through your thighs.
-#### ALEX
-Ok now.
-#### LYDIA
-Now the space between his thighs then just through his flesh.
-#### BEN
-It depends how accurate...
-#### ALEX
-We'll see how they roll. So the person who came downstairs appears to be
-wielding a shortsword, without further ado charges straight at Bertie.
-#### JAMES
-Bonk.
-#### ALEX
-Yep and gives an attack on Bertie, there was no difficult terrain, the difficult
-terrain is to either side.
-#### BRYN
-No!
-#### ALEX
-Ooh rolls a nineteen. I'm going to double check the stats but I know it will be a
-hit.
-#### BRYN
-If he's having a charge action he gets a plus two.
-#### ALEX
-It's definitely a hit, I'm trying to check what the critical range is.
-#### LYDIA
+##### [21]
+#### ALICE
+What? Upsetting and horrible?
+Yeah, pretty much. That one seemed
+pretty tame, to be honest.
+#### SAM
+Great. Can't wait for a bad one.
+#### ALICE
+So, ready to score it?
+#### SAM
+Sure, so, uh...
+He starts leafing through the massive binder.
+#### SAM
+“Zombies” would probably be under
+Z, right?
+#### ALICE
+Yeah, it's mostly alphabetical.
+Gwen, who has overheard this, calls over from her desk.
+#### GWEN
+(calling)
+It's not zombies.
+#### ALICE
+I'm sorry, Gwen, I thought Sam was
+shadowing me today since you're so
+busy with your own massive
+backlog.
+#### GWEN
+(Standing and coming
+over)
+And you're just going to let him
+put “zombies”? He'll get a misfile
+on his first case.
+#### ALICE
+No he won't.
+(To Sam)
+You basically never get a misfile.
+No-one's checking this stuffGwen starts leafing through his binder.
+##### [22]
+#### GWEN
+Here. “Reanimation”. I'd probably
+go with “partial” cross linked
+with “regret”, but you could also
+go with "amalgamative" subsection
+“semi”.
+#### ALICE
+Zombies would have been fine.
+#### GWEN
+A) no it wouldn't and B) there's
+at least three pages of subclassifications for Zombies. He'd
+be here for hours.
+#### ALICE
+And I'm guessing this dedication
+to detail is why you're so behind?
+#### GWEN
+It's why I have the highest
+accuracy rate in the office.
+#### ALICE
+Which, and it's absolutely crucial
+you understand this Sam, means
+exactly nothing.
+#### SAM
+I'm going to put “reanimation”,
+ok?
+#### ALICE
+Fine, whatever. Like I say, none
+of it matters, so arguing about it
+is a waste of everybody's time.
+And none of us have much of that
+going spare tonight do we Gwen?
+#### GWEN
+Just making sure he's taught
+properly. If you want to be
+picking up after him for the whole
+year, be my guest.
+#### ALICE
+Gwen?
+##### [23]
+What?
+#### GWEN
+#### ALICE
+Lena wants you in her office.
+Gwen looks over.
+#### GWEN
+Oh joy. Just want I need tonight.
+She stands and starts heading off.
+#### GWEN CONT.
+(departing)
+Don't let her teach you too many
+bad habits Sam.
+#### SAM
+(chuckling)
+I'll do my best.
+#### ALICE
+(good-natured)
+Traitor...
+#### 5. INT. MANAGER'S OFFICE- NIGHT, RAINING -- (MANAGER'S
+SPEAKERPHONE)
+Lena's office is pristine, sterile and has nothing that
+might indicate its occupant would be brash enough to have a
+personality. GWEN enters.
+#### GWEN
+You wanted to see me?
+#### LENA
+Yes, Gwen. Please sit down.
+GWEN does so. It is clear from her tone she knows what to
+expect and has been here several times before.
+#### GWEN
+Another “performance review”? Can
+we make it a bit quicker this
+time?
+##### [24]
+#### LENA
+You're aware you are significantly
+behind your caseload?
+#### GWEN
+Because I'm actually trying to
+process them correctly. You can
+have it right or you can have it
+fast.
+#### LENA
+Regardless, that's not what I
+wanted to talk to you about.
+#### GWEN
+I see. So what else have I done
+wrong, then?
+#### LENA
+Last night. At Teddy's leaving
+party“Party”
+#### GWEN
+Beat. The room gets a little colder.
+#### LENA
+Last night at Teddy's leaving
+event you were openly
+disrespectful towards me in front
+of the new hire. This is not
+acceptable.
+#### GWEN
+Seriously? You're calling me in
+here because I backtalked you in
+front of the new guy?
+#### LENA
+I'm well aware you dislike me,
+Gwen, and that's entirely your
+prerogative but I am still your
+manager and undercutting my
+authority in front of a new team
+member is deeply inappropriate.
+##### [25]
+#### GWEN
+(Standing)
+Understood. Now if that's allLENA
+It's not. Sit down.
+Gwen sighs and sits.
+#### LENA CONT.
+If you hate working here so
+completely, you are perfectly
+within your rights to resign. No
+one is forcing you to stay here.
+#### GWEN
+You'd like that, wouldn't you?
+#### LENA
+Honestly, it more or less balances
+out. You are difficult to manage,
+but hiring new staff is always
+something of a pain.
+Beat.
+#### LENA CONT.
+What do you actually want, Gwen?
+Your job.
+#### GWEN
+Beat.
+#### LENA
+You think you could do it better?
+#### GWEN
+I do.
+#### LENA
+Hmmm. I've always known you
+thought you were slumming it down
+here, but I never actually
+considered you might think of this
+as the first step of a career.
+Most people simply move on within
+12 months or so.
+##### [26]
+#### GWEN
+I'm not most people.
+There is a pause as LENA considers this.
 No.
-#### ALEX
-It is critical.
-#### BERTIE
-Gah.
-#### BRYN
-He's got to confirm the critical.
-#### ALEX
-Yes that's very true (rolls dice) and does not.
-#### BERTIE
-Hooray.
-#### ALEX
-So it's just a normal hit.
-#### JAMES
-Phew!
-#### BRYN
-That would have been an exciting start to the fight.
-#### ALEX
-And deals one damage to Bertie.
-#### JAMES
-Oh that's quite a nuisance I think he might have accidentally like shaved like
-quite a nice little just like a little dash in my eyebrow so it looks like I'm now
-from the 1990s. He sent you forward in the future.
-(Group laughter)
-#### ALEX
-That's the entire move.
-#### LYDIA
-Only his eyebrow.
-#### JAMES
-Only my eyebrow.
-#### ALEX
-Sasha.
-#### LYDIA
-Right well now because they didn't wait for people to come out I'm stuck to
-the side of a building.
-#### ALEX
-You could fit through the window if you chose.
-#### LYDIA
-Yeah I'm thinking that it would be the most fun for me to climb up, come
-round the top and then try and sneak up on people around the back.
-#### BEN
-Like a true rogue.
-#### BRYN
-Absolutely.
-#### ALEX
-Good rogueing. That's fine we will.
-#### LYDIA
-What do I need to roll?
-#### ALEX
-Let's skip the acrobatics check because it's a large church window and you are
-very good at what you do, that's fine. So you enter into the upper floor, I will
-say for the sake of ease you will be able to get right behind the people who are
-still in the stairwell.
-#### LYDIA
-Ok cool.
-#### ALEX
-And that will be a whole turn just to speed things up.
-#### LYDIA
-Oh ok so no stabbing?
-#### ALEX
-Honestly you wouldn't want to anyway, tactically, because...
-#### LYDIA
-Right they can't see me though?
-#### ALEX
-But they have no idea you're there.
-#### LYDIA
-Ok cool.
-#### BRYN
-It's the thing that happened in the market, if you stabbed them now you'd end
-up in a one on one fight.
-#### LYDIA
-Yeah, yeah, yeah.
-#### BRYN
-But what you want is to be at the back of a group fight just stabbing them up.
-#### ALEX
-Yeah I'm throwing you a bit of a bone.
-#### LYDIA
-And how narrow is this stairwell because...?
-#### ALEX
-It is a spiral staircase with narrow.
-#### LYDIA
-So if they are going down and I start stabbing them in the back I think they
-should remain, it should remain a flanking move because they cannot turn
-around.
-#### BEN
-And also historically it is easier to fight, you know...
-#### ALEX
-You did spell out that Sasha was right handed.
-#### EVERYONE
-Hmmm.
-#### ALEX
-But either way you are directly behind them, they do not know you are there.
-#### LYDIA
-(Whispering) Like a shadow, spooky shadow.
-#### JAMES
-Sorry to be a pedant, which is a phrase you'll almost never hear me say, but if
-it's a spiral staircase and Sasha is right handed does the spiral staircase spiral
-down anti-clockwise?
-#### ALEX
-Here's a fun fact for you, all spiral staircases spiral in such a way that the
-person who is higher on the spiral staircase has free use of their right arm so
-that the defender always has the advantage and that was why knights were
-always right handed and not left handed. If you were a left handed knight you
-couldn't be a knight, but obviously there were a lot of left handed knights they
-just would only fight with their right hand sword.
-#### JAMES
-That's interesting I did not know that.
-#### BRYN
-It was a tactical decision for castles and stuff.
-#### ALEX
-I even then went to a castle and checked it out, totally real, totally a thing.
-#### LYDIA
-I think there's a big plaque in Corfe Castle that explained this.
-#### ALEX
-It's really useful. So after Sasha it's Hamid.
-#### BRYN
-I'm quite upset, I'm standing next to Bertie which I am a fan of but there's a
-guy literally right next to me as well, an enemy with a weapon.
-#### ALEX
-Yep.
-#### BRYN
-And that is not where I like to be in a fight.
-#### BEN
-You are an un-fan of that.
-#### BRYN
-Yes, I am going to drop my crossbow, my crossbow is on a strap so when I say
-drop it sort of falls to my thigh rather than to the floor.
-#### ALEX
-Yeah and for listeners, we have had this discussion ahead of like character
-creation he isn't just inventing this stuff on the fly.
-#### BRYN
-As an experienced LARP-er I have done this for real as well, the strap is very
-useful.
-#### BEN
-The strap is good.
-#### BRYN
-Because I am then going to cast a spell but the thing is, is when I cast a spell I
-can cast defensively which means I can potentially avoid the attack of
-opportunity.
-#### ALEX
-Because when it comes to casting most spells would present an attack
-opportunity where the person sees that you're trying to cast a spell and gets a
-quick jab in, doing it defensively boosts.
-#### BRYN
-Well I have to pass my concentration check.
-#### ALEX
-If he passes his concentration check it boosts his defence against their attack.
-#### BRYN
-And that's why in the first scene we took the other boring feat of combat
-casting. I roll one.
-#### LYDIA
-This is becoming a habit for us.
-#### BRYN
-Almost certainly doesn't work.
-#### ALEX
-Well Hamid is still learning not to panic in the moment.
-#### BRYN
-Yes.
-#### ALEX
-So you fail your concentration check, are you still able to cast?
-#### BRYN
-I still get to cast but he gets an attack opportunity and if I take damage I have
-to make another concentration check for my spell not to explode.
-#### ALEX
-Correct.
-#### BRYN
-In my face.
-#### ALEX
-Spoilers, he'll take the attack of opportunity, Bryn.
-#### BRYN
-Well, doy.
-#### ALEX
-What's your AC?
-#### BRYN
-Thirteen.
-#### ALEX
-It will be a hit I believe.
-#### BRYN
-Of course it will. Why am I standing next to an enemy?
-#### LYDIA
-Because Hamid wants to be a hero and you role play well.
-#### ALEX
-So what spell were you going to cast?
-#### BRYN
-Magic missile.
-#### ALEX
-And deals almost the highest he can roll of five.
-#### BRYN
-Five damage.
-#### ALEX
-Yep.
-#### BRYN
-It's cool, I've got loads of hit points now.
-#### ALEX
-Oh you rested, you slept and all of the things.
-#### BRYN
-Right so I must make a concentration check where DC equals a ten plus the
-damage taken plus the level of the spell I'm casting.
-#### JAMES
-Fifteen, sixteen?
-#### BRYN
-Yeah and my combat casting doesn't help with this because it's only for the
-first one.
-#### ALEX
-No, yeah.
-#### BEN
-Oh just roll over a sixteen. No.
-#### BRYN
-Seven.
-#### ALEX
-So the spell fails.
-#### BRYN
-The spell fails.
-#### ALEX
-Yep.
-#### LYDIA
-Does it explode and do you damage? Just when you said explode in your face I
-didn't know if that was a thing that actually happens?
-#### ALEX
-Certain types of spell failure can explode in your face. A lot of it depends on
-the type of spell.
-#### BRYN
-Normally it's if you roll really badly.
-#### ALEX
-Like if they were to roll cripplingly terribly there is a whole set of tables which I
-will make use of at some point which lists, there's a hundred options, option
-hundred is what is the worst thing that you can imagine, GM, that happens.
-Some of them are a limb just disappears never to return. Your face is...
-#### BRYN
-Been there, done that.
-#### ALEX
-Your mouth seals up like there are loads of different tables for spell failures
-depending on the spells if you want to play it properly you know very hardcore
-with the rules, in this case frankly the failures weren't bad enough and
-especially for a simple magic missile not really. So I'm afraid Hamid's spell fails,
-the attack of opportunity happened. Then the friend of the one who has just
-slashed Hamid makes it down the stairs. Now he can't charge Bertie because
-he'd be charging through his friend and similarly he can't really get an attack
-on without necessarily hurting his friend. So what he will do is he will step to
-the entrance of the steeply and draw a very familiar looking flask for everyone.
-So after him is the swanky fella. The swanky fella makes it down the stairs to
-the doorway, takes stock of the situation and then casts a spell.
-#### LYDIA
-Is there space for me to have an attack of opportunity while he tries to cast a
-spell since I'm directly behind him?
-#### ALEX
-You are able to take the attack of opportunity as he moves down the stairs but
-he would then become aware of you on the stairs. If you'd like to do that
-though that's fine.
-#### LYDIA
-I think I would, I think I would like to stab.
-#### ALEX
-Do it honestly, don't hesitate, just roll.
-#### JAMES
-I must stab.
-#### LYDIA
-She's got fourteen daggers.
-(Group laughter).
-#### ALEX
-So retcon, he is starting to move down the stairs and you go for the attack
-opportunity that's absolutely fine. Ooh.
-#### LYDIA
-That's a critical yeah.
-#### ALEX
-Roll to confirm.
-#### LYDIA
-What do you, what?
-#### ALEX
-So you have to do another attack roll and if your second attack roll hits that
-counts as a critical.
-#### LYDIA
-Ok, I know it will be a one, I know it.
-#### BRYN
-But it will still be a hit regardless.
-#### LYDIA
-Oh no.
-#### BRYN
-No, no doesn't that keep going or is that a...
-#### JAMES
-That's a potential house rule.
-#### BRYN
-Oh she just rolled a twenty by the way.
-#### LYDIA
-So I rolled a twenty.
-#### ALEX
-Oooh now I may opening very dangerous territory, what I'm going to say is I
-won't allow criticals to stack.
-#### BRYN
-That's fair enough.
-#### ALEX
-Less because I want to impede you guys but you will encounter monsters.
-#### BRYN
-More because they will kill us.
-#### ALEX
-Who are specifically designed to crit again and again and again because they'll
-have a massive range and I do not want you guys to face a monster at some
-point who is obeying the same rules as you who will one shot every single one
-of you, it will happen.
-#### BRYN
-I think that's a good decision.
-#### BEN
-It becomes a zero sum game really.
-#### ALEX
-What I will do however is because it's a natural twenty I may chuck in a little
-contextual effect like him tripping up or something.
-#### BEN
-If he survives.
-#### ALEX
-Very true.
-#### BEN
-That's with sneak attack as well.
-#### LYDIA
+#### LENA
+#### GWEN
+No?
+#### LENA
+No. Unfortunately, I know what
+climbing this particular ladder
+entails, and you don't have what
+it takes.
+#### GWEN
+Surprise, surprise.
+#### LENA
+I'm sorry to put it so bluntly,
+but I really do fear your ambition
+is misplaced here.
+#### GWEN
+(leaving)
+Mmhm. Well, good talk as always.
+Excellent use of my time. Let me
+know if you have any other gems of
+wisdom you want to spit in my
+face.
+#### LENA
+Gwen, that's- [exactly the kind of
+attitude...]
+Gwen is already out the door and slams it behind her.
+LENA sighs.
+#### 6. INT. OIAR BREAK ROOM- NIGHT, RAINING -- (CCTV).
+COLIN is sat in the corner, grimly drinking a cup of tea.
+SAM enters and heads over to the coffee machine.
+#### SAM
+Hey! Colin, wasn't it?
+##### [27]
+COLIN grunts an affirmative.
+#### SAM
+Hey.
+COLIN grunts.
+Beat. SAM starts to make his coffee
+#### SAM
+So. How's the app going?
+#### COLIN
+(Immediately furious)
+So that's it, is it? Lena's hired
+another smart-mouthed prick to
+just piss around and cause
+problems?
+#### SAM
+Wow, okayCOLIN
+I already have to explain to some
+chinless inbred politician that
+we're running on something as old
+as the goddamn Atari Falcon, now
+I've got some green little
+smartarse giving me lip for it
+too? Well you can take your funny
+little lines and shove them upSAM
+Alice told me to say it! Okay? It
+was Alice. I have literally no
+context for this. At all.
+Oh.
+#### COLIN
+#### SAM
+I said you seemed kinda scary and
+I didn't know how to say hi, so
+she said to ask about the app.
+#### COLIN
+'Course she did. Well, tell Alice
+it was funny. Yeah.
+##### [28]
+COLIN makes a noise that is probably meant to be a laugh.
+Awkward beat.
+Scary?
+#### COLIN CONT.
+#### SAM
+A bit, yeah.
+Huh.
+#### COLIN
+#### SAM
+So like, how is it going?
+Beat.
+#### COLIN
+Mate, I've been banging my head
+against this system for almost two
+years and I've got nothing beyond
+a bug list as long my arm.
+#### SAM
+So not great then?
+#### COLIN
+'Bout a year ago I figured out it
+was written with some kind of
+propriety German source code, so
+you know what I did?
+#### SAM
+What?
+#### COLIN
+I learned German. But do you think
+it helped? At all?
+Nein?
+Nein.
+#### SAM
+#### COLIN
+#### SAM
+Well... At least it'll help if you
+ever go to Germany?
+##### [29]
+Beat.
+#### COLIN
+Why would going to Germany help?
+#### SAM
+I don't- no I meant like, as a
+Holiday?
+#### COLIN
+A holiday?
+#### SAM
+Yeah, like time off? I hear they
+have good... sausages?
+#### COLIN
+I'm a vegetarian.
+Right.
+#### SAM
+Awkward Pause. Sam finishes preparing his coffee.
+#### SAM CONT.
+Well, this was great an' all but I
+should get back to it.
+#### COLIN
+Sure thing. Good luck mate.
+SAM starts to leave.
+#### COLIN
+Tell Alice I laughed.
+...sure.
+#### 7.
+#### SAM
+#### INT. OIAR MAIN OFFICE- NIGHT, RAINING -- (COMPUTER).
+SAM gently taps on the keyboard occasionally giving a
+perturbed mutter as he tries to input scores.
+#### GWEN
+You met Colin, then?
+#### SAM
+##### [30]
+Yeah. He's, uh...
+#### GWEN
+A grumpy weirdo?
+#### SAM
+I don't know. I think he's having
+a bad night.
+#### GWEN
+Then it's a night that's lasted
+since he got here. I'd ignore him.
+Alice is the only one he
+tolerates. God knows why.
+Right.
+#### SAM
+Pause. Some more typing.
+#### GWEN
+So you and Alice go back?
+#### SAM
+Yeah, we knew each other at uni.
+#### GWEN
+That how she tricked you into
+working here?
+#### SAM
+To be fair, she did say the office
+vibes were- uh- “a bit bleak”.
+#### GWEN
+That's one way to put it, I guess.
+So how did you end up here? You
+don't seem like the usual hopeless
+wasters Lena hires.
+#### SAM
+Heh. Maybe I'm just better at
+hiding it?
+#### GWEN
+You know how to work a keyboard,
+so you're already better than most
+of them.
+##### [31]
+#### SAM
+Ha.
+Pause. More typing.
+#### GWEN
+So what is it then?
+#### SAM
+Hmm?
+#### GWEN
+The awful, terrible thing that
+landed you here?
+#### SAM
+Does it have to be awful and
+terrible?
+Usually.
+#### GWEN
+#### SAM
+Maybe I just like creepy
+monotonous data entry instead of
+sleeping at home?
+#### GWEN
+Maybe.
+Beat.
+#### SAM
+Honestly? I'm just trying to get
+back on my feet. You?
+Beat.
+#### GWEN
+None of your business.
+#### SAM
+Now hang onHe hits a key and CHESTER's voice starts to speak from
+the computer.
+#### CHESTER
+(computer)
+##### [32]
+Forums.lostcityurbex.com
+Board index. Spelunking. Sites.
+New topic: Magnus Institute Ruins
+By RedCanary on Sunday April 10.
+2022. 3:31pm
+#### SAM
+(speaking over)
+Eurgh never mind. Got another
+talking one...
+#### 8. CYBERSPACE
+CHESTER(computer)
+Anyone know what the deal is with
+the Magnus Institute? Recently
+moved back to Manchester and I've
+been keen to keep up my
+spelunking, so was looking at the
+lists here of good sites to check
+out.
+There's some great ones one there
+(I have got to check out the old
+Hippodrome at some point!), but
+I'm a bit confused about the
+Magnus Institute. It's listed
+under “cleared”, but there's no
+pictures or info. I get that it's
+useful to have a way of saying a
+place has been explored to death,
+but usually when that's the case
+there's at least a few photos
+that can be found online. Is it
+worth me checking out? It's only
+a half hour from me, but I don't
+want to bother if it's genuinely a
+solved site and there's nothing
+there worth seeing.
+Re: Magnus Institute Ruins
+By BadGrav31 on Sunday April 10
+2022 4:51pm
+Not sure. I don't think ArcherK
+has updated those lists in a
+##### [33]
+while. Don't remember it, though.
+I say go for it -- if there aren't
+any pictures about, seems like a
+good reason to see for yourself.
+Re: Magnus Institute Ruins
+By ArcherK on Monday April 11 2022
+1:27am
+I do update them when people send
+me through stuff, but it doesn't
+happen all that often. I'm mainly
+just adding stuff to Devan's old
+lists from when he left. I don't
+know why he put the Magnus
+Institute on the Cleared list.
+Never really thought about it.
+Maybe it's been a self-fulfilling
+thing, and no one's been checking
+it out because it was put on there
+by accident.
+Re: Magnus Institute Ruins
+By RedCanary on Monday April 11
+2022 12:39pm
+Thanks guys -- think I might check
+it out after all!
+Re: Magnus Institute Ruins
+By ArcherK on Monday April 11 2022
+11:13pm
+Awesome! Look forward to reading
+the report!
+Re: Magnus Institute Ruins
+By RedCanary on Wednesday April 20
+2022 12:10am
+Just got back. Definitely not
+cleared. Really weird place. Kinda
+cool. But. Really weird. Full
+report tomorrow.
+Re: Magnus Institute Ruins
+##### [34]
+By FlowersUnderground on Friday
+April 22 2022 4:07pm
+Any news on this? Really keen to
+see some pictures.
+Re: Magnus Institute Ruins
+By RedCanary on Friday April 22
+2022 6:33pm
+Sorry, yeah, that's the problem.
+Having a really tough time
+actually uploading any of the
+pictures I took. Plus not been
+feeling super well. Forgot how
+weirdly paranoid I can get after
+spelunking. But yeah, the
+building's an odd one. Looks like
+it hasn't been touched since the
+fire, and that was, what, 20 years
+ago? Structure itself is in pretty
+good shape -- a lot of damage and
+scorching, plus the third floor is
+pretty much gone, but the rest of
+the building is safe enough. There
+was one spot where my foot went
+through the floor, but tbh that
+was mostly me being careless.
+It's got a really cool vibe,
+though. Like, if you'd told me it
+was a Victorian asylum or
+something before the fire I reckon
+I'd have believed you. Lost of
+austere old furnishings that are
+still in decent nick, and a bunch
+of offices like little cells. Kept
+getting this sense like doors were
+going to slam shut and lock behind
+me, even though half the frames
+didn't even have actual doors left
+in them.
+Big surprise was no old papers. I
+mean, they'd be mulch by now,
+obviously, but all the old filing
+cabinets were still rusting in
+##### [35]
+place, and there was clearly what
+used to be a massive library or
+archive or something in the first
+basement layer. Was really
+expecting a bunch of paper pulp,
+but there wasn't really any. Maybe
+that's why it was listed as
+“cleared”?
+Also, I don't know how to describe
+it really, but there was a bunch
+of old graffiti. I don't mean tags
+or anything, I didn't see any tags
+at all, actually, and it wasn't
+your standard “YOUR SOUL IS
+FORFEIT” spooky ruins graffiti, it
+was like... symbols and stuff and
+some pretty suspicious stains on
+some floors. I don't really know
+occult or whatever, but I dunno.
+Felt legit in a way most of it
+doesn't. I know a few of you do
+graff stuff, so I wouldn't mind
+picking your brains about it
+later.
+Re: Magnus Institute Ruins
+By BadGrav31 on Saturday April 23
+2022 11:28am
+Quote: I know a few of you do
+graff stuff...
+While I can neither confirm nor
+deny my involvement in the tagging
+of freight cars near Brighton, I
+wouldn't mind getting a look at
+it.
+Re: Magnus Institute Ruins
+By RedCanary on Saturday April 23
+2022 12:17pm
+The photos from the spelunk seem
+properly gone, but I did find an
+old wooden thing with a bunch of
+similar symbols on. Some kinda
+empty box, not really sure what
+##### [36]
+for, though. Gonna see if I can
+get the light right for a decent
+pic.
+Edit: No dice, I'm afraid. Must
+be something up with my phone
+camera. Really not helping the
+whole paranoia thing either.
+Anyone know anything about
+photographic distortion? Gonna see
+if I can borrow my dad's SLR
+tomorrow.
+Re: Magnus Institute Ruins
+By ArcherK on Saturday April 23
+2022 2:24pm
+Quote: I did find an old wooden
+thing...
+Just to be clear, theft from
+explorations is not endorsed by
+this site, so I trust you were
+simply remembering something you
+saw, and not admitting to taking
+souvenirs.
+Re: Magnus Institute Ruins
+By RedCanary on Saturday April 23
+2022 5:21pm
+Sorry. I know the rules. I'm going
+to go put it back, ok? So you can
+call off the dogs. I don't need
+anonymous DMs calling me a thief
+or threatening me. I can dox
+people too, you know. It's just a
+hobby, a bit of fun. People don't
+need to get all bent out of shape
+about it.
+Re: Magnus Institute Ruins
+By ArcherK on Saturday April 23
+2022 6:01pm
+Quote: I don't need any more
+anonymous DMs...
+I don't know where this aggression
+is coming from RedCanary, but to
+be clear, this forum does not
+##### [37]
+allow for direct messages to be
+sent anonymously, and no one is
+threatening to dox anyone. This is
+your formal warning.
+Re: Magnus Institute Ruins
+By BadGrav31 on Friday April 29
+2022 1:19pm
+Still waiting on pics of that
+graffiti, if you've got them,
+RedCanary.
+Re: Magnus Institute Ruins
+By RedCanary on Saturday April 30
+2022 2:01am
+##### [Image removed by moderator]
+Canaries should stay above ground.
+Re: Magnus Institute Ruins
+By FlowersUnderground on Friday
+April 22 2022 4:07pm
+Gross! Can we get some Mod action
+over here?
+Re: Magnus Institute Ruins
+By BadGrav31 on Saturday April 30
+2022 3:11am
+What the hell is that? Are those
+eyes? Are you alright?
+Re: Magnus Institute Ruins
+By ArcherK on Saturday April 30
+2022 7:33am
+RedCanary, you have been warned,
+our terms forbid posting explicit
+images including gore. I'm sorry
+it's come to this, but you brought
+it on yourself.
+##### [RedCanary has been temporarily
+banned]
+Re: Magnus Institute Ruins
+##### [38]
+By FlowersUnderground on Friday
+April 22 2022 4:07pm
+Quote: [RedCanary has been
+temporarily banned]
+Shame. Good job mods.
+Re: Magnus Institute Ruins
+By BadGrav31 on Monday May 09 2022
+7:07pm
+Any more word on this? Is canary
+still banned? Kinda worried about
+them after those pics.
+##### [Thread locked by moderator]
+#### 9. INT. OIAR MAIN OFFICE- NIGHT, RAINING -- (COMPUTER).
+Sam sits there still, obviously shaken. Gwen stops typing.
+#### GWEN
+Sam? You ok?
+#### SAM
+Uh -- yeah.
+#### GWEN
+Look, it doesn't matter to me but
+if you're going to stick it out
+here you're going to need a
+stronger stomach.
+#### SAM
+What? Oh no, I'm fine it just
+threw me. Have you ever heard of
+the Magnus Institute?
+#### GWEN
+Like from the case? No. Why?
+#### SAM
+Nothing. Just a bit of a blast
+from the past, is all.
+ALICE approaches.
+##### [39]
+#### ALICE
+How we doing over here? Clear your
+cases yet?
+#### SAM
+Not quite. I had another talker.
+#### ALICE
+I heard. Sounds like you met
+Chester.
+#### GWEN
+Must you name them?
+#### ALICE
+I don't name them. The universe
+names them. Through me.
+#### GWEN
+It's a bad name.
+#### ALICE
+So's Gwendolyn. Anyway, it's your
+first night, so I'm sure Lena will
+let you catch up tomorrow.
+#### GWEN
+Because Lena is so very
+understanding.
+#### SAM
+No it's fine, I can probably push
+on.
+Beat.
+#### ALICE
+Alright. You are looking a little
+pale though, so don't overdo it.
+We're not really monitored with
+breaks, so if you need to step
+away after a bad one, that's fine.
+Just don't fall too far behind or
+anything.
+Sure.
+#### SAM
+##### [40]
+#### ALICE
+Ping me when you're done. I'll
+have a pint waiting.
+#### SAM
+At six thirty in the morning?
+#### ALICE
+I'll send you the address.
+#### 10. INT. A QUIET PUB- MORNING, LIGHT RAIN -- (ALICE'S
+#### PHONE).
+ALICE plonks a beer down in front of SAM.
+#### ALICE
+To the first day of the rest of
+your nights!
+#### SAM
+(exhausted)
+Cheers.
+#### ALICE
+Was it really that bad?
+#### SAM
+No worse than you warned me.
+Although setting me up like that
+with the IT guy wasALICE
+Hilarious, I know. It's win-win you get a job, I get a fresh
+victim. It's all in your contract.
+#### SAM
+Don't remember signing that
+particular bit of the paperwork.
+#### ALICE
+Gotta read the fine print, kiddo.
+Sam takes a sip of his drink.
+#### SAM
+I didn't even know pubs opened
+this early.
+##### [41]
+#### ALICE
+Six am to nine am. It's mostly for
+market traders who set up in the
+wee hours but there are a few of
+us nightwalkers who frequent.
+Cosy, innit?
+#### SAM
+It's not bad.
+Another tired sip.
+#### SAM
+Thanks, by the way.
+#### ALICE
+It's fine, next one's on you
+though.
+#### SAM
+No, I mean for the job. I don't
+know if I've actually said it.
+Thanks for this.
+#### ALICE
+Don't worry about it. It's not
+really the sort of job I'd expect
+to be thanked for hooking you up
+with.
+#### SAM
+It's something to focus on. And I
+need that right now.
+#### ALICE
+And it's not too awkward working
+with an ex?
+#### SAM
+Only if she won't stop bullying
+me.
+#### ALICE
+Ah. Guess it'll always be awkward
+then..
+SAM snorts goodnaturedly.
+Beat. They drink.
+##### [42]
+Alice...
+Yeah?
+#### SAM
+#### ALICE
+#### SAM
+These cases...
+#### ALICE
+(Sighing)
 Yeah.
-#### BRYN
-So you get 2D4 and 2D6 damage in total.
-#### ALEX
-Including crit and to clarify, now imagine if you were doing this with your extra
-sneak like it stacks it gets quite high quite quickly.
-#### BRYN
-Roll it together.
-#### LYDIA
-Roll them together?
-#### BRYN
-Everything.
-#### LYDIA
-Ok, ok so that's a three and a two, five, and a three and a one, four so nine
-damage.
-#### ALEX
-Mine the one oh no, no, yeah so that's nine total.
-#### LYDIA
-Yeah do my D4s get minus ones?
-#### BRYN
-They don't because you're, but the D6s get plus ones.
-#### LYDIA
-Ah right.
-#### ALEX
-So it all balanced out this time.
-#### LYDIA
-Cool.
-#### ALEX
-So...
-#### LYDIA
-Stabbing is fun.
-#### ALEX
-Ooh that was a big hit from Sasha.
-#### LYDIA
-I like stabbing.
-#### ALEX
-And only on the one attack.
-#### LYDIA
-I do like stabbing, it's the best. Quiet stabbing.
-#### BEN
-When he's as squishy as Hamid he's going to be hurting.
-#### ALEX
-So yeah you get a formidable hit, a really hard hit on the guy.
-#### LYDIA
-Right in his...
-#### JAMES
-Right in the kidney.
-#### LYDIA
-Right in his back.
-#### ALEX
-He is not happy at all and he will in fact tumble down the stairs and end up
-prone at the entrance.
-#### BRYN
-Ah brilliant.
-#### ALEX
-I wouldn't normally do that but I feel like with a natural twenty I'd like to
-reward it in some way.
-#### LYDIA
-Since we did manage in the last, in the combat before last to roll what was it
-four ones in a row and suffer for that I think it's at least, I think it makes sense.
-#### BEN
-Vindication.
-#### LYDIA
-Yeah it feels like a fair GM-ing.
-#### ALEX
-Because it's in your favour.
-#### LYDIA
-Yeah. To be fair I don't... I mean I complained a bit but, you know.
-#### ALEX
-Ok so yeah he isn't going to be able to cast, certainly not while prone, he's still
-too busy trying to figure what the heck just happened. Moving onto Bertie.
-#### JAMES
-Ok.
-#### BRYN
-Kill him, please kill him.
-#### JAMES
-He's just going to swing his mighty sword.
-#### BRYN
-Before he kills me.
-#### JAMES
-And attack the chap who is directly in front of him who just slashed at Hamid.
-#### BRYN
-Are you power attacking him?
-#### JAMES
-I, I might do actually because I've got weapon focus bastard sword which
-would counteract the minus one?
-#### BRYN
-Well so your normal attack bonus is six, if you power attack it will be an attack
-bonus of five.
-#### JAMES
-Ok.
-#### BRYN
-So I mean it's only one and... it's up to you.
-#### ALEX
-Power attacks are deliberately weighted in such a way that if you take the
-negative to hit you're getting more in the pay-off for damage so it depends, it
-depends what your goal is.
-#### JAMES
-Yeah let's do it, Bertie's... he's crashed through the door, it has gone splintering
-all over the side, he is surrounded by wooden shards his nemesis the door
-vanquished, laying in pieces around him, barely a matchstick, it has been
-fragmented into sawdust. This creepy little fellow was charged all the way
-across him and gently shaved one of his eyebrows.
-(Group laughter)
-#### JAMES
-Hamid appears to have fallen over his own face.
-(Group laughter)
-#### BRYN
-True story.
-#### JAMES
-Punished for his ineptitude, the savage slashing to his tiny little body. Outraged
-Bertie let's out a mighty bellow of “That is very rude,” hefts his bastard sword
-mightily in the air and brings it crashing towards this greasy little oik in front of
-him.
-#### ALEX
-Very good.
-#### BEN
-You'd make an excellent nanny.
-(Group laughter)
-#### ALEX
-Give me the roll and let's see if this child gets punished.
-#### JAMES
-Twenty.
-#### EVERYBODY
-(Cheering)
-#### ALEX
-Give me another roll to see if he confirms.
-#### JAMES
-Fifteen.
-#### BRYN
-Plus attack five.
-#### ALEX
-Yes it's confirmed.
-#### BEN
-Ooh that was confirmed critical a power attack. We're a party of either it goes
-amazingly or it just goes terribly.
-#### BRYN
-You will get 2D10.
-#### JAMES
-Ok.
-#### BRYN
-Plus ten.
-#### JAMES
-2D10 plus 10. In a minute I want you to describe for me what the consequence
-is because I would like to decide what happens in...
-#### ALEX
-Very much, very much.
-#### JAMES
-Seven is that a ten?
-#### ALEX
-That's a ten.
-#### JAMES
-Seventeen.
-#### ALEX
-Plus ten?
-#### JAMES
-Yeah twenty seven.
-#### ALEX
-So twenty seven at level two.
-#### LYDIA
-Oh his organs!
-#### ALEX
-Twenty... ok.
-#### JAMES
-The organs, the organs. Is he definitely dead?
-#### ALEX
-You powered him through all of his health, all of his negatives, like, with let me
-do the maths actually with more than five damage is just floating around spare
-because he's already dead and you're still doing it.
-#### BRYN
-You've literally bisected him.
-#### BEN
-Yeah so when you said I'll bisect that guy in the alley and we said no because
-there's extra health for them to be dead, dead, dead now I'd like to.
-#### ALEX
-Genuinely like you've powered through that no one who was in this scenario
-could have possibly survived that. Yeah honestly, go nuts there's no worse you
-could do to a person.
-#### LYDIA
-Awww.
-#### JAMES
-Bertie slices him neatly in half, perfect incision straight from forehead to parts
-that cannot be mentioned in a family podcast.
-#### BRYN
-Groin.
-#### JAMES
-Groin, groin-al region, his left side flops into the central alleyway of the church,
-the right flops over one of the pews bouncing as it hits the other side and just
-leaking. Bertie goes, “Manners young man, manners”.
-(Group laughter)
-#### BEN
-I told you, excellent nanny.
-#### BRYN
-Hamid vomits.
-#### ALEX
-This is perfectly natural, you see a pink mist and proceed to vomit. So there's
-definitely a good place to just end the episode. I realise that there's still a bit
-of a turn left but neatly finely bisecting someone is not something you.
-#### JAMES
-Yeah achievement unlocked.
-(Group laughter).
-#### ALEX
-So wow, ok, we'll be jumping back into combat at the start of the next episode
-but that... that escalated quickly.
-#### ALEX
-Yeah we'll just remove that and cleft that miniature in twain. So...
-#### JAMES
-We won't, Erin, we won't air it, it's safe, it's fine.
-#### ALEX
-Erin, we promise we love them very much we polish them but not in a
-damaging polish. So I guess that's goodbye from everyone and we look
-forward to seeing you next week.
-#### EVERYONE
-Bye!
-##### [Show Theme -- Outro]
-#### ALEX
-Rusty Quill Gaming is a podcast distributed by Rusty Quill and licensed under a
-creative commons attribution, non-commercial share alike 4.0 international
-license. Today's episode was recorded and produced by Alexander J Newall.
-To comment on episodes, make donations and view links, images, videos and
-show notes visit rustyquill.com. Rate and review us on iTunes, visit us on
-Facebook, tweet us on Twitter @therustyquill, or email us at
-mail@rustyquill.com. Join our community on Discord, or via Reddit at
-r/rustyquill. Thanks for listening.
-##### [OUTTAKES]
-#### ALEX
-Ben, you're fine. Bryn?
-#### BRYN
-Hello, how are you, Alex?
-#### ALEX
-Keep going.
-#### BRYN
-It's nice to see you again. Are you doing something new with your hair? You're
-looking well, by which I mean fat.
-#### ALEX
-Keep going.
-(Group laughter)
-#### BRYN
-Oh really, you want more of this, do you?
-#### ALEX
-Keep going.
-(Chewing noises)
-#### LYDIA
-Oh god, I really hope I never have to hear that on the recording.
-#### ALEX
-I had to do one where he gulped, he went (gulps). It was the most foul thing...
-(Group laughter)
-#### ALEX
-I've heard in my entire life. It was halfway between a tsunami and a courtesy
-flush.
-(Group laughter and groaning)
-##### [END]
+#### SAM
+Do you- Is there- What's up with
+them? You think they're real?
+Beat. Alice exhales.
+#### ALICE
+I don't see how they could be?
+Mostly I try not to think of them
+like that, like, things that might
+or might not have really happened.
+They're just words on the screen.
+#### SAM
+I've no real idea what the OIAR
+even is.
+#### ALICE
+You and everyone else. I've
+checked and there's not really
+much info on it. My current
+working theory is that maybe it
+got set up in the 70s, back when
+everyone was off their tits on LSD
+and giving ghost-hunters massive
+grants to wave crystals in
+graveyards. I reckon at some point
+they must have put together a
+small government department to,
+like, oversee the spending and
+monitor this stuff and no-one's
+noticed it's still going.
+#### SAM
+Makes sense.
+##### [43]
+#### ALICE
+As long as you don't pay too much
+attention.
+Beat.
+#### ALICE CONT.
+Try not to dwell on it. Besides,
+it's worth the paycheck, right?
+Yeah.
+#### SAM
+#### ALICE
+And a Civil Service pension...
+#### SAM
+True. I could be cleaning toilets.
+#### ALICE
+You wish. Cleaning toilets
+actually helps people. Besides,
+you wouldn't last a night. Stick
+with scoring horrors until you hit
+the gym and fix your noodle arms.
+#### SAM
+Noodle arms?
+#### ALICE
+Just a pair of waggling
+vermicellis. Surprised you can
+lift that pint.
+#### SAM
+Well thank goodness you helped me
+get this night job to help with my
+health.
+#### ALICE
+(singsong)
+What can I say? I'm the patron
+saint of cute wimps.
+SAM raises his glass.
+#### SAM
+To new beginnings.
+##### [44]
+#### ALICE
+With old friends.
+They clink their glasses together.
+The recording cuts off abruptly.
+10. INT. OIAR MAIN OFFICE. MORNING. RAINING (COMPUTER)
+The office is quiet as the computer boots up again. Someone
+is searching through desks. There is a slightly frenzied
+desperation to it.
+There is a pause, as the figure spots the activated
+terminal. They move through the office towards it. The
+voice reveals it to be COLIN.
+#### COLIN
+(slightly manic)
+You're not as clever as you think
+you are. You think you've got us
+all fooled, that no-one knows
+you're listening, But I do. I
+know. I'm going to find you and
+then...
+COLIN turns the computer off.
+##### [45]
