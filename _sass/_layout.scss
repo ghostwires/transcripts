@@ -446,7 +446,7 @@ table.toc-table {
             font-size:     0.8em;
             @include media-query($on-palm) { 
                 padding:   0.2rem; 
-                font-size: 0.6em; 
+                // font-size: 0.6em; 
             }
             a { color: $text-color; }
         }
@@ -472,7 +472,7 @@ table.toc-table {
             // a.incomplete { color: $warning-text-color; }
             // a.special { color: $blue; }
             // a.trailer {color: $; }
-            @include media-query($on-palm) { padding-right: 0.6rem; }
+            @include media-query($on-palm) { padding-right: 0.4rem; }
         }
         td.ep-date {
             text-align: right; 
@@ -485,7 +485,7 @@ table.toc-table {
             // a.incomplete { color: $warning-text-color; }
             // a.special { color: $blue; }
             // a.trailer {color: $; }
-            @include media-query($on-palm) { padding-right: 0.6rem; }
+            @include media-query($on-palm) { padding-right: 0.4rem; }
         }
 
         td.ep-source { // Used in '/sources.html'
