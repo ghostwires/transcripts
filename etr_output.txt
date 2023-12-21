@@ -1,1540 +1,1141 @@
-©Rusty Quill 2023 The Magnus Protocol Episode 1 "First Shift" Written by Jonathan Sims and Alexander J Newall 
+Of That Colossal Wreck -- Episode 1 written by Sasha Sienna & Jonathan Sims 
 
-#### 01-08-2023
+#### 1.
 
-Draft 1.6 
 
-##### [1]
 
+#### INT. DEEP WITHIN THE DORMANT OZYMANDIAS SPACE STATION. A DEEP
 
 
-#### 1. INT. OIAR MAIN OFFICE -- NIGHT, RAINING (COMPUTER).
 
-A decrepit computer turns on in a dated and dingy shared office in Royal Mint Court. There is the hum and whine of an old PC -- the sort of mid-90s oversized, slightly yellowing plastic tower that still has a floppy disk drive. A tinny digital fanfare accompanies its awakening, then the PC settles into the quiet whirr of its fan. There is a slight stutter of digital distortion and then the computer's aged microphone abruptly begins recording. It is eavesdropping on an anemic work party. SAM, LENA and GWEN can be heard quietly talking in another part of the office. 
+#### THRUM CONTINUES FOR JUST A LITTLE LONGER THAN IS COMFORTABLE.
 
-#### ALICE
+There is an electric whirr and a heavy, mechanical KA-CHUNK as long sleeping systems activate. We hear a soundscape of heavy, old machinery working not entirely as intended. Gears grind against each other as large suspended animation pods are lifted up and slotted into place on a conveyor system. A pod door opens with a depressurising hiss. From it, LUNA stumbles a few steps and collapses onto the cold metal floor. 
 
-[What are you] --looking forward to the most? 
+#### LUNA
 
-#### TEDDY
+Help... Help. Gradually, four more pods open and first LEVI, then MIRA and ZACK, and finally RILEY all make their way out of their pods. 
 
-I mean, occasionally seeing the sun could be nice? 
+#### LEVI
 
-#### ALICE
+Is everyone ok? 
 
-Boooo! Your pathetic addiction to vitamin D will only make you weak. 
+#### RILEY
 
-#### TEDDY
+Over here! Someone's hurt! 
 
-But Alice, my bones! They're ready to snap like twiglets! 
+#### ZACK
 
-#### ALICE
+Hi there, can you tell me your name? 
 
-Listen to me: bones are a lie peddled by Big Milk to keep you buying. No such thing. 
+#### LUNA
 
-#### TEDDY
+Luna. 
 
-Right, so what keeps your body upright? 
+#### ZACK
 
-#### ALICE
+Nice to meet you, Luna. I'm Zack. Are you hurt anywhere? 
 
-(grinning) Spite and coffee. 
+#### LUNA
 
-##### [2]
+No... It's really cold. 
 
+#### ZACK
 
+Hm, I think there should be some blankets around here somewhere. 
 
-#### TEDDY
+#### MIRA
 
-(laughing) Well, I'm afraid we can't all subsist entirely on coffee and social media drama. 
+Are you a doctor? 
 
-#### ALICE
+#### ZACK
 
-Not with that attitude. I reckon you could crack it in another 4 years... 
+Er... Yeah. I think I must be. 
 
-#### TEDDY
+#### LEVI
 
-Another 4 years of you and cracked is exactly what I'd be! Small laugh. Beat. 
+(to RILEY and MIRA) Come on, let's leave them to it. 
 
-#### ALICE
+#### MIRA
 
-I'm gonna miss you Teddy. 
+We need to check the other pods anyway. They leave to check the pods elsewhere in the room. 
 
-#### TEDDY
+#### LUNA
 
-Nah, we'll stay in touch, right? 
+Where am I? What's going on? I can't think... 
 
-#### ALICE
+#### ZACK
 
-(unconvincingly) 'course. I mean, yeah, if you think you can escape my iconic brand of nonsense by getting a boring, normal job you're going to be sadly disappointed, my friend. 
+It's ok. This happens sometimes. Waking up can have a really disorientating effect. It should start to fade in a few hours. 
 
-#### TEDDY
+#### LUNA
 
-You know most people would consider civil service a boring, normal job. 
+You've seen his before? 
 
-#### ALICE
+#### ZACK
 
-Yeah, well, most people don't work here. 
+Well, technically I haven't seen anything before. But I remember doing it plenty. What about you? 
 
-#### COLIN
+#### LUNA
 
-(approaching) Ain't that the truth. COLIN shuffles up, a touch worse for drink. 
+I don't know. My memories don't make sense. I'm planting seeds. Making clouds. Or... I remember a laboratory. Was I a farmer? Or, no, I used to work with geology? It's all a mess. 
 
-##### [3]
+#### ZACK
 
+It's ok, they should start to straighten out soon. Not exactly surprising the wake-up can leave you jumbled. Being born is hard enough when you do it as a baby! What? 
 
+#### LUNA
 
-#### ALICE
 
-Colin! There's my guy! How's it hanging? Is it an app yet? Do we have a minimalist logo? I assume you've finished all the social features? 
 
-#### COLIN
+#### ZACK
 
-Don't you start. I swear I'm going to shove a cable down that prick's throat, pull it out his ministerial anus and floss him to death. 
+Sorry. Bad joke. 
 
-#### ALICE
+#### LUNA
 
-Is that what you mean when you go on about things being "backwards compatible"? Colin sighs wearily. Booo! 
+It feels like they're not my memories. 
 
-#### TEDDY
+#### ZACK
 
+No, not originally. But they're yours now. 
 
+#### LUNA
 
-#### ALICE
+I don't know if I like that. Zack doesn't know what to say to this. 
 
-Don't boo me! I created you, and I can destroy you! Laughter. 
+#### ZACK
 
-#### COLIN
+Hang on, I'll see if I can find you one of those blankets. 
 
-So are we just leaving Sam to the wolves then? 
+#### 2. INT. ELSEWHERE IN THE AWAKENING ROOM
 
-#### ALICE
 
-He's a big boy, he can look after himself. Besides, he's going to be working with them. 
 
-#### COLIN
+#### RILEY
 
-Sure but you know how Gwen and Lena can be... 
+So how do we open all these? 
 
-#### TEDDY
+#### LEVI
 
-- awful? 
+They're supposed to open automatically, like ours. We should wait for Zack before we do anything that might interfere with the stasis procedure. 
 
-##### [4]
+#### MIRA
 
+We don't know how long he'll be. That confused woman mightLEVI Her name's Luna. 
 
+#### MIRA
 
-#### COLIN
+Of course. 
 
-(overlapping) -intense. 
+#### LEVI
 
-#### ALICE
+I'm Levi, by the way. Good to meet you both. 
 
-He's fine. 'Course it wouldn't have been an issue if we'd just done this at the pub like normal... 
+#### RILEY
 
-#### TEDDY
+Right! Yes. I'm Riley. 
 
-You know Lena. (imitating) "Proper procedure requires any provided food and beverages to be consumed on site. This includes cake.". Fair play, though, Sam's been a good sport. God knows you wouldn't have got me to a stranger's goodbye party at six in the morning. 
+#### MIRA
 
-#### ALICE
+Mira. Anyway, we should see what we can do about these pods ourselves. 
 
-(moving away) Eurgh. Fine, I'll go rescue him. Beat. 
+#### LEVI
 
-#### COLIN
+Do you know anything about stasis tech? 
 
-So... Insurance? 
+#### MIRA
 
-#### TEDDY
+Well, this software interface is familiar, so... Mira taps the screen a few times. 
 
-It's reliable. 
+#### MIRA
 
-#### COLIN
+...But I've no frame of reference for the read-outs. There's definitely someone inside, and I think the stasis field is active. 
 
-True. Just let me know if they need an IT guy, yeah? 
+#### RILEY
 
-#### TEDDY
+Guess your skills are more software than wetware. 
 
-Colin, mate, you know you're never getting out of here. 
+#### MIRA
 
-#### COLIN
+Seems so. (calling over) Doct- Zack, can you have a look at this please? Zack jogs over to the pod that the others are looking at. 
 
-Christ, don't say that. 
+#### ZACK
 
-##### [5]
+Yes, how can I help? I found some blankets, by the way, if anyone'sMIRA Perhaps later. Can you determine if this person is still alive? 
 
+#### LEVI
 
+There's no reason to think they're dead, Mira. That's just what suspended animation look like. 
 
-#### TEDDY
+#### MIRA
 
-Even if his nibs lets you off the hook, which he won't, you couldn't bring yourself to just leave. Not 'til you've figured out all these fun little errors. 
+None of us have ever done this before. It's at least worth having someone with medical knowledge check them out. 
 
-#### COLIN
+#### RILEY
 
-Or they finally kill me. 
+So, what do we do if they're dead? Zack examines the pod, tapping at the controls on the side, which make an 'EEEHHHH' error sound. 
 
-#### TEDDY
+#### ZACK
 
-I mean, sure, that too. Beat. 
+Looks like the terminal's not fully working. There's not really any way to tell without opening it up. Sleep and death are, wellMIRA I understand, thank you. 
 
-#### TEDDY
+#### LEVI
 
-Heads up, looks like they're all coming over. 
+No need to be rude. 
 
-#### COLIN
+#### MIRA
 
-(morose) Great. ALICE, SAM, LENA and GWEN come over. Hey! 
+I'm not being rude. This isn't right. We're all supposed to wake up at the same time. The sooner we can figure out what's gone wrong, the better we can address it. 
 
-#### TEDDY
+#### RILEY
 
+Are we sure this isn't normal? 
 
+#### MIRA
 
-#### LENA
+Yeah, we're supposed to- It just... feels like we're all supposed to be here. 
 
-Enjoying the party? 
+#### LEVI
 
-#### TEDDY
+Together. Yea, I feel that too. 
 
-Colin was just saying how much of a blast he's having, isn't that right? 
+#### ZACK
 
-#### LENA
+Do we know how many of us are there supposed to be? 
 
-(sardonic) Oh really. Uh, sure. 
+#### LEVI
 
-#### COLIN
+Let's see, there are about twenty pods, and space enough for, what, fifty? 
 
+#### RILEY
 
+Well, there are five of us. 
 
-#### TEDDY
+#### LEVI
 
--and how he'd love to take the afterparty to the pub. 
+More once we get the other pods open. Somehow. 
 
-##### [6]
+#### RILEY
 
+OK, maybe I didn't get the right memories or something, but you both seem to have a much better handle on how this is all supposed to go, so...? 
 
+#### MIRA
 
-#### ALICE
+Look, as far as I'm concerned, there should be fifty of us awake right now, and once the doctor has checked us over we make our way to see the Commander. But we can't go anywhere until we're all awake, so we need to get as many of these pods open as possible. In the meantime, we figure out the situation. 
 
-What a great idea, Colin. 
+#### RILEY
 
-#### LENA
+The situation is that everything's broken. 
 
-Nonsense. Sam is the only one who has had any cake so far. 
+#### LEVI
 
-#### GWEN
+Then we fix it. Once everyone's awake, then we can decide whether to panic. As a team! 
 
-And that was only because you practically forced it down his throat. 
+#### RILEY
 
-#### SAM
+I'm not panicking, Levi. 
 
-No, no, it was... nice. 
+#### ZACK
 
-#### LENA
+Right, if I'm not needed right now, I should go check on Luna. How is she? 
 
-People like chocolate cake. 
+#### LEVI
 
-#### GWEN
 
-(sullen) People like being treated like adults... Beat. Gwen may have overstepped there. 
 
-#### LENA
+#### RILEY
 
-Thank you for you feedback, Gwen. I will take it under advisement. Now I was just telling Sam that he can expect supportive co-workers here at the O.I.A.R.. 
+She seemed kind of upset when she woke up. 
 
-#### ALICE
+#### ZACK
 
-Oh Yeah. We're a real family. I#m your cool sister, Gwen's your uncool sister, Lena's you emotionally distant mother, Teddys the uncle that just got another job, and Colin's the family's grumpy IT manager 
+I think it's just memory troubles. Sometimes, with long periods of suspended animation, the mind kind of... mixes everything up. 
 
-#### GWEN
+#### LEVI
 
-You'll have to forgive Alice, Sam. She's convinced that she's funny. 
+I suppose that the risk with implanted memories. 
 
-##### [7]
+#### ZACK
 
+They don't always merge how they're supposed to, especially if they aren't being drawn on. Now she's conscious, she should be able to start making sense of things soon. 
 
+#### RILEY
 
-#### SAM
+I think I might have that too, 'cause, to be honest, I'm feeling really out of my depth. 
 
-It's alright, we actually go way back. 
+#### ZACK
 
-#### LENA
+We can check. What's your name? Riley. 
 
-Alice recommended Sam for the job. 
+#### RILEY
 
-#### GWEN
 
-Oh? Nepotism, is it? 
 
-#### ALICE
+#### ZACK
 
-(acidly) I learned from the best. 
+What's your designation? 
 
-#### GWEN
+#### RILEY
 
-People are trying to enjoy themselves, Alice. Could you please just turn it off for a moment? 
 
-#### TEDDY
 
-(gently steering) Soooo! I think we might all be done on cake, so I'm going to call it and suggest anyone who wants to can decamp to the pub, ok? Plan. 
+#### GT-97221.
 
-#### COLIN
 
 
+#### ZACK
 
-#### LENA
+Do you know where you are? 
 
-If that's the consensus, I will accept it. Although I'm afraid I won't be able to join you at The StewardShame... 
+#### RILEY
 
-#### ALICE
+The Ozymandias Contingency Seed Vault. 
 
+#### ZACK
 
+What's our next task? 
 
-#### LENA
+#### RILEY
 
--but do take Sam along and enjoy yourselves. Just remember it is a work night. 
+Find the Commander. 
 
-#### SAM
+#### ZACK
 
-Oh, er, sure. I'm down. 
+Do you remember you parents? 
 
-##### [8]
+#### RILEY
 
-Great! 
+Uh... Yeah. Yeah, I think so. 
 
-#### TEDDY
+#### ZACK
 
+How many? 
 
+#### RILEY
 
-#### LENA
+How many... parents? 
 
-Oh, and Teddy? Mm? 
+#### ZACK
 
-#### TEDDY
+Uh-huh. 
 
+#### RILEY
 
+Two. 
 
-#### LENA
+#### ZACK
 
-I understand you're leaving us, but that's no excuse for being sloppy. Please ensure you shut down your workstation before you depart. 
+And do you know their names? 
 
-#### TEDDY
+#### RILEY
 
-Hm? Oh I already d- Oh. That'suh... Right, hang on, I'll justTeddy pushes the power button. The recording ends and the internal fans spin down as the computer is shut down. 
+...No. No, I don't remember their names! 
 
-#### 2. INT. OIAR MAIN OFFICE -- NIGHT, RAINING -- (COMPUTER).
+#### ZACK
 
-The computer boots up and the microphone switches on. Sam is sat at his desk, filling out paperwork. ALICE approaches. 
+That's ok. That's right. That's how it's supposed to be, your different memories have merged and shed the specifics. It's the most common failure point for the process. 
 
-#### ALICE
+#### RILEY
 
-Right then. Ready? 
+Oh. Right. Ok. 
 
-#### SAM
+#### ZACK
 
-Hang on, I've still got the last page to fill in. Do I really have to put "Samama Khalid" at the top of every single page? 
+So there's nothing obviously wrong. Can you do two clockwise pirouettes for me, then one anticlockwise? 
 
-#### ALICE
-
-Yeah, they're pretty big on paperwork around here. 
-
-#### SAM
-
-There has to be a way to do this online. Beat. 
-
-##### [9]
+#### RILEY
 
 What? 
 
-#### SAM CONT.
+#### ZACK
 
+It's a calibration test. Right... 
 
+#### RILEY
 
-#### ALICE
+Riley spins twice, then one the otherway. 
 
-(chuckling) You'll see. Anyway, hurry it up, time to mold you like clay into the perfect government drone for the Office of Incident Assessment and Response. 
+#### RILEY
 
-#### SAM
+Indigo! ...Why did I say that? 
 
-Speaking of, there's this box for a "Response 121" on the form. Do you know what that is? 
+#### ZACK
 
-#### ALICE
+It means the test has worked and you're fine. I think you're all good. 
 
-Oh, you can ignore that. There used to be a separate "Response" department, I think, but now it's just us. Guess they never updated the onboarding. 
+#### RILEY
 
-#### SAM
+But I still feel... Confused? And sort of sick? 
 
-Ah. I already ticked it -- is that a problem? 
+#### ZACK
 
-#### ALICE
+I think that might just be anxiety. 
 
-I doubt it since no one actually reads that stuff. Beat. ALICE (CONT.) Right pens down, eyes front, class is in session. Right. 
+#### MIRA
 
-#### SAM
+We're all anxious. This isn't how the wake-up is supposed to go. 
 
-Sam puts the paperwork away on the desk. 
+#### LEVI
 
-#### SAM CONT.
+There are meant to be more of us. 
 
-Lead on, sensei. 
+#### MIRA
 
-##### [10]
+Actually Zack, could you bring Luna over here? I want to take stock of who we have. Zack goes over to check on Luna. 
 
+#### LEVI
 
+Give her a minute, she's still recovering. 
 
-#### ALICE
+#### MIRA
 
-So, this cutting-edge device is known as a personal computer, or "PC" for shortSAM Alice, I know you're joking, but how old is this thing? It has a floppy drive. 
+We don't know what's going on yet, but so far the five of us is all we have. I mean to find out what resources we have available. Luna and Zack rejoin. 
 
-#### ALICE
+#### LEVI
 
-Patience young one. You've got your login details from Colin, right? 
+Luna, how are you feeling? 
 
-#### SAM
+#### LUNA
 
-Sure. 
+Alright, I think. A bit weird. 
 
-#### ALICE
+#### ZACK
 
-(faux portentous) Then bestow them unto the device that you may gain its ancient wisdom... 
+The memories should be starting to settle down. 
 
-#### SAM
+#### MIRA
 
-Right. Sam types in his login. There's a beep and the computer starts to spin up with very retro fanfare. 
+Speaking of, what mix does everyone have. I'm mainly remembering administration and programming and I think I might have some memories of being a naval captain. My current instinctive priority is to report the Commander, so I assume I'm meant to be in a leadership position. 
 
-#### SAM
+#### LEVI
 
-What-? 
+Hang on, I also feel a need to report to the Commander. What does that have to do with leadership? 
 
-#### ALICE
+#### RILEY
 
-(sweetly) Something wrong sweetie? 
+Me too. It might just be a general urge everyone gets when we wake-up. 
 
-#### SAM
+#### ZACK
 
-Is this... Windows 95? 
+Well, I think my priority is to ensure you're all healthy and well, but that's probably a specific 'medical staff' thing. I definitely remember being in front of a classroom, too. Rows of smiling faces. So I think there's some teacher in there as well. 
 
-#### ALICE
+#### MIRA
 
-Of course not -- don't be ridiculous! Beat. 
+Right. Levi? Who are you? What's your role? 
 
-##### [11]
+#### LEVI
 
+I don't know about my 'role', but I definitely remember a lot of...academics, I suppose. Psychological studies, engineering projects, city plans... 
 
+#### MIRA
 
-#### ALICE
+Not much immediately useful, then. I guess not. 
 
-(cont.) This is a modified version of Windows NT 4.0, the businessfocused predecessor to 95. 
+#### LEVI
 
-#### SAM
 
-H-How is that even-? There's no way this is still supported... 
 
-#### ALICE
+#### RILEY
 
-I think a good half of Colin's job is just making sure the workstations don't all try to update and instantly brick themselves. 
+Uh, right. So I've got... I remember... There's a lot of physics in my head. Did I win some kind of prize? Well, someone won a prize, I suppose. There's also some robotics in there, but it's... 
 
-#### SAM
-
-But... I mean, why? 
-
-#### ALICE
-
-See that symbol? Alice double clicks something on the screen. 
-
-#### SAM
-
-(reading) FR3-d1? 
-
-#### ALICE
-
-Meet Freddy. The program doesn't really have a proper name. Bespoke software from the mid-nineties, I think. It's the bedrock that the whole system is based on, and it's been at least fifteen years since anyone actually knew how it worked. 
-
-#### SAM
-
-What does it do? 
-
-#### ALICE
-
-Crashes, mostly. At least it does if you try to update it, breath too loudly or link it to anything developed more recently than the Bronze Age collapse. 
-
-##### [12]
-
-
-
-#### SAM
-
-So what's it supposed to do, then? 
-
-#### ALICE
-
-It searches online databases, newspapers, forums or whatever for incidents, flags them, then passes them through to us for assessment. 
-
-#### SAM
-
-What sort of "incidents"? Beat. 
-
-#### ALICE
-
-(slightly hesitant) You'll see. 
-
-#### SAM
-
-Right, so this list is... 
-
-#### ALICE
-
-Today's case files. Just double click on the top one. Sam double-clicks. 
-
-#### ALICE
-
-Ok, so looks like it's an email. 
-
-#### SAM
-
-And I just... read it? Is that even legal? 
-
-#### ALICE
-
-Probably. We do work for the government. Sort of. 
-
-#### SAM
-
-What about GDPR? 
-
-#### ALICE
-
-Look, Sam, I don't know what to tell you. This is the job. I've been doing it for years and there's never been any problems. Maybe ask Lena? -- She'd probably know. 
-
-##### [13]
-
-
-
-#### SAM
-
-Fine. Sorry. Ok, so... He starts reading. Pause. This is- 
-
-#### SAM
-
-
-
-#### ALICE
-
-Yeah, they're all like that. At least this one is short, nice easy start for you. So, once you've read it, you get out the binderShe slaps an enormous ring binder on the desk and starts paging through it as she speaks. 
-
-#### ALICE CONT.
-
-And look up whatever's mentioned most in the case. Looking at this one we go to "D" and... Sam, eyes on me now. We go to "D" and, right, would you say this is more "Dolls comma watching" or "Dolls comma human skin". 
-
-#### SAM
-
-(a bit shell-shocked) IUh- I mean- I guess the human skin bit is only implied, so... both? 
-
-#### ALICE
-
-Nah you can only pick one, Freddy's dumb as rocks. Right, so, after each entry there's four numbers. That's the DPHW. So, "dolls comma watching" is... 1157. Then you cross reference with the table here, that would be a 2-C, and then you type that into the box here, along with date of incident if there is one and today's date. Which gives us... Alice's quickly types. 
-
-##### [14]
-
-
-
-#### ALICE CONT.
-
-CAT2RC1157- 12052022-13012024 and then we hit submit. Beat. 
-
-#### ALICE CONT.
-
-Well go on then. 
-
-#### SAM
-
-Oh, right! Sam double clicks. There's an 8-bit chime. 
-
-#### ALICE
-
-Excellent work. We'll make a wage slave of you yet. 
-
-#### SAM
-
-Where does it go? 
-
-#### ALICE
-
-If I were a betting woman, I'd say some long dead database that noone will ever look at or care about. 
-
-#### SAM
-
-So why do it? 
-
-#### ALICE
-
-Because that's what they're paying us to do. SAM makes an incredulous noise. 
-
-#### ALICE
-
-Welcome to civil service. 
-
-#### SAM
-
-What the hell sort of job have you gotten me Alice? 
-
-#### ALICE
-
-One where you get paid to hang out with the coolest person left in London all night, every night. You're welcome. 
-
-##### [15]
-
-SAM laughs despite himself. 
-
-#### ALICE
-
-Now you try the next one. 
-
-#### SAM
-
-Right, so... He double-clicks the next case. NORRIS's voice blares from the speakers abruptly. They both talk over his monologue. NORRIS(computer) To: Darla Winstead (dwinny@mailpod.com) From: Harriet Winstead (hpw332@mailpod.com) Date: May 12 2022. Subject: Re: Re: checking in 
-
-#### SAM
-
-(talking over) Alice, what is this? 
-
-#### ALICE
-
-(talking over) Hey! You got Norris! 
-
-#### SAM
-
-(talking over) What? 
-
-#### ALICE
-
-(talking over) It's... Hang on, you can pause it by hitting space. She hits spacebar and NORRIS abruptly stops speaking. 
-
-#### ALICE
-
-Sorry, didn't think you'd get one of those so soon. 
-
-##### [16]
-
-
-
-#### SAM
-
-One of what? Why is it reading it out? 
-
-#### ALICE
-
-Started about a year ago. Best Colin can figure, something brokeand whichever genius made the program ran some redundancy through the sound card. 
-
-#### SAM
-
-Right... 
-
-#### ALICE
-
-Yeah. Lena won't authorize Colin's proposed solution: Smashing it with a hammer. All it really means to you is that it'll read out maybe one in twenty cases and won't let you do the next one until it finishes. 
-
-#### SAM
-
-But- No hang on, that doesn't make any sense. If Freddy's a search program from the nineties, why would it have text-to-speech? 
-
-#### ALICE
-
-Great question. I asked Colin the same thing a while back. 
-
-#### SAM
-
-And what did he say? 
-
-#### ALICE
-
-Nothing. He just snapped a pencil in half and walked away.. Look Sam, it's a completely knackered system that's old as balls. Dangly, grey-haired old man balls. And until it finally collapses forever, we just have to put up and shut up. 
-
-##### [17]
-
-
-
-#### SAM
-
-So how do we stop it reading them out? 
-
-#### ALICE
-
-No idea. So now, when we come across a chatty case, we generally take that as a cue to get coffee. Then we come back and read it through once the computer's done waffling. 
-
-#### SAM
-
-Right. Okay. And who's Norris? 
-
-#### ALICE
-
-So, there are three voices it reads them in. I call them Norris, Chester and Augustus, although Gwen doesn't like it. This one here is Neil, he and Chester are the most common. 
-
-#### SAM
-
-But it's okay if I do hear it? Like, I'm just thinking I can finish up this onboarding here while it's running. 
-
-#### ALICE
-
-Knock yourself out. Just grab me in the break room when it's done. We've got a load more to get through. Gotcha. 
-
-#### SAM
-
-Sam hits spacebar again. 
-
-#### 3. CYBERSPACE
-
-
-
-#### NORRIS
-
-(computer) To: Darla Winstead (dwinny@mailpod.com) 
-
-##### [18]
-
-From: Harriet Winstead (hpw332@mailpod.com) Date: May 12 2022. Subject: Re: Re: checking in I'm so sorry. I should have listened. I just couldn't face the thought of the rest of my life never hearing him again, I had to try. It wasn't a scam, not like you said. He sounded different when he called. He was all eager with an off-putting sort of excitement, not like our earlier face-to-face consultations. He just gave me an address and told me to be there that night:: Grantham Cemetery. I started to wonder if this was all just another messed-up sales pitch. Some preachy lesson about acceptance and letting go before asking for more cash. But I had to know, so I went to the cemetery. I used to love the night. When Arthur couldn't sleep we would just walk for hours under the lampposts, just us and the occasional headlights streaking past. It frightens me now. I look at the shadows, not the lights. They hide whatever it was that took him away from me. The cemetery gates were wide open. I don't know if I would have had it in me to break in. I was so nervous that the smallest obstacle might have sent me running home. But they were open. So in I went. Slowly, towards the grave. 
-
-##### [19]
-
-It's not a big graveyard, and spacious enough that I could see the figure standing there before I got too close. For a moment my heart skipped and I thought it might be Arthur but no, the shape... The shape was all wrong. Then my step faltered, because I had no idea who else it could be. They were too short for the consultant. Maybe someone else entirely, some innocent mourner? In the middle of the night? I doubted it. I was scared, Darla. I was so scared. I was certain I'd been set up, that I was going to be grabbed. I turned to leave, hoping I could get back to the main road lights but then the figure began to speak from where it was stooped in the dark. It was voice. but he it was place. his voice. It was Arthur's I know you won't believe me called my name and I know his voice. I froze in It came closer, and as the moon escaped the clouds for a moment I could make out the discolored skin, the mismatched features. It moved slowly, shuddering towards me with a jerky, ungainly step. Something was pressed against its skin, from the inside. I said the only thing I could think: "Arthur? Is that you?" And that voice I have loved for twenty years answered: "Some of him." 
-
-##### [20]
-
-And then it laughed. Great heaving gasps and wheezes that seemed to leak out as if through a rotten bellows. It laughed and laughed, violently throwing its head back and forth, faster and faster, impossibly fast. So fast I could hear bones snapping. I ran, and it didn't chase me. I don't know what to do now. I've not left the house all day. I keep thinking I see something at the bottom of the garden, but I can't bring myself to check. Do I call the police? What could I even tell them? I tried calling the helpline but no one answers. Are you free tonight? I don't want to stay at the house. I know you warned me that it was too full of memories but this isn't that. I'm afraid Darla and worse, I think it's Arthur I'm afraid of. Or what's left of him. Please get back to me a.s.a.p. 
-
-#### H
-
-
-
-#### 4. INT.
-
-OIAR main office -- NIGHT, RAINING -- (COMPUTER). Sam is sitting there, slightly freaked out by what he's just heard. He exhales slowly. Alice comes up behind him and he jumps as she speaks. 
-
-#### ALICE
-
-You didn't come get me? 
-
-#### SAM
-
-I... Yeah, sorry. I got distracted. Are they all like that? 
-
-##### [21]
-
-
-
-#### ALICE
-
-What? Upsetting and horrible? Yeah, pretty much. That one seemed pretty tame, to be honest. 
-
-#### SAM
-
-Great. Can't wait for a bad one. 
-
-#### ALICE
-
-So, ready to score it? 
-
-#### SAM
-
-Sure, so, uh... He starts leafing through the massive binder. 
-
-#### SAM
-
-"Zombies" would probably be under Z, right? 
-
-#### ALICE
-
-Yeah, it's mostly alphabetical. Gwen, who has overheard this, calls over from her desk. 
-
-#### GWEN
-
-(calling) It's not zombies. 
-
-#### ALICE
-
-I'm sorry, Gwen, I thought Sam was shadowing me today since you're so busy with your own massive backlog. 
-
-#### GWEN
-
-(Standing and coming over) And you're just going to let him put "zombies"? He'll get a misfile on his first case. 
-
-#### ALICE
-
-No he won't. (To Sam) You basically never get a misfile. No-one's checking this stuffGwen starts leafing through his binder. 
-
-##### [22]
-
-
-
-#### GWEN
-
-Here. "Reanimation". I'd probably go with "partial" cross linked with "regret", but you could also go with "amalgamative" subsection "semi". 
-
-#### ALICE
-
-Zombies would have been fine. 
-
-#### GWEN
-
-A) no it wouldn't and B) there's at least three pages of subclassifications for Zombies. He'd be here for hours. 
-
-#### ALICE
-
-And I'm guessing this dedication to detail is why you're so behind? 
-
-#### GWEN
-
-It's why I have the highest accuracy rate in the office. 
-
-#### ALICE
-
-Which, and it's absolutely crucial you understand this Sam, means exactly nothing. 
-
-#### SAM
-
-I'm going to put "reanimation", ok? 
-
-#### ALICE
-
-Fine, whatever. Like I say, none of it matters, so arguing about it is a waste of everybody's time. And none of us have much of that going spare tonight do we Gwen? 
-
-#### GWEN
-
-Just making sure he's taught properly. If you want to be picking up after him for the whole year, be my guest. 
-
-#### ALICE
-
-Gwen? 
-
-##### [23]
+#### MIRA
 
 What? 
 
-#### GWEN
+#### RILEY
 
+- mainly theoretical. 
 
+#### LEVI
 
-#### ALICE
+That's alright, Riley. I'm mainly theoretical too. 
 
-Lena wants you in her office. Gwen looks over. 
+#### MIRA
 
-#### GWEN
+Look, I'm just trying to make sure we know who we are. Or at least what we can do. Sorry if I've been curt. I know it's a high-pressure situation for all of us. (gentler) Luna, do you... Can you remember anything besides...this? 
 
-Oh joy. Just want I need tonight. She stands and starts heading off. 
+#### LUNA
 
-#### GWEN CONT.
+(pause) I was thinking I might be a farmer? I can remember being outside. The rain. Weather. I feel like I want to... coax things back to life again. Does that make sense? 
 
-(departing) Don't let her teach you too many bad habits Sam. 
+#### MIRA
 
-#### SAM
+Sounds like terraforming to me. Maybe. 
 
-(chuckling) I'll do my best. 
+#### LUNA
 
-#### ALICE
 
-(good-natured) Traitor... 
 
-#### 5. INT. MANAGER'S OFFICE- NIGHT, RAINING -- (MANAGER'S
+#### ZACK
 
-SPEAKERPHONE) Lena's office is pristine, sterile and has nothing that might indicate its occupant would be brash enough to have a personality. GWEN enters. 
+Well, that's a pretty good spread of skills long-term. 
 
-#### GWEN
+#### LEVI
 
-You wanted to see me? 
+We don't know what the others can do yet - we need to figure out how to wake up them up before we can consider long term. 
 
-#### LENA
+#### MIRA
 
-Yes, Gwen. Please sit down. GWEN does so. It is clear from her tone she knows what to expect and has been here several times before. 
+They're safe for now. If we don't have anyone who knows how to work a stasis pod, then our immediate duty is to report to the Commander. 
 
-#### GWEN
+#### ZACK
 
-Another "performance review"? Can we make it a bit quicker this time? 
+Yeah, chances are they'll know what to do next. 
 
-##### [24]
+#### LEVI
 
+I'm not leaving until we figure out how to get the others out. 
 
+#### MIRA
 
-#### LENA
+And how do you propose to do that? 
 
-You're aware you are significantly behind your caseload? 
+#### LEVI
 
-#### GWEN
+Well, ours activated automatically. Maybe we just need to trigger the right sequence. You and Riley have some technical know-how, maybe you canMIRA Hang on. Where is Riley? 
 
-Because I'm actually trying to process them correctly. You can have it right or you can have it fast. 
+#### LUNA
 
-#### LENA
+I think they snuck off. 
 
-Regardless, that's not what I wanted to talk to you about. 
+#### LEVI
 
-#### GWEN
+Probably exploring. I say let them have some space. They're having a difficult time of it as well. 
 
-I see. So what else have I done wrong, then? 
+#### MIRA
 
-#### LENA
+We're all having a difficult time. 
 
-Last night. At Teddy's leaving party"Party" 
+#### ZACK
 
-#### GWEN
+Ok, then maybe let's you and me have a look at this pod. 
 
-Beat. The room gets a little colder. 
+#### MIRA
 
-#### LENA
+Fine. 
 
-Last night at Teddy's leaving event you were openly disrespectful towards me in front of the new hire. This is not acceptable. 
+#### 3. INT. THE CORRIDOR OUTSIDE THE AWAKENING CHAMBER.
 
-#### GWEN
+RILEY is exploring. They have not yet strayed far from the room where they woke up, but they are curious. The awakening chamber made some small attempt at comfort (though now decayed and broken), but out here the space more industrial. Riley continues to step forward, footsteps uncertain. They pick up a broken device of some sort and examine it. 
 
-Seriously? You're calling me in here because I backtalked you in front of the new guy? 
+#### RILEY
 
-#### LENA
+Hm. They tinker with it for a few moments. There is small whirr as it starts to activate. 
 
-I'm well aware you dislike me, Gwen, and that's entirely your prerogative but I am still your manager and undercutting my authority in front of a new team member is deeply inappropriate. 
+#### RILEY
 
-##### [25]
+Hah! Got it. The whirr stops abruptly, cut off by a clunk, futz and brief sparking. 
 
+#### RILEY
 
+Shit. Riley discards the device and continues exploring. In the distance, there is a strange discordant WHISTLE, almost too soft here. Riley stops. Listens. The whistle comes again. It is unnerving, not quite musical and faintly organic. 
 
-#### GWEN
+#### RILEY
 
-(Standing) Understood. Now if that's allLENA It's not. Sit down. Gwen sighs and sits. 
+Hello? Silence. Riley moves forward. Something is dripping. 
 
-#### LENA CONT.
+#### RILEY
 
-If you hate working here so completely, you are perfectly within your rights to resign. No one is forcing you to stay here. 
+Hello? Is there- Urgh! We here a squelch as their hand touches something wet and biological on the wall. Some sort of slime or residue. 
 
-#### GWEN
+#### RILEY
 
-You'd like that, wouldn't you? 
+The fuck...? From the doorway to the room behind them, LEVI calls to them. 
 
-#### LENA
+#### LEVI
 
-Honestly, it more or less balances out. You are difficult to manage, but hiring new staff is always something of a pain. Beat. 
+(calling) Riley! 
 
-#### LENA CONT.
+#### RILEY
 
-What do you actually want, Gwen? Your job. 
+(calling back) Yeah, Levi! I'm here! Levi approaches. 
 
-#### GWEN
+#### LEVI
 
-Beat. 
+You ok? 
 
-#### LENA
+#### RILEY
 
-You think you could do it better? 
+Yeah... 
 
-#### GWEN
+#### LEVI
 
-I do. 
+You wandered off. 
 
-#### LENA
+#### RILEY
 
-Hmmm. I've always known you thought you were slumming it down here, but I never actually considered you might think of this as the first step of a career. Most people simply move on within 12 months or so. 
+I didn't- I just wasn't sure what I could do back there. Thought I'd see what the rest of the station's like. 
 
-##### [26]
+#### LEVI
 
+And? 
 
+#### RILEY
 
-#### GWEN
+Broken. Same as the room. Same as the pods. I really don't like this. 
 
-I'm not most people. There is a pause as LENA considers this. No. 
+#### LEVI
 
-#### LENA
+Want to know a secret? Neither do I. None of this feels right, does it? 
 
+#### RILEY
 
+No. The whistle comes again. 
 
-#### GWEN
+#### RILEY
 
-No? 
+What is that noise? 
 
-#### LENA
+#### LEVI
 
-No. Unfortunately, I know what climbing this particular ladder entails, and you don't have what it takes. 
+Hm? What? 
 
-#### GWEN
+#### RILEY
 
-Surprise, surprise. 
+It's like a whistling. 
 
-#### LENA
+#### LEVI
 
-I'm sorry to put it so bluntly, but I really do fear your ambition is misplaced here. 
+I didn't- Just now? 
 
-#### GWEN
+#### RILEY
 
-(leaving) Mmhm. Well, good talk as always. Excellent use of my time. Let me know if you have any other gems of wisdom you want to spit in my face. 
+Uh-huh. 
 
-#### LENA
+#### LEVI
 
-Gwen, that's- [exactly the kind of attitude...] Gwen is already out the door and slams it behind her. LENA sighs. 
+Maybe one of the station systems? 
 
-#### 6. INT. OIAR BREAK ROOM- NIGHT, RAINING -- (CCTV).
+#### RILEY
 
-COLIN is sat in the corner, grimly drinking a cup of tea. SAM enters and heads over to the coffee machine. 
+Yeah. Maybe. And what's this? Levi considers. 
 
-#### SAM
+#### LEVI
 
-Hey! Colin, wasn't it? 
+Slime? I guess? 
 
-##### [27]
+#### RILEY
 
-COLIN grunts an affirmative. 
+Well, what do we do about it? 
 
-#### SAM
+#### LEVI
 
-Hey. COLIN grunts. Beat. SAM starts to make his coffee 
+We don't touch it and worry about it later. We can explore properly when we're all together. We shouldn't wander off alone just now, OK? Riley is still preoccupied with the slime. 
 
-#### SAM
+#### LEVI
 
-So. How's the app going? 
+And stop touching that slime! 
 
-#### COLIN
+#### 4. INT. THE AWAKENING ROOM
 
-(Immediately furious) So that's it, is it? Lena's hired another smart-mouthed prick to just piss around and cause problems? 
+Mira stands next to one of the unopened pods, messing with the controls. There are periodic 'EEEEHHHH' error noises as she attempts various solutions. Luna watches, curious. Another error noise. 
 
-#### SAM
+#### MIRA
 
-Wow, okayCOLIN I already have to explain to some chinless inbred politician that we're running on something as old as the goddamn Atari Falcon, now I've got some green little smartarse giving me lip for it too? Well you can take your funny little lines and shove them upSAM Alice told me to say it! Okay? It was Alice. I have literally no context for this. At all. Oh. 
+Damn it! She kicks the pod in frustration. Another error noise. 
 
-#### COLIN
+#### LUNA
 
+Is there anything I can do to help? 
 
+#### MIRA
 
-#### SAM
+Do you know anything about these stasis systems? 
 
-I said you seemed kinda scary and I didn't know how to say hi, so she said to ask about the app. 
+#### LUNA
 
-#### COLIN
+No. Right now I don't really know anything at all. 
 
-'Course she did. Well, tell Alice it was funny. Yeah. 
+#### MIRA
 
-##### [28]
+Then unless we want to try and force the pods open... Urgh! Another error noise. 
 
-COLIN makes a noise that is probably meant to be a laugh. Awkward beat. Scary? 
+#### LUNA
 
-#### COLIN CONT.
+How long have they- Have we been in there? 
 
+#### MIRA
 
+I don't know. I can't get access to the time logs. A long time. 
 
-#### SAM
+#### LUNA
 
-A bit, yeah. Huh. 
+Years? Mira exhales. 
 
-#### COLIN
+#### MIRA
 
+A long time. Not much point to a place like this if it activates as anything other than a last resort. 
 
+#### LUNA
 
-#### SAM
+Where were we before? Before what? 
 
-So like, how is it going? Beat. 
+#### MIRA
 
-#### COLIN
 
-Mate, I've been banging my head against this system for almost two years and I've got nothing beyond a bug list as long my arm. 
 
-#### SAM
+#### LUNA
 
-So not great then? 
+Before here. 
 
-#### COLIN
+#### MIRA
 
-'Bout a year ago I figured out it was written with some kind of propriety German source code, so you know what I did? 
+We weren't. We were made, or... more like... grown here and stored for whenWell, I don't know exactly what's happened out there but if we're awake, we're probably all that's left. 
 
-#### SAM
+#### LUNA
+
+All that's left of what? 
+
+#### MIRA
+
+Civilisation. We're a sort of... last resort. For humanity. If something really catastrophic happened. You really don't remember any of this? 
+
+#### LUNA
+
+Maybe. It sounds familiar, but I can't quite reach it. 
+
+#### MIRA
+
+It's a lot to take in. Are you ok? 
+
+#### LUNA
+
+I think so. Or...I will be. (beat) So we're not real? 
+
+#### MIRA
+
+Of course we're real. Just because we've been made with a purpose doesn't mean we're not real. ZACK walks up holding a pair of bottles. 
+
+#### ZACK
+
+Hey, great news! I found one of the storage cupboards and it's still stocked with water. Here. He gives one to each of them. Thanks. 
+
+#### MIRA
+
+They take a drink. 
+
+#### MIRA
+
+What's the state of the supplies? Are they still in decent condition. 
+
+#### ZACK
+
+There's a lot missing. 
+
+#### MIRA
+
+That doesn't make sense. Who else would have taken them? It doesn'tThere is a sparking from the controls Mira was just working on. Machinery starts to go wrong. 
+
+#### MIRA
+
+Shit, the pod. One second. She hops over and starts trying to fix the problem, but it seems to be escalating. There are further error sounds as she starts pressing buttons. 
+
+#### LUNA
+
+Mira, is everything alright? 
+
+#### MIRA
+
+I don't know. Zack, can you check on the woman inside? 
+
+#### ZACK
+
+Yeah, she looksThere is a popping sound, followed by the noise of something igniting. 
+
+#### ZACK
+
+Mira, look out! 
+
+#### MIRA
+
+I'm looking out! Everyone get back! An alarm begins to sound from somewhere. 
+
+#### COMPUTER
+
+Please stand away from the doors. Fireproof bulkhead doors slam down, sealing the room off. The fire is spreading quickly. 
+
+#### MIRA
+
+What the hell? 
+
+#### ZACK
+
+I think we're sealed in! 
+
+#### COMPUTER
+
+Fire suppression system unresponsive. 
+
+#### ZACK
+
+Seriously? 
+
+#### LUNA
+
+Nothing in here works. 
+
+#### COMPUTER
+
+Possible fire containment breach. Preparing full oxygen vent. Please evacuate chamber. 
+
+#### ZACK
+
+(to computer voice) How can we evacuate when you've sealed the doors?! 
+
+#### MIRA
+
+Then we'd better get them open. And fast. 
+
+#### 5. INT. THE CORRIDOR OUTSIDE
+
+LEVI and RILEY are walking back towards the awakening room. An alarm starts to blare. 
+
+#### RILEY
+
+What's that? The bulkhead door in front of them slams closed. 
+
+#### RILEY
+
+Levi! 
+
+#### LEVI
+
+I see it. Levi bangs on the metal of the door. 
+
+#### LEVI
+
+Hey! Hey open up! Everything ok in there? There is no response. 
+
+#### RILEY
+
+Do you think they did it on purpose? 
+
+#### LEVI
+
+No, probably something to do with the alarm. 
+
+#### RILEY
+
+What's happened? Do you think it was a hull breach or something? 
+
+#### LEVI
+
+No, no way they'd put a room like this close enough to the outer hull for that. Maybe a leak? He bangs on the door again, frustrated rather than expectant. 
+
+#### LEVI
+
+We're got to get back in there! 
+
+#### RILEY
+
+Hang on, I think there's... Ah! They pop open a panel next to the door, and push a button on the intercom inside. 
+
+#### RILEY
+
+Hello? Can anyone here us? Hello? There's no response. Try again. 
+
+#### LEVI
+
+
+
+#### RILEY
+
+Hello? Zack? MirLuna's voice comes over the intercom. It's crackly and slightly distorted. 
+
+#### LUNA
+
+(intercom) Riley! Where are you? 
+
+#### LEVI
+
+We're outside the door. It just slammed shut. 
+
+#### RILEY
+
+What's going on? 
+
+#### LUNA
+
+(intercom) Something went wrong with one of the pods. Fire's spreading everywhere. 
+
+#### LEVI
+
+(to Riley) Did you catch that? 
+
+#### RILEY
+
+(to Levi) Something about a fire. 
+
+#### LEVI
+
+(into the intercom) Did you say a fire? Can you get it under control? 
+
+#### ZACK
+
+(intercom) It's spreading really quickly. The computer's going to vent the oxygen. 
+
+#### LEVI
+
+Zack? That you? Is anyone hurt? 
+
+#### RILEY
+
+Did he say something about Oxygen. 
+
+#### LUNA
+
+(intercom, heavy crackling) We need to get the door open. Mira's trying to get the controls working. 
+
+#### LEVI
+
+What about the others? The pods that are still asleep? Have you been able to get to any of them? There is no response. Levi and Riley try the buttons a few more times, but there's no more response from the intercom. It's dead. 
+
+#### RILEY
+
+6. INT. THE AWAKENING ROOM (AFLAME) Luna and Zack are standing over the intercom next to the sealed door. Mira has managed to remove an access panel and is leaning into the maintenance space, trying to find an override. Behind them, the fire is spreading, with machinery sparking and burning. 
+
+#### LUNA
+
+Levi? Riley? They're gone. Mira, have you found anything in there? 
+
+#### MIRA
+
+I'm trying. There's not much light in here. 
+
+#### ZACK
+
+Any idea how long untilCOMPUTER Oxygen override in five minutes. Please evacuate chamber. 
+
+#### ZACK
+
+Right. 
+
+#### MIRA
+
+I don't have the equipment for this, and the whole system seems to have locked up. Any thoughts, Zack? 
+
+#### ZACK
+
+Well, with the materials and chemicals stored in this room the smoke is probably going to be pretty toxic... 
+
+#### MIRA
+
+Try not to breath. Got it. 
+
+#### LUNA
+
+That's not going to be problem in a few minutes. 
+
+#### ZACK
+
+Can we turn off the emergency venting? 
+
+#### MIRA
+
+I wouldn't know where to start. The door's a better option. 
+
+#### ZACK
+
+What about the others? 
+
+#### MIRA
+
+We can't help them if we're also dead. 
+
+#### LUNA
+
+Can we force the door open somehow? 
+
+#### MIRA
+
+It's completely sealed and not designed to be opened manually. I have to do it through the system. 
+
+#### ZACK
+
+You said the system was fried. 
+
+#### MIRA
+
+It managed to seal us in here, so it must be able to let us out again, if I canElectric sparks buzz, indicating that she, in fact, can't. Ow! Shit! 
+
+#### MIRA
+
+
+
+#### LUNA
+
+What happened? 
+
+#### ZACK
+
+Are you hurt? 
+
+#### MIRA
+
+I'm fine. Just give me a moment to focus. The fumes are getting thicker. The three of them are starting to cough and struggle slightly more to breath/speak. 
+
+#### LUNA
+
+(to Zack) Look, maybe we can lift it if we get a bit of purchase. 
+
+#### ZACK
+
+I think there are hydraulics keeping it in place. 
+
+#### LUNA
+
+Mira, can you break the hydraulics? 
+
+#### MIRA
 
 What? 
 
-#### COLIN
+#### LUNA
 
-I learned German. But do you think it helped? At all? Nein? Nein. 
+You said you can't fix it -- can you break it more? I can try. 
 
-#### SAM
+#### MIRA
 
+Mira moves around in the access hatch, there's a fttz and chnnk as something breaks. The door unseals, lifting a centimetre or so as the hydraulic seal breaks. 
 
+#### LUNA
 
-#### COLIN
+There! I think I can- Zack give me a hand. Luna and Zack strain to lift the heavy door. It moves slowly. Through the gap underneath, Levi and Riley can now be heard. 
 
+#### RILEY
 
+It's moving! 
 
-#### SAM
+#### LEVI
 
-Well... At least it'll help if you ever go to Germany? 
+I see them! (through/under the door) Are you alright? 
 
-##### [29]
+#### ZACK
 
-Beat. 
+We're OK, but we can't get outLUNA Help us lift this door. Levi and Riley help to lift the door, which starts to move a little faster. The flames get louder as a rush of new air enters the room. 
 
-#### COLIN
+#### LEVI
 
-Why would going to Germany help? 
+Where's Mira? I'm here. 
 
-#### SAM
+#### MIRA
 
-I don't- no I meant like, as a Holiday? 
+Mira moves to the door and helps to lift. It creaks as it moves just high enough to duck through. 
 
-#### COLIN
+#### LUNA
 
-A holiday? 
+I've got it -- you two head under. You sure? 
 
-#### SAM
+#### MIRA
 
-Yeah, like time off? I hear they have good... sausages? 
 
-#### COLIN
 
-I'm a vegetarian. Right. 
+#### LUNA
 
-#### SAM
+Yeah, I thinkCOMPUTER Oxygen vent initiated. 
 
-Awkward Pause. Sam finishes preparing his coffee. 
+#### ZACK
 
-#### SAM CONT.
+What?! You said we had five minutes! 
 
-Well, this was great an' all but I should get back to it. 
+#### LUNA
 
-#### COLIN
+Go! Mira and Zack duck under the door as machinery starts to whirr... then sputter an die. Come on! 
 
-Sure thing. Good luck mate. SAM starts to leave. 
+#### LEVI
 
-#### COLIN
+Luna lets go of the door and the door starts to fall. The others cry out in effort as they catch it. 
 
-Tell Alice I laughed. ...sure. 
+#### RILEY
 
-#### 7.
+(strained) Come on. 
 
+#### LUNA
 
+Clear! They release the door and it slams shut. 
 
-#### SAM
+#### MIRA
 
+What happened in there? 
 
+#### LUNA
 
-#### INT. OIAR MAIN OFFICE- NIGHT, RAINING -- (COMPUTER).
+I don't know. It just... Nothing happened. 
 
-SAM gently taps on the keyboard occasionally giving a perturbed mutter as he tries to input scores. 
+#### RILEY
 
-#### GWEN
+Everything's broken. 
 
-You met Colin, then? 
+#### MIRA
 
-#### SAM
+So the fire's still going? 
 
+#### LEVI
 
+What about the others? The ones still asleep? 
 
-##### [30]
+#### MIRA
 
-Yeah. He's, uh... 
+I'm sorry, Levi, but there's nothing we can do. 
 
-#### GWEN
+#### LEVI
 
-A grumpy weirdo? 
+No, we can't just let themMIRA If we open up the door again the fire could spread to the rest of the station. And that would be really, really bad. 
 
-#### SAM
+#### LEVI
 
-I don't know. I think he's having a bad night. 
+Maybe we could go back, fight the fire. 
 
-#### GWEN
+#### MINA
 
-Then it's a night that's lasted since he got here. I'd ignore him. Alice is the only one he tolerates. God knows why. Right. 
+With what? I didn't see any extinguishers in there... There was barely any water. 
 
-#### SAM
+#### LEVI
 
-Pause. Some more typing. 
+There must be a systemRILEY (repeating) Everything's broken. A pause. 
 
-#### GWEN
+#### ZACK
 
-So you and Alice go back? 
+Mira's right. Even if we could stop it, the fire's caused too much damage by now. Anyone still in their pod is probably already dead. 
 
-#### SAM
+#### LEVI
 
-Yeah, we knew each other at uni. 
+It can't just be us. This isn't how it's supposed to be. 
 
-#### GWEN
+#### ZACK
 
-That how she tricked you into working here? 
+I'm sorry, Levi. 
 
-#### SAM
+#### MIRA
 
-To be fair, she did say the office vibes were- uh- "a bit bleak". 
+We need to seal off this area and get to the Commander. Something's obviously not right here and we need to check in. 
 
-#### GWEN
+#### ...OK.
 
-That's one way to put it, I guess. So how did you end up here? You don't seem like the usual hopeless wasters Lena hires. 
 
-#### SAM
 
-Heh. Maybe I'm just better at hiding it? 
+#### LEVI
 
-#### GWEN
+He takes a moment to steel himself. 
 
-You know how to work a keyboard, so you're already better than most of them. 
+#### LEVI
 
-##### [31]
+Come on, then. First priority is making sure the fire's contained. Then we need to find some food and water. Then we can look for the Commander. Agreed? 
 
+#### MIRA
 
+Agreed. 
 
-#### SAM
+#### RILEY
 
-Ha. Pause. More typing. 
+There's a doorway through the corridor not far from here -- maybe we can seal it, if we need to block this section off. 
 
-#### GWEN
+#### LEVI
 
-So what is it then? 
+Right, then. Let's go. Maybe then we can figure out what's going on. 
 
-#### SAM
+#### LUNA
 
-Hmm? 
-
-#### GWEN
-
-The awful, terrible thing that landed you here? 
-
-#### SAM
-
-Does it have to be awful and terrible? Usually. 
-
-#### GWEN
-
-
-
-#### SAM
-
-Maybe I just like creepy monotonous data entry instead of sleeping at home? 
-
-#### GWEN
-
-Maybe. Beat. 
-
-#### SAM
-
-Honestly? I'm just trying to get back on my feet. You? Beat. 
-
-#### GWEN
-
-None of your business. 
-
-#### SAM
-
-Now hang onHe hits a key and CHESTER's voice starts to speak from the computer. 
-
-#### CHESTER
-
-(computer) 
-
-##### [32]
-
-Forums.lostcityurbex.com Board index. Spelunking. Sites. New topic: Magnus Institute Ruins By RedCanary on Sunday April 10. 2022. 3:31pm 
-
-#### SAM
-
-(speaking over) Eurgh never mind. Got another talking one... 
-
-#### 8. CYBERSPACE
-
-CHESTER(computer) Anyone know what the deal is with the Magnus Institute? Recently moved back to Manchester and I've been keen to keep up my spelunking, so was looking at the lists here of good sites to check out. There's some great ones one there (I have got to check out the old Hippodrome at some point!), but I'm a bit confused about the Magnus Institute. It's listed under "cleared", but there's no pictures or info. I get that it's useful to have a way of saying a place has been explored to death, but usually when that's the case there's at least a few photos that can be found online. Is it worth me checking out? It's only a half hour from me, but I don't want to bother if it's genuinely a solved site and there's nothing there worth seeing. Re: Magnus Institute Ruins By BadGrav31 on Sunday April 10 2022 4:51pm Not sure. I don't think ArcherK has updated those lists in a 
-
-##### [33]
-
-while. Don't remember it, though. I say go for it -- if there aren't any pictures about, seems like a good reason to see for yourself. Re: Magnus Institute Ruins By ArcherK on Monday April 11 2022 1:27am I do update them when people send me through stuff, but it doesn't happen all that often. I'm mainly just adding stuff to Devan's old lists from when he left. I don't know why he put the Magnus Institute on the Cleared list. Never really thought about it. Maybe it's been a self-fulfilling thing, and no one's been checking it out because it was put on there by accident. Re: Magnus Institute Ruins By RedCanary on Monday April 11 2022 12:39pm Thanks guys -- think I might check it out after all! Re: Magnus Institute Ruins By ArcherK on Monday April 11 2022 11:13pm Awesome! Look forward to reading the report! Re: Magnus Institute Ruins By RedCanary on Wednesday April 20 2022 12:10am Just got back. Definitely not cleared. Really weird place. Kinda cool. But. Really weird. Full report tomorrow. Re: Magnus Institute Ruins 
-
-##### [34]
-
-By FlowersUnderground on Friday April 22 2022 4:07pm Any news on this? Really keen to see some pictures. Re: Magnus Institute Ruins By RedCanary on Friday April 22 2022 6:33pm Sorry, yeah, that's the problem. Having a really tough time actually uploading any of the pictures I took. Plus not been feeling super well. Forgot how weirdly paranoid I can get after spelunking. But yeah, the building's an odd one. Looks like it hasn't been touched since the fire, and that was, what, 20 years ago? Structure itself is in pretty good shape -- a lot of damage and scorching, plus the third floor is pretty much gone, but the rest of the building is safe enough. There was one spot where my foot went through the floor, but tbh that was mostly me being careless. It's got a really cool vibe, though. Like, if you'd told me it was a Victorian asylum or something before the fire I reckon I'd have believed you. Lost of austere old furnishings that are still in decent nick, and a bunch of offices like little cells. Kept getting this sense like doors were going to slam shut and lock behind me, even though half the frames didn't even have actual doors left in them. Big surprise was no old papers. I mean, they'd be mulch by now, obviously, but all the old filing cabinets were still rusting in 
-
-##### [35]
-
-place, and there was clearly what used to be a massive library or archive or something in the first basement layer. Was really expecting a bunch of paper pulp, but there wasn't really any. Maybe that's why it was listed as "cleared"? Also, I don't know how to describe it really, but there was a bunch of old graffiti. I don't mean tags or anything, I didn't see any tags at all, actually, and it wasn't your standard "YOUR SOUL IS FORFEIT" spooky ruins graffiti, it was like... symbols and stuff and some pretty suspicious stains on some floors. I don't really know occult or whatever, but I dunno. Felt legit in a way most of it doesn't. I know a few of you do graff stuff, so I wouldn't mind picking your brains about it later. Re: Magnus Institute Ruins By BadGrav31 on Saturday April 23 2022 11:28am Quote: I know a few of you do graff stuff... While I can neither confirm nor deny my involvement in the tagging of freight cars near Brighton, I wouldn't mind getting a look at it. Re: Magnus Institute Ruins By RedCanary on Saturday April 23 2022 12:17pm The photos from the spelunk seem properly gone, but I did find an old wooden thing with a bunch of similar symbols on. Some kinda empty box, not really sure what 
-
-##### [36]
-
-for, though. Gonna see if I can get the light right for a decent pic. Edit: No dice, I'm afraid. Must be something up with my phone camera. Really not helping the whole paranoia thing either. Anyone know anything about photographic distortion? Gonna see if I can borrow my dad's SLR tomorrow. Re: Magnus Institute Ruins By ArcherK on Saturday April 23 2022 2:24pm Quote: I did find an old wooden thing... Just to be clear, theft from explorations is not endorsed by this site, so I trust you were simply remembering something you saw, and not admitting to taking souvenirs. Re: Magnus Institute Ruins By RedCanary on Saturday April 23 2022 5:21pm Sorry. I know the rules. I'm going to go put it back, ok? So you can call off the dogs. I don't need anonymous DMs calling me a thief or threatening me. I can dox people too, you know. It's just a hobby, a bit of fun. People don't need to get all bent out of shape about it. Re: Magnus Institute Ruins By ArcherK on Saturday April 23 2022 6:01pm Quote: I don't need any more anonymous DMs... I don't know where this aggression is coming from RedCanary, but to be clear, this forum does not 
-
-##### [37]
-
-allow for direct messages to be sent anonymously, and no one is threatening to dox anyone. This is your formal warning. Re: Magnus Institute Ruins By BadGrav31 on Friday April 29 2022 1:19pm Still waiting on pics of that graffiti, if you've got them, RedCanary. Re: Magnus Institute Ruins By RedCanary on Saturday April 30 2022 2:01am 
-
-##### [Image removed by moderator]
-
-Canaries should stay above ground. Re: Magnus Institute Ruins By FlowersUnderground on Friday April 22 2022 4:07pm Gross! Can we get some Mod action over here? Re: Magnus Institute Ruins By BadGrav31 on Saturday April 30 2022 3:11am What the hell is that? Are those eyes? Are you alright? Re: Magnus Institute Ruins By ArcherK on Saturday April 30 2022 7:33am RedCanary, you have been warned, our terms forbid posting explicit images including gore. I'm sorry it's come to this, but you brought it on yourself. 
-
-##### [RedCanary has been temporarily
-
-banned] Re: Magnus Institute Ruins 
-
-##### [38]
-
-By FlowersUnderground on Friday April 22 2022 4:07pm Quote: [RedCanary has been temporarily banned] Shame. Good job mods. Re: Magnus Institute Ruins By BadGrav31 on Monday May 09 2022 7:07pm Any more word on this? Is canary still banned? Kinda worried about them after those pics. 
-
-##### [Thread locked by moderator]
-
-
-
-#### 9. INT. OIAR MAIN OFFICE- NIGHT, RAINING -- (COMPUTER).
-
-Sam sits there still, obviously shaken. Gwen stops typing. 
-
-#### GWEN
-
-Sam? You ok? 
-
-#### SAM
-
-Uh -- yeah. 
-
-#### GWEN
-
-Look, it doesn't matter to me but if you're going to stick it out here you're going to need a stronger stomach. 
-
-#### SAM
-
-What? Oh no, I'm fine it just threw me. Have you ever heard of the Magnus Institute? 
-
-#### GWEN
-
-Like from the case? No. Why? 
-
-#### SAM
-
-Nothing. Just a bit of a blast from the past, is all. ALICE approaches. 
-
-##### [39]
-
-
-
-#### ALICE
-
-How we doing over here? Clear your cases yet? 
-
-#### SAM
-
-Not quite. I had another talker. 
-
-#### ALICE
-
-I heard. Sounds like you met Chester. 
-
-#### GWEN
-
-Must you name them? 
-
-#### ALICE
-
-I don't name them. The universe names them. Through me. 
-
-#### GWEN
-
-It's a bad name. 
-
-#### ALICE
-
-So's Gwendolyn. Anyway, it's your first night, so I'm sure Lena will let you catch up tomorrow. 
-
-#### GWEN
-
-Because Lena is so very understanding. 
-
-#### SAM
-
-No it's fine, I can probably push on. Beat. 
-
-#### ALICE
-
-Alright. You are looking a little pale though, so don't overdo it. We're not really monitored with breaks, so if you need to step away after a bad one, that's fine. Just don't fall too far behind or anything. Sure. 
-
-#### SAM
-
-
-
-##### [40]
-
-
-
-#### ALICE
-
-Ping me when you're done. I'll have a pint waiting. 
-
-#### SAM
-
-At six thirty in the morning? 
-
-#### ALICE
-
-I'll send you the address. 
-
-#### 10. INT. A QUIET PUB- MORNING, LIGHT RAIN -- (ALICE'S
-
-
-
-#### PHONE).
-
-ALICE plonks a beer down in front of SAM. 
-
-#### ALICE
-
-To the first day of the rest of your nights! 
-
-#### SAM
-
-(exhausted) Cheers. 
-
-#### ALICE
-
-Was it really that bad? 
-
-#### SAM
-
-No worse than you warned me. Although setting me up like that with the IT guy wasALICE Hilarious, I know. It's win-win you get a job, I get a fresh victim. It's all in your contract. 
-
-#### SAM
-
-Don't remember signing that particular bit of the paperwork. 
-
-#### ALICE
-
-Gotta read the fine print, kiddo. Sam takes a sip of his drink. 
-
-#### SAM
-
-I didn't even know pubs opened this early. 
-
-##### [41]
-
-
-
-#### ALICE
-
-Six am to nine am. It's mostly for market traders who set up in the wee hours but there are a few of us nightwalkers who frequent. Cosy, innit? 
-
-#### SAM
-
-It's not bad. Another tired sip. 
-
-#### SAM
-
-Thanks, by the way. 
-
-#### ALICE
-
-It's fine, next one's on you though. 
-
-#### SAM
-
-No, I mean for the job. I don't know if I've actually said it. Thanks for this. 
-
-#### ALICE
-
-Don't worry about it. It's not really the sort of job I'd expect to be thanked for hooking you up with. 
-
-#### SAM
-
-It's something to focus on. And I need that right now. 
-
-#### ALICE
-
-And it's not too awkward working with an ex? 
-
-#### SAM
-
-Only if she won't stop bullying me. 
-
-#### ALICE
-
-Ah. Guess it'll always be awkward then.. SAM snorts goodnaturedly. Beat. They drink. 
-
-##### [42]
-
-Alice... Yeah? 
-
-#### SAM
-
-
-
-#### ALICE
-
-
-
-#### SAM
-
-These cases... 
-
-#### ALICE
-
-(Sighing) Yeah. 
-
-#### SAM
-
-Do you- Is there- What's up with them? You think they're real? Beat. Alice exhales. 
-
-#### ALICE
-
-I don't see how they could be? Mostly I try not to think of them like that, like, things that might or might not have really happened. They're just words on the screen. 
-
-#### SAM
-
-I've no real idea what the OIAR even is. 
-
-#### ALICE
-
-You and everyone else. I've checked and there's not really much info on it. My current working theory is that maybe it got set up in the 70s, back when everyone was off their tits on LSD and giving ghost-hunters massive grants to wave crystals in graveyards. I reckon at some point they must have put together a small government department to, like, oversee the spending and monitor this stuff and no-one's noticed it's still going. 
-
-#### SAM
-
-Makes sense. 
-
-##### [43]
-
-
-
-#### ALICE
-
-As long as you don't pay too much attention. Beat. 
-
-#### ALICE CONT.
-
-Try not to dwell on it. Besides, it's worth the paycheck, right? Yeah. 
-
-#### SAM
-
-
-
-#### ALICE
-
-And a Civil Service pension... 
-
-#### SAM
-
-True. I could be cleaning toilets. 
-
-#### ALICE
-
-You wish. Cleaning toilets actually helps people. Besides, you wouldn't last a night. Stick with scoring horrors until you hit the gym and fix your noodle arms. 
-
-#### SAM
-
-Noodle arms? 
-
-#### ALICE
-
-Just a pair of waggling vermicellis. Surprised you can lift that pint. 
-
-#### SAM
-
-Well thank goodness you helped me get this night job to help with my health. 
-
-#### ALICE
-
-(singsong) What can I say? I'm the patron saint of cute wimps. SAM raises his glass. 
-
-#### SAM
-
-To new beginnings. 
-
-##### [44]
-
-
-
-#### ALICE
-
-With old friends. They clink their glasses together. The recording cuts off abruptly. 10. INT. OIAR MAIN OFFICE. MORNING. RAINING (COMPUTER) The office is quiet as the computer boots up again. Someone is searching through desks. There is a slightly frenzied desperation to it. There is a pause, as the figure spots the activated terminal. They move through the office towards it. The voice reveals it to be COLIN. 
-
-#### COLIN
-
-(slightly manic) You're not as clever as you think you are. You think you've got us all fooled, that no-one knows you're listening, But I do. I know. I'm going to find you and then... COLIN turns the computer off. 
-
-##### [45]
-
+And what happened to everyone else. They begin to head down the corridor. Their steps echoing off cold metal. In the distance, a whistling is heard. 

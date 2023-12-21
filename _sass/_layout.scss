@@ -6,16 +6,22 @@
     color: $dark-text-color;
     .muted { color: $dark-muted-text-color; }
 
-    h1, h4 { color: $dark-highlight-text-color; }
-    h5 { color: $dark-muted-text-color; }
+    h1, h4 { color: $dark-highlight-text-color !important; }
+    h5 { color: $dark-muted-text-color !important; }
     blockquote {
         background-color: $dark-highlight-bg-color;
     }
     .post-header, .post-footer, .site-header-linkbar {
         background: $dark-highlight-bg-color !important;
-        color:      $dark-highlight-text-color;
+        color:      $dark-highlight-text-color !important;
+        .post-nav a {
+            color: $dark-text-color !important;
+        }
         .post-flags {
             border: 1px dotted $dark-highlight-text-color;
+        }
+        span a {
+            color: $dark-brand-color;
         }
     }
     table.toc-table {
@@ -27,6 +33,10 @@
         td.ep-number a, td.ep-date a { 
             color: $dark-muted-text-color;
         }
+    }
+    %page-title {
+        color:         $dark-brand-color; 
+        a { color:     $dark-brand-color; }
     }
     ul#search-results {
         li:nth-child(odd){ background: $dark-highlight-bg-color; }
@@ -237,7 +247,7 @@ div#cookie-warning {
     }
     .post-header {
         text-align:     center;
-        color:          $grey-color;
+        color:          $grey-color-dark;
         background:     $highlight-bg-color;
         padding:        $spacing-unit 0;
         margin:         0 0 $spacing-unit;
@@ -249,7 +259,7 @@ div#cookie-warning {
         .post-subtitle {
             font-family:     $font-family-monospace;
             font-size:       120%; 
-            color:           $grey-color-light; 
+            color:           $grey-color; 
             display:         flex;
             justify-content: center;
             margin:          $spacing-unit/2 0 0;
@@ -302,10 +312,7 @@ div#cookie-warning {
                 text-align: left;
             }
         }
-        
-        .post-summary {
 
-        }
         .post-flags {
             background:     $dark-highlight-bg-color;
             color:          $dark-highlight-text-color;
