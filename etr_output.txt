@@ -1,1141 +1,853 @@
-Of That Colossal Wreck -- Episode 1 written by Sasha Sienna & Jonathan Sims 
+Of That Colossal Wreck -- Episode 3 written by Sasha Sienna & Jonathan Sims 
 
-#### 1.
+#### 1. INT. ANOTHER BROKEN AWAKENING ROOM
 
-
-
-#### INT. DEEP WITHIN THE DORMANT OZYMANDIAS SPACE STATION. A DEEP
-
-
-
-#### THRUM CONTINUES FOR JUST A LITTLE LONGER THAN IS COMFORTABLE.
-
-There is an electric whirr and a heavy, mechanical KA-CHUNK as long sleeping systems activate. We hear a soundscape of heavy, old machinery working not entirely as intended. Gears grind against each other as large suspended animation pods are lifted up and slotted into place on a conveyor system. A pod door opens with a depressurising hiss. From it, LUNA stumbles a few steps and collapses onto the cold metal floor. 
+There is the ever-present hum of the station, but it's quieter here, a little bit more broken and stuttering. Then there is a low, long whistle, and we hear the awful sounds of a WHISTLER moving through the room. It is going slowly, deliberately. It is on the hunt for something. LUNA and LEVI are hiding behind a busted stasis pod. They are doing their best not to breathe, but we can hear them start to panic slightly as the thing gets closer. Closer. 
 
 #### LUNA
 
-Help... Help. Gradually, four more pods open and first LEVI, then MIRA and ZACK, and finally RILEY all make their way out of their pods. 
+(Whispered) Levi... Levi shushes her. There is a long, tense moment. Then from somewhere outside the room another whistle comes, then another. The creature hunting them raises itself up, lets out an answering whistle, then begins to move, the sounds of its cracking chitinous joints getting softer as it leaves the room and disappears. Luna and Levi exhale. 
 
 #### LEVI
 
-Is everyone ok? 
-
-#### RILEY
-
-Over here! Someone's hurt! 
-
-#### ZACK
-
-Hi there, can you tell me your name? 
+You alright? 
 
 #### LUNA
 
-Luna. 
-
-#### ZACK
-
-Nice to meet you, Luna. I'm Zack. Are you hurt anywhere? 
-
-#### LUNA
-
-No... It's really cold. 
-
-#### ZACK
-
-Hm, I think there should be some blankets around here somewhere. 
-
-#### MIRA
-
-Are you a doctor? 
-
-#### ZACK
-
-Er... Yeah. I think I must be. 
+Yeah, I think so. Once my heart stops racing. You? 
 
 #### LEVI
 
-(to RILEY and MIRA) Come on, let's leave them to it. 
-
-#### MIRA
-
-We need to check the other pods anyway. They leave to check the pods elsewhere in the room. 
+Few cuts, but I'll live. Someone oughta sweep up all this broken glass. It's almost a joke, but he can't bring himself to laugh. 
 
 #### LUNA
 
-Where am I? What's going on? I can't think... 
-
-#### ZACK
-
-It's ok. This happens sometimes. Waking up can have a really disorientating effect. It should start to fade in a few hours. 
-
-#### LUNA
-
-You've seen his before? 
-
-#### ZACK
-
-Well, technically I haven't seen anything before. But I remember doing it plenty. What about you? 
-
-#### LUNA
-
-I don't know. My memories don't make sense. I'm planting seeds. Making clouds. Or... I remember a laboratory. Was I a farmer? Or, no, I used to work with geology? It's all a mess. 
-
-#### ZACK
-
-It's ok, they should start to straighten out soon. Not exactly surprising the wake-up can leave you jumbled. Being born is hard enough when you do it as a baby! What? 
-
-#### LUNA
-
-
-
-#### ZACK
-
-Sorry. Bad joke. 
-
-#### LUNA
-
-It feels like they're not my memories. 
-
-#### ZACK
-
-No, not originally. But they're yours now. 
-
-#### LUNA
-
-I don't know if I like that. Zack doesn't know what to say to this. 
-
-#### ZACK
-
-Hang on, I'll see if I can find you one of those blankets. 
-
-#### 2. INT. ELSEWHERE IN THE AWAKENING ROOM
-
-
-
-#### RILEY
-
-So how do we open all these? 
+What was that thing? 
 
 #### LEVI
 
-They're supposed to open automatically, like ours. We should wait for Zack before we do anything that might interfere with the stasis procedure. 
+Things. And I've no idea. Don't suppose you saw where the others ended up? 
 
-#### MIRA
+#### LUNA
 
-We don't know how long he'll be. That confused woman mightLEVI Her name's Luna. 
-
-#### MIRA
-
-Of course. 
+I think we got separated in that big generator room. 
 
 #### LEVI
 
-I'm Levi, by the way. Good to meet you both. 
+Shit. There were a bunch of them in there. 
 
-#### RILEY
+#### LUNA
 
-Right! Yes. I'm Riley. 
-
-#### MIRA
-
-Mira. Anyway, we should see what we can do about these pods ourselves. 
-
-#### LEVI
-
-Do you know anything about stasis tech? 
-
-#### MIRA
-
-Well, this software interface is familiar, so... Mira taps the screen a few times. 
-
-#### MIRA
-
-...But I've no frame of reference for the read-outs. There's definitely someone inside, and I think the stasis field is active. 
-
-#### RILEY
-
-Guess your skills are more software than wetware. 
-
-#### MIRA
-
-Seems so. (calling over) Doct- Zack, can you have a look at this please? Zack jogs over to the pod that the others are looking at. 
-
-#### ZACK
-
-Yes, how can I help? I found some blankets, by the way, if anyone'sMIRA Perhaps later. Can you determine if this person is still alive? 
-
-#### LEVI
-
-There's no reason to think they're dead, Mira. That's just what suspended animation look like. 
-
-#### MIRA
-
-None of us have ever done this before. It's at least worth having someone with medical knowledge check them out. 
-
-#### RILEY
-
-So, what do we do if they're dead? Zack examines the pod, tapping at the controls on the side, which make an 'EEEHHHH' error sound. 
-
-#### ZACK
-
-Looks like the terminal's not fully working. There's not really any way to tell without opening it up. Sleep and death are, wellMIRA I understand, thank you. 
-
-#### LEVI
-
-No need to be rude. 
-
-#### MIRA
-
-I'm not being rude. This isn't right. We're all supposed to wake up at the same time. The sooner we can figure out what's gone wrong, the better we can address it. 
-
-#### RILEY
-
-Are we sure this isn't normal? 
-
-#### MIRA
-
-Yeah, we're supposed to- It just... feels like we're all supposed to be here. 
+We should go back, the others... 
 
 #### LEVI
 
-Together. Yea, I feel that too. 
+Yeah... Yeah, just, let's take a moment first. Catch our breath. They pause, waiting for the adrenaline to fade slightly. 
+
+#### LUNA
+
+Why do you think it attacked us? 
+
+#### LEVI
+
+Because it's a huge bug thing! And that's what huge bug things do! 
+
+#### LUNA
+
+Not a bug. It only had four legs. 
+
+#### LEVI
+
+No, it's not a bug. It's not an anything! It doesn't even have a head! And those weren't "legs". Too long, too many joints. He pauses, trying to collect himself. 
+
+#### LEVI
+
+If you want an actual answer, I think it probably wants to eat us. 
+
+#### LUNA
+
+Or it was defending its territory. 
+
+#### LEVI
+
+What does it matter? 
+
+#### LUNA
+
+Nothing acts without a reason. 
+
+#### LEVI
+
+And understanding that reason isn't going to stop it eating you. In the distance, another chorus of whistles. 
+
+#### LUNA
+
+Do you think they've found the others? Beat. 
+
+#### LEVI
+
+Let's see if we can get these doors to work without Mira. We can figure out our next move once we've got some steel between us and those things. 
+
+#### 2. INT -- A LARGE, PARTIALLY BROKEN GENERATOR ROOM.
+
+ZACK and RILEY are hiding behind one of the inactive generators. Riley is trying not to panic, but is on the verge of hyperventilating. 
+
+#### RILEY
+
+(under their breath) shit, shit, shit, shit, shit, shit 
 
 #### ZACK
 
-Do we know how many of us are there supposed to be? 
-
-#### LEVI
-
-Let's see, there are about twenty pods, and space enough for, what, fifty? 
-
-#### RILEY
-
-Well, there are five of us. 
-
-#### LEVI
-
-More once we get the other pods open. Somehow. 
-
-#### RILEY
-
-OK, maybe I didn't get the right memories or something, but you both seem to have a much better handle on how this is all supposed to go, so...? 
+Riley. Hey, Riley, look at me. That's it, just look at me. Try to match my breathing, ok? He breaths in and out deliberately for few seconds. Riley shudderingly tries to match it. MIRA moves quietly around to join them. 
 
 #### MIRA
 
-Look, as far as I'm concerned, there should be fifty of us awake right now, and once the doctor has checked us over we make our way to see the Commander. But we can't go anywhere until we're all awake, so we need to get as many of these pods open as possible. In the meantime, we figure out the situation. 
-
-#### RILEY
-
-The situation is that everything's broken. 
-
-#### LEVI
-
-Then we fix it. Once everyone's awake, then we can decide whether to panic. As a team! 
-
-#### RILEY
-
-I'm not panicking, Levi. 
+I think we're good for now. How are they? 
 
 #### ZACK
 
-Right, if I'm not needed right now, I should go check on Luna. How is she? 
+I think we're good too, aren't we Riley? 
 
-#### LEVI
+#### RILEY
+
+Yeah... Yeah. Sorry. 
+
+#### ZACK
+
+No need to apologise. It's a perfectly natural reaction. 
+
+#### RILEY
+
+Are they... near us? 
+
+#### MIRA
+
+There's a bunch of them all over the generator room. I think they're covering the exits out. 
+
+#### ZACK
+
+Well, if you're looking for proof of intelligence... I wasn't. 
+
+#### MIRA
 
 
 
 #### RILEY
 
-She seemed kind of upset when she woke up. 
+Shouldn't we be staying quiet, if they're still around? 
 
-#### ZACK
+#### MIRA
 
-I think it's just memory troubles. Sometimes, with long periods of suspended animation, the mind kind of... mixes everything up. 
-
-#### LEVI
-
-I suppose that the risk with implanted memories. 
+Maybe. I don't know. Haven't been able to figure out what senses they hunt with yet. 
 
 #### ZACK
 
-They don't always merge how they're supposed to, especially if they aren't being drawn on. Now she's conscious, she should be able to start making sense of things soon. 
+With the whistling, I'd rather assumed some form of echolocation. 
+
+#### MIRA
+
+Yeah, but the whole station's humming and vibrating the whole time. If that's how they see, then we'd be pretty much clear as day. Plus they didn't really seem to react when Riley... 
 
 #### RILEY
 
-I think I might have that too, 'cause, to be honest, I'm feeling really out of my depth. 
+When I screamed? Zack cuts in before Riley can fall too heavily into guilt. 
 
 #### ZACK
 
-We can check. What's your name? Riley. 
+To be honest their whole physiology is fascinating. I mean, there's no head, and nothing I could see that looked like eyes or ears or any other "standard" sensory organ. 
+
+#### MIRA
+
+Sure, but none of us got a particularly good look. 
+
+#### ZACK
+
+No. I suppose that's one of the downsides of fleeing. 
+
+#### MIRA
+
+The upside is you stay alive. 
 
 #### RILEY
 
-
-
-#### ZACK
-
-What's your designation? 
-
-#### RILEY
-
-
-
-#### GT-97221.
-
-
+Grasshoppers have their ears on their knees, right? Or at least, they did. I guess they're all gone now as well. 
 
 #### ZACK
 
-Do you know where you are? 
+It's certainly a possibility. 
 
-#### RILEY
+#### MIRA
 
-The Ozymandias Contingency Seed Vault. 
-
-#### ZACK
-
-What's our next task? 
-
-#### RILEY
-
-Find the Commander. 
+Well, however they sense their prey, the generators here seem to confuse them a bit. Might be why they junked so many of them up. 
 
 #### ZACK
 
-Do you remember you parents? 
+You've jumped to the idea of "prey" pretty quickly. 
 
-#### RILEY
+#### MIRA
 
-Uh... Yeah. Yeah, I think so. 
-
-#### ZACK
-
-How many? 
+You saw those smashed pods. The way I see it, these things have been making their way through a massive larder full of frozen meals. 
 
 #### RILEY
 
-How many... parents? 
+(shivering slightly) I feel a bit like a frozen dinner myself. 
 
 #### ZACK
 
-Uh-huh. 
+That'll be your body's stress responses. (to Mira) We need to get Riley somewhere warmer. 
+
+#### MIRA
+
+Easier said than done. 
 
 #### RILEY
 
-Two. 
+(shivering more) Don't worry. I'll be fine. 
 
 #### ZACK
 
-And do you know their names? 
+I'll be the judge of that. 
 
-#### RILEY
+#### MIRA
 
-...No. No, I don't remember their names! 
-
-#### ZACK
-
-That's ok. That's right. That's how it's supposed to be, your different memories have merged and shed the specifics. It's the most common failure point for the process. 
-
-#### RILEY
-
-Oh. Right. Ok. 
+Come on, on your feet. Zack, you still got any of those blankets? 
 
 #### ZACK
 
-So there's nothing obviously wrong. Can you do two clockwise pirouettes for me, then one anticlockwise? 
+Dropped them with most of the food, I'm afraid. 
+
+#### MIRA
+
+Ok, well, let's see what we can find. They get to their feet. From somewhere quite nearby, a single whistle is answered by a chorus. Quietly. 
+
+#### MIRA
+
+
+
+#### 3. INT. THE BROKEN AWAKENING ROOM
+
+There's the sound of dragging, as Levi tries to pull a heavy piece of wreckage. 
+
+#### LEVI
+
+Can you give me a hand with this? 
+
+#### LUNA
+
+What are you doing? 
+
+#### LEVI
+
+See those ventilation shafts? We need to cover them up so these things can't get in. 
+
+#### LUNA
+
+Are you sure? I mean, the shafts are pretty small. 
+
+#### LEVI
+
+You ever seen how small a hole a mouse can squeeze through? 
+
+#### LUNA
+
+No. And technically neither have you. Levi stops dragging. 
+
+#### LEVI
+
+Look, are you going to help me or not? 
+
+#### LUNA
+
+We need to go and find the others. 
+
+#### LEVI
+
+We need to get this room secured, so if they come this way we can protect them. If we go looking we might end up missing each other. It's better if we stay here. Beat. 
+
+#### LUNA
+
+Levi, it's OK to be scared. Those things out there areLEVI I'm not scared of them. I mean, I am, but... Mira and the others. If they're dead. If those things got them, I- I can't see that. I can't lose anyone else. His words hang in the air for a few seconds. 
+
+#### LUNA
+
+I understand. I really do. But I can't just wait here. I've got to try and find them. 
+
+#### LEVI
+
+What if they get you as well? I can't be the only one left. I won't. 
+
+#### LUNA
+
+I'll be back, Levi. I promise. 
+
+#### LEVI
+
+You can't make that promise. 
+
+#### LUNA
+
+Maybe not. But unless you physically stop me, I'm going to look for them. She waits a moment, but Levi doesn't move. 
+
+#### LUNA
+
+Besides, they've got a better chance of finding this place with someone to guide them. You get this place properly secured, OK? Maybe see if you can get a small fire going. 
+
+#### LEVI
+
+You want me to set a fire in a wake-up room? You do remember last time, right? 
+
+#### LUNA
+
+A small fire. I'd rather not be worrying about frostbite as well as those things. 
+
+#### LEVI
+
+I'll see what I can do. Luna opens the door. There is a far off whistling. 
+
+#### LUNA
+
+Wish me luck! 
+
+#### LEVI
+
+Yeah. 
+
+#### 4. INT. A SMALL STORAGE AREA NEXT TO THE GENERATOR ROOM
+
+MIRA is tinkering with the pipework next to a liquid hydrogen tank, while Zack and Riley watch. Riley is still shivery. 
 
 #### RILEY
+
+You sure this is going to work? 
+
+#### MIRA
+
+Nope. 
+
+#### ZACK
+
+I mean, they do seem to actually like the cold. 
+
+#### MIRA
+
+Heh. There's cold, Zack, and then there's liquid hydrogen. 
+
+#### ZACK
+
+And the generators don't need it? 
+
+#### MIRA
+
+These tanks look like they connect to the broken ones, so fingers crossed we're not breaking anything new. 
+
+#### ZACK
+
+Fingers crossed? 
+
+#### MIRA
+
+Look, I'm open to any other ideas that aren't "just keep hiding". 
+
+#### ZACK
+
+Point taken. 
+
+#### MIRA
+
+We need to get out of here and find somewhere Riley can get warm and recover. That means dealing with at least one of those things. 
+
+#### RILEY
+
+(shivering worryingly) Hey now, don't worry about me. 
+
+#### ZACK
+
+So, when you bust that pipe open, the doors to this little storage area will seal. 
+
+#### MIRA
+
+Keeping the creature in here while the liquid hydrogen sprays out. 
+
+#### ZACK
+
+So I, as bait, will have to be pretty quick getting through the door myself. 
+
+#### MIRA
+
+Who said you were the bait? 
+
+#### ZACK
+
+You're going to need to be working on the pressure. 
+
+#### RILEY
+
+C-can I help at all? 
+
+#### ZACK
+
+Just try and save your strength, for now. 
+
+#### RILEY
+
+Ok. Beat. 
+
+#### MIRA
+
+Zack, how the hell are you dealing with this so well? 
+
+#### ZACK
+
+What do you mean? 
+
+#### MIRA
+
+You sound happier than I've heard you since you woke up. 
+
+#### RILEY
+
+You do sound kind of... chipper. 
+
+#### MIRA
+
+You like being chased by twisted aliens? 
+
+#### ZACK
+
+No. But you're right, I think I do prefer it to living with the worry that we're the last living things in the universe. 
+
+#### MIRA
 
 What? 
 
 #### ZACK
 
-It's a calibration test. Right... 
+These creatures. There's a bunch of them, they seem to have some semblance of intelligence and, unless the station's person-growing process has gone really really wrong, they came from somewhere else. 
 
-#### RILEY
+#### MIRA
 
-Riley spins twice, then one the otherway. 
-
-#### RILEY
-
-Indigo! ...Why did I say that? 
+I guess. 
 
 #### ZACK
 
-It means the test has worked and you're fine. I think you're all good. 
+Which means we're not alone! There are other things living out there. The universe is still alive! 
 
 #### RILEY
 
-But I still feel... Confused? And sort of sick? 
+And currently trying to eat us. 
 
 #### ZACK
 
-I think that might just be anxiety. 
+Sure. And I'd rather it wasn't, but still. Mira exhales in disbelief. 
+
+#### ZACK
+
+Hey, you asked. What, you take no comfort at all in the knowledge we're not the last five living beings at the end of the universe? 
+
+#### MIRA
+
+I haven't really had time to think about it. 
+
+#### RILEY
+
+I just don't want to be eaten. Or cold anymore. 
 
 #### MIRA
 
-We're all anxious. This isn't how the wake-up is supposed to go. 
+Well, then, you'll be happy to hear that I think we're just about ready. 
 
-#### LEVI
+#### 5. INT. THE OTHER SIDE OF THE GENERATOR ROOM.
 
-There are meant to be more of us. 
-
-#### MIRA
-
-Actually Zack, could you bring Luna over here? I want to take stock of who we have. Zack goes over to check on Luna. 
-
-#### LEVI
-
-Give her a minute, she's still recovering. 
-
-#### MIRA
-
-We don't know what's going on yet, but so far the five of us is all we have. I mean to find out what resources we have available. Luna and Zack rejoin. 
-
-#### LEVI
-
-Luna, how are you feeling? 
+Luna is slowly making her way through one of the entrances. She's nervous, and trying to keep quiet, but is clumsier than she wants to be. 
 
 #### LUNA
 
-Alright, I think. A bit weird. 
+(whispering to herself) Come on. You promised Levi. You promised. She moves forward slightly further, and catches her breath as one of the whistlers beings to move, coming closer. Oh no. 
+
+#### LUNA
+
+It approaches, clicking and popping and letting out a low, mocking whistle as it gets closer. Just before it reaches her, there is the sound of door slamming from the other side of the room, and another whistle, this one high, loud and drawn out. It's a new tone, one of panic and alarm. The whistler turns immediately and starts to move quickly to the source of the sound. 
+
+#### LUNA
+
+What? Where's it going? As she says this Mira, Riley and Zack emerge from behind a broken generator, hurrying. 
+
+#### MIRA
+
+Come on, Riley. It's alright, itZACK Luna! 
+
+#### LUNA
+
+Oh thank god! We thought you might beMIRA We're ok, but come on, we've got to go! 
+
+#### LUNA
+
+What's happened? Where did it go? 
 
 #### ZACK
 
-The memories should be starting to settle down. 
-
-#### MIRA
-
-Speaking of, what mix does everyone have. I'm mainly remembering administration and programming and I think I might have some memories of being a naval captain. My current instinctive priority is to report the Commander, so I assume I'm meant to be in a leadership position. 
-
-#### LEVI
-
-Hang on, I also feel a need to report to the Commander. What does that have to do with leadership? 
+We managed to get one of them trapped. 
 
 #### RILEY
 
-Me too. It might just be a general urge everyone gets when we wake-up. 
-
-#### ZACK
-
-Well, I think my priority is to ensure you're all healthy and well, but that's probably a specific 'medical staff' thing. I definitely remember being in front of a classroom, too. Rows of smiling faces. So I think there's some teacher in there as well. 
-
-#### MIRA
-
-Right. Levi? Who are you? What's your role? 
-
-#### LEVI
-
-I don't know about my 'role', but I definitely remember a lot of...academics, I suppose. Psychological studies, engineering projects, city plans... 
-
-#### MIRA
-
-Not much immediately useful, then. I guess not. 
-
-#### LEVI
-
-
-
-#### RILEY
-
-Uh, right. So I've got... I remember... There's a lot of physics in my head. Did I win some kind of prize? Well, someone won a prize, I suppose. There's also some robotics in there, but it's... 
-
-#### MIRA
-
-What? 
-
-#### RILEY
-
-- mainly theoretical. 
-
-#### LEVI
-
-That's alright, Riley. I'm mainly theoretical too. 
-
-#### MIRA
-
-Look, I'm just trying to make sure we know who we are. Or at least what we can do. Sorry if I've been curt. I know it's a high-pressure situation for all of us. (gentler) Luna, do you... Can you remember anything besides...this? 
-
-#### LUNA
-
-(pause) I was thinking I might be a farmer? I can remember being outside. The rain. Weather. I feel like I want to... coax things back to life again. Does that make sense? 
-
-#### MIRA
-
-Sounds like terraforming to me. Maybe. 
-
-#### LUNA
-
-
-
-#### ZACK
-
-Well, that's a pretty good spread of skills long-term. 
-
-#### LEVI
-
-We don't know what the others can do yet - we need to figure out how to wake up them up before we can consider long term. 
-
-#### MIRA
-
-They're safe for now. If we don't have anyone who knows how to work a stasis pod, then our immediate duty is to report to the Commander. 
-
-#### ZACK
-
-Yeah, chances are they'll know what to do next. 
-
-#### LEVI
-
-I'm not leaving until we figure out how to get the others out. 
-
-#### MIRA
-
-And how do you propose to do that? 
-
-#### LEVI
-
-Well, ours activated automatically. Maybe we just need to trigger the right sequence. You and Riley have some technical know-how, maybe you canMIRA Hang on. Where is Riley? 
-
-#### LUNA
-
-I think they snuck off. 
-
-#### LEVI
-
-Probably exploring. I say let them have some space. They're having a difficult time of it as well. 
-
-#### MIRA
-
-We're all having a difficult time. 
-
-#### ZACK
-
-Ok, then maybe let's you and me have a look at this pod. 
-
-#### MIRA
-
-Fine. 
-
-#### 3. INT. THE CORRIDOR OUTSIDE THE AWAKENING CHAMBER.
-
-RILEY is exploring. They have not yet strayed far from the room where they woke up, but they are curious. The awakening chamber made some small attempt at comfort (though now decayed and broken), but out here the space more industrial. Riley continues to step forward, footsteps uncertain. They pick up a broken device of some sort and examine it. 
-
-#### RILEY
-
-Hm. They tinker with it for a few moments. There is small whirr as it starts to activate. 
-
-#### RILEY
-
-Hah! Got it. The whirr stops abruptly, cut off by a clunk, futz and brief sparking. 
-
-#### RILEY
-
-Shit. Riley discards the device and continues exploring. In the distance, there is a strange discordant WHISTLE, almost too soft here. Riley stops. Listens. The whistle comes again. It is unnerving, not quite musical and faintly organic. 
-
-#### RILEY
-
-Hello? Silence. Riley moves forward. Something is dripping. 
-
-#### RILEY
-
-Hello? Is there- Urgh! We here a squelch as their hand touches something wet and biological on the wall. Some sort of slime or residue. 
-
-#### RILEY
-
-The fuck...? From the doorway to the room behind them, LEVI calls to them. 
-
-#### LEVI
-
-(calling) Riley! 
-
-#### RILEY
-
-(calling back) Yeah, Levi! I'm here! Levi approaches. 
-
-#### LEVI
-
-You ok? 
-
-#### RILEY
-
-Yeah... 
-
-#### LEVI
-
-You wandered off. 
-
-#### RILEY
-
-I didn't- I just wasn't sure what I could do back there. Thought I'd see what the rest of the station's like. 
-
-#### LEVI
-
-And? 
-
-#### RILEY
-
-Broken. Same as the room. Same as the pods. I really don't like this. 
-
-#### LEVI
-
-Want to know a secret? Neither do I. None of this feels right, does it? 
-
-#### RILEY
-
-No. The whistle comes again. 
-
-#### RILEY
-
-What is that noise? 
-
-#### LEVI
-
-Hm? What? 
-
-#### RILEY
-
-It's like a whistling. 
-
-#### LEVI
-
-I didn't- Just now? 
-
-#### RILEY
-
-Uh-huh. 
-
-#### LEVI
-
-Maybe one of the station systems? 
-
-#### RILEY
-
-Yeah. Maybe. And what's this? Levi considers. 
-
-#### LEVI
-
-Slime? I guess? 
-
-#### RILEY
-
-Well, what do we do about it? 
-
-#### LEVI
-
-We don't touch it and worry about it later. We can explore properly when we're all together. We shouldn't wander off alone just now, OK? Riley is still preoccupied with the slime. 
-
-#### LEVI
-
-And stop touching that slime! 
-
-#### 4. INT. THE AWAKENING ROOM
-
-Mira stands next to one of the unopened pods, messing with the controls. There are periodic 'EEEEHHHH' error noises as she attempts various solutions. Luna watches, curious. Another error noise. 
-
-#### MIRA
-
-Damn it! She kicks the pod in frustration. Another error noise. 
-
-#### LUNA
-
-Is there anything I can do to help? 
-
-#### MIRA
-
-Do you know anything about these stasis systems? 
-
-#### LUNA
-
-No. Right now I don't really know anything at all. 
-
-#### MIRA
-
-Then unless we want to try and force the pods open... Urgh! Another error noise. 
-
-#### LUNA
-
-How long have they- Have we been in there? 
-
-#### MIRA
-
-I don't know. I can't get access to the time logs. A long time. 
-
-#### LUNA
-
-Years? Mira exhales. 
-
-#### MIRA
-
-A long time. Not much point to a place like this if it activates as anything other than a last resort. 
-
-#### LUNA
-
-Where were we before? Before what? 
-
-#### MIRA
-
-
-
-#### LUNA
-
-Before here. 
-
-#### MIRA
-
-We weren't. We were made, or... more like... grown here and stored for whenWell, I don't know exactly what's happened out there but if we're awake, we're probably all that's left. 
-
-#### LUNA
-
-All that's left of what? 
-
-#### MIRA
-
-Civilisation. We're a sort of... last resort. For humanity. If something really catastrophic happened. You really don't remember any of this? 
-
-#### LUNA
-
-Maybe. It sounds familiar, but I can't quite reach it. 
-
-#### MIRA
-
-It's a lot to take in. Are you ok? 
-
-#### LUNA
-
-I think so. Or...I will be. (beat) So we're not real? 
+Froze the bastard! 
 
 #### MIRA
 
-Of course we're real. Just because we've been made with a purpose doesn't mean we're not real. ZACK walks up holding a pair of bottles. 
-
-#### ZACK
-
-Hey, great news! I found one of the storage cupboards and it's still stocked with water. Here. He gives one to each of them. Thanks. 
-
-#### MIRA
-
-They take a drink. 
-
-#### MIRA
-
-What's the state of the supplies? Are they still in decent condition. 
-
-#### ZACK
-
-There's a lot missing. 
-
-#### MIRA
-
-That doesn't make sense. Who else would have taken them? It doesn'tThere is a sparking from the controls Mira was just working on. Machinery starts to go wrong. 
-
-#### MIRA
-
-Shit, the pod. One second. She hops over and starts trying to fix the problem, but it seems to be escalating. There are further error sounds as she starts pressing buttons. 
+Not sure if we actually managed to hurt it, but all the others came running. 
 
 #### LUNA
 
-Mira, is everything alright? 
+(to herself) They're worried about it. They want to help. 
 
 #### MIRA
 
-I don't know. Zack, can you check on the woman inside? 
-
-#### ZACK
-
-Yeah, she looksThere is a popping sound, followed by the noise of something igniting. 
-
-#### ZACK
-
-Mira, look out! 
-
-#### MIRA
-
-I'm looking out! Everyone get back! An alarm begins to sound from somewhere. 
-
-#### COMPUTER
-
-Please stand away from the doors. Fireproof bulkhead doors slam down, sealing the room off. The fire is spreading quickly. 
-
-#### MIRA
-
-What the hell? 
-
-#### ZACK
-
-I think we're sealed in! 
-
-#### COMPUTER
-
-Fire suppression system unresponsive. 
-
-#### ZACK
-
-Seriously? 
+I don't know. Maybe. All I know is we have to go, we might not get another chance to get out of here. 
 
 #### LUNA
-
-Nothing in here works. 
-
-#### COMPUTER
-
-Possible fire containment breach. Preparing full oxygen vent. Please evacuate chamber. 
-
-#### ZACK
-
-(to computer voice) How can we evacuate when you've sealed the doors?! 
-
-#### MIRA
-
-Then we'd better get them open. And fast. 
-
-#### 5. INT. THE CORRIDOR OUTSIDE
-
-LEVI and RILEY are walking back towards the awakening room. An alarm starts to blare. 
-
-#### RILEY
-
-What's that? The bulkhead door in front of them slams closed. 
-
-#### RILEY
-
-Levi! 
-
-#### LEVI
-
-I see it. Levi bangs on the metal of the door. 
-
-#### LEVI
-
-Hey! Hey open up! Everything ok in there? There is no response. 
-
-#### RILEY
-
-Do you think they did it on purpose? 
-
-#### LEVI
-
-No, probably something to do with the alarm. 
-
-#### RILEY
-
-What's happened? Do you think it was a hull breach or something? 
-
-#### LEVI
-
-No, no way they'd put a room like this close enough to the outer hull for that. Maybe a leak? He bangs on the door again, frustrated rather than expectant. 
-
-#### LEVI
-
-We're got to get back in there! 
-
-#### RILEY
-
-Hang on, I think there's... Ah! They pop open a panel next to the door, and push a button on the intercom inside. 
-
-#### RILEY
-
-Hello? Can anyone here us? Hello? There's no response. Try again. 
-
-#### LEVI
-
-
-
-#### RILEY
-
-Hello? Zack? MirLuna's voice comes over the intercom. It's crackly and slightly distorted. 
-
-#### LUNA
-
-(intercom) Riley! Where are you? 
-
-#### LEVI
-
-We're outside the door. It just slammed shut. 
-
-#### RILEY
-
-What's going on? 
-
-#### LUNA
-
-(intercom) Something went wrong with one of the pods. Fire's spreading everywhere. 
-
-#### LEVI
-
-(to Riley) Did you catch that? 
-
-#### RILEY
-
-(to Levi) Something about a fire. 
-
-#### LEVI
-
-(into the intercom) Did you say a fire? Can you get it under control? 
-
-#### ZACK
-
-(intercom) It's spreading really quickly. The computer's going to vent the oxygen. 
-
-#### LEVI
-
-Zack? That you? Is anyone hurt? 
-
-#### RILEY
-
-Did he say something about Oxygen. 
-
-#### LUNA
-
-(intercom, heavy crackling) We need to get the door open. Mira's trying to get the controls working. 
-
-#### LEVI
-
-What about the others? The pods that are still asleep? Have you been able to get to any of them? There is no response. Levi and Riley try the buttons a few more times, but there's no more response from the intercom. It's dead. 
-
-#### RILEY
-
-6. INT. THE AWAKENING ROOM (AFLAME) Luna and Zack are standing over the intercom next to the sealed door. Mira has managed to remove an access panel and is leaning into the maintenance space, trying to find an override. Behind them, the fire is spreading, with machinery sparking and burning. 
-
-#### LUNA
-
-Levi? Riley? They're gone. Mira, have you found anything in there? 
-
-#### MIRA
-
-I'm trying. There's not much light in here. 
-
-#### ZACK
-
-Any idea how long untilCOMPUTER Oxygen override in five minutes. Please evacuate chamber. 
-
-#### ZACK
 
 Right. 
 
-#### MIRA
+#### ZACK
 
-I don't have the equipment for this, and the whole system seems to have locked up. Any thoughts, Zack? 
+Where's Levi? 
+
+#### LUNA
+
+He's trying to make one of the wake-up rooms safe. I'll show you. 
 
 #### ZACK
 
-Well, with the materials and chemicals stored in this room the smoke is probably going to be pretty toxic... 
-
-#### MIRA
-
-Try not to breath. Got it. 
-
-#### LUNA
-
-That's not going to be problem in a few minutes. 
-
-#### ZACK
-
-Can we turn off the emergency venting? 
-
-#### MIRA
-
-I wouldn't know where to start. The door's a better option. 
-
-#### ZACK
-
-What about the others? 
-
-#### MIRA
-
-We can't help them if we're also dead. 
-
-#### LUNA
-
-Can we force the door open somehow? 
-
-#### MIRA
-
-It's completely sealed and not designed to be opened manually. I have to do it through the system. 
-
-#### ZACK
-
-You said the system was fried. 
-
-#### MIRA
-
-It managed to seal us in here, so it must be able to let us out again, if I canElectric sparks buzz, indicating that she, in fact, can't. Ow! Shit! 
-
-#### MIRA
-
-
-
-#### LUNA
-
-What happened? 
-
-#### ZACK
-
-Are you hurt? 
-
-#### MIRA
-
-I'm fine. Just give me a moment to focus. The fumes are getting thicker. The three of them are starting to cough and struggle slightly more to breath/speak. 
-
-#### LUNA
-
-(to Zack) Look, maybe we can lift it if we get a bit of purchase. 
-
-#### ZACK
-
-I think there are hydraulics keeping it in place. 
-
-#### LUNA
-
-Mira, can you break the hydraulics? 
-
-#### MIRA
-
-What? 
-
-#### LUNA
-
-You said you can't fix it -- can you break it more? I can try. 
-
-#### MIRA
-
-Mira moves around in the access hatch, there's a fttz and chnnk as something breaks. The door unseals, lifting a centimetre or so as the hydraulic seal breaks. 
-
-#### LUNA
-
-There! I think I can- Zack give me a hand. Luna and Zack strain to lift the heavy door. It moves slowly. Through the gap underneath, Levi and Riley can now be heard. 
-
-#### RILEY
-
-It's moving! 
-
-#### LEVI
-
-I see them! (through/under the door) Are you alright? 
-
-#### ZACK
-
-We're OK, but we can't get outLUNA Help us lift this door. Levi and Riley help to lift the door, which starts to move a little faster. The flames get louder as a rush of new air enters the room. 
-
-#### LEVI
-
-Where's Mira? I'm here. 
-
-#### MIRA
-
-Mira moves to the door and helps to lift. It creaks as it moves just high enough to duck through. 
-
-#### LUNA
-
-I've got it -- you two head under. You sure? 
-
-#### MIRA
-
-
-
-#### LUNA
-
-Yeah, I thinkCOMPUTER Oxygen vent initiated. 
-
-#### ZACK
-
-What?! You said we had five minutes! 
-
-#### LUNA
-
-Go! Mira and Zack duck under the door as machinery starts to whirr... then sputter an die. Come on! 
-
-#### LEVI
-
-Luna lets go of the door and the door starts to fall. The others cry out in effort as they catch it. 
+Great. Can you help with Riley? 
 
 #### RILEY
 
-(strained) Come on. 
-
-#### LUNA
-
-Clear! They release the door and it slams shut. 
-
-#### MIRA
-
-What happened in there? 
-
-#### LUNA
-
-I don't know. It just... Nothing happened. 
-
-#### RILEY
-
-Everything's broken. 
-
-#### MIRA
-
-So the fire's still going? 
-
-#### LEVI
-
-What about the others? The ones still asleep? 
-
-#### MIRA
-
-I'm sorry, Levi, but there's nothing we can do. 
-
-#### LEVI
-
-No, we can't just let themMIRA If we open up the door again the fire could spread to the rest of the station. And that would be really, really bad. 
-
-#### LEVI
-
-Maybe we could go back, fight the fire. 
-
-#### MINA
-
-With what? I didn't see any extinguishers in there... There was barely any water. 
-
-#### LEVI
-
-There must be a systemRILEY (repeating) Everything's broken. A pause. 
+I'm fine, it's just shock. 
 
 #### ZACK
 
-Mira's right. Even if we could stop it, the fire's caused too much damage by now. Anyone still in their pod is probably already dead. 
+We need to get him warmed up. 
+
+#### LUNA
+
+Sure, I'll take you to Levi and we'll go from there. In the distance, there is a chorus of whistles. Luna listens, lost in thought. Luna? Luna! 
+
+#### MIRA
+
+
+
+#### LUNA
+
+Hm? Yeah. Yeah, this way. They head off into the corridors. 
+
+#### 6. INT. THE NOW-FORTIFIED AWAKENING ROOM
+
+Mira is once again messing with the door controls. There is a satisfying Clunk as a lock engages. 
+
+#### MIRA
+
+There, that should do it. 
 
 #### LEVI
 
-It can't just be us. This isn't how it's supposed to be. 
-
-#### ZACK
-
-I'm sorry, Levi. 
+Thanks. Couldn't quite figure out the mechanism. 
 
 #### MIRA
 
-We need to seal off this area and get to the Commander. Something's obviously not right here and we need to check in. 
-
-#### ...OK.
-
-
-
-#### LEVI
-
-He takes a moment to steel himself. 
-
-#### LEVI
-
-Come on, then. First priority is making sure the fire's contained. Then we need to find some food and water. Then we can look for the Commander. Agreed? 
-
-#### MIRA
-
-Agreed. 
-
-#### RILEY
-
-There's a doorway through the corridor not far from here -- maybe we can seal it, if we need to block this section off. 
-
-#### LEVI
-
-Right, then. Let's go. Maybe then we can figure out what's going on. 
+You've done a pretty good job with this place otherwise. And the door should be secure now, unless they're a lot smarter than we give them credit for. 
 
 #### LUNA
 
-And what happened to everyone else. They begin to head down the corridor. Their steps echoing off cold metal. In the distance, a whistling is heard. 
+They might be. 
+
+#### ZACK
+
+I've seen nothing to indicate that they're not mostly animalistic in their behaviour. 
+
+#### LUNA
+
+The way they went to help their trapped friend... 
+
+#### MIRA
+
+'Friend'? Let's try not to give too much credit to the things that want to eat us. 
+
+#### ZACK
+
+Animals can display all sorts of pack tactics or social dynamics, Luna. That doesn't mean they're people. A little ways off, there's a buzzing sound as an electric heating element springs to life. Ah-ha! 
+
+#### RILEY
+
+(Distant) 
+
+#### LEVI
+
+(Calling) You get it working? They walk over to where Riley has pulled out and turned on a glowing heating element. There is a buzzing sound that evokes a fireplace. 
+
+#### LUNA
+
+I thought the heating in here was broken? 
+
+#### RILEY
+
+It was, but I got one of the heating elements out and with a bit of juryrigged wiring, well... 
+
+#### MIRA
+
+Should stop us freezing, at least. 
+
+#### ZACK
+
+And no fire this time. 
+
+#### LEVI
+
+Thought it maybe wasn't the safest idea. They sit down around the heat source. Zack pulls out some food bars and tosses them to the others. 
+
+#### ZACK
+
+Here. Eat up. Had to drop the bag, but I kept a few on me just in case. Enough for a day or two, hopefully. 
+
+#### LEVI
+
+So what do we do? Just hunker down here for awhile? 
+
+#### RILEY
+
+It's a pretty decent spot for it. 
+
+#### MIRA
+
+No. We rest and keep moving. It's a defensible position, but we're still in enemy territory. 
+
+#### LUNA
+
+Enemy territory? Now who's treating them like people. 
+
+#### MIRA
+
+The plan is unchanged. We reach the bridge, find the Commander. 
+
+#### LEVI
+
+And wake up all the others. Beat. 
+
+#### RILEY
+
+Seriously? 
+
+#### MIRA
+
+You see a problem with that plan? 
+
+#### RILEY
+
+Uh, yeah. Look, I know I'm struggling with all this, and you don't take me seriouslyMIRA You have had a difficult time handling things, Riley. 
+
+#### RILEY
+
+Because I seem to be the only one who's not living in some sort of fantasy world! Look, I want to find the Commander as much as you do. Obviously, I've been made so I can't not want to. But look around. If the Commander ever actually woke up, they're either long gone or long dead or both. And as for reviving the others, that system clearly isn't operating properly any more! Face it, the five of us woke up by accident. And I kind of wish we hadn't. They consider what Riley has said. 
+
+#### RILEY
+
+If this station ever did what it was designed to, then we missed it. 
+
+#### LEVI
+
+I can't accept that we're the only ones. 
+
+#### ZACK
+
+You may have to, Levi. I think... I agree with Riley. 
+
+#### LUNA
+
+Mm. There is silence. 
+
+#### MIRA
+
+That doesn't actually change anything. 
+
+#### LEVI
+
+What do you mean? 
+
+#### MIRA
+
+Practically speaking. Commander or no Commander, even if we're the only ones, it still makes most sense to try and make our way to the bridge. 
+
+#### ZACK
+
+And if the bridge is full of those creatures? 
+
+#### MIRA
+
+Then we'll know. Right now our biggest obstacle is ignorance. Everything we've been saying, right now it's just guesswork. We can't make a proper plan without any actual information, and if we can find that anywhere, it'll be on the bridge. Plus, we need to get out of enemy terr- The hunting grounds of these things, and towards the command deck is as good a direction as any. 
+
+#### ZACK
+
+We don't even know we're going the right direction. 
+
+#### MIRA
+
+We're going up. That feels like the right direction, at least until we find a map. 
+
+#### LUNA
+
+Are we sure these creatures are attacking us as a food source? Is there some other reason they might be hostile? 
+
+#### LEVI
+
+Well, I'm not all that keen on finding out either way. 
+
+#### RILEY
+
+You think they're the reason the station is broken? Did they damage it while we were asleep? 
+
+#### LUNA
+
+Maybe. Maybe the builders just stopped maintaining it at some point. It's all very well having a millennia-long project, but... 
+
+#### ZACK
+
+It only takes one generation to forget. 
+
+#### LEVI
+
+You think there are still people out there? In the universe, beyond the station? 
+
+#### MIRA
+
+I think we need to get some rest. Someone needs to watch the door, in case they try to get in. We should take shifts. Any volunteers for first? 
+
+#### LUNA
+
+I'll take it. Don't really feel tired anyway. 
+
+#### MIRA
+
+Ok. Wake us if there's any trouble. 
+
+#### LUNA
+
+Of course. 
+
+#### 7. THE FORTIFIED AWAKENING ROOM
+
+There is the sound of the other four sleeping quietly (Levi is gently snoring) as Luna makes her way to the door and opens it. She pauses, as a distant whistling is heard. Luna sighs, steels herself and steps through. The door closes behind her with a hiss and a thud that disturbs Riley, who begins to rouse themself from sleep. 
+
+#### RILEY
+
+(groggy) Hm? Wha- Everything alright? There is no response. 
+
+#### RILEY
+
+Luna? They get up, looking around. 
+
+#### RILEY
+
+Luna? 
+
+#### ZACK
+
+(awakening) Riley? What's wrong? 
+
+#### RILEY
+
+It's Luna, she's gone. 
+
+#### ZACK
+
+What? What do you mean, she's gone? 
+
+#### RILEY
+
+I mean she's not here. She left the room. Mira! Levi! The other two start to wake up. 
+
+#### ZACK
+
+Or she was taken. 
+
+#### LEVI
+
+What's happening? Who's been taken? 
+
+#### RILEY
+
+Luna's gone. 
+
+#### MIRA
+
+Shit! What happened? 
+
+#### ZACK
+
+We don't know. She's gone. 
+
+#### MIRA
+
+(panicked) Did any of you hear anything? Any whistling? 
+
+#### LEVI
+
+Doesn't look like they broke in. 
+
+#### MIRA
+
+We've got to go after her. 
+
+#### RILEY
+
+She wouldn't have left willingly, would she? Beat. Come on. 
+
+#### MIRA
+
+
+
+#### 8. INT. A CORRIDOR, DEEP IN WHISTLER TERRITORY
+
+Like everywhere else, the corridor here thrums with the same distant sound of machinery, but it sounds more obviously broken here, clogged with assorted alien goops. Luna makes her way slowly, nervously. 
+
+#### LUNA
+
+This is a bad idea. She keeps going, stepping on a patch of alien resin. She makes a noise of disgust. 
+
+#### LUNA
+
+I can still go back. I should go back. She pauses. 
+
+#### LUNA
+
+No. They're not just animals. I know they're not. There is an ominous whistling from further down the corridor. 
+
+#### LUNA
+
+(Quietly) H-Hello? There is no sound in response. 
+
+#### LUNA
+
+We can't go on like this. We just can't. She steels herself. 
+
+#### LUNA
+
+(louder) Hello! There is a whistle from up ahead, as though in answer. Luna's breathing begins to speed up as fear hit her. First one whistler emerges, limbs clicking unpleasantly, then another follows. 
+
+#### LUNA
+
+Hello. Hello to you. T-to both of you. There is another whistle, with a tone of almost curiosity. 
+
+#### LUNA
+
+I'm not here hurt you. One of them comes closer. 
+
+#### LUNA
+
+Luna. My name is Luna. The further one lets out a long, low whistle, which the other harmonises with. The tones shift and merge, as though having a conversation. 
+
+#### LUNA
+
+I knew it. You do talk to each other. You're not just monsters. YouThere is a cracking sound as one of them begins to split open, revealing a horrible mouth. 
+
+#### LUNA
+
+What is that? Oh my god, is that your mou-AAAHH! She screams as the whistler lunges at her. 
