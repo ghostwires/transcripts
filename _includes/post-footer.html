@@ -1,12 +1,10 @@
 <footer class="post-footer">
 <div class="wrapper">
-    <center>
-        {% if page.unfinished -%}
-        <div>Do you have a full transcript of this episode? <a href="{{ site.correction_form }}" target="_blank">Tell us through our form!</a></div>
-        {% else -%}
-        <div>See any issues? <a href="{{ site.correction_form }}" target="_blank">Tell us through our form!</a></div>
-        {%- endif %}
-    </center>
+    {% if page.unfinished -%}
+    <div class="post-form">Do you have a full transcript of this episode? <a href="{{ site.correction_form }}" target="_blank">Tell us through our form!</a></div>
+    {% else -%}
+    <div class="post-form">See any issues? <a href="{{ site.correction_form }}" target="_blank">Tell us through our form!</a></div>
+    {%- endif %}
     <br/>
     {% include post-nav.html %}
 </div><!--/.wrapper-->

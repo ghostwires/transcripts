@@ -218,6 +218,10 @@ div#cookie-warning {
     @extend %page-title; 
     font-family: $font-family-monospace; 
 }
+h2 {
+    font-size:      1.2rem;
+    @include media-query($on-palm) { font-size: 0.9rem; }
+}
 
 
 /**
@@ -366,6 +370,12 @@ div.footnotes {
     background-color: $dark-highlight-bg-color; 
     color:            $dark-highlight-bg-color; 
     cursor:           pointer; 
+}
+
+.post-form {
+    text-align: center;
+    font-size:  1.0rem;
+    @include media-query($on-palm) { font-size: $small-font-size; }
 }
 
 .post-nav {
