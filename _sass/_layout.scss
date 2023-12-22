@@ -375,6 +375,7 @@ div.footnotes {
 .post-form {
     text-align: center;
     font-size:  1.0rem;
+    color:      $grey-color-dark;
     @include media-query($on-palm) { font-size: $small-font-size; }
 }
 
@@ -523,29 +524,3 @@ table.toc-table {
  * ERROR PAGES
  */
 h1.error { color: $red; }
-
-
-/**
- * DARK MODE MODIFICATIONS
- */
-.dark-mode {
-    @include dark-mode;
-    color: $dark-text-color;
-    .muted { color: $dark-muted-text-color; }
-    h1, h4 { color: $dark-highlight-text-color; }
-    h5 { color: $dark-muted-text-color; }
-    blockquote { background-color: $dark-highlight-bg-color; }
-    .post-header, .post-footer, .site-header-linkbar {
-        background: $dark-highlight-bg-color !important;
-        color:      $dark-highlight-text-color;
-        .post-flags { border: 1px dotted $dark-highlight-text-color; }
-    }
-    table.toc-table {
-        tbody tr:nth-child(odd){ background: $dark-highlight-bg-color; }
-        td a, th a { color: $dark-text-color; }
-        td.ep-number a, td.ep-date a { color: $dark-muted-text-color; }
-    }
-    ul#search-results {
-        li:nth-child(odd){ background: $dark-highlight-bg-color; }
-    }
-}
