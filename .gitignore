@@ -4,4 +4,11 @@ _site/
 Gemfile.lock
 *.zip
 edit_posts.py
+etr_input.txt
+etr_middle.txt
+etr_output.txt
 .DS_Store
+
+README.html
+TODO.html
+BUILD_EPUB.md
