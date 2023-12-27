@@ -3,12 +3,16 @@ layout: page_default
 title: 'Neon Inkwell'
 ---
 
+<br/>
+
+<h2><i>Of That Colossal Wreck</i></h2>
+
 <table class="toc-table">
 <tbody>
 {% assign episodes = site.posts | reverse %}
 {% for post in episodes %}
 	{% if post.podcasts contains "neon" %}
-		{% unless post.episode_type contains "special" %}
+		{% if post.neon_category contains "otcw" %}
 			<tr>
 				{% assign url = post.url | prepend: site.baseurl %}
 				<td class="ep-number"><a href="{{ url }}">{{ post.episode_number | escape }}</a></td>
@@ -19,7 +23,7 @@ title: 'Neon Inkwell'
 				</td>
 				<td class="ep-date"><a href="{{ url }}">{{ post.date | date: "%Y&#8209;%m&#8209;%d" }}</a></td>
 			</tr>
-		{% endunless %}
+		{% endif %}
 	{% endif %}
 {% endfor %}
 </tbody>
