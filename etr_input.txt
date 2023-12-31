@@ -1,742 +1,3320 @@
-Of That Colossal Wreck - Episode 3
+Rusty Quill Gaming – [15] – [BOOM!]
 
-written by
-Sasha Sienna & Jonathan Sims
+RQG – 15 – BOOM!
+Content Warnings
+• Physical violence & injury (inc. stabbing)
+• Loss of consciousness
+• Bombs & explosions
+• Building collapse
+• Fire
+• Discussions of: food
+• Mentions of: death (inc. drowning) & human remains, blood
+• SFX: water, building collapse & explosion
 
-1. INT. ANOTHER BROKEN AWAKENING ROOM
-There is the ever-present hum of the station, but it's quieter here, a
-little bit more broken and stuttering. Then there is a low, long
-whistle, and we hear the awful sounds of a WHISTLER moving through the
-room. It is going slowly, deliberately. It is on the hunt for
-something.
-LUNA and LEVI are hiding behind a busted stasis pod. They are doing
-their best not to breathe, but we can hear them start to panic slightly
-as the thing gets closer. Closer.
-LUNA
-(Whispered)
-Levi...
-Levi shushes her. There is a long, tense moment. Then from somewhere
-outside the room another whistle comes, then another. The creature
-hunting them raises itself up, lets out an answering whistle, then
-begins to move, the sounds of its cracking chitinous joints getting
-softer as it leaves the room and disappears.
-Luna and Levi exhale.
-LEVI
-You alright?
-LUNA
-Yeah, I think so. Once my heart stops
-racing. You?
-LEVI
-Few cuts, but I'll live. Someone oughta
-sweep up all this broken glass.
-It's almost a joke, but he can't bring himself to laugh.
-LUNA
-What was that thing?
-LEVI
-Things. And I've no idea. Don't suppose
-you saw where the others ended up?
-LUNA
-I think we got separated in that big
-generator room.
-LEVI
-Shit. There were a bunch of them in
-there.
-LUNA
-We should go back, the others...
+[Show Theme - Intro]
 
-LEVI
-Yeah... Yeah, just, let's take a moment
-first. Catch our breath.
-They pause, waiting for the adrenaline to fade slightly.
-LUNA
-Why do you think it attacked us?
-LEVI
-Because it's a huge bug thing! And that's
-what huge bug things do!
-LUNA
-Not a bug. It only had four legs.
-LEVI
-No, it's not a bug. It's not an anything!
-It doesn't even have a head! And those
-weren't "legs". Too long, too many
-joints.
-He pauses, trying to collect himself.
-LEVI
-If you want an actual answer, I think it
-probably wants to eat us.
-LUNA
-Or it was defending its territory.
-LEVI
-What does it matter?
-LUNA
-Nothing acts without a reason.
-LEVI
-And understanding that reason isn't going
-to stop it eating you.
-In the distance, another chorus of whistles.
-LUNA
-Do you think they've found the others?
-Beat.
-LEVI
-Let's see if we can get these doors to
-work without Mira. We can figure out our
-next move once we've got some steel
-between us and those things.
-2. INT - A LARGE, PARTIALLY BROKEN GENERATOR ROOM.
+ALEX
+Hello and welcome to episode 15 on the Rusty Quill Gaming podcast. I'm your
+host and GM, as always, Alex Newall, and with me, for yet another exciting
+adventure, I have:
 
-ZACK and RILEY are hiding behind one of the inactive generators. Riley
-is trying not to panic, but is on the verge of hyperventilating.
-RILEY
-(under their breath)
-shit, shit, shit, shit, shit, shit
-ZACK
-Riley. Hey, Riley, look at me. That's it,
-just look at me. Try to match my
-breathing, ok?
-He breaths in and out deliberately for few seconds. Riley shudderingly
-tries to match it.
-MIRA moves quietly around to join them.
-MIRA
-I think we're good for now. How are they?
-ZACK
-I think we're good too, aren't we Riley?
-RILEY
-Yeah... Yeah. Sorry.
-ZACK
-No need to apologise. It's a perfectly
-natural reaction.
-RILEY
-Are they... near us?
-MIRA
-There's a bunch of them all over the
-generator room. I think they're covering
-the exits out.
-ZACK
-Well, if you're looking for proof of
-intelligence...
-I wasn't.
+LYDIA
+Lydia Nicholas.
 
-MIRA
+BEN
+Ben Meredith.
 
-RILEY
-Shouldn't we be staying quiet, if they're
-still around?
-MIRA
-Maybe. I don't know. Haven't been able to
-figure out what senses they hunt with
-yet.
-ZACK
+1
 
-With the whistling, I'd rather assumed
-some form of echolocation.
-MIRA
-Yeah, but the whole station's humming and
-vibrating the whole time. If that's how
-they see, then we'd be pretty much clear
-as day. Plus they didn't really seem to
-react when Riley...
-RILEY
-When I screamed?
-Zack cuts in before Riley can fall too heavily into guilt.
-ZACK
-To be honest their whole physiology is
-fascinating. I mean, there's no head, and
-nothing I could see that looked like eyes
-or ears or any other "standard" sensory
-organ.
-MIRA
-Sure, but none of us got a particularly
-good look.
-ZACK
-No. I suppose that's one of the downsides
-of fleeing.
-MIRA
-The upside is you stay alive.
-RILEY
-Grasshoppers have their ears on their
-knees, right? Or at least, they did. I
-guess they're all gone now as well.
-ZACK
-It's certainly a possibility.
-MIRA
-Well, however they sense their prey, the
-generators here seem to confuse them a
-bit. Might be why they junked so many of
-them up.
-ZACK
-You've jumped to the idea of "prey"
-pretty quickly.
-MIRA
-You saw those smashed pods. The way I see
-it, these things have been making their
-way through a massive larder full of
-frozen meals.
+Rusty Quill Gaming – 15 – BOOM!
+BRYN
+Bryn Monroe.
 
-RILEY
-(shivering slightly)
-I feel a bit like a frozen dinner myself.
-ZACK
-That'll be your body's stress responses.
-(to Mira)
-We need to get Riley somewhere warmer.
-MIRA
-Easier said than done.
-RILEY
-(shivering more)
-Don't worry. I'll be fine.
-ZACK
-I'll be the judge of that.
-MIRA
-Come on, on your feet. Zack, you still
-got any of those blankets?
-ZACK
-Dropped them with most of the food, I'm
-afraid.
-MIRA
-Ok, well, let's see what we can find.
-They get to their feet. From somewhere quite nearby, a single whistle
-is answered by a chorus.
-Quietly.
+JAMES
+And James Ross.
 
-MIRA
+ALEX
+And who are you playing quickly?
 
-3. INT. THE BROKEN AWAKENING ROOM
-There's the sound of dragging, as Levi tries to pull a heavy piece of
-wreckage.
-LEVI
-Can you give me a hand with this?
-LUNA
-What are you doing?
-LEVI
-See those ventilation shafts? We need to
-cover them up so these things can't get
-in.
-LUNA
-Are you sure? I mean, the shafts are
-pretty small.
+LYDIA
+Sasha Racket – the sneaky, stabby one!
 
-LEVI
-You ever seen how small a hole a mouse
-can squeeze through?
-LUNA
-No. And technically neither have you.
-Levi stops dragging.
-LEVI
-Look, are you going to help me or not?
-LUNA
-We need to go and find the others.
-LEVI
-We need to get this room secured, so if
-they come this way we can protect them.
-If we go looking we might end up missing
-each other. It's better if we stay here.
-Beat.
-LUNA
-Levi, it's OK to be scared. Those things
-out there areLEVI
-I'm not scared of them. I mean, I am,
-but... Mira and the others. If they're
-dead. If those things got them, I- I
-can't see that. I can't lose anyone else.
-His words hang in the air for a few seconds.
-LUNA
-I understand. I really do. But I can't
-just wait here. I've got to try and find
-them.
-LEVI
-What if they get you as well? I can't be
-the only one left. I won't.
-LUNA
-I'll be back, Levi. I promise.
-LEVI
-You can't make that promise.
-LUNA
-Maybe not. But unless you physically stop
-me, I'm going to look for them.
-She waits a moment, but Levi doesn't move.
+BEN
+Zolf – the heal-y, miracle-y one!
 
-LUNA
-Besides, they've got a better chance of
-finding this place with someone to guide
-them. You get this place properly
-secured, OK? Maybe see if you can get a
-small fire going.
-LEVI
-You want me to set a fire in a wake-up
-room? You do remember last time, right?
-LUNA
-A small fire. I'd rather not be worrying
-about frostbite as well as those things.
-LEVI
-I'll see what I can do.
-Luna opens the door. There is a far off whistling.
-LUNA
-Wish me luck!
-LEVI
-Yeah.
-4. INT. A SMALL STORAGE AREA NEXT TO THE GENERATOR ROOM
-MIRA is tinkering with the pipework next to a liquid hydrogen tank,
-while Zack and Riley watch. Riley is still shivery.
-RILEY
-You sure this is going to work?
-MIRA
-Nope.
-ZACK
-I mean, they do seem to actually like the
-cold.
-MIRA
-Heh. There's cold, Zack, and then there's
-liquid hydrogen.
-ZACK
-And the generators don't need it?
-MIRA
-These tanks look like they connect to the
-broken ones, so fingers crossed we're not
-breaking anything new.
-ZACK
-Fingers crossed?
+(Laughter)
 
-MIRA
-Look, I'm open to any other ideas that
-aren't "just keep hiding".
-ZACK
-Point taken.
-MIRA
-We need to get out of here and find
-somewhere Riley can get warm and recover.
-That means dealing with at least one of
-those things.
-RILEY
-(shivering worryingly)
-Hey now, don't worry about me.
-ZACK
-So, when you bust that pipe open, the
-doors to this little storage area will
-seal.
-MIRA
-Keeping the creature in here while the
-liquid hydrogen sprays out.
-ZACK
-So I, as bait, will have to be pretty
-quick getting through the door myself.
-MIRA
-Who said you were the bait?
-ZACK
-You're going to need to be working on the
-pressure.
-RILEY
-C-can I help at all?
-ZACK
-Just try and save your strength, for now.
-RILEY
-Ok.
-Beat.
-MIRA
-Zack, how the hell are you dealing with
-this so well?
-ZACK
-What do you mean?
-MIRA
+BRYN
+Hamid – the physically and emotionally battered one!
 
-You sound happier than I've heard you
-since you woke up.
-RILEY
-You do sound kind of... chipper.
-MIRA
-You like being chased by twisted aliens?
-ZACK
-No. But you're right, I think I do prefer
-it to living with the worry that we're
-the last living things in the universe.
-MIRA
-What?
-ZACK
-These creatures. There's a bunch of them,
-they seem to have some semblance of
-intelligence and, unless the station's
-person-growing process has gone really
-really wrong, they came from somewhere
-else.
-MIRA
-I guess.
-ZACK
-Which means we're not alone! There are
-other things living out there. The
-universe is still alive!
-RILEY
-And currently trying to eat us.
-ZACK
-Sure. And I'd rather it wasn't, but
-still.
-Mira exhales in disbelief.
-ZACK
-Hey, you asked. What, you take no comfort
-at all in the knowledge we're not the
-last five living beings at the end of the
-universe?
-MIRA
-I haven't really had time to think about
-it.
-RILEY
-I just don't want to be eaten. Or cold
-anymore.
+[Group laughter]
 
-MIRA
-Well, then, you'll be happy to hear that
-I think we're just about ready.
-5. INT. THE OTHER SIDE OF THE GENERATOR ROOM.
-Luna is slowly making her way through one of the entrances. She's
-nervous, and trying to keep quiet, but is clumsier than she wants to
-be.
-LUNA
-(whispering to herself)
-Come on. You promised Levi. You promised.
-She moves forward slightly further, and catches her breath as one of
-the whistlers beings to move, coming closer.
-Oh no.
+JAMES
+Sir Bertrand MacGuffingham, the best one!
+2
 
-LUNA
+Rusty Quill Gaming – 15 – BOOM!
 
-It approaches, clicking and popping and letting out a low, mocking
-whistle as it gets closer. Just before it reaches her, there is the
-sound of door slamming from the other side of the room, and another
-whistle, this one high, loud and drawn out. It's a new tone, one of
-panic and alarm.
-The whistler turns immediately and starts to move quickly to the source
-of the sound.
-LUNA
-What? Where's it going?
-As she says this Mira, Riley and Zack emerge from behind a broken
-generator, hurrying.
-MIRA
-Come on, Riley. It's alright, itZACK
-Luna!
-LUNA
-Oh thank god! We thought you might beMIRA
-We're ok, but come on, we've got to go!
-LUNA
-What's happened? Where did it go?
-ZACK
-We managed to get one of them trapped.
-RILEY
-Froze the bastard!
+[Group laughter]
 
-MIRA
-Not sure if we actually managed to hurt
-it, but all the others came running.
-LUNA
-(to herself)
-They're worried about it. They want to
-help.
-MIRA
-I don't know. Maybe. All I know is we
-have to go, we might not get another
-chance to get out of here.
-LUNA
+ALEX
+And before we start, I need to give a quick shout out. I actually got given a
+guest spot on a Let’s Play channel, so if anyone gets a moment do check out an
+episode of The Happy-Go-Lucky Scamps, they play games and…
+
+JAMES
+They sound like fun!
+
+ALEX
+They’re fun chaps!
+
+LYDIA
+Is it cheery?
+
+ALEX
+It’s positively cheery!
+
+LYDIA
+Is it perky, is it jolly?
+
+ALEX
+
+3
+
+Rusty Quill Gaming – 15 – BOOM!
+It’s all of those things, and I believe by the end of that episode, we may have
+accidentally created a new Batman villain who was on the scale of The
+Borrowers.
+
+LYDIA
+Awwwww…
+
+(Laughter)
+
+BEN
+So Antman kind of nemesis?
+
+ALEX
+Oh, all of his enemies were Borrowers.
+
+JAMES
+Man-Ant, presumably! Because of the size.
+
+(Group laughter)
+
+4
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+But, yep, just do check out their… they’re on YouTube, they’ve got a decent
+number of videos off there and they’re eager for more so give them a check.
+So, as a recap from what happened most recently, the party have been chasing
+down what happened in the Simulacrum and got sent back down to Other
+London to find out what had happened to the people who had messed around
+with it. You had had a run in with Sasha’s old friends, which could have gone
+worse, although led Hamid to have a little bit of an awkward moment, and
+then we powered on towards the compound and we have been in the
+compound, we have found a trap or two, and are currently engaged in combat
+with the people who you tracked down…
+
+BRYN
+We recognised them and everything.
+
+ALEX
+You recognised on sight. And on the way, of course, you took out some guards
+using some clever statuesque tactics…
+
+BRYN
+Mmm… so brilliant!
+
+(Group laughter)
+
+JAMES
+I used my natural cunning!
+5
+
+Rusty Quill Gaming – 15 – BOOM!
+
+(Group laughter)
+
+BRYN
+And some silver paint!
+
+JAMES
+Yes!
+
+ALEX
+When those two go together Bertie’s a happy man!
+
+BRYN
+That’s all the weapons he needs! They’re only armour and the swords!
+
+ALEX
+We had a bit of a hairy moment with Zolf where it turns out Zolf’s a big fan of
+just eye for an eye, tooth for a tooth, so what’s going to happen…
+
+BRYN
+Drown for a drown!
+
+ALEX
+Drown for a drown!
+
+6
+
+Rusty Quill Gaming – 15 – BOOM!
+JAMES
+Drowning an eye, drowning a tooth, just holding them underneath the water
+until they stop breathing!
+
+(Group laughter)
+
+ALEX
+So, we’ll have to see how that plays out once you guys have dealt with these
+fighters, and I must say, that given that you, last session, were hitting criticals
+left, right and centre…
+
+LYDIA
+Yeah, boom!
+
+ALEX
+…removing them in a single turn, which by the way…
+
+BRYN
+Definitely centre.
+
+JAMES
+Mostly centre.
+
+(Laughter)
+
+7
+
+Rusty Quill Gaming – 15 – BOOM!
+BEN
+Both Sasha and Bertie did critical hits and did immense amounts of damage. I
+completely failed every role and lost a spell to no effect.
+
+BEN
+And I’m not even at the fight yet!
+
+ALEX
+You had a brilliant move!
+
+BEN
+I did! That was some good four squares!
+
+JAMES
+It was pretty… it was a sashay, which is difficult to do when you’ve got a pegleg! Well done.
+
+(Group laughter)
+
+ALEX
+So, I believe at this stage it is the dog’s turn – because Bertie just annihilated
+someone!
+
+JAMES
+Yep.
+8
+
+Rusty Quill Gaming – 15 – BOOM!
+
+ALEX
+The dog hears that something’s happening and proceeds to run five, ten, 15,
+20, 25, past the doorway and round the corner to see what the noise is.
+
+(Lydia laughs)
+
+ALEX
+I fear you may have picked the worst of the two dogs to be your best friend.
+Zolf, you are up.
+
+BEN
+Okay.
+
+ALEX
+And you have line of sight through Bertie’s legs although, I’m going to be
+honest, that might be a bit of a tall order for a shot, I might have to up the AC
+of whoever you’re firing at if you choose to.
+
+BEN
+The doors. Are they double-doors, as in, are they ten-foot wide? You said they
+were barn door size.
+
+ALEX
+They are double-doors, but they are only… one of them is open so there is a
+five-foot door open.
+9
+
+Rusty Quill Gaming – 15 – BOOM!
+
+JAMES
+Okay. In which case, would it be acceptable for me to walk five up to the door
+and then a five diagonal in?
+
+ALEX
+I will allow that, that’s fine, because the door is freely swinging, it’s just not
+currently…
+
+JAMES
+Also, Bertie would have moved forward if he’s slashing things, he’s not going to
+go the whole five-foot in depth of the square…
+
+ALEX
+Oh, exactly, you’re absolutely fine.
+
+BEN
+Yeah, yeah, cool. Okay, lovely! In which case, I will do that and then I will fire
+an icicle.
+
+ALEX
+I should remind listeners by the way, there is currently a corpse in front of
+Bertie – a pro…
+
+JAMES
+Two half corpses.
+10
+
+Rusty Quill Gaming – 15 – BOOM!
+BRYN
+The space in front of Bertie is empty. There’s half a corpse in front of Hamid to
+Bertie’s left, and half a corpse in front of Zolf to Bertie’s right.
+
+ALEX
+How is it two corpses? I don’t know how the grammar works.
+
+LYDIA
+Well, I’m assuming, mechanically, it’s like two small corpses.
+
+ALEX
+Oh yes, it’s two corpses of small creatures who happen to be half a person and
+there is someone guarding, apparently, the entrance to the steeple off to one
+side, and the caster who is currently flat on his back in the doorway to upstairs,
+and Sasha’s still in the stairway, but ready to come down.
+
+BRYN
+We probably can’t see her, to be fair.
+
+ALEX
+Oh no, you wouldn't know…
+
+LYDIA
+Shadoooooowwww…
+
+BEN
+11
+
+Rusty Quill Gaming – 15 – BOOM!
+Although he did fall over with bleeding shoulder-blades…
+
+JAMES
+We can infer. There’s a lot of circumstantial evidence.
+
+(Group laughter)
+
+BEN
+So I’m going to walk in…
+
+ALEX
+And he’s yelling, ‘Oh my god, that young girl stabbed me in the back, what the
+heck?!’
+
+BEN
+Yeah, I’m going to walk in, clock the bad guy has one of those fire-bombs and
+continue to walk forward, thus removing the big clump of bad people.
+
+ALEX
+Ah, wise, wise.
+
+BEN
+Ah, just shield up, shield ready – that’s me.
+
+12
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+So the first one who came down is dead. Properly dead. In bits. So Sasha, you
+are now leading the turn.
+
+LYDIA
+Hmmm…
+
+BEN
+Does somebody prone count as flanked or are they just flat-footed?
+
+JAMES
+I mean, being prone does lower an… does lower your AC.
+
+BEN
+Let’s put it this way, he’s certainly easier to hit but I…
+
+BRYN
+He’s already taken a lot of damage as well.
+
+LYDIA
+What… is it mechanically possible for me to duck out of the stairwell, throw a
+dagger at this dude and then duck back into the stairwell.
+
+ALEX
+Hmmm… this is heading into one of those GM things. This has happened quite
+a lot.
+13
+
+Rusty Quill Gaming – 15 – BOOM!
+
+LYDIA
+Because this is me taking…
+
+ALEX
+Sure.
+
+LYDIA
+… basically, I mean, I assume it’s like a five foot… but there’s no attacking
+opportunity. He is, for the listeners at home, he is what, ten foot away from
+me?
+
+ALEX
+In range, he’s fine.
+
+BRYN
+A prone character takes a bonus to AC against range attacks.
+
+ALEX
+Yeah, because they…
+
+LYDIA
+… but it’s that dude I want to throw things at – the guy that’s got…
+
+ALEX
+She wants to lean over the prone one.
+14
+
+Rusty Quill Gaming – 15 – BOOM!
+
+BRYN
+Ah, right.
+
+LYDIA
+I want to lean over the prone one.
+
+ALEX
+This is going to be a slightly house-rule-y one, but I have played with this
+before and it seemed to work quite well. I was one playing a game with a
+sniper, a sniper rogue, archer, but still a sniper, and there are rules regarding
+cover and total cover, and leaning out, blah, blah, blah…
+
+LYDIA
+Yeah…
+
+ALEX
+… and it starts to feel a bit broken…
+
+LYDIA
 Right.
-ZACK
-Where's Levi?
-LUNA
-He's trying to make one of the wake-up
-rooms safe. I'll show you.
-ZACK
-Great. Can you help with Riley?
-RILEY
-I'm fine, it's just shock.
-ZACK
-We need to get him warmed up.
-LUNA
-Sure, I'll take you to Levi and we'll go
-from there.
-In the distance, there is a chorus of whistles. Luna listens, lost in
-thought.
-Luna? Luna!
 
-MIRA
+ALEX
+… so what I have tended to do in the past and, obviously, listeners if you have
+any better versions of this do write in and let me know – I genuinely am trying
+to get better at what I am doing – what I have seen work in the past is that in a
+15
 
-LUNA
-Hm? Yeah. Yeah, this way.
-They head off into the corridors.
-6. INT. THE NOW-FORTIFIED AWAKENING ROOM
-Mira is once again messing with the door controls. There is a
-satisfying Clunk as a lock engages.
-MIRA
-There, that should do it.
+Rusty Quill Gaming – 15 – BOOM!
+full turn, you can lean out from cover, sort of around a corner, get off a shot,
+and then return to cover.
 
-LEVI
-Thanks. Couldn't quite figure out the
-mechanism.
-MIRA
-You've done a pretty good job with this
-place otherwise. And the door should be
-secure now, unless they're a lot smarter
-than we give them credit for.
-LUNA
-They might be.
-ZACK
-I've seen nothing to indicate that
-they're not mostly animalistic in their
-behaviour.
-LUNA
-The way they went to help their trapped
-friend...
-MIRA
-'Friend'? Let's try not to give too much
-credit to the things that want to eat us.
-ZACK
-Animals can display all sorts of pack
-tactics or social dynamics, Luna. That
-doesn't mean they're people.
-A little ways off, there's a buzzing sound as an electric heating
-element springs to life.
+LYDIA
+Great!
 
-Ah-ha!
+ALEX
+I don’t think it’s spelt out in the rules that that is a full turn in action, it’s more
+like, from cover you can do this, if you do this then, blah, blah, blah. But a
+simple version is, if you are from cover and want to get a shot off and get back,
+I will just say that takes a full turn, no moving, you get one attack. Okay?
+What I would say is that currently you are still up the stairs a bit because there
+were two people between you so you would need to move to get into that
+position…
 
-RILEY
-(Distant)
+LYDIA
+Right, okay…
 
-LEVI
-(Calling)
-You get it working?
-They walk over to where Riley has pulled out and turned on a glowing
-heating element. There is a buzzing sound that evokes a fireplace.
-LUNA
-I thought the heating in here was broken?
-RILEY
-It was, but I got one of the heating
-elements out and with a bit of juryrigged wiring, well...
-MIRA
-Should stop us freezing, at least.
+ALEX
+… so you could certainly get round the side and get a shot off, but you wouldn't
+be able to do your, sort of, poke out, shoot and poke back until next turn.
 
-ZACK
-And no fire this time.
-LEVI
-Thought it maybe wasn't the safest idea.
-They sit down around the heat source. Zack pulls out some food bars and
-tosses them to the others.
-ZACK
-Here. Eat up. Had to drop the bag, but I
-kept a few on me just in case. Enough for
-a day or two, hopefully.
-LEVI
-So what do we do? Just hunker down here
-for awhile?
-RILEY
-It's a pretty decent spot for it.
-MIRA
-No. We rest and keep moving. It's a
-defensible position, but we're still in
-enemy territory.
-LUNA
-Enemy territory? Now who's treating them
-like people.
-MIRA
-The plan is unchanged. We reach the
-bridge, find the Commander.
-LEVI
-And wake up all the others.
-Beat.
-RILEY
-Seriously?
-MIRA
-You see a problem with that plan?
-RILEY
-Uh, yeah. Look, I know I'm struggling
-with all this, and you don't take me
-seriouslyMIRA
-You have had a difficult time handling
-things, Riley.
-RILEY
+JAMES
+Consider though, if he throws a thing he’s just likely to hit his mates.
 
-Because I seem to be the only one who's
-not living in some sort of fantasy world!
-Look, I want to find the Commander as
-much as you do. Obviously, I've been made
-so I can't not want to. But look around.
-If the Commander ever actually woke up,
-they're either long gone or long dead or
-both. And as for reviving the others,
-that system clearly isn't operating
-properly any more! Face it, the five of
-us woke up by accident. And I kind of
-wish we hadn't.
-They consider what Riley has said.
-RILEY
-If this station ever did what it was
-designed to, then we missed it.
-LEVI
-I can't accept that we're the only ones.
-ZACK
-You may have to, Levi. I think... I agree
-with Riley.
-LUNA
-Mm.
-There is silence.
-MIRA
-That doesn't actually change anything.
-LEVI
-What do you mean?
-MIRA
-Practically speaking. Commander or no
-Commander, even if we're the only ones,
-it still makes most sense to try and make
-our way to the bridge.
-ZACK
-And if the bridge is full of those
-creatures?
-MIRA
-Then we'll know. Right now our biggest
-obstacle is ignorance. Everything we've
-been saying, right now it's just
-guesswork. We can't make a proper plan
-without any actual information, and if we
-can find that anywhere, it'll be on the
-bridge. Plus, we need to get out of enemy
-terr- The hunting grounds of these
+16
 
-things, and towards the command deck is
-as good a direction as any.
-ZACK
-We don't even know we're going the right
-direction.
-MIRA
-We're going up. That feels like the right
-direction, at least until we find a map.
-LUNA
-Are we sure these creatures are attacking
-us as a food source? Is there some other
-reason they might be hostile?
-LEVI
-Well, I'm not all that keen on finding
-out either way.
-RILEY
-You think they're the reason the station
-is broken? Did they damage it while we
-were asleep?
-LUNA
-Maybe. Maybe the builders just stopped
-maintaining it at some point. It's all
-very well having a millennia-long
-project, but...
-ZACK
-It only takes one generation to forget.
-LEVI
-You think there are still people out
-there? In the universe, beyond the
-station?
-MIRA
-I think we need to get some rest. Someone
-needs to watch the door, in case they try
-to get in. We should take shifts. Any
-volunteers for first?
-LUNA
-I'll take it. Don't really feel tired
-anyway.
-MIRA
-Ok. Wake us if there's any trouble.
-LUNA
-Of course.
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+Oh, yeah – if he was to throw it at you…
 
-7. THE FORTIFIED AWAKENING ROOM
-There is the sound of the other four sleeping quietly (Levi is gently
-snoring) as Luna makes her way to the door and opens it. She pauses, as
-a distant whistling is heard. Luna sighs, steels herself and steps
-through. The door closes behind her with a hiss and a thud that
-disturbs Riley, who begins to rouse themself from sleep.
-RILEY
-(groggy)
-Hm? Wha- Everything alright?
-There is no response.
-RILEY
-Luna?
-They get up, looking around.
-RILEY
-Luna?
-ZACK
-(awakening)
-Riley? What's wrong?
-RILEY
-It's Luna, she's gone.
-ZACK
-What? What do you mean, she's gone?
-RILEY
-I mean she's not here. She left the room.
-Mira! Levi!
-The other two start to wake up.
-ZACK
-Or she was taken.
-LEVI
-What's happening? Who's been taken?
-RILEY
-Luna's gone.
-MIRA
-Shit! What happened?
-ZACK
-We don't know. She's gone.
-MIRA
-(panicked)
+LYDIA
+Yeah.
 
-Did any of you hear anything? Any
-whistling?
-LEVI
-Doesn't look like they broke in.
-MIRA
-We've got to go after her.
-RILEY
-She wouldn't have left willingly, would
-she?
-Beat.
-Come on.
+ALEX
+… he would be hitting himself and the cast there, and you.
 
-MIRA
+LYDIA
+No, I get that he’s probably going to throw it at those dudes…
 
-8. INT. A CORRIDOR, DEEP IN WHISTLER TERRITORY
-Like everywhere else, the corridor here thrums with the same distant
-sound of machinery, but it sounds more obviously broken here, clogged
-with assorted alien goops. Luna makes her way slowly, nervously.
-LUNA
-This is a bad idea.
-She keeps going, stepping on a patch of alien resin. She makes a noise
-of disgust.
-LUNA
-I can still go back. I should go back.
-She pauses.
-LUNA
-No. They're not just animals. I know
-they're not.
-There is an ominous whistling from further down the corridor.
-LUNA
-(Quietly)
-H-Hello?
-There is no sound in response.
-LUNA
-We can't go on like this. We just can't.
-She steels herself.
-LUNA
-(louder)
-Hello!
+ALEX
+Uh, huh…
 
-There is a whistle from up ahead, as though in answer.
-Luna's breathing begins to speed up as fear hit her. First one whistler
-emerges, limbs clicking unpleasantly, then another follows.
-LUNA
-Hello. Hello to you. T-to both of you.
-There is another whistle, with a tone of almost curiosity.
-LUNA
-I'm not here hurt you.
-One of them comes closer.
-LUNA
-Luna. My name is Luna.
-The further one lets out a long, low whistle, which the other
-harmonises with. The tones shift and merge, as though having a
-conversation.
-LUNA
-I knew it. You do talk to each other.
-You're not just monsters. YouThere is a cracking sound as one of them begins to split open,
-revealing a horrible mouth.
-LUNA
-What is that? Oh my god, is that your
-mou-AAAHH!
-She screams as the whistler lunges at her.
+LYDIA
+…the gang of people, but I… it is not a very “me” thing to do to go out and just
+stab him. Like, I want to stay in cover…
+
+BRYN
+Plus, you would be trying to share a space with someone who is currently
+prone who would, obviously, get a bit shirty at that…
+
+LYDIA
+Yeah, quite possibly…
+
+17
+
+Rusty Quill Gaming – 15 – BOOM!
+BRYN
+…so, that would be quite difficult…
+
+LYDIA
+…nibble at my ankles. Okay.
+
+BRYN
+My suggestion is to stay in cover at the bottom of the stairs and you will be
+threatening the prone guy.
+
+LYDIA
+Yeah, so if I stay there, and lean out and throw a… I think I might throw the vial
+of fire stuff actually, do I have to…
+
+BRYN
+Again, so is it that you want us to be ready so the next turn you can throw it
+out, because you couldn't throw it out and duck back in this time.
+
+LYDIA
+I think I will just throw it and I will stay.
+
+ALEX
+You couldn't throw it from within that doorway unless you took a whole turn is
+what I am saying. Very often as a rogue, you will catch yourself readying in
+holding actions…
+
+LYDIA
+18
+
+Rusty Quill Gaming – 15 – BOOM!
+Yep, okay.
+
+ALEX
+I strongly recommend…
+
+LYDIA
+… I will do that…
+
+ALEX
+…holding your action because he is going to get a shot off…
+
+LYDIA
+…yeah, yeah…
+
+ALEX
+…and then you can just go, he’s got his shot off, great, I am going to lean out
+and that seems to be a better way.
+
+LYDIA
+Yep, okay. That sounds good, and also those guys aren’t in a big huddle so
+they will not necessarily all be smashed with six damage as happened last
+time…
+
+ALEX
+Yeah, exactly…
+
+19
+
+Rusty Quill Gaming – 15 – BOOM!
+LYDIA
+… that I didn’t take a shot that I could’ve.
+
+ALEX
+… so, so, I wouldn't… for all listeners, it’s good to remember that holding your
+action can sometimes feel like you’re passing, like, I don’t know what to do.
+Actually, what you are really doing is, technically speaking, this is all sort of
+happening simultaneously…
+
+LYDIA
+Right, right…
+
+ALEX
+… it’s waiting for an opportune moment and especially as a rogue, if you are
+not holding your action and readying actions, you’re going to be finding it
+really quite difficult.
+
+LYDIA
+Okay. So that’s what I do!
+
+ALEX
+Sure. And genuinely, it’s probably the best thing right now.
+
+LYDIA
+So, from my understanding I am now standing there with my thing drawn,
+ready to throw… gotcha…
+20
+
+Rusty Quill Gaming – 15 – BOOM!
+
+ALEX
+Oh yeah, next turn, once it comes round, or if a different thing comes up
+because you’ve held your action, you’ve not readied it...
+
+LYDIA
+Ahh, yeah…
+
+ALEX
+…because if you’d readied it, you know, certain conditions have to be met.
+
+LYDIA
+Right!
+
+ALEX
+So, Hamid…
+
+BRYN
+Hamid does hold his action, not for a tactical reason, but for… because he’d
+trying to desperately pull himself together. He could either just go outside and
+cry…
+
+(Laughter)
+
+… or he can stay here, take a few deep breaths and try to be useful again, so
+I’m…
+21
+
+Rusty Quill Gaming – 15 – BOOM!
+
+ALEX
+Things have got very real, haven’t they?!
+
+BRYN
+…he’s struggling a bit, but I’m going to hold my action.
+
+ALEX
+Okay.
+
+BRYN
+… and see if he manages to pull himself together at bit.
+
+ALEX
+In which case, the one who’s wielding a flask sees what happened to his friend
+and disappears up the steeple. The one who is prone on the floor doesn’t see
+this currently. The one who is on the floor takes stock of the situation; looks to
+the right, sees one of his people down; looks to the left and sees Sasha quite
+literally over him in a very menacing way and he has already been stabbed in
+the back. He then casts the spell that he was going to cast before.
+
+BRYN
+He will have to cast defensively or trigger an attack of opportunity…
+
+22
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+He will have to cast defensively so the first thing he will do is make his
+concentration check.
+[rolls dice]
+So he failed his defensive concentration check…
+
+LYDIA
+Ah ha…
+
+JAMES
+Stabby, stabby…
+
+LYDIA
+I will stab, a stab.
+
+ALEX
+Yep, go for a stab.
+
+LYDIA
+Do I really need to roll to hit?
+
+ALEX
+Erm, yeah!
+
+BEN
+You could…
+23
+
+Rusty Quill Gaming – 15 – BOOM!
+
+BRYN
+If you get a 1 you might drop your dagger on him and it would still do
+damage…
+
+LYDIA
+[rolls dice] 19.
+
+BEN
+And also you can roll a critical.
+
+ALEX
+19. You’ve gotten a critical! I want you to know – this person’s scary. He’s not
+coming across that way, but this person is actively scary.
+
+(Laughter)
+
+LYDIA
+You’ve spent a lot of time giving him really scary possibilities…
+
+ALEX
+He just needs to get off one spell, that’s all I need!
+
+BEN
+Shall we confirm it and finish him off?
+
+24
+
+Rusty Quill Gaming – 15 – BOOM!
+[rolls dice]
+
+ALEX
+Oh, thank goodness!
+
+LYDIA
+Nooo…
+
+BEN
+Well, bearing in mind he’s flat-footed, doesn’t get any of…
+
+BRYN
+…he’s not flat-footed, he’s prone which is a minus 4 to his AC.
+
+ALEX
+It is not enough.
+
+BEN
+Okay, fair enough.
+
+LYDIA
+So… but I hit him..
+
+25
+
+Rusty Quill Gaming – 15 – BOOM!
+
+ALEX
+You definitely hit him but you don’t do what you did before and get all of the
+damage in the world.
+
+LYDIA
+Right.
+
+ALEX
+So you still get your D4…
+
+LYDIA
+Yep, but I’m not going to kill him with a D4…
+
+JAMES
+You never know!
+
+LYDIA
+One! Minus one!
+
+BRYN
+Zero!
+
+LYDIA
+I do no damage. With a critical! I rolled a 19 and…
+
+26
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+I’ll point out, you have, however…
+
+LYDIA
+I did a lot of damage. It was fun!
+
+ALEX
+You’re certainly catching up on Bertie, who now has to find another enemy!
+
+(Lydia laughs)
+
+You just thrashed it out – it’s very different.
+
+BEN
+He still has to make a concentration check or lose the spell.
+
+ALEX
+He does.
+
+BRYN
+But the DC will not be very high since he took zero damage.
+
+ALEX
+And, a bit of a spoiler, his concentration check is formidable. He just rolled
+very poorly.
+
+27
+
+Rusty Quill Gaming – 15 – BOOM!
+[rolls dice]
+
+BEN
+One, one, one…
+
+(Group roars!)
+
+LYDIA
+Like, now I’m sort of almost regretting that I’m not going get to see whatever
+scary stuff this dude can do!
+
+(Laughter)
+
+BEN
+No, once it happens you’ll definitely regret it.
+
+LYDIA
+But, like, when we… the people we lost to terribly were just gutter rats, they
+just kept stabbing us…
+
+BEN
+Outnumbered…
+
+LYDIA
+… slightly.
+
+28
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+You were massively outnumbered. Actually in Pathfinder mechanically it is
+worth noting that. When you are building encounters, we will spend
+eventually some meta-cast who got planned out for how you GM, how you
+build these encounters, things like that. Outnumbered matters a lot. It
+actually ups the difficulty of the scenario disproportionately. So two weak
+people are actually better than one person who is of slightly better level than
+they are because you just, it’s about that difference in turns – you take a turn,
+they take five. It really starts to mount up very quickly.
+
+LYDIA
+Yeah, but I just think we didn’t get to see them do explosive, exciting things.
+
+JAMES
+The good news is, if he is a prepared spell-caster he now can’t cast that spell
+anyway because he expended the spell energy…
+
+LYDIA
+Ahhhhh…
+
+BRYN
+…for zero effect!
+
+ALEX
+So he didn’t get his spell off.
+
+29
+
+Rusty Quill Gaming – 15 – BOOM!
+BRYN
+If he’s a spontaneous caster he’s just lost a slot and it’s not such…
+
+BRYN
+He puts hands down and then pffftt…
+
+(Lydia laughs)
+
+JAMES
+His spell is, sleeves fall down!
+
+(Group laughter)
+
+ALEX
+Bertie, you’re up.
+
+JAMES
+Oh! Er, right, so the chap’s escaped up the steeple…
+
+ALL
+Mmm hmmm…
+
+JAMES
+The one who was standing up. Can I charge the prone man?
+30
+
+Rusty Quill Gaming – 15 – BOOM!
+
+(Group laughter)
+
+BRYN
+You can absolutely charge the prone man.
+
+JAMES
+So I could charge the prone man or I could charge up the steeple stairs.
+
+BRYN
+Charge requires a straight line.
+
+JAMES
+Straight line, okay.
+
+ALEX
+Across undamaged terrain.
+
+JAMES
+In that case, I’m going to charge the prone man. I’m going to charge the
+defenceless man lying down…
+
+BRYN
+… who has just failed to do magic properly.
+
+31
+
+Rusty Quill Gaming – 15 – BOOM!
+BEN
+True! I was going to say, you have go with the charge prone people otherwise
+that would be an amazing thing of, oh no, a bear might charge me, I fall over.
+
+(Group laughter)
+
+JAMES
+Just be still, just be still – they won’t notice you!
+
+BEN
+I’m not going to charge you!
+
+JAMES
+If he’s prone can I also power-attack?
+
+ALEX
+Yes!
+
+(Group laughter)
+
+LYDIA
+No we need to know things from this guy…
+
+32
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+Well you could take a penalty to hit…
+
+BRYN
+You probably won’t critical!
+
+(Lydia laughs)
+
+ALEX
+… to then do non-lethal. So it would be hitting him with the flat of your blade…
+
+LYDIA
+That’s not very Bertie though, is it?
+
+JAMES
+Not really. I could maybe, like, hack off a leg or something?!
+
+ALEX
+Just roll it and see what happens.
+
+JAMES
+Sorry. I do want to power-attack him though…
+
+ALEX
+Okay, that’s fine. Going for broke, that’s fine.
+33
+
+Rusty Quill Gaming – 15 – BOOM!
+
+JAMES
+[rolls dice] Er, 12 plus my attack bonus which is six, but it’s five because it’s a
+power-attack…
+
+BRYN
+Plus two for charging…
+
+JAMES
+19? 19 total.
+
+BRYN
+Yes.
+
+LYDIA
+That is a hit!
+
+JAMES
+Yep, good. Now what am I rolling?
+
+BEN
+D10 and damage.
+
+BRYN
+D10 and plus five.
+
+34
+
+Rusty Quill Gaming – 15 – BOOM!
+JAMES
+D10 and plus five. Four. Nine. Nine damage.
+
+ALEX
+Nine damage. Okay.
+
+BEN
+It’s 18 so far!
+
+ALEX
+19 so far!
+
+BEN
+Oh! Okay!
+
+ALEX
+… and, he is not down!
+
+BRYN
+Yeah he is, he’s prone!
+
+(Group laughter)
+
+ALEX
+Well, he doesn’t appear to be dead, let’s say that!
+35
+
+Rusty Quill Gaming – 15 – BOOM!
+JAMES
+So, Bertie charges over to him and just, like, kicks him. Just kicks him really,
+really, REALLY hard, but like with his sword!
+
+(Group laughter)
+
+BRYN
+At this point I will use my held action.
+
+ALEX
+Yep, you insert. That’s fine.
+
+BRYN
+Hamid is struggling through the vomit to do something helpful, but spots that
+this guy is still moving and knows just how scary spellcasters can be, so he
+casts a magic missile…
+
+ALEX
+Okay.
+
+BRYN
+[rolls dice] Three damage.
+
+36
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+Okay. He takes that damage and Alex looks smug and doesn’t say anything.
+That isn’t desperately covering because his boss is quite, quite near death at
+this point. Ah, the dog…
+
+BEN
+Da, da, daaaahhh… Was a traitor all along!
+
+JAMES
+Brutor! Yeah, he’s their fifth columnist.
+
+LYDIA
+Et tu Brutor?
+
+(Group laughter)
+
+ALEX
+I like that one, that was a historical one! Okay, so… five, ten, twenty, like,
+thirty… comes in! Comes into the church, figures out how doors work!
+
+JAMES
+Dog has worked out how the door works, i.e. has walked through the open,
+smashed door.
+
+ALEX
+Yes, yes.
+37
+
+Rusty Quill Gaming – 15 – BOOM!
+
+BEN
+It’s how apertures work!
+
+(JAMES laughs)
+
+ALEX
+Now, beside Bertie… So we’ve got Bertie overlooking a prone enemy, a dog
+overlooking a prone enemy, Sasha overlooking a prone enemy, an enemy who
+is quite beaten up… yeah! Yeah, okay! Zolf, you are up!
+
+BEN
+Excellent! One, two!
+
+(Laughter)
+
+Do I have an okay line of sight to this guy?
+
+JAMES
+Over the dog, quite a short dog.
+
+ALEX
+Technically, here’s a fun one – the enemy counts as a mêlée because they are
+basically adjacent to three people so they are in mêlée so you will be taking
+penalties for being in mêlée and also because you will be shooting over the
+dog, you will actually be taking a penalty for that as well.
+38
+
+Rusty Quill Gaming – 15 – BOOM!
+
+BEN
+If it’s a ranged touched, does that do anything?
+
+ALEX
+It makes it…
+
+BRYN
+You take the same penalty…
+
+ALEX
+… easier to do…
+
+BRYN
+…but the AC is lower…
+
+ALEX
+… but you take the penalty.
+
+BRYN
+You must remember he gets a bonus to AC against arranged attacks.
+
+JAMES
+Isn’t your weapon a long weapon?
+
+39
+
+Rusty Quill Gaming – 15 – BOOM!
+BEN
+I could try and prod him with the trident…
+
+(Laughter)
+
+… but over the dog…
+
+JAMES
+If you’re doing it non-lethally you have to do it at the wrong end…
+
+BEN
+Yes! Doink, doink! No, in which case I think this guy, I mean, it looks like
+they’ve probably got this… So I’m going to start walking…
+
+LYDIA
+Haven’t you already moved two? Oh so this is a double move.
+
+BEN
+I have to basically use a double move at all times, is the sad thing.
+
+(Lydia laughs)
+
+ALEX
+At which point, the one on the ground, “I surrender! I surrender, I have
+surrendered!”
+
+40
+
+Rusty Quill Gaming – 15 – BOOM!
+LYDIA
+Can I lean in and put a knife to his throat?
+
+ALEX
+It is currently your turn, you’re in combat unless you… I mean, this is a bit
+vague in the rules, but I will assume you are in combat until you guys tell me
+otherwise or there’s no way that combat can happen.
+
+BEN
+In which case, can I do a free speak-y action… ?
+
+ALEX
+Sure.
+
+BRYN
+… and shout up the stairs, your boss has just surrendered! You should
+probably do the same!
+
+LYDIA
+Yeah, I’m going to lean in and put a knife to this guy’s throat and say, hold his
+hands, magic and stuff, he’s a magical one!
+
+ALEX
+Very wise!
+
+41
+
+Rusty Quill Gaming – 15 – BOOM!
+JAMES
+I think Bertie… did this guy look, like, very, very obviously dangerously magic?
+Does he have an obvious air of menace?
+
+BRYN
+No.
+
+ALEX
+Can you all give me a perception check now that you can examine the person
+properly?
+
+[sound of dice being rolled]
+
+JAMES
+Nine.
+
+BRYN
+Yep, definitely a person.
+
+(JAMES laughs)
+
+ALEX
+Bryn?
+
+BRYN
+24.
+42
+
+Rusty Quill Gaming – 15 – BOOM!
+
+LYDIA
+16.
+
+ALEX
+16? Er, yeah. Zolf’s currently keeping an eye on the stairs.
+
+JAMES
+My perception roll, I can’t tell if it’s a man lying down or a shorter man!
+
+(Group laughter)
+
+ALEX
+In fairness, you can discern everything that you’ve already discerned. Hamid,
+you are…
+
+BRYN
+… about 30 foot away…
+
+ALEX
+I would say that you discern that this person seems to have… something seems
+off and you can’t really place it, and you’re not really in the right headspace.
+Sasha, you can discern that the person, unless they tried to, sort of, cast a spell
+or something, there’s not really anything that they can do – you have a knifeto-throat two other people, admittedly one of them is a dog who’s licking his
+boots…
+43
+
+Rusty Quill Gaming – 15 – BOOM!
+
+(Group laughter)
+
+… but you’ve kind of got this person pretty heavily pinned. It doesn’t look like
+they’re about to, you know, sweep into a rage and go, “Ha ha! Here’s my 16
+other arms and 15 daggers!” It doesn’t seem like it would go that way.
+
+LYDIA
+I am not familiar with magic, so that would seem like something that is
+plausible to Sasha.
+
+ALEX
+Sure. You were saying?
+
+JAMES
+Erm, yeah… I think Bertie is still quite suspicious of this chap and I think he
+would like to withdraw his secondary weapon, his rapier, which is quite a thin
+instrument…
+
+ALEX
+Mmm hmm…
+
+JAMES
+…take the chap’s right hand and just smash the rapier through it and pin it to
+the floor…
+
+44
+
+Rusty Quill Gaming – 15 – BOOM!
+ALL
+Ohhhhh…
+
+LYDIA
+Bertie!
+
+JAMES
+He’s not going to be casting any spells at me!
+
+BRYN
+You’d be better off just knocking him out!
+
+JAMES
+Oh… but then we want to question…
+
+ALEX
+Make the call. If you want to do that, that’s fine. However, it will count as an
+attack and he is hardly going to lie there and go, “yep, you just go ahead, that’s
+a price I’m willing to pay!”
+
+JAMES
+“Stab me through the hand!”
+
+(Group laughter)
+
+45
+
+Rusty Quill Gaming – 15 – BOOM!
+Yeah, okay. Good point. Oh – would Bertie care? No. Bertie is going to
+withdraw the rapier and stab him through the hand and try and pin him to the
+floor.
+ALEX
+Okay. Then give me an attack roll.
+
+JAMES
+[rolls dice] 15.
+
+LYDIA
+Oooh…
+
+JAMES
+My attack bonus for the rapier was five, so that’s 20.
+
+ALEX
+Okay. It counts as a hit. What was the damage?
+
+JAMES
+I need to roll out a D6 plus three… [rolls dice] One! So four.
+
+ALEX
+Four? Okay. Because you are struggling, you don’t manage to pin his hand to
+the ground – he takes another hit to his hand, which is looking a bit messed up,
+but, honestly, to pin him to the floor and to drive a rapier into solid stone, or at
+46
+
+Rusty Quill Gaming – 15 – BOOM!
+the very least between the crags of a stone, you’re going to need to do
+significantly better than that.
+
+JAMES
+Okay.
+
+ALEX
+But yeah, I’m going to say that you guys are out of combat time now because,
+frankly, he’s not going anywhere.
+
+BRYN
+Okay. What’s going on with the guy who ran off up the steeple?
+
+BEN
+Yeah…
+
+ALEX
+No one knows!
+
+BEN
+Yes! You guys got this?
+
+LYDIA
+I’m kneeling… I’ve got one leg on the dude’s upper arm because he’s on the
+ground, and then I’ve got a knife under his throat and I’m holding his hair, so
+he’s, like, fricking pinned so he can’t use an arm to spell.
+47
+
+Rusty Quill Gaming – 15 – BOOM!
+
+BEN
+So have you guys got this?
+
+LYDIA
+I look and I nod, and that’s… but that’s, you know…
+
+BRYN
+Right. I will start heading up the stairs.
+
+BRYN
+I am going to run over to join Zolf.
+
+ALEX
+Okay, you start heading up the stairs.
+
+BEN
+All the while going, he’s surrendered! We’ll let you live if you do the same.
+
+ALEX
+Okay, you head up the stairs and encounter a closed door.
+
+BEN
+Why don’t you come out and we can talk.
+
+48
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+No answer.
+
+BEN
+Try and open the door?
+
+ALEX
+Okay. The door’s unlocked. You do so… [imitates hissing…]
+
+BEN
+… and I will leap back down the stairs! Through Hamid!
+
+ALEX
+Sure.
+
+(Laughter)
+
+ALEX
+Hamid sees Zolf just run back down the stairs…
+
+BEN
+No, no, no, no – I throw myself backwards…
+
+ALEX
+Oh, you literally just…
+
+49
+
+Rusty Quill Gaming – 15 – BOOM!
+BEN
+Well, because I’ve got a peg-leg…
+
+ALEX
+Oh!
+
+(Laughs)
+
+BEN
+… I can’t move fast!
+
+ALEX
+Fair point! You hear a “sssssssss…” at which point… Everyone give me a reflex
+save.
+
+[sound of dice being rolled]
+
+BEN
+19.
+
+JAMES
+15.
+
+BRYN
+22.
+
+50
+
+Rusty Quill Gaming – 15 – BOOM!
+LYDIA
+Eight.
+
+BRYN
+Oh dear.
+
+ALEX
+For once, everyone apart from Sasha…
+
+LYDIA
+Oh, with my bonus!
+
+(Group laughter)
+
+I’m just enjoying having the power over this dude for so long… so much that I
+just don’t notice… ‘Yeah, I’ve got a knife at his throat, yeah!’
+
+ALEX
+… at which point there is an enormous explosion…
+
+[sound of an explosion]
+
+… apparently directly overhead and, with that, parts of the ceiling start to give
+way above you, and we’re going to take a break there and we’re going to see
+what happens after that!
+
+LYDIA
+51
+
+Rusty Quill Gaming – 15 – BOOM!
+[gasps]
+
+[AD BREAK]
+
+ALEX
+And welcome back! So, yeah, the ceiling appears to give a bit of a judder and
+bits of it start to fall down…
+
+[sounds of ceiling falling in]
+
+… everyone who is on that floor takes one D6 plus two damage. However, all
+of you made your reflex saves to avoid said damage apart from Sasha.
+
+LYDIA
+Ohhhhh…
+
+ALEX
+So I’m rolling just for Sasha…
+
+JAMES
+And the prone chap, surely?
+
+ALEX
+… er, yep, and the prone chap…
+
+JAMES
+52
+
+Rusty Quill Gaming – 15 – BOOM!
+Okay.
+
+ALEX
+… both of them take…
+
+[rolls dice]
+
+… seven…
+
+LYDIA
+This is what happens if I let any of you actually do anything!
+
+ALEX
+… so, there’s a big roar…
+
+[roaring sound]
+
+…and then chunks of masonry start falling down and…
+
+LYDIA
+I’m tied up for one second…
+
+ALEX
+To clarify, it doesn’t seem like the whole building’s coming down on top of you
+guys, but certainly bits of it start falling, masonry hurtling towards the ground,
+a couple ding off Bertie, Hamid seeing it, manages to sort of keep out of the
+53
+
+Rusty Quill Gaming – 15 – BOOM!
+way, thankfully, when Zolf threw himself back he kind of knocked Hamid as
+well and Zolf pretty much landed on Hamid and was taking most of the hits,
+but happened to just manage to avoid anything big. Sasha in the stairwell to
+the upper thing, pretty much the stairwell collapses inwards…
+
+LYDIA
+Nooooo…
+
+ALEX
+…and it doesn’t bury her, but she gets pushed out pretty much on top of the
+prone guy who has also taken some chunks of masonry. He is actually under a
+small pile of it.
+
+LYDIA
+…we take a lot of hurt!
+
+ALEX
+Yep…
+
+BRYN
+Bertie, drag them outside…
+
+JAMES
+Urrrrggggghhh…
+
+BRYN
+54
+
+Rusty Quill Gaming – 15 – BOOM!
+I’m going to help Zolf up and try and help him move that tiny little bit more
+quickly…
+
+BEN
+Yep…
+
+BRYN
+…whilst we retreat into the safer section of the church and possibly exit by the
+same door.
+
+JAMES
+Bertie is going to pull the prone man out by the hand that he savaged, pulling
+him along the ground like that…
+
+ALEX
+So as you reach down, it becomes clear that the person is unconscious. You
+don’t know if they are stable or not because you’re not trained in that kind of
+thing, but, yeah, you drag them. Did you say you dragged them outside or just
+to the far end of the church?
+
+JAMES
+Bertie is going to pull him out of the falling down building, just outside…
+
+ALEX
+Sure. So Bertie pulls him out of the falling down building. We won’t fret with
+the battle map anymore, we are out of combat.
+55
+
+Rusty Quill Gaming – 15 – BOOM!
+
+JAMES
+Okay, cool.
+
+ALEX
+Anyone else?
+
+BRYN
+We’ll head that way as well, but…
+
+BEN
+Will we?
+
+BRYN
+… obviously we’re slower because I’m staying next to Zolf to help him.
+
+BEN
+I throw myself down the staircase – is there an upper floor left?
+
+ALEX
+Looking up, it looks like they have tried to do what they did with the
+Simulacrum, which is someone’s trying to get in, you blow out all of the
+staircases to buy yourself some time. The steeple staircase appears to have
+caved in on itself and the stairway to the second floor also seems to have
+caved in. It doesn’t look like there’s been a massive enormous nuclear
+explosion and it’s all gone off and destroyed enormous amounts of…
+56
+
+Rusty Quill Gaming – 15 – BOOM!
+
+BEN
+So assumedly this guy has, unless there’s another way out, trapped themselves
+up the steeple.
+
+ALEX
+Presumably.
+
+BEN
+Cool. Are there, I mean, I’m assuming there’s quite a lot of sawdust and
+splinters just lying around, bits like that?
+
+ALEX
+Yeah.
+
+BEN
+Cool. I’m going to use ‘Spark’ to set one of those piles alight and burn him out.
+
+ALEX
+Okay.
+
+BEN
+And that’s… when I say set one of them alight, it’s one of the upper ones, not
+something on our level. So beyond the gap.
+
+57
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+What’s the range?
+
+BEN
+It is 25 foot plus five per caster level, so a lot.
+
+ALEX
+No, that’s fine, yeah. It begins smouldering upstairs.
+
+BEN
+Yeah, so a 30-foot range.
+
+ALEX
+And there don’t seem to be any cries from upstairs…
+
+BEN
+Yeah, it’s on a fine object, it’s like a flint and steel effectively, so I can set
+kindling on fire, I can’t just go, oh, there’s a huge fire so… that might catch,
+that might not, I don’t know.
+
+ALEX
+Sure. Certainly, it begins to smoulder.
+
+BEN
+Cool. And then I will turn and come back down the stairs.
+
+58
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+Mmm hmmm. That’s fine. So you all head outside. Do you stabilise or not
+stabilise the person who’s currently unconscious outside?
+
+BEN
+Is he bleeding?
+
+ALEX
+You’ll have to a heal check.
+
+[rolls dice]
+
+BEN
+That is 17.
+
+ALEX
+He is. If you don’t stabilise him, he will die.
+
+BEN
+Stabilise.
+
+BRYN
+I am going to grab Sasha and ask her to come with me so we can move around
+basically to monitor the steeple and the upper floors, if she comes?
+
+59
+
+Rusty Quill Gaming – 15 – BOOM!
+LYDIA
+I’m going to ignore you and I’m going to climb up to that window…
+
+ALEX
+Sure.
+
+LYDIA
+… so I can see what’s up.
+
+BRYN
+Yeah, sure. I will go round and watch the outside of the building from the
+other end.
+
+ALEX
+Okay. Sasha, give me a climb check.
+
+LYDIA
+[rolls dice]
+
+Oh, another 20. I get them when I don’t need them. Okay, 20 plus four.
+
+ALEX
+Okay. Now both of you give me perception checks.
+
+BEN
+What do you mean, don’t need them?
+60
+
+Rusty Quill Gaming – 15 – BOOM!
+
+(Group laughter)
+
+BEN
+Like when you stab the boss in the back!
+
+(Group laughter)
+
+LYDIA
+I’m in that, like, I have just had a lot of knocks on me…
+
+BRYN
+Oh, yeah, yeah, sure…
+
+LYDIA
+I would have, like, if I could have split that, that’s true…
+
+(Group laughter)
+
+I did dare…
+
+ALEX
+You’ve taken more damage plummeting from a rooftop or from a wall than
+you would have done…
+
+LYDIA
+True. Okay, yeah…
+61
+
+Rusty Quill Gaming – 15 – BOOM!
+
+(Group laughter)
+
+I take that back!
+
+(Group laughter)
+
+I get criticals and they’re lovely!
+
+(Group laughter)
+
+[sound of rolling dice]
+
+ALEX
+Bertie?
+
+LYDIA
+Oh, mine is then, er, 25.
+
+ALEX
+So you head round – I’ll deal with Hamid first. Heads round and sees that the
+steeple, yeah, appears to have caved in, as has most of the building at that
+end. They have very clearly done exactly what they did with the Simulacrum
+and just blown out any way of people following them up there. You, Sasha,
+climbing up, see that the smouldering is just beginning to catch. It’s right at
+the end that, sort of, collapsed in, and it’s right near some barrels, and it’s just
+beginning to sort of smoulder. You also see, as you do a quick cast around,
+62
+
+Rusty Quill Gaming – 15 – BOOM!
+what looks like the tip of someone’s clothing or something just sweeping over
+the roof above you, directly above you.
+
+LYDIA
+Ahhhh… ROOF BATTLE!!
+
+(Group laughter)
+
+Okay, I keep going – I climb further up.
+
+ALEX
+You climb up onto the roof?
+
+LYDIA
+Yeah!! Should have taken some feats for this…
+
+ALEX
+And the person on top turns around and sees you. You are now stood at
+opposite ends of the rooftop. It’s lead tile.
+
+LYDIA
+Oh, slippery!
+
+63
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+It’s a little bit slippy because, I mean, the roof’s a little bit leaky and it’s kind of,
+it’s kind of muggy next to the Thames, especially in such a closed area. You can
+see for a distance around you over the side of the compound…
+
+LYDIA
+Yep.
+
+ALEX
+And he’s there at the other end wielding…
+
+LYDIA
+Oh no…
+
+ALEX
+An oil flask…
+
+LYDIA
+Yep.
+
+ALEX
+Backed up, right backed up against the edge of the building, and he sees you
+and doesn’t say anything. He’s just stood there, sword in scabbard – it’s not
+drawn – but with the oil flask in his hand.
+
+LYDIA
+64
+
+Rusty Quill Gaming – 15 – BOOM!
+Mate, come down, we won’t… we won’t hurt you. We know it was the other
+guy that’s the boss, right? He’s the one that started all this. There doesn’t
+need to be anything, anything bad…
+
+JAMES
+Does Bertie overhear this?
+
+ALEX
+Er, give me a perception check.
+
+JAMES
+[rolls dice]
+
+BEN
+It’s probably diplomacy.
+
+JAMES
+One! Definitely, definitely doesn’t!
+
+(Group laughter)
+
+ALEX
+No. So… I don’t normally like to do this, but it feels quite nice. So while you’re
+having this epic rooftop discussion, which could end in blood, death and tears,
+there’s Bertie just, “How do you like that? How do you like that, there you
+are?!”
+65
+
+Rusty Quill Gaming – 15 – BOOM!
+
+JAMES
+Yeah, have a duel, Sir, have a duel! Come on! Just slapping him about really!
+
+(Group laughter)
+
+BEN
+Leave him alone – he’s had enough, alright?
+
+JAMES
+No he hasn’t – look at him, he twitched! Look, it’s a really menacing twitch.
+
+BRYN
+I’m still trying to get to a position where I can see… I probably have overheard
+with my previous perception roll?
+
+ALEX
+You have overheard that Sasha’s said something, you can’t hear what and you
+can’t see up, like, the guy’s not overhanging or anything…
+
+BRYN
+No, no…
+
+JAMES
+There’s some voice…
+66
+
+Rusty Quill Gaming – 15 – BOOM!
+BRYN
+Yeah. I’m going to back up a bit to somewhere where I might have a chance of
+seeing what’s going on. I probably can’t, but I’m going to try.
+
+ALEX
+Okay, so the guy’s there, backed up right up against the side.
+
+LYDIA
+Yeah.
+
+ALEX
+Right, er…
+
+LYDIA
+I do have a diplomacy modifier of minus one…
+
+ALEX
+If you want to talk him down, give me the roll and then try to talk him down, as
+in, that was just a quick…
+
+LYDIA
+Yeah, right…
+
+ALEX
+… but if you wanted to give it a solid go, give me the roll and then do it.
+
+67
+
+Rusty Quill Gaming – 15 – BOOM!
+LYDIA
+Right mate, you’ve got nowhere to go…
+
+ALEX
+Give me the roll first…
+
+LYDIA
+Sorry…
+
+[rolls dice]
+
+Oh…
+
+(Group laughter)
+
+BRYN
+That die is clearly weighted!
+
+(Group laughter)
+
+ALEX
+We’re going to quietly give that die to someone else for a little while and
+you’re going to use this die. We’re just going to do a little experiment in
+probability…
+
+68
+
+Rusty Quill Gaming – 15 – BOOM!
+BEN
+That’s not how that works!
+
+(Group laughter)
+
+ALEX
+But, erm, yeah – that was a natural 20 on Sasha’s diplomacy…
+
+[Bryn laughs]
+
+LYDIA
+Oh my god! I, er, so, mate, I know what it’s like, alright? I’ve been there. I’ve
+been… I’ve been in places where I, I get in situations that, that I didn’t choose,
+right? Sometimes the guys that have power, they’ve got you from the start
+and you don’t know what’s going on. You don’t need to end this jumping off a
+roof for someone else’s battle, mate. I know. Just come down. It’s quite, it’s a
+bit awkward, but it is heartfelt!
+
+(Group laughter)
+
+ALEX
+It makes you think that, like, even the worst character can have a moment of
+inspiration or, like, a real heartfelt go at it, so yeah…
+
+LYDIA
+She’s not the worst character!
+69
+
+Rusty Quill Gaming – 15 – BOOM!
+
+(Group laughter)
+
+ALEX
+No, that what I’m putting, if you’re not the worst then yeah, like, it’s a solid
+attempt!
+
+LYDIA
+Yeah…
+
+BRYN
+[rolls dice]
+
+I rolled 19 to overhear that. Not for any reason, just so I can…
+
+LYDIA
+You hear the speech?
+
+BRYN
+Yeah, it touches me… It really does.
+
+[James laughs]
+
+ALEX
+Do your big soulful eyes leak a tear?!
+
+70
+
+Rusty Quill Gaming – 15 – BOOM!
+[Lydia laughs]
+
+BRYN
+Er… yes.
+
+(Group laughter)
+
+I would say a single manly tear, but that’s a clear lie!
+
+JAMES
+Bertie’s still there thinking back over his favourite birthday!
+
+(Group laughter)
+
+ALEX
+So, the guy over the top goes, “Right, right, what you want’s up on the second
+floor. Right, it’s… it’s under a crate. The… Jeremy, he took the plans, right.
+We’ve only got the notebook. We haven’t got anything else, okay? You can let
+me… like, I get it, okay? But we both know, right, if I turn myself in that ain’t
+going to go well, let’s be honest. I ain’t going to be turning myself into Other
+London, it’ll be Upper London that have me. I’ll tell you what, okay? You just
+let me go, okay? You’ve got her, okay? You’ve got the, er… you’ve got
+whatever you came for, okay. You can just let me go. I ain’t gonna hurt
+anyone.” He literally, as he’s saying that, pulls out his scabbarded sword, lays
+it on the table… uh, table! Lays it on the rooftop in front of you. Pulls out
+
+71
+
+Rusty Quill Gaming – 15 – BOOM!
+another dagger. Lays it on the rooftop in front of you. Takes off a bandolier of
+these oil flasks. Lays it on the table.
+
+(Group laughter)
+
+LYDIA
+Stuff!
+
+ALEX
+All he’s holding is the one oil flask, and he’s, like, “It’s just insurance, you know
+how this works. You know you can let me go.”
+
+LYDIA
+Right, mate, if there’s any traps in here you haven’t told us about, if there’s
+anything… Right. Because I recognise this guy, right?
+
+ALEX
+He’s someone that you’ve seen around. He probably spent a bit of time with,
+like, doing some…
+
+LYDIA
+…with the gang!
+
+ALEX
+…consult work for the Rackets, and stuff.
+
+72
+
+Rusty Quill Gaming – 15 – BOOM!
+LYDIA
+Yeah.
+
+ALEX
+Nothing like in and deep.
+
+LYDIA
+Right. If I find that you’re messing with us, I will find you. You’ve seen what I
+can do. There’s a little grin!
+
+[Bryn laughs]
+
+My critical stabs!
+
+ALEX
+“I’m not an idiot – who goes against the Rackets, am I right?”
+
+LYDIA
+Yeah, who does?
+
+ALEX
+“Well, like I said, just let me go and don’t try and open the door to the hut.”
+
+LYDIA
+Alright, right. So you climb down the back of this building and I’ll keep the big
+guy off you. I’ll give you ten minutes.
+73
+
+Rusty Quill Gaming – 15 – BOOM!
+
+ALEX
+He sees, hesitation for a moment, pockets the oil flask and then jumps from
+the roof across Hamid, you did perception checks earlier, you look, you see
+someone leap across the gap and down one floor down onto the roof of the
+hut, and then, obviously, he’s out of your vision again.
+
+BRYN
+I’ve heard what Sasha was saying. I will run to where I can at least see him, but
+I’m not going to chase him.
+
+ALEX
+Okay.
+
+BRYN
+I just want to monitor…
+
+ALEX
+So, yeah. You try as best you can. By the time you get round, you see a person
+leaping bodily from that rooftop out over the wall, which wasn’t enormously
+high, and then he’s gone on the other side of the wall.
+
+BRYN
+Yep, fair. Fair, fair, fair.
+
+74
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+You hear a splash on the other side.
+
+BRYN
+Yeah.
+
+LYDIA
+I go and pocket the stuff.
+
+ALEX
+Sure. There were two more oil flasks…
+
+LYDIA
+Yayyyy!
+
+ALEX
+Again, they’re not splash, they’re just direct hit ones.
+
+LYDIA
+I am in the state “impressed” given that jump, but yeah – so that’s me and
+then I’ll come and re-join them. So I come over to that end of the roof and I
+shout down, it’s on the second floor, the one you’ve just set on fire…
+
+BEN
+You didn’t know that…
+
+75
+
+Rusty Quill Gaming – 15 – BOOM!
+LYDIA
+The one that they’ve set on fire – what idiots they are!
+
+[Bryn laughs]
+
+BEN
+Darn! And I’ll stomp off quickly!
+
+(Group laughter)
+
+I will hurry through the church and up to the staircase…
+
+ALEX
+Through the destroyed staircase…
+
+BEN
+No! Up to the bottom of the staircase and then I will cast a Create Water
+which has a range of exactly the same as Spark!
+
+(Group laughter)
+[Applause]
+
+ALEX
+Very nice!
+
+76
+
+Rusty Quill Gaming – 15 – BOOM!
+BEN
+I said… when you said it was… I was like, oh, flick through the spells!
+
+(Group laughter)
+
+Oh, there it is, there it is! Woooo!
+
+ALEX
+Okay, yeah, you… you…
+
+BEN
+A gallon of water, basically.
+
+ALEX
+You just see Zolf dash off… clunk, clunk, clunk, clunk, clunk…
+
+JAMES
+He looks like a normal person’s walking pace!
+
+BEN
+Shall I carry on?
+
+77
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+You er, yeah, you summon the water pretty much over the smouldering pile. It
+was clear, given time, it would have caught the whole lot. Yeah, you put it out.
+It’s gone.
+
+BEN
+Okay, false alarm! I’ve put out their fire!
+
+(Group laughter)
+
+JAMES
+You set that fire, didn’t you?! I give the unconscious man another kick.
+
+(Group laughter)
+
+BEN
+Eh, eh, it might not have been him. It could have been the other guy!
+
+JAMES
+That’s a point! Where’s he gone?!
+
+BRYN
+I saw you cast Spark, right?
+
+BEN
+You can have done. I wasn’t being secret.
+78
+
+Rusty Quill Gaming – 15 – BOOM!
+
+ALEX
+He was with you. You get to make the call whether you saw him. Anyway,
+Bertie asked you a question.
+
+LYDIA
+Oh, like, he got away.
+
+JAMES
+Urrrrggggghhh…
+
+LYDIA
+It was quite a jump! One day, I’ll be able to jump like that, down to buildings.
+
+ALEX
+You know, genuinely, yeah. From a professional standpoint, that person was
+good. Like, they were good at what… the kind of things that you are good at.
+
+LYDIA
+Mmmm, I’m in the state “impressed”.
+
+ALEX
+Yeah, proper professional…
+
+LYDIA
+Maybe a bit of a crush, you know?!
+79
+
+Rusty Quill Gaming – 15 – BOOM!
+
+(Group laughter)
+
+We had a face-off over a rooftop!
+
+ALEX
+I’m going to be honest – he wasn’t ugly!
+
+LYDIA
+Mmmm…
+
+ALEX
+Not ugly!
+
+JAMES
+Episode 15 and we’ve not had a single romantic sub-plot yet, apart from the
+odd bit of eyes meeting across a crowded…
+
+BEN
+…sewer…
+
+ALEX
+As far as you know!
+
+JAMES
+As far as… ohhhhh…
+80
+
+Rusty Quill Gaming – 15 – BOOM!
+
+BEN
+Hey, it was you and the dog, come on!
+
+JAMES
+Say again?
+
+BEN
+That was a friendship that was love at first sight…
+
+JAMES
+That’s true!
+
+ALEX
+Oh, at which point, the dog comes out and begins to just, lick the boot
+continually – continuing to lick the boot of the unconscious man.
+
+[licking noises]
+
+JAMES
+Bertie’s not having that. He’s not having this dog fraternising with the enemy.
+That’s…
+
+ALEX
+You can give me your first handle animal to train it not to lick enemies’ boots!
+81
+
+Rusty Quill Gaming – 15 – BOOM!
+JAMES
+Would that be… because I’ve read a bit of the handle animal, is that like a skill
+that he then has permanently because I’ve taken, like, a skill slot of the animal,
+or…?
+
+ALEX
+I’ll allow him to have it as a bonus!
+
+(Group laughter)
+
+JAMES
+Fine!
+
+(Group laughter)
+
+LYDIA
+We’ll have no more attacks, just the boot licking!
+
+(Group laughter)
+
+JAMES
+It’s not being embarrassingly disloyal in public…
+
+BEN
+Usually people assume that the animals come from a base level of
+competence…
+82
+
+Rusty Quill Gaming – 15 – BOOM!
+
+JAMES
+Ahhhh…
+
+BEN
+… so I think if you build him up to that point and then you’ll start…
+
+ALEX
+… you’re not at basics level of competence yet.
+
+JAMES
+Okay, this is… this is a very foolish dog whose only talent is dribbling and
+missing doors.
+
+ALEX
+Oh, he was clearly on board because he was big, by somebody who said, I’ve
+got a dog, can I join?! Nothing more to it than that!
+
+JAMES
+Okay, fair enough. So handle animal – yeah, that is, er, plus six?
+
+ALEX
+Mmm hmm.
+
+83
+
+Rusty Quill Gaming – 15 – BOOM!
+JAMES
+[rolls dice] Eight plus six – 14.
+
+ALEX
+14? It stops… but you kind of get the impression that you are going to have to
+do a bit more work on this.
+
+JAMES
+Okay!
+
+BEN
+And also, to quickly clarify, so the two people we saw at Edison’s were Captain
+Bisection and the unconscious guy, yes?
+
+ALEX
+Yes.
+
+BEN
+So not that one?
+
+ALEX
+The third one is, was not…
+
+BEN
+… fine!
+84
+
+Rusty Quill Gaming – 15 – BOOM!
+
+ALEX
+… at all at the Simulacrum.
+
+BEN
+Mass murder not confirmed.
+
+ALEX
+And also was the one that Sasha had a vague memory of seeing around Other
+London, but, like, there’s no… you don’t have any back story. You couldn’t say
+who he is or where he hung out or anything like that.
+
+LYDIA
+I’m trying to remember, though!
+
+BEN
+I was just gauging my reaction to him getting away, that he wasn’t, you know,
+one of the two, so… Right, so, erm. I get to make good on my part of the deal!
+He goes in the Thames.
+
+BRYN
+Oh, but, um, Captain Haringay said we should bring them back alive if at all
+possible, that was our contract, Zolf…
+
+BEN
+Grrrr… Oh, alright.
+85
+
+Rusty Quill Gaming – 15 – BOOM!
+
+BRYN
+And one of them already died. Isn’t that enough retribution?
+
+BEN
+Okay, so, right…
+
+JAMES
+Should we question him first, either way?
+
+BEN
+Okay, just saying, right? Poseidon ain’t going to see it that way. I might hurt
+for this, but, er… you’re right, it’s in our contract and I can’t go back on that
+otherwise what kind of mercenary would I be? So, yes. We’ll take him back to
+Haringay.
+
+BRYN
+So we should find out what else is in the compound. Sasha! Sasha, are you
+okay? Are you coming down?
+
+BEN
+Oh, I forgot, she said there was something on her crate. I can’t get up there,
+darn it!
+
+LYDIA
+86
+
+Rusty Quill Gaming – 15 – BOOM!
+I’m still sitting on the roof. I’m having a bit of a, like, that was such a good
+jump!
+
+(Group laughter)
+
+BEN
+Are you still a bit star-struck?
+
+LYDIA
+That is the sort of thing that Sasha finds impressive, but now, I suppose,
+hearing you shout up, I’ll go in through the window! Useless… muttering about
+them… getting the doors exploded, I do everything… like through the window,
+and I am looking for the notebook that he mentioned that was by the crate. I
+am checking for traps, I guess, as I go, but only slightly because they were living
+here so…
+
+ALEX
+I’ll skip ahead. I could get you to roll, some GMs would, it’s not worth the
+time. When you get in the room, you first get a very clear sense of what trap
+they had set earlier…
+
+LYDIA
+Mmm hmm…
+
+87
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+It’s very obvious that they had set some explosives on structural points on the
+wood, not the actual stone, to just bring down all of that, sort of, side on
+someone, but this side it does appear to be, like, un-trapped living space.
+
+LYDIA
+Nice!
+
+ALEX
+So going through, let’s say you have a search around, you’re just keeping an
+eye out for traps.
+
+LYDIA
+Mmm hmm…
+
+ALEX
+Taking the lid off one of the barrels you see it full to the brim of gunpower…
+
+LYDIA
+Stuff… !
+
+ALEX
+Proper full to the brim of gunpowder…
+
+BEN
+88
+
+Rusty Quill Gaming – 15 – BOOM!
+Oh good!
+
+(Group laughter)
+
+BEN
+Good thing we shoved in the Thunderstone!
+
+(Group laughter)
+
+LYDIA
+Really is… and I shout out, I don’t know what kind of idiots these guys are –
+there was gunpowder and someone sets fire to it! Idiots!
+(Group laughter)
+
+And I go back in.
+
+BEN
+Yeah!
+
+BRYN
+I frown at Zolf. I don’t say anything, but I know!
+
+BEN
+Looking at you going, awfully foolish of them, isn’t it?!
+
+89
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+Yeah, there’s multiple barrels of explosives. You open one crate and it’s got,
+erm, short swords, some more of those cuirasses, the discarded clothes of the
+waiters…
+
+LYDIA
+Right.
+
+ALEX
+…is also, sort of, draped over something, and yeah, there’s a couple of crates
+arranged around like that very controlled cooking fire…
+
+LYDIA
+Mmm hmm…
+
+ALEX
+…and having a search around, underneath one of them you pull out a battered
+little notepad…
+
+LYDIA
+Mmm hmm…
+
+ALEX
+…it doesn’t have any writing on it whatsoever, it is just a battered notepad.
+You can skim through, obviously, inside if you want.
+
+90
+
+Rusty Quill Gaming – 15 – BOOM!
+LYDIA
+I will flick through because if it’s mechanical stuff it’s probably the right thing.
+
+ALEX
+So flicking through, you find a weird scrapbook. Give me… what knowledge do
+you have?
+
+LYDIA
+Only local, so unless it’s a guidebook!
+
+(Group laughter)
+
+ALEX
+Okay! Do you not have appraise?
+
+LYDIA
+Oh, yes! I’m very good at appraising!
+
+ALEX
+I realise that!
+
+LYDIA
+I’ve been… in all the episodes. I just didn’t think of a notebook as something
+you appraise!
+
+91
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+Give me an appraise check.
+
+LYDIA
+Oooh…
+
+[rolls dice]
+
+A two. To be fair, I needed that for statistics – that’s how statistics work. I
+need to get one sometime and I’m glad it’s on a book!
+
+(Group laughter)
+
+So two plus eight. Ten.
+
+ALEX
+Ten. Okay, so yeah. Skimming through…
+
+LYDIA
+…it is a book!
+
+92
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+It’s, it’s peculiar. It’s like half-diary, half a couple of work notes in margins and
+things like that. Skimming through, you see there’s a shard of metal which is
+taped to one of the pages, which is the exact walling that the Simulacrum
+had…
+
+LYDIA
+Right.
+
+ALEX
+Going through, you see there’s, like, personal messages, there’s an origami
+swan which is just, kind of, taped to a page and stuff. It just seems to be a
+scrapbook of random stuff…
+
+LYDIA
+This person is a nutter!
+
+JAMES
+Or homages to Bladerunner, I mean, that’s the other…
+
+ALEX
+Honestly, it’s just this weird mishmash of stuff. I mean, if you want to go into
+more depth I can bring up everything that’s written in there, but you’d have to
+sit down and go, okay, what’s this saying, what’s this saying? But, yeah, it just
+reads like half-diary, half-scrapbook. It’s peculiar.
+
+93
+
+Rusty Quill Gaming – 15 – BOOM!
+LYDIA
+It is not the kind of… well, I mean, I’m interested in devices, but right now I’m
+in a rush…
+
+ALEX
+Sure.
+
+LYDIA
+I think, so… because they’re all outside, aren’t they, while I’m doing this?
+
+ALEX
+You definitely though see, at some point, there’s a couple of sketches of, like,
+what looks like a cross-section of the head with, like, certain bits and scribbled
+out bits, it’s a real mess, by the way, it’s very much not the public plans that
+anyone would have been looking for.
+
+LYDIA
+So, I guess, if this is the notebook then I take that and scan for stuff that I like,
+because that’s the sort of thing Sasha does…
+
+ALEX
+Mmm hmm…
+
+LYDIA
+… but then I just join you guys outside?
+
+94
+
+Rusty Quill Gaming – 15 – BOOM!
+BEN
+To mention, out of character, he did also mention there were blueprints.
+
+LYDIA
+Okay. Oh, but that’s… Okay.
+
+BEN
+Unless I misheard it…
+
+JAMES
+No, he said the plans had been taken…
+
+BRYN
+Didn’t he say Jeremy left with the plans… Did I overhear that? I can’t
+remember.
+
+ALEX
+Yes, you did.
+
+BRYN
+I did. I did hear that.
+
+LYDIA
+I assume that you’re then telling them that?
+
+95
+
+Rusty Quill Gaming – 15 – BOOM!
+BRYN
+Yes, I will mention that.
+
+LYDIA
+So I will, um, if there’s nothing else for me to nick, I will head off.
+
+ALEX
+There’s a few things in there – scraps of food and things, but honestly, it
+seemed like they were wearing upon them most of the things that you were
+interested in anyway.
+
+LYDIA
+The thing is, I am absolutely zero money, like zero. So even a few coppers on
+the floor I would pick up.
+
+ALEX
+Yeah, rogues tend to be equipment-rich. You find, yeah, you find let’s say a
+couple of coppers but…
+
+LYDIA
+Enough for some jellied-seals!
+
+(Group laughter)
+
+96
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+Jellied-seals?! I’m pretty certain it can’t be a silver.
+
+JAMES
+Much harder to carry around, jellied-seals!
+
+(Group laughter)
+
+[seal noises]
+
+BRYN
+The dog’s going crazy…
+
+(Group laughter)
+
+ALEX
+Oh yeah, that’s like a minus 20 on a will save.
+
+BRYN
+Once dog has eaten jellied-seal, they never go back to jellied-eels!
+
+JAMES
+Once you’ve gone seal you never go back, is that it?!
+
+(Group laughter)
+
+97
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+Exactly so!
+
+LYDIA
+I come out… I climb out and say hello to these guys again. Hey! I pass the
+notebook to you.
+
+BEN
+‘Oh, what’s this?’
+
+LYDIA
+It’s the thing that they came for.
+
+BEN
+Right!
+
+LYDIA
+This is what they… there’s no Simulacrum or nothing.
+
+BEN
+Take a brief flick through.
+
+BRYN
+No pieces of the…
+
+LYDIA
+Nothing.
+98
+
+Rusty Quill Gaming – 15 – BOOM!
+
+BRYN
+Just that…
+
+LYDIA
+Nothing at all.
+
+JAMES
+There are two other buildings here that there might be things in, there is
+definitely stuff in the other…
+
+LYDIA
+Wait, wait, wait, wait – do not head into…
+
+BRYN
+There might still be traps…
+
+LYDIA
+…into the… I’ll do that…
+
+BEN
+Do what?
+
+LYDIA
+Er, there’s traps on that building.
+
+BEN
+99
+
+Rusty Quill Gaming – 15 – BOOM!
+Which building, there are two?
+
+LYDIA
+The hut.
+
+BEN
+The thing on stilts?
+
+LYDIA
+Yeah.
+
+BRYN
+There might be traps on both of them.
+
+LYDIA
+Yeah.
+
+BEN
+Well, I mean, look, we’ve dealt with it, let’s have a look…
+
+ALEX
+And that’s, of course, that you believe the guy – he never sense motive-d him.
+
+LYDIA
+Oh, that’s true.
+
+100
+
+Rusty Quill Gaming – 15 – BOOM!
+BEN
+Let’s have a look around at our leisure…
+
+LYDIA
+Wait! Maybe you guys should not… the last time… !
+
+BEN
+Okay, okay, I’ll rephrase – Sasha, go check for traps.
+
+LYDIA
+Right, boss!
+
+(Laughter)
+
+I go… erm…
+
+BRYN
+Technically, yes… !
+
+LYDIA
+Yeah.
+
+ALEX
+I’m going to be honest, I think, I think, I don’t think it’s you, I think Zolf’s just a
+bit annoyed that he didn’t get drown anyone today.
+
+101
+
+Rusty Quill Gaming – 15 – BOOM!
+BEN
+Wuh, wuh, whu, whu….
+
+LYDIA
+I will go and check traps on the one that is nearby.
+
+BRYN
+The Vicarage.
+
+LYDIA
+The Vicarage.
+
+ALEX
+Sure. Yeah. You poke your head in, I’m not even going to get you to do a trap
+check. We’ll say that you checked for the trap… the door for traps, you did not
+find traps, but looking inside you find what looks like there used to be a trap on
+the door that just the damp has destroyed – all of the, sort of, bits of it are just
+starting to corrode and it didn’t go off. Whoever set this did not know what
+they were doing!
+
+LYDIA
+I’m beginning to… I’m losing respect for the guy that jumped…
+
+(Group laughter)
+
+…off the church roof! Did you see that jump, Hamid?
+102
+
+Rusty Quill Gaming – 15 – BOOM!
+
+BRYN
+It was pretty cool!
+
+LYDIA
+It was, yeah!
+
+ALEX
+Looking around, you see that there are a couple more sealed crates that you
+can’t just open by hand, and there is still one more crate which has yet more
+weapons in and some short swords. There’s a shield. There’s actually a couple
+of spears…
+
+LYDIA
+Mmm…
+
+ALEX
+…and…
+
+BRYN
+…once she’s given the all clear I’m going to come in and help the search.
+
+LYDIA
+Yep. I tell you guys, Right, that one’s… take what you want from that, maybe
+see if there’s anything magic.
+
+103
+
+Rusty Quill Gaming – 15 – BOOM!
+BRYN
+I cast detect magic, just in case.
+
+ALEX
+Yeah, it’s all mundane.
+
+BRYN
+Yep.
+
+LYDIA
+Aww… I’ll check this one.
+
+ALEX
+Okay, I’m going to say you know… you know that there is a trap on the door…
+
+LYDIA
+Mmm hmm…
+
+ALEX
+… as you, sort of, start to just have a poke around…
+
+LYDIA
+Mmm hmm…
+
+104
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+…even without attempting to disable it, you know it’s of a significantly higher
+quality that the others and you can, you can disable the device, but you are
+going to be, like, ooh, that’s not just a two minute snip and done…
+
+LYDIA
+Right. What’s the take, ten feet?
+
+BEN
+Or 20…
+
+LYDIA
+Or 20…
+
+BRYN
+But that’s if there’s no penalty…
+
+ALEX
+You can’t do that with traps…
+
+BEN
+Ahhhhh… right
+
+LYDIA
+Ah…
+
+105
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+…because with a ten, there’s a chance that you…
+
+BRYN
+…if you roll too low it might set it off…
+
+ALEX
+…fail at least once, which would set the trap off. A 20 is assuming that you fail
+multiple times.
+
+BRYN
+Right, okay.
+
+ALEX
+So you could do it for a lock, unless that lock is paired to, say, a dagger that
+falls from the ceiling and stabs you in the head, or whatever…
+
+BEN
+Sure.
+
+LYDIA
+Right. Um, I’m going to go for it. I mean, I’m feeling pretty pumped about my
+rogue-y skills today…
+
+[Ben laughs]
+
+106
+
+Rusty Quill Gaming – 15 – BOOM!
+…I am possibly to learn dangerous degree…
+
+ALEX
+Go for it!
+
+BEN
+Roll the dice that gives 20s!
+
+LYDIA
+Oh yeah!!
+
+(Group laughter)
+[rolls dice]
+
+23, 24.
+
+ALEX
+Okay, so that’s a 23 total…
+
+LYDIA
+Yup!
+
+ALEX
+Give me a follow up reflex save…
+
+BRYN and LYDIA
+107
+
+Rusty Quill Gaming – 15 – BOOM!
+Oh dear…
+
+LYDIA
+[rolls dice] 13 plus six – 19.
+
+ALEX
+19?
+
+LYDIA
+Yep.
+
+ALEX
+Right. You open the door. There’s a [mechanical noise] at which point you see
+a vial of Alchemist’s Fire drop right in front of your eyes and we will go super
+slo-mo with it – the vial starts dropping and we have that, you know that focus
+thing you get in film when you look at the thing close up and then you look
+beyond it? You look at that, and then you look beyond to… there’s loads of
+vials of Alchemist’s Fire hanging across the ceiling and at least 50 barrels of
+gunpowder are laid up around the walls and stacked in there.
+
+BEN
+What?!!
+
+108
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+With your reflex save, you manage to close the door, you don’t manage to
+catch the fire or anything, and just throw yourself backwards. Yep? The entire
+hut just explodes, just…
+
+[explosion]
+
+BEN
+What did it do to the church?
+
+ALEX
+Yeah. So, everyone spell out exactly where you are at this moment. Sasha,
+obviously you’re throwing yourself back as far as you can.
+
+BEN
+I’m with the prone guy.
+
+ALEX
+Mmm hmm.
+
+JAMES
+So am I. So is the dog.
+
+BRYN
+I’m in the Vicarage.
+
+109
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+So, everyone within 30 feet is going to be taking a flat two D6 plus four
+damage…
+
+BEN
+That’s not you…
+
+LYDIA
+Oh, there’s even more…
+
+ALEX
+No, even throwing it closed, if you had failed your reflex save you would have
+been taking significantly more. This is mostly from shrapnel and stuff, and
+we’ll get into what happens to the rest of the compound afterwards.
+
+BEN
+That’s not a trap, that’s a massive explosion!
+
+ALEX
+I need you to roll your damage…
+
+LYDIA
+Oh right…
+
+ALEX
+…so if I can get another one, thank you.
+110
+
+Rusty Quill Gaming – 15 – BOOM!
+
+LYDIA
+[rolls dice]
+
+ALEX
+So that’s seven, eight, nine, ten, 11, er, 11 damage…
+
+LYDIA
+I am unconscious.
+
+ALEX
+Yep. Doesn’t surprise me! So there’s a huge explosion. The last thing you
+remember is basically the whole door just breaking into pieces, flying at you
+and you blacked out. The rest of you, there is an enormous explosion – Hamid,
+you get a moment to see the blast wave coming towards you before it hits the
+Vicarage and the entire roof just caves…
+
+[noise of an explosion]
+
+… you guys, hear the boom…
+
+JAMES
+Are you absolutely sure that Bertie hears the boom?
+
+(Group laughter)
+
+111
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+We’ll say it has – it’s got a nice little resonance with your armour!
+
+JAMES
+Oh!
+
+BEN
+“I swear somebody threw a stone at me!”
+
+(Group laughter)
+
+BRYN
+Two people have just hit gongs on either side of your head!
+
+(Laughter)
+
+ALEX
+At which point, the far side of the church caves in first, and the whole thing
+starts to cave in, and then the side that is nearest you guys blows out…
+
+[explosion]
+
+Both of you give me reflex saves?
+
+[sound of dice being rolled]
+
+112
+
+Rusty Quill Gaming – 15 – BOOM!
+BEN
+16.
+
+JAMES
+Er… 14.
+
+ALEX
+Bertie, you take…
+
+[rolls dice]
+
+…two shrapnel damage. And yeah, effectively just the front of the church
+blows out. The whole thing doesn’t topple on you, it falls back in on itself, but
+it throws both of you up against the wall and then…
+
+[thunk]
+
+…both of you are prone.
+
+JAMES
+What about the unconscious fella?
+
+ALEX
+The unconscious fella is thrown straight up against the wall and he is just in a
+heap at the base of the… at the base of the, er, wall…
+
+113
+
+Rusty Quill Gaming – 15 – BOOM!
+JAMES
+He’s not having a good day!
+
+BEN
+I’ll check the, er, guy who’s prone. Is he bleeding again or is he…
+
+ALEX
+He’s bleeding again.
+
+BEN
+Stabilise him!!
+
+ALEX
+Yep!
+
+BEN
+Bertie, you look after him, I’ll go find Sasha. Sasha! SASHA!
+
+ALEX
+And we’ll close there! Ohhhhhhh, end of episode! Enormous explosions!
+Action! Rooftop drama!
+
+JAMES
+Da da da daaaaaaahhhh….
+
+114
+
+Rusty Quill Gaming – 15 – BOOM!
+BRYN
+Tune in next week to find out which of our heroes survive!
+
+(Group laughter)
+
+ALEX
+Yep, so that’s goodbye from all of us! See you guys!
+
+EVERYONE
+Bye!
+
+[Show Theme - Outro]
+
+ALEX
+Rusty Quill Gaming is a podcast distributed by Rusty Quill.com and licensed
+under a creative commons attribution, non-commercial international license.
+Today's episode was recorded and produced by Alexander J Newall. To
+comment on episodes, make donations and view links, images, videos and
+show notes, visit rustyquill.com. Rate and review us on iTunes. Visit us on
+Facebook. Tweet us on Twitter @therustyquill, or email us at
+mail@rustyquill.com. Thanks for listening.
+
+[OUTTAKES]
+
+ALEX
+Test, test, test… yeah, good.
+115
+
+Rusty Quill Gaming – 15 – BOOM!
+
+BRYN
+Test… Ahhhhhh… Saviour of the universe!
+
+(Group laughter)
+
+BEN
+I enjoy that that test was basically, Oi, oi, wake up! You good? Steve, Steve,
+Steve…!
+
+JAMES
+Steve, Steve… !
+
+ALEX
+Yeah, Steve’s there!
+
+(Group laughter)
+
+ALEX
+Okay!
+
+-
+
+LYDIA
+Blow upwards through your nose!
+
+116
+
+Rusty Quill Gaming – 15 – BOOM!
+ALEX
+I realise it’s a weird one…
+
+LYDIA
+… like a whale!
+
+(Group laughter)
+
+ALEX
+It’s my podcasting blowhole – it’s all I use it for!
+
+JAMES
+Oh, it’s for casting the rest of the pod!
+
+ALEX
+Ohhhhhhhh…!
+
+BEN
+That’s what I was going for! No-one got me!
+
+[END]
+
+117
 
 
