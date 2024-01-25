@@ -1,1003 +1,908 @@
-©Rusty Quill 2023
-The Magnus Protocol
-Episode 2
-"Making Adjustments"
-Written by Alexander J Newall
-Edited by Jonathan Sims
+#### THE MAGNUS PROTOCOL
+Episode 3
+“Putting Down Roots”
+Written by Graeme Patrick
+Edited by Jonathan Sims & Alexander J Newall
 Show-Notes are available at the end of the Transcript.
-#### 12-09-2023
-Draft 1.3
-##### [1]
+#### 12.09.23
+#### ANNOUNCER
+This Episode is dedicated to
+Elias Becher. They fear you
+for your fangs are sharp, your
+talons are a vice, your many
+eyes gleam with malice, and
+your feathers glisten with the
+ink that flows ever freely.
+##### [Intro Theme]
 #### ANNOUNCER
-This episode is dedicated to
-Christian, and also Coco.
-##### [MUSIC]
-#### ANNOUNCER
-Rusty Quill Presents: The Magnus
-Protocol.
-Episode Two -- Making Adjustments
+Rusty Quill Presents: The
+Magnus Protocol.
+Episode Three -- Putting Down
+Roots
 ##### [Music]
-#### 1. INT. OIAR OFFICES -- NIGHT, CLEAR (COMPUTER).
-The decrepit O.I.A.R. PC boots up once again and starts
-recording with SAM and GWEN mid conversation. GWEN is
-setting up her workstation whilst SAM is digging through
-the enormous DPHW filing manual.
-#### SAM
--OK... Dracula.
-#### GWEN
-(distracted)
-V for vampires. Assuming you mean
-Count Dracula, a la the novel, I'd
-suggest subsection “popular
-culture” and assuming he's
-behaving as I'd expect-he is.
-#### SAM
-#### GWEN
-I'd guess a DPHW of... seven four
-seven five.
-Sam trawls through his manual.
-#### SAM
-Close... Seven, four, six, five.
-GWEN is clearly a little irritated.
-##### [2]
-#### SAM
-OK... Frankenstein?
-#### GWEN
-Assuming you mean the scientist
-not the monsterSAM
-I do.
-#### GWEN
+1. OIAR OFFICE INT. NIGHT, CLEAR (COMPUTER)
+COLIN is hunched over ALICE's console, struggling to bypass a
+failed login on Freddie. COLIN types rapidly, then jabs at the
+enter key. The computer, in return, blurts out a reel of
+rejections. Colin lets out an agonised groan of frustration.
+#### COLIN
+Come on...
+#### ALICE
+What actually is a .jmj error?
+What does it mean?
+#### COLIN
+Nothing. It's just an excuse
+for the system to ruin my day,
+is what it is.
+#### ALICE
+I could try another computer?
+#### COLIN
+No. It's doing this on purpose
+and that will only encourage
+it. Nothing's wrong it just
+won't accept commands.
+#### ALICE
+I mean, same, but still...
+Colin hits more keys and slaps the monitor's side hard several
+times.
+#### ALICE
+Do I need to call Lena before
+you break Freddie? This is
+bordering on abuse.
+#### COLIN
+(Distracted concentration)
+For me or it? And what is Lena
+going to do exactly?
+#### ALICE
+I dunno. Could be useful to
+have another witness when this
+escalates to murder.
+#### COLIN
+Some witness. She wouldn't
+know a DOS prompt if it bit
+her on the arse. Look, did you
+mess with the directory or
+something?
+#### ALICE
+Of course not. Why would I
+pick a fight with Freddie?
+That's your job.
+More rapid typing from Colin.
+#### COLIN
+(begging)
+Just work, please!
+COLIN presses the enter key as if defusing a bomb.
+Beat
+The computer rudely rejects the code and reels off more
+noises.
+#### COLIN
+You utter bastard! Just tell
+me what the error is! Do you
+need something? Should I get
+the boot disc? Do you need a
+goddam massage? WHAT?
+He slaps it again.
+#### ALICE
+Do you want to phone a friend?
+Maybe central IT?
+#### COLIN
+(climbing under the
+desk)
+They are not my friend, nor
+yours. They'll bury you in red
+tape just to replace a mouse
+mat -- you know that.
+I know this system better than
+anyone alive and I still don't
+understand how it works. So, I
+can guarantee you that none of
+those mouthbreathers would
+even know where to begin with
+this steaming pile ofALICE
+(to the computer)
+It's ok, Freddie-baby; we're
+figuring it out, cutie.
+#### COLIN
+Don't hit on the computer
+while I'm working on it.
+#### ALICE
+Hey, I'm not the one on all
+fours...
+#### COLIN
+(emerging from under
+the desk)
+I'm serious. Don't give it a
+personality. We shouldn't even
+be calling it 'Freddie'.
+#### ALICE
+Uh-huh... because FR3-D1 just
+rolls so smoothly off the
+tongue.
+#### COLIN
+Making friends with this
+godawful program that tries to
+throw itself into oblivion
+every time I turn on a console
+is not cute. It's hard enough
+using every nanosecond of my
+waking life just to keep this
+byzantine mess from crapping
+the bed without you taking the
+piss.
+#### ALICE
+Oh come on, it's not that bad.
+#### COLIN
+Do you have any idea what will
+happen if this thing finally
+managed to extinct itself?
+#### ALICE
+We'd go home early?
+Colin gives an irritated growl.
+#### ALICE
 (cont.)
--and that'd be another
-“resurrection,” possible
-subsections... “obsession,”
-“medical”, “pursuit” and... hmmm.
-“Blasphemy”, maybe, so that would
-make it... four two three seven.
-Sam trawls through the manual again.
-Well?
-#### GWEN
-#### SAM
-Five, three, three, seven.
-#### GWEN
-Pass that here.
-SAM passes her the manual. GWEN turns a page back and
-forth. She gives an irritated snort then passes the manual
-back to SAM roughly.
-#### SAM
-This thing is enormous, we can't
-possibly be expected to just
-memorise all of it?
-#### GWEN
-You're won't keep up if you're sat
-there turning pages all night.
-#### SAM
-But surely there's a system or
-something. Like, what does DPHW
-stand for?
-##### [3]
-#### GWEN
-I don't know if it stands for
-anything. It's just an arbitrary
-index. You just gain a sense for
-it after a while.
-#### SAM
-But someone came up with it
-meaning there was a logic to it at
-some pointGWEN
-Sam.
-#### SAM
-(cont.)
--so if we can just figure out what
-links similar cases then we'd know
-what the system was based on andGWEN
-(pointedly)
-Sam.
-SAM stops mid flow.
-#### GWEN
-We aren't here to decode the
-system. That's Colin's job and
-you've seen what a delight it's
-made him. Just try to learn your
-codes and process your cases.
-#### SAM
-(waving the manual)
-But I'm never going to learn all
-this! You've been here years and
-even you haven't managed toGWEN
-(coldly)
-Then quit. No-one's making you
-work here.
-#### I-
-#### SAM
-(thrown)
-Right.
-##### [4]
-Beat. GWEN is typing angrily.
-#### SAM
-(Apologetic)
-Listen GwenGWEN
-(Snapping)
-What?
-ALICE enters noisily. She dumps her bags at her desk
-completely breaking the tension.
+Maybe he just needs some
+positive reinforcement.
+#### COLIN
+Or maybe it just needs a good
+kick in theGarbled low white noise sparks into audio.
+#### NORRIS
+Case: Homicide
+Date: 03.04...
+#### COLIN
+Thank Christ for that!
+Colin slaps at the space bar to pause it, cutting off the
+recording.
 #### ALICE
-(Entering)
-Ahoyhoy! Did you miss me? Was it
-torture?
-#### GWEN
-(returning to work)
-You're late.
-#### ALICE
-I'm sure the UK government found
-some way to soldier on without me
-forShe checks her watch and snorts.
-#### ALICE
-(cont.)
-Three and a half minutes.
-#### GWEN
-(still typing)
-Whatever.
-#### ALICE
-Everything good here? Enjoying
-playtime with Auntie Gwen?
+Hey, you fixed him! Heeeeere's
+Freddie!
+#### COLIN
+Wrong movie.
+#### ALICE
+Meh, we both know Robert
+Englund would have done it
+better. Cheers Colin, you're a
+star. I've got stacks to clear
+tonight so just let it play,
+and I'll go put the kettle on.
+You want anything?
 Beat.
-#### SAM
-...yeah. It's been fine.
-Beat.
-##### [5]
+#### COLIN
+Double scotch.
 #### ALICE
-(booting her computer)
-...cool. We'll unpack that ominous
-silence later but for now we
-should probably get started. We've
-still not cleared your backlog.
+2 day old black coffee it is.
+#### COLIN
+(head in hands)
+Eurgh.
+Colin aggressively jabs the spacebar to restart the audio and
+heads off.
+#### 2. CYBERSPACE
+#### NORRIS
+...2009 (08:45)
+Collection: Kent CID
+Repository
+Item: Journal of Dr. Samuel
+Webber, age 46. Issued by
+grief councillor Harriot
+Manning. Found within a waterdamaged black briefcase,
+partially buried, penetrated
+by mouldy roots.
+Additional Contents: waterdamaged smartphone, Wallet
+with Dr. Webber's ID and Visa
+Card, Keys on a gold chain for
+13 Marigold Drive, Partial
+medical files on Gerald
+Andrews, age 37, of 12
+Castlehill Av. And Maddie
+Webber, age 39 -- Deceased-
+Case: 1201/19
+Serial No: 72003210
+Collector: Special Constable
+Caroline Jennings 2911
+Routing to: South-East
+Evidence Storage -- Lewisham
+Relevant journal entries as
+follows:
+Date 07-12-09, 10:03 PM.
+Today was bedlam. I had it all
+planned out, all of it! And
+then a panic attack just
+choked the nerve out of me. It
+was so humiliating! Felt like
+the ground was going to
+swallow me whole, with
+everyone staring at me only to
+roll their eyes at my
+“hysterics,” as the paramedic
+put it. They don't understand.
+I was so close to getting
+caught... but it's done. All I
+need to do now is disappear.
+I can't go home. Not for a few
+days at least. And I'll have
+to avoid the usual haunts
+until they forgot about me
+again. That won't be
+difficult. What's one more
+stressed doctor. Just a grey
+man in the crowd, unnoticed
+until I'm useful.
+One man kept staring at me on
+the tube. He looked like he
+was connecting the dots... I'm
+paranoid, I know, lying low
+amongst wildflowers in an
+overgrown garden. The mud has
+ruined my shoes.
+There's not much in my
+briefcase. Still, listing
+helps keep it all straight:
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+#### 
+Files on “the starcrossed couple”.
+Monday Morning's rounds --
+I hope Mrs. Campbell's op
+went well.
+Nine Werther's Originals
+(because at some point I
+became an old man and
+didn't notice)
+Pens, prescription pads.
+Oyster card -- still
+valid.
+£23.22 cash -- thought it
+was 24 but one the coins
+was a worn-down euro. Not
+sure what the exchange
+rate is...
+This journal, obviously Thank you, councillor --
+I'm more likely to use it
+for kindling than
+“expressing my
+feelings,”.
+And my phone. 43%
+battery, 1 bar. They can
+track Sim cards can't
+they? I should probably
+destroy it. Better cut
+off than caught.
+It's almost midnight.(Why
+isn't it darker?) I didn't
+pack a lunch. I didn't expect
+I'd need one. Didn't expect to
+get this far. I wonder how
+long I'll have to stay here
+before they stop looking. I
+should probably eat a
+Werther's. Just the one
+though. Christ I'm reduced to
+rationing sweets!
+I need to find somewhere dry.
+Why did I choose to hide here
+anyway? I could try a hostel?
+Would I need to show ID for
+that? I could lie, use a false
+name.
+I could be Gerald Andrews. I'm
+sure Maddie would have loved
+that.
+I remember now. It was the
+jasmine. That perfume in the
+drizzling rain that drew me
+in. It reminds me so much of
+her. Maddie loved the scent of
+jasmine. Loved to garden. She
+would have adored this place,
+tucked away amongst the ugly
+brick back streets.
+She would have quizzed me
+about the plants and I would
+have told her I didn't know. I
+didn't even know gardens could
+bloom this late in the year.
+I wasn't really thinking when
+I pushed my way through the
+gates. Just following my nose
+to memories of happier times I
+suppose.
+The scent is much more pungent
+here than it was outside, an
+almost overwhelming sicklysweet rot amongst the bushes.
+Maddie would know what it was.
+But its dark and quiet, that's
+the main thing.
+The garden seems unmanaged,
+which suits me fine. It's
+growing wild around the ruins
+of some bombed-out church.
+Nice to see nature healing old
+wounds.
+I scratched up my hands and
+face fighting past the bushes
+beneath one of the old arches.
+I'm cold but it's worth it; no
+one will find me here.
+It is so quiet. The dense
+foliage deadens the city noise
+to a whisper. I can barely
+make out the sirens. I doubt
+they are for me, but I'm
+staying put anyway.
+I don't have much choice;
+where would I go? I can't go
+home, that's the first place
+they'd look. Besides, too many
+memories there, and then there
+are the neighbours... Always
+snooping around with their
+community watch flyers. I
+won't miss parking scheme
+meetings, that's for sure.
+List of alternative boltholes:
+ Uncle T's allotment.
+Safe, but about 9 miles away.
+Too far. Daily chicken eggs
+are a plus but not exactly
+private. Besides the rooster
+would be a problem.
+ The hospital basement.
+This would have been the best
+solution but getting there
+unseen is a problem and no
+easy way to get food. It
+definitely would have been
+warmer and drier though with
+the boiler on all day.
+I'm safer here in my little
+sanctuary. Sodden and sore,
+but safe.
+I suppose there is one other
+possibility.
+#### 
+The lock-up.
+I still have a key. My name
+isn't on the lease anymore and
+it's secure and dry but...
+Maddie stored her stuff there
+after she moved out. I'm not
+sure I could face being
+surrounded by all that history
+even if it would be more
+comfy.
+I can't sleep. This itch is
+killing me! Even the numbing
+cold from lying on the ground
+doesn't dull it. It must be an
+anaphylactic response to
+something. The rash runs up my
+entire left side. I'll try and
+find a better spot when the
+sun's up.
+Thought I heard someone
+calling my name. No flashlight
+though, no movement, just the
+voice. Sounds like Maddie. My
+hands won't stop shaking.
+It's well after midnight. It
+should be pitch black, but I
+can still make out grey shapes
+in the gloom. The voice is
+still calling for me. I've got
+to stay still even though my
+heart is racing. I think there
+were some branches cracking
+but I can't tell from where.
+Morning soon but I can still
+hear her out there, moving
+around in the garden. I almost
+called back as I dozed.
+My phone died. Just my luck. I
+can see enough to write so it
+must be just before dawn. God
+knows I need the warmth.
+The rash is getting worse and
+my scratches will get infected
+if I don't clean them. I
+examined one on my forearm
+and it seems to be secreting
+something full of coiled
+translucent strands. Hair
+thin, their roots broke away
+easily when I pulled with a
+dull tear I could feel as much
+as hear. I've never seen
+anything like this before, but
+I was never great at
+dermatology.
+If I had the proper tools,
+this would be far simpler.
+Must get a scalpel and a
+mirror. I've cleaned the
+scratches as best I can but
+there's now a stabbing pain in
+my abdomen if I move.
+Current Condition:
+- I taste aniseed.
+- My nose is running.
+Normal mucus thank god.
+- The rash has spread
+across the whole of my
+back now and if I move I
+can feel the toughened
+area split and weep like
+a scab.
+- Feeling very lethargic.
+Probably hypothermia. Not
+good.
+- My fingernails are black
+with dirt. I don't
+remember digging...
+- The scratches are all
+weeping now.
+- Struggling not to fall
+back into vivid dreams.
+I need to get up, get out of
+here for treatment. I'll have
+to chance the pharmacist, at
+least. I saw one a few streets
+away. I'm not local, so I
+doubt they'd recognise me. I
+do still have my prescription
+pad with me but using my own
+paperwork would be incredibly
+foolish.
+This place is far bigger than
+I thought. Followed the birch
+trees and the canopies over
+that cobbled path near the
+close. Lined with moss.
+There's a dense wall of
+thickets overwhelming the
+boundary fence. I know it. I
+remember that. I can't hear
+the traffic at all now. It's
+hard to keep moving.
+I can't find an entrance. I
+resorted to shouldering my way
+out through the tangled bushes
+like before. It hurt so much
+but I made it. Only to find
+more garden on the other side.
+It looks the same. I think
+Maddie's still here too.
+Jasmine everywhere. The smell
+stings where it touches me but
+that doesn't make sense. I
+wonder if its psychosomatic? A
+guilty conscience with
+comorbid pneumonia...
+I'm back in the
+I'm not sure if
+at all. I don't
+coming back. My
+swollen.
+undergrowth.
+I ever got up
+remember
+feet have
+Something is very wrong. If I
+don't get to the pharmacy now
+I doubt I ever will. I've
+managed to push my feet back
+into my shoes with some
+pruning but I'm struggling to
+stand.
+Maddie makes a good point,
+though. Doctors do make the
+worst patients. We are always
+self-diagnosing, and it's
+always doom and gloom. She's
+offered to go and get my
+supplies herself. She always
+was kind.
+I'll just try to keep warm and
+sleep until the sun comes out.
+I so much want to see it
+again. This night seems
+endless. I want to be warm
+again.
+I am terribly afraid. Thank
+god for Maddie. I need to
+treat her better. She'll be
+back soon with medicine.
+Condition update:
+- Dry mouth and swollen
+tongue. Tasting burnt
+aniseed now.
+- The fingers of my left hand
+are nearly immobile. Right
+is not much better. I don't
+know how much longer I'll
+be able to write.
+- The pain in my abdomen has
+passed and the seeping has
+mostly stopped. But my back
+aches.
+- I definitely have an
+infection. The scratches
+are budding some kind of
+polyps and the slightest
+touch feels like jabbing an
+exposed nerve.
+- I stink of Jasmine. At
+least, I think I do.
+I just need to rest and it's
+safe enough here. Maddie still
+hasn't returned though. I hope
+she's ok. I miss her laughter.
+And that smile.
+I worry when she is out alone.
+She'll talk to anyone, like
+Gerald. I never liked him. I
+should make more time for her;
+I'm too busy and work far too
+much. I get home and just go
+to sleep. I need to be careful
+or we'll drift apart. I don't
+know what I would do if I
+thought I had lost her.
+But I'm not alone here though.
+I'm covered in insects. They
+seem to enjoy feasting on my
+wounds so I let them. Besides
+they scratch the itches.
+My left arm is now completely
+numb and the skin is splitting
+down to the bone. I removed
+the phalanges-tugging them out
+like stones from a peach. I
+planted them deep. Flies swarm
+the wound, and soon there will
+be maggots eating only the
+dead flesh and leaving the
+living. Nature is so
+wonderful, so efficient-
+nothing is wasted in the
+garden.
+I can see my bones are tangled
+with the same fine strands as
+my wounds. It's fascinating to
+see. I should write a paper.
+Of course if the infection
+reaches the marrow there could
+be complications. I could take
+more drastic measures but I
+would need something to cut
+with. Something strong and
+heavy. A rock perhaps? Could
+I? Should I?
+I can't tell how long I slept.
+Still no sun. Maddie, is that
+you? You're right. I should
+stay.
+She has come back to me! Just
+a whisper but it is her! I
+knew she would never leave me.
+She says there is a spot where
+I can sit out in the sun and
+feel the wind on my face. What
+would I do without her?
+We have decided not to remove
+any more of me as my condition
+develops. Maddie feels it
+isn't prudent now that the
+vomiting has passed. It was
+touch and go there for a
+while. I think I've gotten
+most of the rot out and made
+enough room to grow.
+We'll monitor the progression,
+of course, with a strict
+regimen of fresh air,
+sunshine, and rest. The polyps
+should be blooming soon.
+Condition Update:
+- I've gained some good
+weight and my skin is
+pulling away nicely like
+blanched tomatoes.
+- My legs will be nonresponsive soon. I need to
+finalise my position before
+then, but there are many
+variables to consider.
+Maddie is advising.
+- The roots have freed
+themselves from the weight
+of my meat as it sags from
+my bones and drops to the
+dirt.
+- No greenfly or other
+parasites. I remain quite
+healthy.
+The clouds have finally broken
+and the azure skies are so
+bright, almost blinding! We
+are blessed with such a
+radiant joy of warmth and love
+sitting within our garden
+together. The thought of all
+those years behind me, toiling
+in the dark, ignoring
+nourishment for myself and
+others, so withdrawn... but no
+longer. I have so much time
+now, out in the light. But
+strangely, deep inside me,
+beneath the roots, there is
+something that still shakes
+with terror.
+I don't see why. The sun is
+bright, my roots run deep and
+the breeze is fresh and clear.
+I think I shall stay here for
+a good long while.
+3. OIAR BREAKROOM INT. -- NIGHT, CLEAR (CCTV)
+SAM enters the breakroom finding ALICE already there. He
+starts to make the coffee.
+#### ALICE
+Pour us one, would you?
+#### SAM
 Sure.
+SAM continues to make coffee. He sighs and is clearly bothered
+by what he has heard.
+#### ALICE
+Yeah. I didn't catch all of it
+but that one sounded fun.
 #### SAM
-Pause. Everyone works.
-#### GWEN
-(muttering)
-If you're so concerned with
-backlog maybe being on time would
-help...
+What do I even file that as? I
+doubt there's a code for
+“parasitic-garden-thatwhispers-with-the-voice-ofthe-woman-he-clearly-murderdand-sort-of-turns-you-into-atree”
 #### ALICE
-(quietly leaning in to
-Gwen)
-Hey Gwen? Gwen? Gwen?
-#### GWEN
-(gritting teeth)
-What?
-Beat.
-#### ALICE
-(sardonic)
-Time isn't real.
-SAM snorts. GWEN takes a deep breath.
-#### GWEN
-Shut up.
-##### [6]
-#### 2. INT. APARTMENT/INT. THERAPIST OFFICE -- DAY, CLEAR (CASE
-FILE -- VIDEO CALL RECORDING)
-#### DARIA
-Hi, am I coming through?
-#### THERAPIST
-Yes, but there's no video.
-#### DARIA
-Um. I'd er, I'd rather not if
-that's okay?
-#### THERAPIST
-That might be something to dive
-into later, but it's fine for now.
-#### DARIA
-Great.
-#### THERAPIST
-I've gone over the paperwork that
-doctor Khan sent over and there's
-quite a lot to unpack soDARIA
-I'm not crazy.
-Beat.
-#### THERAPIST
-Of course. I'm not a huge fan of
-that word at the best of times,
-but I am interested in what makes
-you lead with that.
-#### DARIA
-The last guy used the word
-“delusions” a lot, but that's not...
-I know what's real. And I need you
-to believe me.
-Beat.
-#### THERAPIST
-I think I can do that. I can try,
-at least.
-##### [7]
-#### DARIA
-And don't do that either. I don't
-want your sympathy. I just want to
-get this over with.
-Beat.
-#### THERAPIST
-Normally I'd caution against that
-attitude, but I understand these
-are sessions are court-ordered, so
-the situation is a little more
-complicated. How about we start
-with you giving your own account
-of what brought you here. How does
-that sound?
-#### DARIA
-Oh. Er. I didn't think we'd be
-going straight into it...
-#### THERAPIST
-We don't have to if you don't want
-to.
-#### DARIA
-No, no, it's fine. I just, I'm not
-sure where to start y'know?
-#### THERAPIST
-Take your time.
-Sure.
-#### DARIA
-Beat.
-#### DARIA
-(cont.)
-I've always hated the way I
-looked. I'm sure there's some deep
-trauma behind it you're itching to
-unpack, but it's a fact. And it's
-not like I can avoid thinking
-about it. I'm a visual artist who
-gets most of her work from social
-media commissions. That means I'm
-spending four or five hours a day
-##### [8]
-on Instagram minimum and that
-messes you up after a while
-y'know? Like, we all know it's
-fake, it's all filters and
-Photoshop and everyone pretending
-that they're the “real deal”
-#makeupfree! But just because you
-know that doesn't mean you're
-immune and yeah, I'd ended up in a
-pretty dark place. And when I
-turned 30, I decided to do
-something about it.
-I started with my hair, grew it
-out to make my face look longer.
-It sort of worked. Then I chucked
-out all my older sister's clothes
-and dipped into my savings to get
-myself a couple of pairs of my own
-jeans that didn't make me look
-quite so much like an overloaded
-ice cream cone. I even shelled out
-for a cute LBD for when I did lose
-a bit of weight. Mum said I was
-being overambitious, but it hangs
-off me now of course. Most clothes
-do...
-Beat.
-Daria?
-#### THERAPIST
-#### DARIA
-(flustered)
-Sorry, where was I?
-#### THERAPIST
-You were giving yourself something
-of a makeover.
-#### DARIA
-Oh right yeah.
-So I'm stood there in the bathroom
-looking in the mirror trying to
-figure out what's missing and
-that's when I decide I need a
-##### [9]
-tattoo. I had a couple already --
-just little things on shin and
-wrist -- but I decided I need
-something big. Something that
-really changed my look. So I start
-trawling Insta for tattooists.
-At first glance it looks like
-there's a huge amount of choice
-but the more you look the more you
-realise that they're mostly
-recycled designs and even those
-were waaaay too expensive for me.
-It was actually when I was looking
-for some inspiration for a
-commission that I found them. I
-was meant to be doing a portrait
-for some generic witchy alchemist
-and it was when I was researching
-the symbols and stuff that I came
-across “Ink5oul” -- it's, uh, like
-“ink soul” but the s is a number
-5. You can look them up. They're
-pretty popular these days.
-They didn't have as many followers
-back then but the designs were
-great and they offered a massive
-discount if you agreed to a photo
-shoot afterwards. I figured I had
-nothing to lose by reaching out so
-I got on their site, filled in the
-“about me” contact form and got an
-immediate response inviting me
-into their “prestigious” London
-studio.
-I actually heard the studio before
-I saw it. Obnoxious dubstep was
-echoing out from the far end of
-the corridor and when I turned the
-corner I found myself looking at
-the most “influencer” set up
-imaginable. A huge purple neon
-sign took up most of the shopfront
-with “Ink5oul” written in cursive,
-##### [10]
-flanked by a pair of ludicrously
-huge speakers. Looking beyond into
-the interior, it seemed like more
-of the studio was dedicated to
-ring lights and photography gear
-than tattoos!
-Ink5oul themself was... to be
-honest they were kind of
-underwhelming. Not a lot sticks in
-my mind, except that they had an
-absolutely gorgeous floral serpent
-design running up their arm and
-into their neck that was so vivid
-it looked ready to slither off
-their skin and onto the chair.
-They beckoned me over and we
-chatted for a bit. It was weird,
-they didn't ask me about what
-design I wanted, they just kept
-pressing me about my life, about
-why I wanted the ink. I was
-honest, maybe uncomfortably so,
-but nothing really seemed to grab
-them until I told them what I did
-for a living. Then they broke into
-this huge grin and cried “The
-artist becomes the canvas!”
-Before I could reply they hit a
-button on their set-up and
-suddenly we were live streaming
-with lights in my eyes and their
-arm tight around my shoulders. I
-don't remember much of what they
-said to their viewers, but they
-kept telling everyone how lucky I
-was whilst they dragged me into
-the chair.
-Suddenly they tilted it back and
-before I knew what was happening I
-cried out in shock as the needle
-hit my skin. They hadn't discussed
-the design or anything they just
-started working on the inside of
-##### [11]
-my left forearm, my drawing arm. I
-could feel panic start to rise
-inside me, but all I could do was
-sit perfectly still.
-I stopped being able to think
-about anything at that point as it
-was by far the worst pain of my
-entire life. Vicious shooting
-pains leapt up and down my whole
-arm from my chest to my
-fingertips. Every muscle snapped
-taut automatically and my back
-arched on the chair. I wanted to
-scream but I couldn't even breathe
-as it felt like thousands of wasp
-stings ravaged my body whilst
-mediocre dubstep thrummed through
-my chest and Ink5ouls chatted to
-their viewers completely
-unconcerned.
-I must have passed out because
-when I opened my eyes Ink5oul was
-at the other end of the studio
-cleaning their bloody tools. The
-stream was over and I was
-apparently forgotten. The pain had
-dulled so I dared to look down at
-my forearm expecting to see a
-tattered and bloody mess. Instead,
-a pristine paintbrush design
-spanned from the interior of my
-elbow to the inside of my palm, a
-flurry of colourful floral
-patterns entwined with symbols I
-didn't recognise. Despite the pain
-I twisted my arm back and forth to
-admire the work and those symbols
-almost seemed to glitter in the
-light. It was... It was beautiful.
-Just as suddenly as the lights had
-turned on, they were off and I was
-bundled towards the exit. No
-debrief, no aftercare. They said
-they had the shots they needed and
-##### [12]
-before I knew it, I was stood
-outside, dazzled and unsteady. I
-considered going back in but I was
-so tired... Instead I just stumbled
-back home, my new tattoo still
-completely exposed.
-Back in my flat, I cleaned it,
-moisturised it, then covered it as
-best as I could but it was already
-pristine. If it weren't for the
-pain, it could have been there
-weeks already. I stood before the
-bathroom mirror and looked myself
-over and for the first time I saw
-someone interesting. Someone I
-wanted to know more about.
-I went a bit manic at that point.
-For the first time ever I wanted
-to attempt a self-portrait.
-Something real and physical, I
-wanted to feel the brushes in my
-hands and the oil on my
-fingertips.
-I worked through the entire night
-with a passion like I hadn't had
-in years. There were thick
-globules of paint all over the
-room; my hands, arms, face and
-clothes were covered but when I
-surveyed the finished work it was
-spotless, not only that it was by
-far my best work, a luscious
-Impasto that leapt off the canvas.
-I had been calling myself an
-artist for years but this was the
-first time I had felt it.
-I don't remember falling asleep
-and I didn't wake up till past
-four in the afternoon. I was still
-tired and had a pounding headache
-along with my throbbing arm but I
-still awoke with a smile because
-##### [13]
-when I opened my eyes, my own face
-was staring back at me and for the
-first time, I wasn't ashamed.
-At least, not initially.
-As I stared at it though, I
-noticed that whilst it was
-accurate it wasn't perfect. The
-eyes were still slightly wrong,
-the angle of the smile was off and
-obviously the nose still wasn't
-quite right.
-Looking around me, I realised that
-all of my paints were still out. I
-looked at my new tattoo, and
-realised that I would be fine to
-do just a quick touch up. Nothing
-major, just a slight adjustment,
-just for me.
-Despite the headache, my hunger,
-my fatigue and my painful arm, I
-began to take a pallet knife to
-the left eye. Just a small tweak.
-It was as subtle change, barely
-noticeable but I knew I was making
-progress, because I could feel
-when the knife scraped bone.
-When I finally went into the
-bathroom to check I was still
-pleased with the result. There was
-no discolouration, no bleeding, no
-damage at all but the face around
-my eyes was definitely more
-symmetrical. It looked so much
-better. But not quite perfect.
-I should have stopped then. I
-should have taken a break. I
-should have called my mum, put
-everything away and gone outside,
-but... the power was in my hands. I
-##### [14]
-could finally make myself perfect.
-It was small tweaks at first,
-giving a fresh gasp of pain each
-time. I slightly lengthened my
-fingers, made my ears little more
-delicate, straightened my nose and
-reangled my cheekbones, tapered my
-chin, slimmed my waist, increased
-my bust, narrowed my frame,
-lengthened my legs, adjusted my
-calves, thinned my wrists,
-shortened my feet... Nothing much,
-really.
-But when I reworked my shoulders
-that I ran into a problem. As my
-brush and knife made their
-alterations, the tattoo on my arm
-began to leak. Not out of my skin,
-but along my upper arm, spreading
-out and flowing its rivers of
-colour into the new contours I was
-creating. And the tattoo, of
-course, was the only thing so far
-that was actually perfect so I had
-to work around it as best I could.
-I worked solidly for days. Each
-time I slipped the knife into my
-skin and reshaped it I got just
-that little bit closer to
-perfection, but each time I had to
-make more and more compromises
-around the spreading tattoo.
-I was close though, so close. It
-almost there, that wholeness you
-only feel when the canvas is
-finally complete... But I just
-couldn't bridge the gap. Each time
-I would fix up one spot only for
-two others to become undone, and
-the whole time the tattoo just
-kept spreading and spreading and
-my masterpiece kept receding.
-##### [15]
-That was when my housemate Sarah
-got back from visiting her
-parents. I'd lost track of time
-and didn't realise her trip was
-already over.
-I had hoped I could show off my
-new look to her when it was
-finished but I never got the
-chance. She walked in the door
-just as I was finalising my mouth
-so I couldn't say anything. If I
-could I'm sure I'd have been able
-to explain and make her
-understand.
-Instead, she started screaming,
-and when I made reassuring noises
-and reached out to her, she backed
-away. I did manage to hold her for
-a moment but the work I'd done on
-my hands the day before meant that
-I couldn't grip her.
-That was when she punched me. I'm
-sure she was just surprised but it
-was still heartbreaking. Her hand
-went right into my cheek and undid
-days of work and the way she
-carried on, you'd think it was her
-face she'd messed up.
-Anyway, I'm sure you've read the
-rest in the court reports. When
-the ambulance came, Sarah told
-them I'd tried to kill myself with
-some acid she found in my art
-supplies. They put me on suicide
-watch and only released me when I
-agreed to attend counselling. I
-haven't made any more adjustments
-since then. Just, waiting for
-inspiration I guess.
-Pause.
-##### [16]
-#### THERAPIST
-I see. That's quite the story.
-#### DARIA
-You don't believe me, either.
-#### THERAPIST
-I didn't say that. I would however
-like to ask you directly, did you
-try to harm yourself with acid?
-Beat.
-#### DARIA
-Of course not. I never wanted to
-hurt myself, I just wanted to
-be...better.
-#### THERAPIST
-That's good to hear.
-#### DARIA
-(cont.)
-If I wanted to clear the canvas, I
-would have used turpentine.
-##### [17]
-#### 3. INT. OIAR OFFICES -- NIGHT, CLEAR (COMPUTER).
-SAM finishes listening to the Case and files it with a
-recognizable ping he then leans back and takes a deep
-breath.
-#### ALICE
-(looking over)
-Problems?
-Hm? No.
+“Infection” comma “arboreal”.
+Cross link it with “guilt” if
+you're feeling fancy.
 #### SAM
-#### ALICE
-(returning to work)
-Oh good.
-Beat.
-#### SAM
-It's just...
-#### ALICE
-(still working)
-Uh-huh?
-#### SAM
-How on earth do you cope listening
-to all this stuff? Neither of you
-seem bothered by any of it!
-#### ALICE
-Oh, I see... You want to know how to
-handle reading and listening to
-all of it?
-#### SAM
-Yes!
-#### ALICE
-The secret of the steel-trap mind
-which keeps me stoic in the face
-of atrocities that would drive a
-lesser will to madness?
-#### SAM
-(growing irritated)
-Please.
-##### [18]
-Beat.
-#### ALICE
-Just stop paying attention.. Don't
-look at me like that, I'm serious.
-I just skim the case for keywords,
-and if it's a talker I hit play
-and get on with other work. Then
-when it's done being creepy I
-process it and move on. You're
-never going to keep up if you keep
-actually taking it all in. Just
-surf the wave without being drawn
-in.
-#### SAM
-But what if something comes up
-that you know might be true?
-#### ALICE
-Why would that matter? Plus, we're
-kinda specifically paid to not
-care.
-But-
-#### SAM
-#### ALICE
-You asked how to cope. That's how.
-Beat.
-#### SAM
-(sighing)
-All right.
-#### ALICE
-(returning to work)
-The sooner you accept it the
-happier you'll be.
-#### SAM
-(unconvinced)
-Sure.
-##### [19]
-#### 4. INT. OIAR BREAKROOM -- NIGHT, CLEAR (CCTV).
-ALICE is getting horrible coffee from the grinding coffee
-machine.
-GWEN enters and starts making tea.
-Extended pause.
-#### ALICE
-Gwendolyn.
-#### GWEN
-(coldly)
-Don't.
-#### ALICE
-(sardonic)
-Wow. What a rude way to great your
-“work bestie”!.
-#### GWEN
-I'm not in the mood.
-#### ALICE
-That's okay. We can just do small
-talk like normal people.
-Beat.
-#### ALICE
-(cont.)
-So...
-Beat.
-#### ALICE
-(cont.)
-What if you could magically speak
-all languages, but after every
-sentence you had to fart really
-loudly and declare “it was me and
-I'll do it again”. Would you take
-that deal?
-#### GWEN
-Lena's planning redundancies.
-##### [20]
-#### ALICE
-(genuinely thrown)
-What?
-#### GWEN
-Yeah. I was going past her office
-earlier and I overheard her on the
-phone. They're “expanding external
-operations” and you know what that
-means. Outsourcing. Redundancies.
-#### ALICE
-That's absurd! There's only like
-three of us here. Besides,
-technically this is civil service.
-There's no way they could just
-outsource everything without an
-entire mountain of bureaucracy.
-#### GWEN
-You don't know that.
-#### ALICE
-You've seen how much paperwork
-this place generates. You've got
-to file a form in triplicate
-before they'll let you take a
-piss! It'd take them years to pull
-off what you're suggesting.
-#### GWEN
-She could have started the process
-years ago. We both know Lena
-wouldn't think twice about dumping
-both of us.
-#### ALICE
-You maybe. I like to think we have
-a rapport.
-#### GWEN
-She hasn't said more than 10 words
-to you in the last year.
-#### ALICE
-I know. Good innit? Anyway, what
-do you care? You should be happy.
-Nice big payout and you can
-##### [21]
-finally ditch this job you hate so
-much.
-#### GWEN
-I don't hate the job.
-#### ALICE
-You could've fooled me!
-#### GWEN
-What I hate is that no one in this
-entire place will give me a single
-ounce of respect.
-Ah.
-#### ALICE
-Beat.
-Yeah, that's never going to
-happen.
-Clearly.
-#### GWEN
-#### ALICE
-Still reckon you've got the wrong
-end of the stick. Lena's as likely
-to hire another Sam as she is to
-give us all the boot.
-#### GWEN
-If you say so.
-#### 5. INT. OIAR OFFICES -- NIGHT, CLEAR (COMPUTER).
-ALICE and SAM are working beside one another in silence.
-The tapping of their keyboards is accompanied by a tinny
-music beat leaking from ALICE's earbuds.
-Alice's phone begins to vibrate on the desk.
-Beat.
-#### SAM
+Of course.
+Beat. SAM pours the coffee and brings it over to sit with
 Alice.
+#### ALICE
+Cheers.
+They sip.
+#### SAM
+What?
+#### ALICE
+I'm just thinking. Would you
+fancy doing me a favour?
+#### SAM
+Depends.
+#### ALICE
+Nothing sordidSAM
+Oh good.
+#### ALICE
+-it's just would you call
+Central IT for me?
+#### SAM
+I thought Colin fixed your
+computer?
+#### ALICE
+He did, with a lecture on top
+and quite frankly I'm sick of
+getting it in the neck every
+time Freddie throws a wobbly.
+We all know the system's a
+mess, Colin's told us like a
+billion times but he's the one
+always fiddling with the
+system, and well...
+#### SAM
+You think he's causing the
+issues?
+#### ALICE
+I'm just beginning to wonder
+if he knows what he's doing
+with all that spaghetti code.
+I'd check with central myself
+but if Colin catches me he'll
+pitch a fit.
+#### SAM
+Oh right but he and I are just
+so close right now after your
+stunt on my first night?
+#### ALICE
+Ah but you're new. You can
+just claim ignorance. God
+knows that's believable.
+You're basically an ickle baby
+foal wobbling around the
+paddock with your little stick
+legs.
+#### SAM
+Thanks for that.
+#### ALICE
+You're welcome.
+#### SAM
+Look, Alice, I really don't
+want to rock the boat right
+now, everyone seems pretty
+tense as it is.
+#### ALICE
+All I'm saying is that Colin
+tinkers with this system all
+the time and I don't see any
+oversight.
+If you queried upstairs asking
+about it, all bambi-eyed and
+innocent, some alarms might go
+off. They might even come down
+and do a refresh or reboot or
+whatever.
 Beat.
-##### [22]
 #### SAM
-(cont.)
-Alice!
-SAM pokes her.
-#### ALICE
-(taking out headphones)
-Ow! What?
+Hmmmmmm. You give a convincing
+argumentALICE
+Thank you.
 #### SAM
-(returning to work)
-Phone.
+-but it's a no from me I'm
+afraid.
 #### ALICE
-(picking up her mobile
-and standing)
-Oh cheers.
-(to phone)
-Well hello! What's got you calling
-so late? Hm?
-No not busy. I'm at work soShe blows a raspberry. SAM snorts despite himself.
+(joking)
+You've made a powerful enemy
+tonight.
+#### SAM
+(sipping)
+Better than being force fed my
+own keyboard by Colin.
+Beat. GWEN enters.
+#### ALICE
+Fair point.
+#### GWEN
+Are you working on the 27th
+Alice? I've got a thing and
+you know what Lena's like.
 #### ALICE
-(cont. walking round the
-office)
-Yeah, what's up? Right. How was
-the crowd? Sounds like a solid
-gig. That's no way to talk to your
-big sister. Disgraceful. So is a
-tour actually on the cards this
-time or... Cool. And presumably now
-there's proper interest they're
-going to ditch you for someone who
-can, y'know, play an instrument?
-Awwwww you always say the sweetest
-things.
+Good evening Gwendolyn.
+#### GWEN
+Must we do this every time?
+#### ALICE
+Fine. What's the 'Thing?'
+#### GWEN
+It's really not your concern.
+Just are you working or not?
+#### ALICE
+See, now I really need to
+know, what do you recon Sam?
+#### SAM
+I'm not getting dragged into
+this.
+#### GWEN
+Alice, I don't have time for
+this. It's simple: yes or no.
+#### ALICE
+It would be such a shame for
+you to miss out just because
+you wouldn't tell me. Sounds
+rather petty doesn't it Sam?
+#### SAM
+Stop.
+#### GWEN
+(Restrained)
+It is dinner with friends if
+you must know. That's all.
+#### ALICE
+Let me guess, fancy gowns,
+champagne, bathing in the
+blood of the poor that sort of
+thing?
+#### GWEN
+You know we make the same
+Alice. An old friend just made
+partner at her law firm. She
+wants to celebrate.
+#### ALICE
+You sound thrilled.
+#### GWEN
+Oh I can't wait to catch up
+and tell them I'm still
+working in the same cesspit I
+was last time they asked.
+#### ALICE
+Come on, its not that bad.
+#### GWEN
+Are you working or not? The
+27th, yes or no?
+#### ALICE
+Fine. Yes, I'm working that
+night. I'm working every
+night. I was born down here
+and I'll die down here. Happy?
 Beat.
-#### ALICE
-(cont. a touch more
-serious)
-Er yeah, that should be fine.
-It'll need to be after the 28th
-though as that's payday. Okay no
-##### [23]
-worries. Listen, I probably should
-actually go do some work. It would
-be super awkward if I got fired
-when you're just on the cusp of
-becoming a drug addled rock star.
-Beat.
-#### ALICE
-(cont.)
-Yeah no worries, I'll talk to you
-later. Say hi to Trotter for me.
-Alice hangs up, genuinely cheery for a moment.
+#### GWEN
+(sighing)
+Are any of us?
 #### SAM
-So how's Luke?
-#### ALICE
-He's good!
-#### SAM
-He still playing with Bullets for
-Saint Sebastian?
-#### ALICE
-(returning to her desk)
-God no! They broke up years ago
-He's with a new group: Dredgerman.
-They're pretty decent.
-#### SAM
-I'm glad he's doing well, as far
-as brothers go you could've done
-worseALICE
-He has his moments.
-Beat.
-#### ALICE
-(changing gear)
-What's that?
-#### SAM
-Hmmm?
-##### [24]
-#### ALICE
-“The Magnus Institute?” You
-looking to jump ship already?
-#### SAM
-Oh it's nothing just a bit of
-background researchALICE
-Research? Sam, tell me this isn't
-linked to any of your cases.
-#### SAM
-Just something that came up on my
-first day. I've been trying to get
-it out of my head.
-#### ALICE
-Well try harder.
-#### SAM
-It's fine honestly, I'm on top of
-my case loadALICE
-It's not that.
-#### SAM
-Then what's the problem?
-Beat.
-#### ALICE
-I wasn't messing with you earlier,
-you do need to compartmentalize
-for this job. Make a box in your
-head and at the end of the shift
-you dump everything in there and
-hit the incinerate button okay?
-You do not want to be thinking
-about this stuff outside of here.
-It's not good for you. I've seen
-people go weird before now.
-#### SAM
-And let me guess, I'm weird
-enough.
-##### [25]
-#### ALICE
-I'm serious Sam.
-#### SAM
-(Realizing)
-All right. I hear you.
-He closes the browser tab.
-Thanks.
-#### ALICE
-#### SAM
-No worries.
-#### ALICE
-That's the general idea.
+Yikes.
 ##### [Music]
 #### ANNOUNCER
-The Magnus Protocol is a podcast
-distributed by Rusty Quill and
-licensed under a Creative Commons
-Attribution Non-Commercial Sharealike 4.0 International License.
-The series is created by Jonathan
-Sims and Alexander J Newall, and
-directed by Alexander J Newall.
+The Magnus Protocol is a
+podcast distributed by Rusty
+Quill and licensed under a
+Creative Commons Attribution
+Non-Commercial Share-alike 4.0
+International License.
+The series is created by
+Jonathan Sims and Alexander J
+Newall, and directed by
+Alexander J Newall.
 This episode was written by
-Alexander J Newall and edited with
-additional material by Jonathan
-Sims, with vocal edits by Lowri
-Ann Davies, sound scaping by Tessa
-Vroom, and masting by Catherine
-Rinella with music by Sam Jones.
-It featured Billie Hindle as Alice
-Dyer, Shahan Hamza as Samama
-Khalid, Anusia Battersby as Gwen
-Bouchard.
-The Magnus Protocol is produced by
-April Sumner, with executive
-producers Alexander J Newall, Dani
-McDonough, Linn Ci, and Samantha
-F.G. Hamilton, and Associate
-Producers Jordan L. Hawk, Taylor
-Michaels, Nicole Perlman, Cetius
-d'Raven, and Megan Nice.
-##### [26]
-To subscribe, view associated
-materials or join our Patreon
-visit rustyquill.com. Rate and
-review us online, tweet us
-@therustyquill, visit us on
-Facebook, or email us at
-mail@rustyquill.com.
-Thanks for listening.
-##### [27]
-The Magnus Protocol 2 -- Making Adjustments
-#### CAT3RBC1567-23092022-18012024
-Transformation (full) --/- dysmorphic [video call]
+Graeme Patrick and edited with
+additional material by
+Jonathan Sims Alexander J
+Newall, with vocal edits by
+Nico Vettese, sound scaping by
+Meg McKellar, and masting by
+Catherine Rinella with music
+by Sam Jones.
+It featured Billie Hindle as
+Alice Dyer, Shahan Hamza as
+Samama Khalid, Anusia
+Battersby as Gwen Bouchard,
+Ryan Hopevere-Anderson as
+Colin Becher with additional
+voices from Alexander J
+Newall.
+The Magnus Protocol is
+produced by April Sumner, with
+executive producers Alexander
+J Newall, Dani McDonough, Linn
+Ci, and Samantha F.G.
+Hamilton, and Associate
+Producers Jordan L. Hawk,
+Taylor Michaels, Nicole
+Perlman, Cetius d'Raven, and
+Megan Nice.
+The Magnus Protocol 3 -- Putting Down Roots
+#### CAT2C8175-03042009-22012024
+Infection (full body) --/- arboreal [journal entry]
 Incident Elements:
-- Body modification
-- Dysmorphia/Dysphoria
-- Addiction/Mania
-- Self-harm
-- Therapy
-- Burnout
-- Needles (tattoo)
-- Discussion of: Suicide/Self-Harm
+ Temporal Distortion
+ Compulsion/OCD
+ Auditory Hallucinations
+ Disorientation
+ Hypochondria
+ Paranoia
+ Self-Injury
 Transcripts: https://shorturl.at/gzF15
-This Episode is dedicated to Christian (and also Coco) thank you for your generous
-support! You can a complete list of our Kickstarter backers https://rustyquill.com/the-
-magnus-protocol-supporter-wall/
-Created by Johnathan Sims and Alexander J Newall
+This Episode is dedicated to Elias Becker thank you for your generous support! You can a
+complete list of our Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/
+Created by Jonathan Sims and Alexander J Newall
 Directed by Alexander J Newall
-Written by Alexander J Newall
-Script Editing by Johnathan Sims
-Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani
-McDonough, Linn Ci, and Samantha F.G. Hamilton
-Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius
-d'Raven, and Megan Nice
+Written by Graeme Patrick (for more of his work visit https://www.aintslayednobody.com/)
+Script Editing with Additional Materials by Jonathan Sims and Alexander J Newall
+Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani McDonough,
+Linn Ci, and Samantha F.G. Hamilton
+Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and
+Megan Nice
 Produced by April Sumner
 Featuring (in order of appearance)
+Ryan Hopevere-Anderson as Colin Becher
 Billie Hindle as Alice Dyer
-Anusia Battersby as Gwendolyn Bouchard
+Alexander J Newall as Norris
 Shahan Hamza as Samama Khalid
-Kate Sketchley as Daria
-Jenny Haufek as Therapist
-Dialogue Editor -- Lowri Ann Davies
-Sound Designer -- Tessa Vroom
+Anusia Battersby as Gwendolyn Bouchard
+Dialogue Editor -- Nico Vettese
+Sound Designer -- Meg McKellar
 Mastering Editor -- Catherine Rinella
 Music by Sam Jones (orchestral mix by Jake Jackson)
 Art by April Sumner
-SFX from Soundly. From Freesound (CCO): be_a_hero_not_a_patriot,
-Joao_Janz, hz37, sagetyrtle, kyles, SpliceSound, Timmeh515, sangtao,
-lamamakesmusic, phantastonia, aurelon, LaurenPonder, Akatukoaut,
-##### [28]
-jodybruchon, squareal, marleneayni, lartti, PeteHaase, PuzzleAudio (CC-3.0):
-jomse, rhodesmas
+SFX from Catherine Rinella, Soundly, Freesound (CCO): be_a_hero_not_a_patriot,
+Joao_Janz, hz37, sagetyrtle, kyles, SpliceSound, Timmeh515, sangtao, lamamakesmusic,
+phantastonia, aurelon, LaurenPonder, Akatukoaut, jodybruchon, squareal, marleneayni,
+lartti, PeteHaase, PuzzleAudio (CC-3.0): jomse, rhodesmas
 Support us on Patreon at https://patreon.com/rustyquill
 Check out our merchandise available at
 https://www.redbubble.com/people/RustyQuill/shop and
@@ -1008,7 +913,6 @@ FACEBOOK: facebook.com/therustyquill
 TWITTER: @therustyquill
 REDDIT: reddit.com/r/RustyQuill
 EMAIL: mail@rustyquill.com
-The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty
-Quill Ltd. and licensed under a Creative Commons Attribution Non-Commercial Share
-alike 4.0 International Licence.
-##### [29]
+The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty Quill
+Ltd. and licensed under a Creative Commons Attribution Non-Commercial Share alike 4.0
+International Licence.
