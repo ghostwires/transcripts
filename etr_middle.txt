@@ -1,715 +1,745 @@
+©Rusty Quill 2023
 #### THE MAGNUS PROTOCOL
-Episode 4
-“Taking Notes”
-Written by Cole Weavers
-Edited by Jonathan Sims & Alexander J Newall
+Episode 5
+“Personal Screening”
+Written by Alexander J Newall and Jamie Petronis
+Edited by Jonathan Sims and Alexander J Newall
 Show-Notes are available at the end of the Transcript.
-#### ANNOUNCER
-Louise Ironside -- To the greatest
-friends I could wish for: To my craft
-fair companion Mimie; To JC who's kept
-me sane with endless walks; and
-ultimately to Harrow and Ivy, here's to
-another two decades and more.
+#### ANNOUNCER
+This episode is dedicated to
+Nikolas Rabayda -- who thanks their
+friends Dreach Noishe Mrm, Boot
+boot, and Kobalt Jäger. May the
+Ceaseless Watcher avert their gaze
+on us.
 ##### [Intro Theme]
 #### ANNOUNCER
 Rusty Quill Presents: The Magnus
 Protocol.
-Episode Four -- Taking Notes
+Episode Five -- Personal Screening
 ##### [Music]
-#### 1. INT. LOCATION -- OIAR OFFICE. NIGHT. CLEAR. (COMPUTER).
-The decrepit computer turns on. SAM is typing whilst idly singing to
-himself.
-Alice stomps closer then slams her hands down on his desk.
-#### ALICE
-(whisper)
-What the hell Sam.
+#### 1. INT. MANAGER'S OFFICE -- NIGHT, CLEAR (LANDLINE).
+It is the start of the shift. Lena is typing quietly. There
+is a tentative knock at the door.
+Come in.
+#### LENA
+SAM opens the door.
+#### LENA CONT.
+Good evening Sam. I don't believe
+we had a meeting scheduled?
 #### SAM
+(from the doorway)
+Well no, but I was wondering if
+you could spare a few minutes
+though? I think it might be
+important.
+Beat.
+#### LENA
+Very well.
+SAM enters, closes the door, approaches the desk, and sits.
+He places his backpack beside him.
+#### LENA CONT.
+Do take a seat.
+#### SAM
+Oh er sorryLENA
+It's fine. What is it you wanted
+to discuss?
+#### SAM
+Well it's a bit awkward... I'm not
+really sure how to- um...
+#### LENA
+For the sake of efficiency let us
+presume that since you said it is
+important, I will not make any
+assumptions.
+#### SAM
+Okay, yea. Well in that case, it's
+Colin.
+Beat.
+Go on.
+#### LENA
+#### SAM
+Er... I'm worried about him. That
+is, um. Well, today I found him
+crawling along the corridor,
+yanking out wires and muttering to
+himself.
+#### LENA
+Well Colin's role does include
+technical maintenance.
+#### SAM
+Sure but, I mean, he's added all
+those locks to his office door and
+he refuses to even go near a
+camera now...
+#### LENA
+A desire for personal privacy is
+not a crime.
+#### SAM
+Yes, I understand that butBeat.
+Pause.
+#### SAM
+I think that the stress is getting
+to him and honestly? I think he
+might need some professional help.
+#### LENA
+Anything else?
+Um. No?
+#### SAM
+#### LENA
+Right. Well firstly, thank you for
+raising this with me Sam. It's
+important we don't keep secrets
+here.
+#### SAM
+Oh, that's quite all right.
+#### LENA
+Good. Now, whilst I understand
+your concerns, you need to
+understand that Colin has held the
+IT Manager position for some time
+without incident, and although he
+is somewhat... frustrated with his
+current assignment he can request
+help from the central IT team at
+any time. I am certain that should
+he find his responsibilities
+unmanageable he will request
+assistance. Or resign of course.
+Either way, the problem will
+resolve itself.
+Right.
+#### SAM
+Beat.
+#### LENA
+Was there something else Sam?
+#### SAM
+I- er... no. I guess not.
+#### LENA
+Very good.
+Beat. Sam stands and moves to exit. He opens the door.
+And Sam?
+#### LENA CONT.
+#### SAM
+(from door way)
+Yeah?
+#### LENA
+Please schedule such meetings in
+future.
+...sure.
+#### SAM
+SAM exits.
+#### 2. INT. O.I.A.R. OFFICE --
+#### NIGHT, CLEAR (COMPUTER).
+SAM approaches the desk obviously irritated and dumps his
+bag before dropping heavily into his chair and turning on
+his computer.
+#### ALICE
+Glad to see you've been learning
+from my exceptional example.
+#### SAM
+(brusque)
 What?
 #### ALICE
-Don't 'What?' me. I invented 'What?'.
+You're late.
 #### SAM
-(quieter)
-Wh-I... I honestly don't know what you're on
+Okay.
+He angrily unzips his bag, pulls his stuff out and roughly
+puts it on the desk.
+#### ALICE
+And thanks to my incredible
+perception skills and genius
+intellect I think I can detect the
+subtlest hints that you might be
+ever so slightly miffed. But I
+could be wrong.
+#### SAM
+Lena -- doesn't take me seriously.
+#### ALICE
+Ah. Yeah, Lena isn't exactly known
+for her diplomacy.
+Beat.
+#### SAM CONT.
+(picking up paper)
+What's all this?
+#### ALICE
+(As if to a toddler)
+That, now bear with me on this Sam
+because I know you're feeling
+emotional right now, is paper.
+It's made from trees andSAM
+Alice, not today. Please?
+#### ALICE
+(Normal again)
+I had a nosey while you were in
+Lena's office. Looks like it's for
+your Response department one to
+one.
+#### SAM
+(Sheafing through reams
+and reams of paper.)
+What, all of it?
+#### ALICE
+As far as I can tell.
+#### SAM
+Good grief...
+#### ALICE
+Just chuck it. I told you, I'm
+pretty sure the Response
+Department doesn't even exist
+anymore. It's just the system
+spitting out dead paperwork.
+Happens all the time.
+SAM takes a moment then settles down and starts filling in
+the forms.
+#### ALICE CONT.
+Did you not hear me?
+#### SAM
+(writing)
+I heard you.
+and...
+#### ALICE
+#### SAM
+And I'm going to fill it in any
+way. See what happens.
+#### ALICE
+Your wasting your time.
+#### SAM
+It's my time to waste.
+#### ALICE
+You say that but your caseload is
+pretty heavy tonight and I'm too
+busy to bail you out.
+#### SAM
+(working on paperwork)
+Uh huh... They want my last seven
+addresses. I don't know if I've
+even hadSam's terminal pings.
+#### ALICE
+Sam? Seriously, you'd better do
+that later. We're swamped.
+Sam's terminal pings again.
+#### SAM
+(putting paperwork aside)
+Yeah, yeah, okay, all right...
+He double clicks the first case:
+3. CYBERSPACE -- N/A, N/A (BLOG POSTS)
+#### CHESTER
+https://www.tomsterrors.blogsphere
+.org
+#### BLOG POST: GENERAL: WELCOME TO MY
+#### TWISTED MIND!!
+Hey
+Tom
+the
+the
+all you sick freaks out there,
+here, your gruesome guide to
+most twisted horror films of
+world wide web!
+We're gonna be talking about the
+darkest, splattiest stuff here --
+starting next week with Rob
+Zombie's Halloween 2!
+Stay bloody!
+#### BLOG POST: GENERAL: A BLAST FROM
+#### THE PAST
+Wow, this is all incredibly weird.
+I can't believe this blog's still
+up. Was looking for somewhere
+slightly less confrontational than
+social media to post my film
+thoughts, and I remembered
+starting this back in, what, 2009?
+That first post... Fourteen years
+old and convinced I was the
+edgiest writer on the web. Might
+keep it up for posterity, god
+knows the kid went through enough.
+I remember I was pretty lonely in
+those days. Ever since I was a
+child, making friends has always
+been kind of a struggle. My
+interests have always been seen as
+a little strange... While other
+kids my age at the time were
+looking up to football players and
+other celebrities, I was looking
+up to Pinhead and Freddy
+Krueger... It wasn't in a
+psychopath kind of way or
+anything, I've just always been
+fascinated by horror. I can thank
+my dad for that, he showed me
+Puppet Master when I was six. 'oh
+don't worry, buddy! It's just like
+Toy Story”... He had kind of a
+dark sense of humour like that.
+That's when my fixation started.
+We must have watched thousands of
+weird and obscure horror films
+over the years... Critters,
+Ghoulies, Wishmaster... I couldn't
+get enough. And that is what
+brings us here today. THIS is the
+first (new) post of the Horror
+Dumpster Dive! I am going to use
+this blog to talk about all things
+HORROR. This could include film
+reviews, gaming news, and just
+basically my general thoughts on
+the genre!
+The plan is to focus on unknown
+gems. There's a comment section as
+well, so if you like something or
+just have some general feedback,
+feel free to leave a comment! And
+remember... One man's TRASH is
+another man's TERROR!...
+I'm really proud of that
+tagline... Bye!
+#### BLOG POST: FILM REVIEW: FIRE IN
+#### THE SKY
+##### [The contents of this post have
+been deleted.]
+#### BLOG POST: GAME REVIEW: SWEET HOME
+##### [The contents of this post have
+been deleted.]
+#### BLOG POST: FILM REVIEW: PUPPET
+#### MASTER 4
+##### [The contents of this post have
+been deleted.]
+#### BLOG POST: GENERAL: SOME NEWS!!
+Hello there, horror hounds! Hope
+you are all having a terrorific
+day today! I sure am. I know that
+this blog is still fairly new, but
+I must say it feels SO good to
+have like minded people to talk
+to. And I want to give a big THANK
+YOU to everyone that has been
+leaving recommendations in the
+comments!
+There have actually been a few
+that I have never even heard of.
+I can't seem to find the original
+comment anymore, but, one of you
+mentioned a film called “Voyeur”?
+I looked it up and I can't seem to
+find anything about it. I mean,
+don't get me wrong, there's
+literally dozens of films with
+that title, but let's just say
+that most of them aren't horror
+and none released in 2009. The
+only thing I could find was
+another old blog with what must
+have been the shortest film review
+I have ever read. You can check
+the link, but I'll save you some
+time: all it says is “Voyeur needs
+to be seen to be believed. The
+Scariest movie I have ever seen”.
+I am sold. I need to track down
+this film! If any of you have any
+more info on Voyeur, please leave
+it down below in the comments. Oh!
+And remember, if you like what I'm
+doing here, you can contribute to
+my KoFi! Every little bit helps.
+Those old hidden gems can get
+expensive... Bye!
+#### BLOG POST: GENERAL: HUGE UPDATE!!
+Oh my God. I can't believe one of
+you found it! Thank you SO MUCH
+Cinephobia12220 for the link! I
+have no idea how you even found
+it.
+You're right that it seems to be
+the official website for the film.
+It's so strange though. You should
+all check the link out for
+yourselves. It looks like it
+hasn't been updated in years but
+they appear to be currently
+running some kind of contest...
+The winner gets a private
+screening of the film and then
+they get to be part of a Q&A with
+the director and I figure why not,
+right? The form literally only
+asked me to enter my name... I
+never win these things, and the
+draw probably already happened
+years ago, but what the hell. I
+will let you all know if anything
+comes of it. I still haven't found
+a copy of the actual film online
+anywhere yet. Thank you everyone
+for the help and don't forget! If
+you have any recommendations for
+some other hidden gems you would
+like me to take a look at, please
+leave a comment down below.
+Thanks!
+#### BLOG POST: GAME REVIEW: FAITH; THE
+#### UNHOLY TRILOGY
+##### [The contents of this post have
+been deleted.]
+#### BLOG POST: GENERAL: NO WAY
+I WON THE CONTEST! I can't believe
+it! The invitation was waiting
+when I got home today, in a small
+black envelope. I don't even
+remember giving them my address.
+The website must have logged my IP
+and looked it up or something...
+I'm really not sure how any of
+that works.
+The letter also had all the
+details about the screening
+itself. It's very short notice,
+but the screening is THIS
+Saturday! I'm supposed to have
+work that night, but I'm going to
+figure it out. There is not a
+chance in hell that I am going to
+miss this. And I've actually been
+to this cinema before... I used to
+go all the time with my dad...
+they would play classic horror
+films midday every Saturday.
+That's where I saw I Know What You
+Did Last Summer and The Thing for
+the first time. I haven't been
+there in years though... I
+actually didn't even know that it
+was still open. It is a bit of a
+trek to get there, so, if you
+would like to contribute to the
+expenses, you can head over to my
+KoFi page. I'll leave a link in
+the comments. I'm not sure if I'll
+have time for any other posts
+before this weekend, but I will
+try my best. Talk to you all soon!
+#### BLOG POST: GENERAL: GETTING READY
+Sorry I've been m.i.a these past
+few days... I've actually been
+pretty nervous about this whole
+event. This film could never live
+up to my expectations... this
+happens to me when it comes to
+horror films. In fact it comes up
+SO often that I even came up with
+a term for it. I call it “Getting
+Babadooked”. Everything that I
+read about The Babadook before
+seeing it was how phenomenal it
+was. I was SO hyped for that film
+that I even ended up dressing for
+the occasion... and then... blerg.
+It was so embarrassing... I
+struggle to think of a more
+disappointing film.
+But I'm sure it won't be another
+Babadook. I can't believe that
+tonight is finally the night! I
+know that I only found out about
+this film like a week ago, but I
+feel like I've been waiting to see
+something that would truly scare
+me for... years now. I feel like
+I've just been kind of... numb to
+the whole genre. Obviously, I
+still really enjoy everything
+horror related, but it takes a lot
+to get any sort of reaction out of
+me these days... I even started
+seeking out the borderline “should
+be illegal” stuff... Faces of
+Death, the August Underground
+series... even those barely get a
+shudder out of me... I'm hoping
+this might finally scratch that
+itch.
+Sorry, I'm just rambling now. I
+really need to log off and start
+getting ready! And oh yeah! I
+forgot to mention, I'm sure you
+all are wondering when you will be
+able to hear all of my thoughts on
+the experience. Well, I have good
+news. You won't have to wait at
+all! The invitation to the
+screening actually explicitly
+mentioned that liveblogging the
+event is okay! I've been testing
+out some of these speech-to-text
+apps and have found one that
+should work, so prepare for my
+impressions... live!
+I'm so excited and I hope you all
+are too! Okay. I am going to order
+the Lyft now... If you would like
+to help pay for that, my KoFi and
+PayPal are in the pinned comment
+down below... Next time you hear
+from me, I will be at the cinema!
+Talk to you later, Horror Hounds
+in real time!
+#### BLOG POST: LIVE BLOG: “VOYEUR
+#### EVENT”
+I made it! Finally! The price of
+the Lyft was absolutely insane,
+but it is definitely going to be
+worth it. Wow. This place looks
+just how I remember it although
+it's old obviously and... dirtier.
+Yeah, time has not been kind to
+this place. There's ripped trash
+bags on the front steps and there
+is some... er, pretty graphic
+graffiti all over the walls. You'd
+think they would want to clean
+things up a bit before hosting an
+event? Huh. There's just the one
+car in the car park... “Voyeur Fan
+Screening -- SOLD OUT” is on the
+marquee, so this is definitely the
+right place.
+Is it a private screening just for
+me? The contest didn't mention
+that. Might help the atmosphere,
+though. That's [UNINTELLIGIBLE]
+cool actually. I'm going to head
+on in... Hang on a sec.
+Oh my God. Never judge a book by
+it's cover, I guess. It is
+GLORIOUS in here! The carpet and
+walls are absolutely pristine and
+the smell of freshly buttered
+popcorn! Mmmm. I'm not sure where
+exactly I'm supposed to be right
+now, so I'm going to head over to
+the ticket counter and see if the
+employee there can point me in the
+right direction.
+The guy was very helpful.
+Apparently, Voyeur is the only
+film playing tonight so I guess I
+have the place to myself! I also
+get a large popcorn and a drink. I
+told him I didn't really want
+them, but he was kind of touchy
+about it. I asked about the mess
+outside, trying not to be rude
+about it, but he just said “It's
+what on the inside that matters”.
+That's kind of deep when you think
+about it. I'm going to go grab my
+snacks and then try and find my
+seat.
+Snacks acquired! They're obviously
+short staffed since it was the
+same guy working the concession
+stand. I feel bad. He looks super
+old and they're really putting him
+to work. He seems in good spirits
+though. Okay... [UNINTELLIGIBLE]
+find my seat!
+That poor guy, They have him
+ushering too! They really need to
+hire more staff... oh wow... There's
+really nobody else in this whole
+cinema... I'm, so lucky! There's
+absolutely nothing like sitting
+alone in a cold room and watching
+a scary film that you know nothing
 about.
+So I'm almost done with my popcorn
+and the film hasn't even started
+yet. No previews or anything... Do
+I go talk to the old guy? I really
+hate [UNINTELLIGIBLE] bother him.
+I'm just going to wait for now.
+This has to be the best popcorn I
+have ever had. I've eaten the
+entire bucket before the film even
+started, I haven't done that
+since...... Oh! Something is
+happening! The projector is
+officially on! Here we go...
+So it's been a minute and the
+screen is still black... I can
+hear what sounds like... beeping.
+It sounds so familiar but I can't
+quite place it. Medical equipment
+maybe? There's something
+##### [UNINTELLIGIBLE] the screen...
+Looks like it might be a flashback
+or something, handheld... looks like
+it was filmed on an old
+camcorder... Wait. Is that...? I
+know that room.... How... How did
+they get [UNINTELLIGIBLE] This was
+after the accident. Mum wanted to
+to film it for my brothers...
+Dad... I... [UNINTELLIGIBLE] Wait.
+Who is that? In the corner of the
+screen, there's... WHO THE HELL IS
+#### THAT?
+#### BLOG POST: FILM REVIEW: VOYEUR
+Voyeur needs to be seen to be
+believed. The scariest movie I
+have ever seen.
+#### 4. INT. O.I.A.R. BREAKROOM --
+#### NIGHT, CLEAR (CCTV).
+ALICE is on her phone at her desk not working. She is
+clearly tired.
 #### ALICE
-I just received a security notification.
-#### SAM
-About me?
-#### ALICE
-Someone was trying to access restricted
-files. And my money is on you.
-#### SAM
-Why would you be getting those
-notifications?
-#### ALICE
-I shouldn't be, but you should be damn glad
-that this system doesn't do anything like it
-should. If Colin caught wind of this he
-would have a meltdown!
-#### SAM
-Right. Well, thanks, I guess?
-#### ALICE
-Apparently you tried searching for files
-with the terms...
-(checking printout)
-"Magnus” and “Protocol"?
-#### SAM
-That's what this is about? I mean, yeah,
-okay, I got a case referencing the Magnus
-Institute and then I looked it up and found
-a few files on the system that mentioned
-using “The Protocol”. Why would that be
-restricted?
-#### ALICE
-Because we work for the government andthe government loves secrets, you dickhead!
-#### SAM
-Alright, yeah, I get it...
-Beat.
-#### ALICE
-(slightly gentler)
-Listen Sam. I don't know what "The Protocol"
-is but a couple of the old guard mentioned
-it over the years. The way they talked about
-it... it's high level stuff. You do not want
-to get found anywhere near it, never mind
-openly looking it up.
-#### SAM
-Well, I mean it isn't exactly as though I'mALICE
-This is not something you go poking
-around in. Not if you want to keep your
-job... or your neck.
-#### SAM
-Okay, okay! I get it. Consider me
-scared straight.
-#### ALICE
-I'm serious. I don't want you getting
-in trouble all right?
-#### SAM
-(realizing)
-I mean, how much trouble are we talking
-here?
-Beat.
-#### ALICE
-All I know is it used to involve Starkwall.
-#### SAM
-Starkwall? As in “The San Pedro Square
-Massacre” Starkwall?
-#### ALICE
-The private military contractors yeah.
-GWEN approaches.
-#### SAM
-(whispering)
-I thought this was supposed to be a "boring
-office job"!?
-#### ALICE
-(whispering)
-It was until you started messing
-around!
-Gwen arrives and sits.
-Beat.
+-glad to hear it. You did say this
+new band was pretty solid.
+No it's fine, if you can hold on
+till payday I'll be able to cover
+it no worries. Besides, it sounds
+like I'll be getting it back
+pretty soon the way things are
+going.
+I know, I know, just make sure
+next time, yeah? I won't always be
+there to wipe my sweet little
+brother's bum bum for him.
+Oh you always say the sweetest
+things.
+Look after yourself.
+ALICE puts the phone down and takes a moment.
 #### GWEN
-You could at least pretend you weren't
-talking about me.
+(A bit intense)
+Are you finished?
 #### ALICE
-Aw damn, you caught us! I was just
-telling Sam how important it is that he
-focuses on his work otherwise he'll end
-up trapped here like you forever.
+(jumping)
+Jesus! How long were you lurking
+there?
 #### GWEN
-Of course you were. Well keep it down.
-Some of us do actual work here. At our
-job. Which pays us.
-Noted.
-#### SAM
-GWEN double clicks on her PC.
-My Nephew,
-#### AUGUSTUS
-/If you are reading these words, then I am
-already gone, and can offer no assurances as
-to the truth of them. You must simply trust
-in their veracity and importALICE
-/Hey! Augustus! Feels like I haven't heard
-him in forever!
-#### SAM
-So is this, like, a rare voice?
-Gwen presses spacebar, irritated. The voice stops.
+I wasn't lurking. I need to ask
+you something.
 #### ALICE
-Kinda. It's usually just Chester or Norris.
-Augustus is a bit of a special occasion.
+Right fine.
 #### GWEN
-Firstly, they don't have names. Stop trying
-to give them names. Secondly, can I please
-just get on with my job.
-#### SAM
-I'm sorry.
-I'm not.
+Do you remember the IT manager
+before Colin?
 #### ALICE
-GWEN takes a calming breath then hits the spacebar again.
-#### 2. CYBER SPACE
-My Nephew,
-#### AUGUSTUS
-If you are reading these words, then I am
-already gone, and can offer no assurances as
-to the truth of them. You must simply trust
-in their veracity and import.
-Keep what you read close to you, and secret,
-for as long as you may live.
-I must hope that what lamentable inheritance
-I am able to offer might solicit a modicum
-of that familial affection which I have
-neglected to display in years past.
-Nephew, to you I leave my violin, an
-instrument of the finest craftsmanship.
-I will confess I once harbored the notion to
-dismantle the thing, or consign it to the
-fire, but I have at times been called
-covetous, and perhaps there is some merit to
-such an accusation, for I cannot now bring
-myself to do so.
-There has been a great deal of rain here
-this last fortnight, which has been
-strangely pleasing to my maudlin mood, and
-has brought with it some nostalgia for that
-dreary summer you took residence with me.
-I flatter
-imprinted
-that time
-I seek to
-myself to think that I might have
-upon you some part of myself in
-together, and perhaps in this way
-keep hold of my prized violin
-still.
-I have never spoken of how I came to possess
-this violin to a living soul, but I must now
-confide the truth of it to you, for it, and
-its history, are now yours.
-I was a young man, younger than you are now,
-when I was called to try my talents before
-the Royal Court Orchestra of the Palatinate.
-While I must confess the thought of leaving
-the material comforts of Alnwick Abbey
-caused me trepidation, in truth I had little
-say in the matter, and the privilege of
-being so summoned was not lost upon me.
-My violin tutor, one Oliver Bardwell by
-name, nursed a conviction that this honor
-was purely the fruit of his own skills as an
-instructor, rather than a product of my
-talent and endeavor.
-Bardwell, a singularly vexatious man,
-reveled in the task of reminding me that,
-though my father may hold station in the
-Lords, the regrettable position of my birth
-ensured I could not rely upon that fact to
-provide for my future.
-In these moments of Bardwell's cruelty, I
-shall confess I indulged my imagination in
-contemplation of what morbid or grotesque
-fates might befall him on the journey, by
-happenstance or even by my own hand.
-Regardless, it was with both nervousness and
-delight in my heart that I watched Alnwick
-Abbey gradually recede from view. My course
-was set for Mannheim, a destination where I
-felt a youthful certainty that my brilliance
-would at last be acknowledged.
-As for my towering father, with his
-unshakeable belief in his own celestial
-significance, he too disappeared from sight,
-surrounded by my useless half-siblings,
-impatiently awaiting their inheritance.
-Naturally, it was Mr. Bardwell who undertook
-the role of companion on my journey across
-the continent, surely harboring his own
-dreams of ennobling himself through my
-imminent accomplishments.
-I paid little heed to his prattle or
-ambitions, spending those weeks en route
-refining my finger patterns upon the
-timeworn bridge of my cherished Rogeri, at
-least as far as the unsteady coach would
-permit.
-Alas, as the journey continued, Bardwell's
-practiced manners and veneer of refinement
-gradually eroded, and as the summer's warmth
-yielded to autumn's chill, his demeanor
-truly soured, a change hastened by each rut
-and jolt of the aged carriage.
-Soon, a feverish restlessness had settled
-upon him like a shroud of tulle, and his
-once discerning eyes had clouded with a
-frantic, almost manic gleam.
-I watched with growing unease as shadows
-danced upon the walls of his thoughts, their
-forms and nature hidden to me, save for what
-I overheard him utter beneath his breath,
-barely perceptible to the ear. At moments,
-it seemed almost as if he were listening to
-some far away music, though my instrument
-lay quiet beside me.
-I have made mention of the grim fantasies
-that on occasion possessed my youthful mind,
-but you must believe me, nephew, when I say
-I had no part in his death. I do not know
-what at last caused the frenzied paroxysm
-which seized him that night. He had slept
-but little the week prior, and the strain
-upon his nerves was plain to see.
-It was as I missed the fingering of what
-should have been a simple exercise, a
-mistake I ascribe to the coach's jostling,
-that he leapt to his feet. Words tumbled
-from his lips, devoid of coherence, a
-symphony of mania conducted by some unseen
-maestro of his own imagination.
-It were as though some specter flitted just
-beyond his sight and grasped his hands,
-moving them with wild abandon as Mr.
-Bardwell sought salvation from whatever
-phantoms haunted his waking dreams.
-I often wonder if I might have intervened to
-save his life. But I was young and
-frightened, and simply watched in quiet awe.
-As the storm within his mind reached a
-crescendo, Bardwell seized the handle of the
-carriage door, opened it abruptly and,
-without hesitation, hurled himself head
-first into the night.
-The coachman, noticing immediately what had
-happened, brought the carriage to a sudden
-halt, and we confronted the grim spectacle
-that lay before us.
-A rock, marked with the grisly remnants of
-my tutor's troubled mind and the fragments
-of his fractured skull, served as a morbid
-marker, looming over the lifeless form of
-the detestable Mr. Bardwell.
-In my naiveté, I turned to the coachman to
-ask what we might do. Alas, I saw at once
-the suspicion that gripped him.
-He had been witness to many heated exchanges
-between myself and Mr Bardwell, and as I
-approached, it became clear he perceived not
-a terrified and distraught youth, but a
-violent killer.
-A primal fear seized the man, and he acted
-rashly. I shall not speak of what followed,
-but suffice it to say that I ended up alone,
-wandering in the night.
-How long I walked through those woods I
-cannot say. I was near insensible, and
-darkness shrouded all.
-I do not know whether to call it luck or
-misfortune, that twist of fate which saved
-me, but at length I spied through the trees
-the flickering of flame and a figure huddled
-close for warmth.
-A gentleman, it appeared, of surprisingly
-refined countenance sat there, casting a
-stark silhouette against the firelight.
-"Spreekt u Engels?" I inquired in broken
-Dutch, Mr Bardwell's indifferent instruction
-having left me still ignorant of any German.
-"A fellow Englishman," came his warm reply,
-accompanied by a hearty chuckle.
-"You have a look that speaks of hunger," he
-continued, and offered some crudely skewered
-morsel, nearly charred to ash by the flames.
-Devoid of caution, and keenly aware of my
-empty stomach, I accepted the burnt meat
-without ceremony.
-Sitting by the fire, he probed gently into
-how I came to be there, and I found myself
-disclosing, with a candor I did not intend,
-the unvarnished truth of not only the night
-just past, but my life up until that moment.
-Attentively he listened to my story, his
-gaze unwavering, and seemingly kind. Then he
-sighed.
-"Fortune does seem to have forsaken you," he
-mused, his expression unreadable and his
-tone strangely conspiratorial.
-"Indeed, I would suggest a stroke of luck is
-much in order."
-I agreed, and the smile that then crossed
-his face, as though my acquiescence had
-sealed some compact between us, was a most
-curious thing.
-The stranger reached over and retrieved from
-behind the log on which he sat an unusually
-shaped sack.
-Within it I could
-trinkets, ranging
-chipped porcelain
-ivory figures and
-dice.
-spy an assortment of
-from battered knives and
-to fine jewelry, small
-even a set of gambler's
-"Luck assumes a myriad of forms, " he
-proclaimed, his practiced manner warm and
-inviting, “and today it takes the form of a
-simple traveler offering you his wares. You
-mentioned playing the violin, I believe?”
-He plunged his hand into his curious bag,
-and after moment of two of searching, pulled
-out an instrument of such apparent quality
-that the providence of its appearance seemed
-almost otherworldly.
-Placing a bow upon the string, and in a
-single fluid motion, he executed an echoing
-double stop that resonated with a satisfying
-thrum.
-He said nothing as I examined it, ascribing
-it no history, no famous maker or master
-luthier.
-The neck, a paragon of symmetry, led the eye
-from the deep crimson hue of the upper bout
-gradually surrendering to a subdued natural
-mahogany as it descended.
-"Ah, is this the face of fortune today?" He
-inquired, observing as my fingers traced the
-strings' span.
-At that moment a cry of pain erupted from my
-throat, a cry that shocked even myself, as I
-realised I had cut my fingertip upon the
-strings.
-The merchant only smirked, looking at me as
-one might a boy who'd touched a cooking pot.
-"I have nothing to offer in return," I
-confessed, unused to being without means,
-and attempting to return the violin.
-"Then let us not consider it a purchase, but
-a gift from a true friend."
-His words were warm, yet there was within
-them some undertone which seemed to elude my
-understanding.
-Before I could inquire further, this man,
-whose name I had never thought to ask,
-gestured down the path and, already
-beginning to kick dirt upon the fire,
-assured me my destination was but a few
-hours walk away.
-In something of a daze I left my companion
-then, and soon enough it became clear that
-he had spoken true, and my whole ordeal had
-unfolded less than a day from the end of my
-journey.
-And so at last I made my arrival at the
-Manheim School, that nurturing ground of
-virtuosos who would grace the grandest
-stages of Europe, beckoned with its promise.
-The luminaries it had borne, illustrious
-names such as Grua, Stamitz, Richter, and
-Fraänzl, made the prospect of joining it,
-and them, almost overwhelming.
-No mention was made of the manner of my
-arrival, nor of what might have befallen me
-on the road, and after some few days I found
-myself ushered into a resplendent hall,
-where sat a panel of my would-be arbiters.
-A tremor of apprehension coursed through me
-as I faced the silent assembly, and it was
-with an unfamiliar feeling of uncertainty
-that I gripped my new instrument.
-Its neck, more slender than its predecessor,
-sat awkwardly in my hand, and as I began my
-fingers fumbled in their search for purchase
-upon the strings.
-I attempted the first of my well-practiced
-recitations, but my playing was inelegant
-and rough, eliciting only dismissive
-whispers, and derisive muttering from my
-audience.
-A surge of indignation and fear welled
-within me, urged on by the knowledge that I,
-my father's sin, who had done terrible
-things to reach that hall, could never
-return home in disgrace.
-I executed a 'jete', a jarring musical
-demand for their attention, a declaration
-that I must be seen, and heard.
-A rapid and perfect volley of eleven notes,
-past which no murmur, no whisper lingered. I
-had their complete attention.
-In that moment of silence, a piercing pain
-radiated from my left ring finger.
-As my eyes opened, I saw of blood pooling on
-the neck from where my skin should be, as
-the uppermost layer of the fingertip
-dangled, torn and hanging like discarded
-parchment.
-Pain and panic blossomed, but no option
-remained other than to play, and to play the
-most daunting melodies my mind could
-conjure.
-Sluggish at first, as I felt the strings run
-their length against my bloody flesh, then
-rapidly accelerating, crescendos
-intertwining diminuendos, a dance of command
-and submission enacted upon the strings.
-Double stops, left-handed pizzicato, and
-heart-rending spiccato bowed in rapid
-succession, each note eliciting something
-deep and primeval. I could see in the faces
-of my audience an astonishment, and
-something not entirely unlike terror, and
-when the final notes rang out at last, a
-palpable breathlessness blanketed the
-chamber.
-I was, of course, accepted, hailed as a
-singular talent.
-Yet a suspicion took root in me. A
-realisation that the positions of “player”
-and “instrument” were not so firmly set with
-this hungering violin. It was a creature
-with needs and purpose of its own.
-The needs were simple enough. Blood. Flesh.
-Little enough at first. Skin shaved and cut
-and singing in pain. And the rewards were
-great, as with each performance, agony
-intermingled with melody, and my bleeding
-fingers lubricated those resonating strings.
-My audience too showed a remarkable appetite
-for my artistry, and as I progressed through
-the school my reputation began to grow.
-I was demanded, hailed, celebrated. And all
-the while, I bled. Did those who listened to
-me ever truly notice my sacrifice?
-Did they see the slow transformation of my
-fingers, as each sonata exacted its toll?
-Applause followed me as each elongated note
-testified to my life's blood, and my pain.
-Yet still I played for them. How could I do
-otherwise?
-Standing tall, a man in my own right, my
-grandest ambitions realized.
-And yet, while admiration rained down upon
-me, never was I elevated beyond the confines
-of my origins. The rarified world of my
-noble patrons was closed to me.
-Modest riches adorned me, some small fame
-clung to my name, but never was I truly
-allowed to escape the position of my birth.
-It was only then, in the depths of my pain
-and bitterness, that I found a secret truth.
-A truth I impart to you alongside the violin
-itself.
-The blood for its strings need not be your
-own.
-It was not simple philanthropy that led to
-my taking on positions of tutelage in those
-bustling cities where I plied my trade,
-providing a musical education to the poor
-and the easily forgotten, asking nothing in
-return. Nothing except the occasional
-student who would not be missed.
-Perhaps you pale at this, and abjure me for
-a monster. But you will learn that to feed
-this instrument, now yours, is of singular
-importance. Only once did I play it without
-paying its price: wrapping my fingers in
-thick bandages so as to prevent its razored
-strings from cutting me.
-I had believed my playing would be
-lackluster, my performance uninspired. Yet
-the music that came from my instrument that
-day was somehow more beautiful than it had
-ever been before. It was lively, pulsing,
-carrying with it a spirit of motion, an
-irresistible urge to dance. I looked out
-upon my audience, a small gathering of minor
-Austrian gentry, and saw in their eyes a
-strange and familiar look. One I had not
-seen in many, many years. Not since that
-night in the carriage with the unfortunate
-Mr Bardwell.
-They fell upon each other then, a dance of
-teeth and nails, of tearing and gouging. I
-watched as a gout-ridden man in emerald silk
-sucked the eyes from his son's skull and
-crushed them in his jaws like ripe cherries.
-A demure young woman bedecked in gold peeled
-the cheeks from her betrothed as she sang to
-the music that I could not stop playing. It
-was only when a candelabra was upended and
-the room engulfed in flame that I was at
-last able to cease my recitation and make my
-escape.
-Perhaps you shall prove a stronger will than
-I, and will yet find it within yourself to
-destroy this hungry thing of wood and catgut. But I cannot. I shall not.
-For my music, ah, my divine music, is truly
-a balm for the unhealed wounds of my
-existence.
-In its celestial strains I have found
-solace, a sanctuary woven from ethereal
-threads.
-And perhaps you shall find similar.
-Feed my violin, nephew, for I have given it
-all I that have and more.
-3. INT. OIAR OFFICE NIGHT, STARTING TO RAIN (COMPUTER)
-SAM and ALICE have been listening despite themselves. GWEN is
-still working.
-#### ALICE
-Dear grandpa Augustus does always tell
-such lovely stories.
-#### SAM
-Why on earth would something from the 18th
-century show up on Freddy?
-#### ALICE
-(smirking)
-I told you Gwen was behind on her work.
+Who? Amelia? What about her?
 #### GWEN
-(irritated)
-Someone likely digitized an old historical
-record and it triggered the search engine.
+No, before Amelia, before I
+joined. German guy. Lots of
+tattoos.
 #### ALICE
-And so was solved the horrifying
-mystery of the Quite Old Letter. Gosh,
-I've got chills.
+I mean, I think Amelia mentioned
+him once or twice maybe? Mostly I
+remember her complaining about his
+work, but he'd have been here well
+before my time. What's this about?
 #### GWEN
-Maybe doing some actual work might warm
-you up.
-SAM chuckles.
+Nothing. None of your business.
 #### ALICE
-(to Sam)
-Yeah you might get the odd historical
-record by accident. I wouldn't even
-bother scoring or assessing it.
+What? Seriously?
 #### GWEN
-Whilst I would advise our junior colleague
-to remember that that they are being paid to
-do just that. Besides, it still counts
-towards your numbers.
+(walking off).
+Yes.
+Pause.
 #### ALICE
-And you really do need those numbers don't
-you Gwen.
-#### GWEN
-We all do.
-#### ALICE
-(turning off PC and collecting
-things)
-Not me! I'm done. Sam?
-#### SAM
-(Doing the same)
-Pretty much...
-#### ALICE
-Then I cordially invite you to bugger
-off home and think about how important
-it is to focus on your work.
-#### SAM
-Yeah, yeah. Coming Gwen?
-#### GWEN
-Not quite yet.
-#### ALICE
-(moving off)
-Case and point. Ta Ta Gwendoline
-darling, chow.
-#### SAM
-(following)
-See you tomorrow.
-#### GWEN
-(Still working)
-Hmmmm.
-They both exit.
-Extended pause as GWEN works.
-There is an email notification from her PC.
-Hmmmm?
-#### GWEN
-She opens the attachment a recording plays. The audio quality is
-very poor.
-#### KLAUS
-(video, begging)
-Please. Please, you don't have to do
-this!
-#### YOUNGER LENA
-(video)
-We both know I do.
-#### KLAUS
-(video)
-/I I-could disappear again! They would
-never know!
-#### GWEN
-(Gasp)
-/Lena? What the hell?
-Computer turns off.
+(to herself)
+What the hell is wrong with
+everyone today?
+Her computer pings.
+#### ALICE CONT.
+Oh don't you start.
 ##### [Music]
 #### ANNOUNCER
 The Magnus Protocol is a podcast
-distributed by Rusty Quill and licensed
-under a Creative Commons Attribution
-Non-Commercial Share-alike 4.0
-International License.
-The series is created by Jonathan Sims
-and Alexander J Newall, and directed by
-Alexander J Newall.
-This episode was written by Cole
-Weavers and edited with additional
-material by Jonathan Sims and Alexander
-J Newall, with vocal edits by Lowri Ann
-Davies, soundscaping by Tessa Vroom,
-and masting by Catherine Rinella with
+distributed by Rusty Quill and
+licensed under a Creative Commons
+Attribution Non-Commercial Sharealike 4.0 International License.
+The series is created by Jonathan
+Sims and Alexander J Newall, and
+directed by Alexander J Newall.
+This episode was written by Jamie
+Petronis and Alexander J Newall
+and edited with additional
+materials by Jonathan Sims and
+Alexander J Newall, with vocal
+edits by Nico Vetesse,
+soundscaping by Meg McKellar, and
+masting by Catherine Rinella with
 music by Sam Jones.
 It featured Billie Hindle as Alice
-Dyer, Shahan Hamza as Samama Khalid,
-Anusia Battersby as Gwen Bouchard,
-Sarah Lambie as Lena Kelley with
-additional voices from Tim Fearon.
+Dyer, Shahan Hamza as Samama
+Khalid, Anusia Battersby as Gwen
+Bouchard, Sarah Lambie as Lena
+Kelley with additional voices from
+Jonathan Sims.
 The Magnus Protocol is produced by
-April Sumner, with executive producers
-Alexander J Newall, Dani McDonough,
-Linn Ci, and Samantha F.G. Hamilton,
-and Associate Producers Jordan L. Hawk,
-Taylor Michaels, Nicole Perlman, Cetius
+April Sumner, with executive
+producers Alexander J Newall, Dani
+McDonough, Linn Ci, and Samantha
+F.G. Hamilton, and Associate
+Producers Jordan L. Hawk, Taylor
+Michaels, Nicole Perlman, Cetius
 d'Raven, and Megan Nice.
-The Magnus Protocol 4 -- Taking Notes
-#### CAT3C7494-19111831-29012024
-Collection (blood) --/- musical [letter]
+To subscribe, view associated
+materials, or join our Patreon,
+visit rustyquill.com. Rate and
+review us online, tweet us
+@therustyquill, visit us on
+facebook or email us at
+mail@rustyquill.com
+Thanks for listening.
+The Magnus Protocol 5 -- Personal Screening
+#### CAT2RB2377-10012023-05022024
+Disappearance (undetermined) --/- Invitation [internet blog]
 Incident Elements:
- Blood
- Gore
- Violence
- Hysteria
- Self-harm
+ Negligent work environment
+ Isolation
+ Surveillance
+ Mentions of -- workplace counselling
 Transcripts: https://shorturl.at/gzF15
-This Episode is dedicated to Louise Ironside, Mimie, JC, Harrow & Ivy, thank you for your
-generous support! You can a complete list of our Kickstarter backers
-https://rustyquill.com/the-magnus-protocol-supporter-wall/
+This Episode is dedicated to Nikolas Rabayda, thank you for your generous support!
+You can a complete list of our Kickstarter backers https://rustyquill.com/the-magnus-
+protocol-supporter-wall/
 Created by Jonathan Sims and Alexander J Newall
 Directed by Alexander J Newall
-Written by Cole Weavers (for more of his work visit https://www.thetownwhispers.com/ )
+Written by Alexander J Newall and Jamie Petronis (for more of his work visit
+https://www.thecellarletters.com/)
 Script Editing with Additional Materials by Jonathan Sims and Alexander J Newall
-Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani McDonough,
-Linn Ci, and Samantha F.G. Hamilton
-Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and
-Megan Nice
+Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani
+McDonough, Linn Ci, and Samantha F.G. Hamilton
+Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius
+d'Raven, and Megan Nice
 Produced by April Sumner
 Featuring (in order of appearance)
-Billie Hindle as Alice Dyer
-Shahan Hamza as Samama Khalid
-Anusia Battersby as Gwendolyn Bouchard
-Tim Fearon as Augustus
 Sarah Lambie as Lena Kelley
-Paul Schmidt as Klaus
-Dialogue Editor -- Lowri Ann Davies
-Sound Designer -- Tessa Vroom
+Shahan Hamza as Samama Khalid
+Billie Hindle as Alice Dyer
+Anusia Battersby as Gwendolyn Bouchard
+Jonathan Sims as Chester
+Dialogue Editor -- Nico Vettese
+Sound Designer -- Meg McKellar
 Mastering Editor -- Catherine Rinella
 Music by Sam Jones (orchestral mix by Jake Jackson)
 Art by April Sumner
-SFX from Soundly, Freesound (CCO): kyles and previously credited
+SFX from previously credited artists.
 Support us on Patreon at https://patreon.com/rustyquill
-Check out our merchandise available at https://www.redbubble.com/people/RustyQuill/shop and
-https://www.teepublic.com/stores/rusty-quill
+Check out our merchandise available at
+https://www.redbubble.com/people/RustyQuill/shop and
+https://www.teepublic.com/stores/rusty-quill
 Join our community:
 WEBSITE: rustyquill.com
 FACEBOOK: facebook.com/therustyquill
 TWITTER: @therustyquill
 REDDIT: reddit.com/r/RustyQuill
 EMAIL: mail@rustyquill.com
-The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty Quill Ltd.
-and licensed under a Creative Commons Attribution Non-Commercial Share alike 4.0
-International Licence.
+The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty
+Quill Ltd. and licensed under a Creative Commons Attribution Non-Commercial Share
+alike 4.0 International Licence.
