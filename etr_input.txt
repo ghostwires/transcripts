@@ -2,857 +2,863 @@
 
 Private & Confidential
 
-THE MAGNUS PROTOCOL
-Episode 5
-“Personal Screening”
-
-Written by Alexander J Newall and Jamie Petronis
-Edited by Jonathan Sims and Alexander J Newall
+The Magnus Protocol
+Episode 6
+"Introductions"
+Written by Jonathan Sims
+Edited by Alexander J Newell
 
 Show-Notes are available at the end of the Transcript.
 
-[1]
-
-V3.1
 12-09-2023
+Draft 2
+[1]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
 ANNOUNCER
-This episode is dedicated to
-Nikolas Rabayda - who thanks their
-friends Dreach Noishe Mrm, Boot
-boot, and Kobalt Jäger. May the
-Ceaseless Watcher avert their gaze
-on us.
+This episode is dedicated from Eric
+Crabtree to LaWanda Anderson You will always be my chipmunk and
+I love you always. You taught me
+that it's ok to seek help and know my
+value as a person. I spent so much
+time Hunting for reasons to exist and
+with help I learned that the reason
+lives inside me all along. This world
+shines brighter because you exist in
+it. I love you always.
 [Intro Theme]
 ANNOUNCER
 Rusty Quill Presents: The Magnus
 Protocol.
-Episode Five – Personal Screening
+Episode Six – Introductions
 [Music]
 
-1. INT. MANAGER’S OFFICE - NIGHT, CLEAR (LANDLINE).
-It is the start of the shift. Lena is typing quietly. There
-is a tentative knock at the door.
-Come in.
-
-LENA
-
-SAM opens the door.
-LENA CONT.
-Good evening Sam. I don’t believe
-we had a meeting scheduled?
+1. INT. OIAR OFFICE – NIGHT, CLEAR (COMPUTER)
+SAM is typing away on his computer, though the rhythm of it is
+unsteady. He is exhausted and keeps almost drifting off to sleep
+before jolting himself back awake.
+From her desk, ALICE starts to whistle a lullaby at him.
 SAM
-(from the doorway)
-Well no, but I was wondering if
-you could spare a few minutes
-though? I think it might be
-important.
-Beat.
-LENA
-Very well.
+Not helping, Alice.
+ALICE
+I’m sorry, I’m meant to be helping
+now?
 [2]
 
-V3.1
-12-09-2023
-
 ©Rusty Quill 2023
 
 Private & Confidential
 
-SAM enters, closes the door, approaches the desk, and sits.
-He places his backpack beside him.
-LENA CONT.
-Do take a seat.
 SAM
-Oh er sorryLENA
-It’s fine. What is it you wanted
-to discuss?
+I’m going to get another coffee.
+ALICE
+Have you considered simply
+bypassing your mouth altogether
+and injecting the beans directly into
+your bloodstream?
 SAM
-Well it’s a bit awkward… I’m not
-really sure how to- um…
-LENA
-For the sake of efficiency let us
-presume that since you said it is
-important, I will not make any
-assumptions.
+Great idea. Why didn’t I think of that?
+ALICE
+Not enough coffee beans in your
+blood.
 SAM
-Okay, yea. Well in that case, it’s
-Colin.
+Of course.
 Beat.
-Go on.
-
-LENA
-
+ALICE
+Real talk, though, if the first three
+coffees haven’t helped, I wouldn’t
+get another. More caffeine isn’t
+going to make you more awake, it’s
+just going to make you shake and
+puke.
 SAM
-Er… I’m worried about him. That
-is, um. Well, today I found him
-crawling along the corridor,
-yanking out wires and muttering to
-himself.
-LENA
-Well Colin’s role does include
-technical maintenance.
-
+(Yawning)
+I’ll have to risk it. I’m really
+struggling here.
+ALICE
+Oh sure. Ignore the woman who’s
+worked nights for almost a decade.
+What would she know?
+SAM
+So what would you suggest?
 [3]
 
-V3.1
-12-09-2023
-
 ©Rusty Quill 2023
 
 Private & Confidential
 
+ALICE
+Going back in time and buying those
+black-out curtains like I told you to.
 SAM
-Sure but, I mean, he’s added all
-those locks to his office door and
-he refuses to even go near a
-camera now…
-LENA
-A desire for personal privacy is
-not a crime.
+I know, I know, I just- we barely see
+the sun as it is, it feels wrong to
+actively shut it out entirely.
+ALICE
+Oh Sam. The sun is the enemy. It
+rules the world of light but we who
+dwell in darkness feel only its wrath.
+Get the curtains.
 SAM
-Yes, I understand that butBeat.
+Yeah, maybe.
+ALICE
+Or get fired for falling asleep at your
+desk. Your call. Incidentally, did you
+know you make this adorable little
+“mlem” noise when you drop off?
+SAM
+(affectionately)
+You really punish people for daring
+to be your friend, you know that,
+right?
+ALICE
+My justice is harsh but fair. Anyway,
+you’d best get your nap out of the
+way. We need you bright-eyed and
+bushy tailed when you meet the new
+guy.
+SAM
+Aren’t I the new guy?
 
-Pause.
-
-SAM
-I think that the stress is getting
-to him and honestly? I think he
-might need some professional help.
-LENA
-Anything else?
-Um. No?
-
-SAM
-
-LENA
-Right. Well firstly, thank you for
-raising this with me Sam. It’s
-important we don’t keep secrets
-here.
-SAM
-Oh, that’s quite all right.
-LENA
-Good. Now, whilst I understand
-your concerns, you need to
-understand that Colin has held the
-IT Manager position for some time
-without incident, and although he
-is somewhat… frustrated with his
-current assignment he can request
-help from the central IT team at
-any time. I am certain that should
-he find his responsibilities
-unmanageable he will request
 [4]
 
-V3.1
-12-09-2023
-
 ©Rusty Quill 2023
 
 Private & Confidential
 
-assistance. Or resign of course.
-Either way, the problem will
-resolve itself.
-Right.
-
-SAM
-
-Beat.
-LENA
-Was there something else Sam?
-SAM
-I– er… no. I guess not.
-LENA
-Very good.
-Beat. Sam stands and moves to exit. He opens the door.
-And Sam?
-
-LENA CONT.
-
-SAM
-(from door way)
-Yeah?
-LENA
-Please schedule such meetings in
-future.
-…sure.
-
-SAM
-
-SAM exits.
-
-2. INT. O.I.A.R. OFFICE -
-
-NIGHT, CLEAR (COMPUTER).
-
-SAM approaches the desk obviously irritated and dumps his
-bag before dropping heavily into his chair and turning on
-his computer.
 ALICE
-Glad to see you’ve been learning
-from my exceptional example.
+Pffft. You wish. You’re old news,
+Sam, basically a dinosaur. There’s a
+new new hire coming in. It’s all in
+Lena’s email, which you would
+probably have read if you were
+conscious.
+SAM
+Is someone else leaving?
+ALICE
+Hope not, but this job has kind of a
+high turnover rate, so Lena likes to
+hire a couple of replacements when
+an old-timer leaves.
+SAM
+What, and just assumes one of them
+won’t stick it out?
+ALICE
+She’s usually right. And at this exact
+moment, my snoozy darling, the
+smart money’s not on you.
+SAM
+What happens if both of us thrive
+here?
+ALICE
+Then we draw lots and one of you
+gets eaten at the Christmas party.
+SAM
+Well, let’s hope the new guy isn’t too
+stringy.
+ALICE
+Ooh, fighting words!
+GWEN enters from the break room.
 [5]
 
-V3.1
-12-09-2023
-
 ©Rusty Quill 2023
 
 Private & Confidential
 
 SAM
-(brusque)
-What?
-ALICE
-You’re late.
+Hey, Gwen, you hear we’ve got a new
+hire coming in?
+GWEN
+Whoopdedoo.
 SAM
-Okay.
-He angrily unzips his bag, pulls his stuff out and roughly
-puts it on the desk.
-ALICE
-And thanks to my incredible
-perception skills and genius
-intellect I think I can detect the
-subtlest hints that you might be
-ever so slightly miffed. But I
-could be wrong.
+Not you too?
+GWEN
+Training someone up takes a lot of
+time and we’re massively behind as
+it is.
 SAM
-Lena – doesn’t take me seriously.
+True but once they’re trained up it’s
+another pair of hands to help.
 ALICE
-Ah. Yeah, Lena isn’t exactly known
-for her diplomacy.
-Beat.
-SAM CONT.
-(picking up paper)
-What’s all this?
-ALICE
-(As if to a toddler)
-That, now bear with me on this Sam
-because I know you’re feeling
-emotional right now, is paper.
-It’s made from trees andSAM
-Alice, not today. Please?
-ALICE
-(Normal again)
-I had a nosey while you were in
-Lena’s office. Looks like it’s for
+If they stick around.
+GWEN
+Which they won’t. Now, like I said,
+massively behind.
+SAM
+Sure, sorry.
+They resume typing in silence, until the computer starts to play
+a casefile.
+2. CYBER – N/A, N/A (999 CALL)
+There is a ringing as a call comes through.
+OPERATOR 1
+Emergency, which service?
+NEEDLES
+What a fantastically good question.
 [6]
 
-V3.1
-12-09-2023
-
 ©Rusty Quill 2023
 
 Private & Confidential
 
-your Response department one to
-one.
-SAM
-(Sheafing through reams
-and reams of paper.)
-What, all of it?
-ALICE
-As far as I can tell.
-SAM
-Good grief…
-ALICE
-Just chuck it. I told you, I’m
-pretty sure the Response
-Department doesn't even exist
-anymore. It's just the system
-spitting out dead paperwork.
-Happens all the time.
-SAM takes a moment then settles down and starts filling in
-the forms.
-ALICE CONT.
-Did you not hear me?
-SAM
-(writing)
-I heard you.
-and…
-
-ALICE
-
-SAM
-And I’m going to fill it in any
-way. See what happens.
-ALICE
-Your wasting your time.
-SAM
-It’s my time to waste.
-
+Beat.
+OPERATOR 1
+Police, ambulance or fire?
+NEEDLES
+Well no-one’s on fire, so probably
+not that one. Although they also do
+rescue, don’t they, and this poor
+fellow really would benefit from a bit
+of rescuing right now.
+OPERATOR 1
+Sir, describe the situation and I can
+transfer you as appropriate.
+NEEDLES
+Hang on, I’ll ask him.
+The phone is moved around and held close to a man whose
+breathing is ragged and pained.
+NEEDLES
+(slightly distant)
+What do we think? Police or
+ambulance?
+VICTIM
+(pained and mumbling)
+…help…
+OPERATOR 1
+Sir? Sir are you in danger?
+The phone is brought away from the victim and back up to
+Needles.
+NEEDLES
+You’ll have to forgive him, he’s full of
+needles at the moment.
+Beat.
 [7]
 
-V3.1
-12-09-2023
-
 ©Rusty Quill 2023
 
 Private & Confidential
 
-ALICE
-You say that but your caseload is
-pretty heavy tonight and I’m too
-busy to bail you out.
-SAM
-(working on paperwork)
-Uh huh… They want my last seven
-addresses. I don’t know if I’ve
-even hadSam’s terminal pings.
-ALICE
-Sam? Seriously, you’d better do
-that later. We’re swamped.
-Sam’s terminal pings again.
-SAM
-(putting paperwork aside)
-Yeah, yeah, okay, all right…
-He double clicks the first case:
-
-3. CYBERSPACE – N/A, N/A (BLOG POSTS)
-CHESTER
-https://www.tomsterrors.blogsphere
-.org
-BLOG POST: GENERAL: WELCOME TO MY
-TWISTED MIND!!
-Hey
-Tom
-the
-the
-
-all you sick freaks out there,
-here, your gruesome guide to
-most twisted horror films of
-world wide web!
-
-We’re gonna be talking about the
-darkest, splattiest stuff here –
-starting next week with Rob
-Zombie’s Halloween 2!
-Stay bloody!
+OPERATOR 1
+Uh… Sir, can I please have your
+location?
+NEEDLES
+Oh, I thought you got it
+automatically?
+OPERATOR 1
+Not on a mobile soNEEDLES
+Wonderful! I have longer than I
+thought. In that case, we’ll have a
+little natter at our end and call you
+back once we come to a decision
+about which service.
+OPERATOR 1
+Sir, don’t hangA scream of agony from the victim, then the line goes dead.
+There computer locates the next call for the case.
+Another ringing as a second call goes through to 999.
+OPERATOR 2
+Emergency, which service?
+NEEDLES
+We’ve been discussing it, and we’re
+going to go with police. Final
+answer.
+OPERATOR 2
+Transferring you now.
+The call is put through.
+POLICE OPERATOR
+Police, what’s your emergency?
 [8]
 
-V3.1
-12-09-2023
-
 ©Rusty Quill 2023
 
 Private & Confidential
 
-BLOG POST: GENERAL: A BLAST FROM
-THE PAST
-Wow, this is all incredibly weird.
-I can’t believe this blog’s still
-up. Was looking for somewhere
-slightly less confrontational than
-social media to post my film
-thoughts, and I remembered
-starting this back in, what, 2009?
-That first post... Fourteen years
-old and convinced I was the
-edgiest writer on the web. Might
-keep it up for posterity, god
-knows the kid went through enough.
-I remember I was pretty lonely in
-those days. Ever since I was a
-child, making friends has always
-been kind of a struggle. My
-interests have always been seen as
-a little strange... While other
-kids my age at the time were
-looking up to football players and
-other celebrities, I was looking
-up to Pinhead and Freddy
-Krueger... It wasn’t in a
-psychopath kind of way or
-anything, I’ve just always been
-fascinated by horror. I can thank
-my dad for that, he showed me
-Puppet Master when I was six. ‘oh
-don’t worry, buddy! It’s just like
-Toy Story”... He had kind of a
-dark sense of humour like that.
-That’s when my fixation started.
-We must have watched thousands of
-weird and obscure horror films
-over the years... Critters,
-Ghoulies, Wishmaster... I couldn’t
-get enough. And that is what
-brings us here today. THIS is the
-first (new) post of the Horror
-Dumpster Dive! I am going to use
-this blog to talk about all things
+NEEDLES
+Yes, hello Police. I’ve got a man here
+and, well, let’s just say he’s been
+quite stabbed.
+POLICE OPERATOR
+Are you in any danger?
+NEEDLES
+(Amused)
+Me? Gosh no! No. I suspect he
+thought I was at first though. The
+way he postured and pulled out his
+little knife.
+POLICE OPERATOR
+Is the attacker still in the area?
+NEEDLES
+Oh yes, very much so. Although I
+really wouldn’t go so far as to call
+him an attacker. In fact, in many
+ways it was an act of affection by the
+end. An embrace. A cuddle, even!
+Ha! Yes, let’s call it a cuddle.
+He starts laughing to himself.
+POLICE OPERATOR
+Are you sure you’re ok? Panic is
+normal in these situations. Have you
+been hurt?
+NEEDLES
+Of course it hurts, how couldn’t it?
+But I’ve come to rather enjoy the
+pain by now. All those teeny tiny
+holes bright and sharp…
+
 [9]
 
-V3.1
-12-09-2023
-
 ©Rusty Quill 2023
 
 Private & Confidential
 
-HORROR. This could include film
-reviews, gaming news, and just
-basically my general thoughts on
-the genre!
-The plan is to focus on unknown
-gems. There’s a comment section as
-well, so if you like something or
-just have some general feedback,
-feel free to leave a comment! And
-remember... One man’s TRASH is
-another man’s TERROR!...
-I’m really proud of that
-tagline... Bye!
-BLOG POST: FILM REVIEW: FIRE IN
-THE SKY
-[The contents of this post have
-been deleted.]
-BLOG POST: GAME REVIEW: SWEET HOME
-[The contents of this post have
-been deleted.]
-BLOG POST: FILM REVIEW: PUPPET
-MASTER 4
-[The contents of this post have
-been deleted.]
-BLOG POST: GENERAL: SOME NEWS!!
-Hello there, horror hounds! Hope
-you are all having a terrorific
-day today! I sure am. I know that
-this blog is still fairly new, but
-I must say it feels SO good to
-have like minded people to talk
-to. And I want to give a big THANK
-YOU to everyone that has been
-leaving recommendations in the
-comments!
-
+POLICE OPERATOR
+I’m going to need you to stay with
+me. The man, the one you said was
+stabbed, is he still there?
+NEEDLES
+I doubt he’s going anywhere ever
+again.
+POLICE OPERATOR
+Is he breathing? Does he need an
+ambulance?
+NEEDLES
+Absolutely, but that isn’t the real
+question, is it?
+POLICE OPERATOR
+I can dispatch an ambulance, but I
+need your location. Do you know
+your address? Do you know where
+you are?
+NEEDLES
+I know exactly where I am. I grew up
+here, you know. It was a decent
+place back then. Nice people lived
+here, you understand? Not like now.
+Now it’s a dreadful place. Not safe to
+walk at night. I take some pride in
+that, actually.
+POLICE OPERATOR
+Sir, I need an address or a landmark.
+Tell me where you are.
+NEEDLES
+Oh the land is definitely marked now,
+same as me, and it feels good. It
+satisfies in a way I never really
+thought anything would. It fills that
+hollow, lonely hole inside quite
 [10]
 
-V3.1
-12-09-2023
-
 ©Rusty Quill 2023
 
 Private & Confidential
 
-There have actually been a few
-that I have never even heard of.
-I can’t seem to find the original
-comment anymore, but, one of you
-mentioned a film called “Voyeur”?
-I looked it up and I can’t seem to
-find anything about it. I mean,
-don’t get me wrong, there’s
-literally dozens of films with
-that title, but let’s just say
-that most of them aren’t horror
-and none released in 2009. The
-only thing I could find was
-another old blog with what must
-have been the shortest film review
-I have ever read. You can check
-the link, but I’ll save you some
-time: all it says is “Voyeur needs
-to be seen to be believed. The
-Scariest movie I have ever seen”.
-I am sold. I need to track down
-this film! If any of you have any
-more info on Voyeur, please leave
-it down below in the comments. Oh!
-And remember, if you like what I’m
-doing here, you can contribute to
-my KoFi! Every little bit helps.
-Those old hidden gems can get
-expensive... Bye!
-BLOG POST: GENERAL: HUGE UPDATE!!
-Oh my God. I can’t believe one of
-you found it! Thank you SO MUCH
-Cinephobia12220 for the link! I
-have no idea how you even found
-it.
-You’re right that it seems to be
-the official website for the film.
-It’s so strange though. You should
-all check the link out for
-yourselves. It looks like it
-hasn’t been updated in years but
-they appear to be currently
-running some kind of contest...
+nicely. It’s not sadism, or
+masochism, I tried both of those
+already. I think it’s the fear, the look
+in their eyes once they realize their
+mistake, it just makes me want to
+hold them close, so I do.
+POLICE OPERATOR
+The injured man… Did you stab him?
+NEEDLES
+Ah well that’s a tricky one. Sort of?
+In many ways he stabbed himself on
+me. By the time he saw the needles
+we were already very close. Close
+enough to smell his sweat and cheap
+aftershave. In fact, he barely had
+time to be afraid before we
+embraced. He’s terrified now of
+course...
+POLICE OPERATOR
+I need to put you through to my
+supervisor.
+NEEDLES
+(suddenly sharp)
+If you leave this call I shall embrace
+him again and I sincerely doubt he
+would survive.
+(returning to jocular)
+You know what? I’d like to change
+my answer. I did stab him, yes. I
+certainly repositioned myself to
+make sure he got some in his face. In
+his eyes. Does that count? He keeps
+touching them like he’s going to be
+able to pull all the metal out but I told
+him it will only drive them deeper. It
+won’t last too long, thankfully, he’ll
+finish bleeding out any minute now,
 [11]
 
-V3.1
-12-09-2023
-
 ©Rusty Quill 2023
 
 Private & Confidential
 
-The winner gets a private
-screening of the film and then
-they get to be part of a Q&A with
-the director and I figure why not,
-right? The form literally only
-asked me to enter my name... I
-never win these things, and the
-draw probably already happened
-years ago, but what the hell. I
-will let you all know if anything
-comes of it. I still haven’t found
-a copy of the actual film online
-anywhere yet. Thank you everyone
-for the help and don’t forget! If
-you have any recommendations for
-some other hidden gems you would
-like me to take a look at, please
-leave a comment down below.
-Thanks!
-BLOG POST: GAME REVIEW: FAITH; THE
-UNHOLY TRILOGY
-[The contents of this post have
-been deleted.]
-BLOG POST: GENERAL: NO WAY
-I WON THE CONTEST! I can’t believe
-it! The invitation was waiting
-when I got home today, in a small
-black envelope. I don’t even
-remember giving them my address.
-The website must have logged my IP
-and looked it up or something...
-I’m really not sure how any of
-that works.
-The letter also had all the
-details about the screening
-itself. It’s very short notice,
-but the screening is THIS
-Saturday! I’m supposed to have
-work that night, but I’m going to
-figure it out. There is not a
-chance in hell that I am going to
-miss this. And I’ve actually been
+but in the meantime that fear wafting
+off him as he lies there, half afraid of
+death and half afraid of living with
+what has happened to him. It’s quite
+delightful. And it drowns out the
+aftershave nicely.
+POLICE OPERATOR
+(disturbed but keeping it
+together)
+Give me your address and remain
+where you are.
+NEEDLES
+Do I frighten you? Mr. Operator.
+POLICE OPERATOR
+Is that why you called? To try and
+scare whoever picked up?
+NEEDLES
+Call it desert. But you’re not afraid
+are you? Unsettled, off-balance but
+nothing more. Why is that?
+POLICE OPERATOR
+I guess I’m just not scared of
+needles.
+NEEDLES
+(irritated)
+Not sca- This isn’t some poxy blood
+test, some little pinprick, this is
+hundreds, thousands of razor sharp
+points pushing into your flesh. We’re
+talking about the embrace of an iron
+maiden, an excruciating agony
+formed from a thousand tiny hurts.
+POLICE OPERATOR
+Sir, you’re clearly not… well. And I
+believe you’ve hurt someone who
 [12]
 
-V3.1
-12-09-2023
-
 ©Rusty Quill 2023
 
 Private & Confidential
 
-to this cinema before... I used to
-go all the time with my dad...
-they would play classic horror
-films midday every Saturday.
-That’s where I saw I Know What You
-Did Last Summer and The Thing for
-the first time. I haven’t been
-there in years though... I
-actually didn’t even know that it
-was still open. It is a bit of a
-trek to get there, so, if you
-would like to contribute to the
-expenses, you can head over to my
-KoFi page. I’ll leave a link in
-the comments. I’m not sure if I’ll
-have time for any other posts
-before this weekend, but I will
-try my best. Talk to you all soon!
-BLOG POST: GENERAL: GETTING READY
-Sorry I’ve been m.i.a these past
-few days... I’ve actually been
-pretty nervous about this whole
-event. This film could never live
-up to my expectations... this
-happens to me when it comes to
-horror films. In fact it comes up
-SO often that I even came up with
-a term for it. I call it “Getting
-Babadooked”. Everything that I
-read about The Babadook before
-seeing it was how phenomenal it
-was. I was SO hyped for that film
-that I even ended up dressing for
-the occasion... and then… blerg.
-It was so embarrassing... I
-struggle to think of a more
-disappointing film.
-But I’m sure it won’t be another
-Babadook. I can’t believe that
-tonight is finally the night! I
-know that I only found out about
-this film like a week ago, but I
-feel like I’ve been waiting to see
+may have tried to mug you so if you
+give me your location I can send
+someone over to help.
+NEEDLES
+Oh, I see. You don’t believe me. Yes,
+I suppose that makes sense. It is
+somewhat outlandish and that’s only
+exacerbated by the distancing effect
+of the phone. Yes, the more I think
+on it the more obvious it is that this
+call was never going to give me what
+I was after. I wonder, though, which
+of the police contact centres you’re
+hiding in Hendon? Lambeth?
+POLICE OPERATOR
+Excuse me?
+NEEDLES
+Lambeth, then and I am sure I could
+recognize your voice now.
+Beat.
+NEEDLES CONT’D
+Ah, there it is. There’s the fear. Not
+much, just a little prick but we found
+it in the end, didn’t we?
+Beat.
+POLICE OPERATOR
+I’m transferring you to my supervisor
+now.
+NEEDLES
+Then I’ll be going. I’ve no interest in
+speaking to them, and besides, we
+agreed that if you left the call my
+friend here would have a last little
+cuddle before I go. I do hope speak
 [13]
 
-V3.1
-12-09-2023
-
 ©Rusty Quill 2023
 
 Private & Confidential
 
-something that would truly scare
-me for... years now. I feel like
-I’ve just been kind of... numb to
-the whole genre. Obviously, I
-still really enjoy everything
-horror related, but it takes a lot
-to get any sort of reaction out of
-me these days... I even started
-seeking out the borderline “should
-be illegal” stuff... Faces of
-Death, the August Underground
-series... even those barely get a
-shudder out of me... I’m hoping
-this might finally scratch that
-itch.
-Sorry, I’m just rambling now. I
-really need to log off and start
-getting ready! And oh yeah! I
-forgot to mention, I’m sure you
-all are wondering when you will be
-able to hear all of my thoughts on
-the experience. Well, I have good
-news. You won’t have to wait at
-all! The invitation to the
-screening actually explicitly
-mentioned that liveblogging the
-event is okay! I’ve been testing
-out some of these speech-to-text
-apps and have found one that
-should work, so prepare for my
-impressions... live!
-I’m so excited and I hope you all
-are too! Okay. I am going to order
-the Lyft now... If you would like
-to help pay for that, my KoFi and
-PayPal are in the pinned comment
-down below... Next time you hear
-from me, I will be at the cinema!
-Talk to you later, Horror Hounds
-in real time!
-BLOG POST: LIVE BLOG: “VOYEUR
-EVENT”
-
+again soon Mr. operator, see if we
+can’t find some other frightful little
+pinpricks we can explore together…
+The call ends with a click.
+3.INT. OIAR OFFICE – NIGHT, CLEAR (COMPUTER)
+SAM, GWEN and ALICE are all sat at their desks. Sam let’s out a
+noise of bemusement at the case. The others clearly weren’t
+listening.
+SAM
+Is that it?
+GWEN
+Is what it?
+SAM
+The case. It just kind of ends.
+ALICE
+What sort was it?
+SAM
+Didn’t you hear it?
+ALICE
+I barely hear my own. You tune them
+out after a while.
+SAM
+It was a pair of emergency services
+calls.
+ALICE
+Oh, yeah, you’re not getting any
+closure from those. You might be
+assigned the follow-up coroner’s
+report if something weird happens to
+the body but that’s pretty rare. Why,
+were you enjoying it?
 [14]
 
-V3.1
-12-09-2023
-
 ©Rusty Quill 2023
 
 Private & Confidential
 
-I made it! Finally! The price of
-the Lyft was absolutely insane,
-but it is definitely going to be
-worth it. Wow. This place looks
-just how I remember it although
-it’s old obviously and... dirtier.
-Yeah, time has not been kind to
-this place. There’s ripped trash
-bags on the front steps and there
-is some... er, pretty graphic
-graffiti all over the walls. You’d
-think they would want to clean
-things up a bit before hosting an
-event? Huh. There’s just the one
-car in the car park... “Voyeur Fan
-Screening - SOLD OUT” is on the
-marquee, so this is definitely the
-right place.
-Is it a private screening just for
-me? The contest didn’t mention
-that. Might help the atmosphere,
-though. That’s [UNINTELLIGIBLE]
-cool actually. I’m going to head
-on in... Hang on a sec.
-Oh my God. Never judge a book by
-it’s cover, I guess. It is
-GLORIOUS in here! The carpet and
-walls are absolutely pristine and
-the smell of freshly buttered
-popcorn! Mmmm. I’m not sure where
-exactly I’m supposed to be right
-now, so I’m going to head over to
-the ticket counter and see if the
-employee there can point me in the
-right direction.
-The guy was very helpful.
-Apparently, Voyeur is the only
-film playing tonight so I guess I
-have the place to myself! I also
-get a large popcorn and a drink. I
-told him I didn’t really want
-them, but he was kind of touchy
-about it. I asked about the mess
-outside, trying not to be rude
+SAM
+I wouldn’t exactly go that far.
+ALICE
+Well who knows, maybe you’ll get
+lucky and they’ll kill again. What was
+it?
+SAM
+Like… A guy made of needles I think.
+ALICE
+Needles? Is that scary? I’ve been
+working here so long I can’t tell
+anymore.
+GWEN
+Maybe if you’re scared of needles?
+SAM
+To be fair, he did sound kind of…
+sensitive about that.
+ALICE
+Huh.
+LENA enters.
+LENA
+Good evening everyone.
+ALICE
+Lena! Little bird told me the new hire
+was coming in today.
+LENA
+Please refrain from referring to me
+as a “little bird” Alice.
+ALICE
+Big bird, then. So where’s the fresh
+meat?
 [15]
 
-V3.1
-12-09-2023
-
 ©Rusty Quill 2023
 
 Private & Confidential
 
-about it, but he just said “It’s
-what on the inside that matters”.
-That’s kind of deep when you think
-about it. I’m going to go grab my
-snacks and then try and find my
-seat.
-Snacks acquired! They’re obviously
-short staffed since it was the
-same guy working the concession
-stand. I feel bad. He looks super
-old and they’re really putting him
-to work. He seems in good spirits
-though. Okay... [UNINTELLIGIBLE]
-find my seat!
-That poor guy, They have him
-ushering too! They really need to
-hire more staff... oh wow… There’s
-really nobody else in this whole
-cinema... I’m, so lucky! There’s
-absolutely nothing like sitting
-alone in a cold room and watching
-a scary film that you know nothing
-about.
-So I’m almost done with my popcorn
-and the film hasn’t even started
-yet. No previews or anything... Do
-I go talk to the old guy? I really
-hate [UNINTELLIGIBLE] bother him.
-I’m just going to wait for now.
-This has to be the best popcorn I
-have ever had. I’ve eaten the
-entire bucket before the film even
-started, I haven’t done that
-since...... Oh! Something is
-happening! The projector is
-officially on! Here we go...
-So it’s been a minute and the
-screen is still black... I can
-hear what sounds like... beeping.
-It sounds so familiar but I can’t
-quite place it. Medical equipment
+LENA
+She is getting a cup of coffee from
+the break room. Her name is Celia,
+and I trust you will all make her feel
+welcome.
+GWEN
+We’ll certainly try.
+CELIA enters with a cup of coffee and a little donut.
+CELIA
+Lena, these little donuts are
+amazing! Where do you get them?
+LENA
+Celia, these are you co-workers.
+CELIA
+Oh, god, of course, I’m sorry! Hello
+everyone!
+SAM
+That’s alright, we’re a bit of a
+letdown after mini-donuts.
+ALICE
+Lena likes to put them out when
+someone new joins our little family.
+LENA
+Just ensure you eat them on site.
+Now I’ll leave you all to get
+acquainted, I have some intake
+paperwork to finish. Alice, I’ll have a
+word with you about training later
+tonight. Celia, come by my office
+once you’re done here, we have
+some last papers to sign.
+CELIA
+Will do!
 [16]
 
-V3.1
-12-09-2023
-
 ©Rusty Quill 2023
 
 Private & Confidential
 
-maybe? There’s something
-[UNINTELLIGIBLE] the screen...
-Looks like it might be a flashback
-or something, handheld… looks like
-it was filmed on an old
-camcorder... Wait. Is that...? I
-know that room…. How... How did
-they get [UNINTELLIGIBLE] This was
-after the accident. Mum wanted to
-to film it for my brothers...
-Dad... I... [UNINTELLIGIBLE] Wait.
-Who is that? In the corner of the
-screen, there’s... WHO THE HELL IS
-THAT?
-BLOG POST: FILM REVIEW: VOYEUR
-Voyeur needs to be seen to be
-believed. The scariest movie I
-have ever seen.
-4. INT. O.I.A.R. BREAKROOM -
-
-NIGHT, CLEAR (CCTV).
-
-ALICE is on her phone at her desk not working. She is
-clearly tired.
+LENA leaves.
+CELIA CONT.
+So yeah! Never worked somewhere
+with minidonuts before!
 ALICE
--glad to hear it. You did say this
-new band was pretty solid.
-No it’s fine, if you can hold on
-till payday I’ll be able to cover
-it no worries. Besides, it sounds
-like I’ll be getting it back
-pretty soon the way things are
-going.
-I know, I know, just make sure
-next time, yeah? I won’t always be
-there to wipe my sweet little
-brother’s bum bum for him.
-Oh you always say the sweetest
-things.
-Look after yourself.
+I wouldn’t get too excited. They’re
+probably still left over from when
+Sam joined us.
+SAM
+Well I liked them just fine.
+CELIA
+You’re Sam, then?
+SAM
+Yup. Only just joined myself.
+CELIA
+Awesome! Actually, can I ask you a
+question? Your interview…
+SAM
+Oh my god, yeah, suuuuper weird,
+right?
+CELIA
+Thank you! I was sat there like
+“whaaaaaaat?”
+ALICE
+You should both be proud. Lena only
+tries to talk you out of it if she thinks
+you’re worth talking to in the first
+place.
+CELIA
+Yeah. It’s been a while since I had an
+interview but that was…
+
 [17]
 
-V3.1
-12-09-2023
-
 ©Rusty Quill 2023
 
 Private & Confidential
 
-ALICE puts the phone down and takes a moment.
-GWEN
-(A bit intense)
-Are you finished?
 ALICE
-(jumping)
-Jesus! How long were you lurking
-there?
-GWEN
-I wasn’t lurking. I need to ask
-you something.
+Yeah she used to have a real
+problem with turnover, people would
+take the job and bail after a couple of
+weeks, so she changed up her
+interview style to make sure she only
+got people who wereSAM
+Suitable.
 ALICE
-Right fine.
-GWEN
-Do you remember the IT manager
-before Colin?
+Desperate.
+CELIA
+And I’m both, the system works!
+Also, I don’t know if I caught your
+name.
 ALICE
-Who? Amelia? What about her?
+Alice. I’m the longest inmate down
+here, so let me know if you have any
+questions: where are the toilets? Do
+they have any sharper knives? How
+do I make the nightmares stop?
+Anything at all. And that chatterbox
+over in the corner is Gwen.
 GWEN
-No, before Amelia, before I
-joined. German guy. Lots of
-tattoos.
-ALICE
-I mean, I think Amelia mentioned
-him once or twice maybe? Mostly I
-remember her complaining about his
-work, but he’d have been here well
-before my time. What’s this about?
-GWEN
-Nothing. None of your business.
-ALICE
-What? Seriously?
-GWEN
-(walking off).
-Yes.
-Pause.
+Sorry, Celia, was it? It’s lovely to
+meet you, I hope you have a good
+time here now if you’ll excuse me I
+have a lot of work to do.
+She returns to her typing.
+CELIA
+Sure, no worries. I’ll be honest, I
+thought there’d be more people
+working here given the size of the
+building?
 [18]
 
-V3.1
-12-09-2023
+©Rusty Quill 2023
+
+Private & Confidential
+
+SAM
+Yeah, no we’re, uh…
+ALICE
+Streamlined?
+SAM
+Streamlined. Sure. There is an IT guy
+as well, though you might want to
+steer clear of him until you’ve got
+your bearings a bit.
+Alice chuckles slightly to herself at the memory of pranking
+Sam.
+SAM CONT’D
+But mostly it’s just us.
+CELIA
+Four weirdos in a basement reading
+scary stories. Dream job.
+ALICE
+If you say so.
+SAM
+Fair warning some of these cases
+are… They’re not fun to read.
+CELIA
+I appreciate the concern but I’m sure
+I’ll be alright. I don’t scare so easy
+these days.
+ALICE
+Yeah, you got that hardened killer
+look in your eyes.
+CELIA
+Damn, and here I thought I’d hidden
+it behind a sweet and bubbly
+demeanor. Anyway, I’d better go
+[19]
+
+©Rusty Quill 2023
+
+Private & Confidential
+
+check in with Lena. Lovely to meet
+you all!
+SAM
+Lovely to meet you too!
+Celia leaves.
+SAM CONT’D
+She seems nice.
+ALICE
+(thinking)
+Yeah…
+GWEN
+Don’t get attached.
+ALICE
+Wouldn’t dream of it.
+
+4. OIAR BREAKROOM – NIGHT, CLEAR (CCTV)
+Sam is making himself another cup of coffee. He sighs to
+himself waits for the coffee machine to finish dispensing.
+Alice enters with Celia as he picks up the mug.
+ALICE
+And here we reach the highlight of
+our tour. The breakroom!
+CELIA
+It’s quite a sight.
+ALICE
+While I understand you’re awed by
+its magnificence, I must warn you
+that flash photography can spook
+the local wildlife.
+[20]
+
+©Rusty Quill 2023
+
+Private & Confidential
+
+SAM
+The “local wildlife” is just getting
+another coffee if you want in?
+ALICE
+Against my warnings.
+SAM
+It’s fine. I’m fine. I’m still adjusting to
+the nights, that’s all.
+CELIA
+I can’t say I’m looking forward to that
+aspect of the job either.
+SAM
+Has Alice tried to sell you her
+second hand curtains yet?
+ALICE
+Alice had not yet gotten to the advice
+section of the tour, but it was next on
+the agenda.
+SAM
+You sure I can’t get you anything,
+Celia? Tea maybe? I think there’s
+some ancient hot chocolate hidden
+behind Alice’s “secret” biscuit stash.
+ALICE
+I knew it was you, you little thief!
+CELIA
+Thanks but I’m alright for now Sam,
+honestly. I might take you up on it
+later.
+SAM
+Sure thing.
+
+[21]
+
+©Rusty Quill 2023
+
+Private & Confidential
+
+CELIA
+Am I good to head back, Alice? Colin
+said he’d have my workstation set up
+by now.
+ALICE
+Go for it. I’ll be over in a bit to take
+you through your first cases.
+CELIA
+Perfect. See ya, Sam!
+Celia leaves.
+Beat.
+ALICE
+Wow.
+SAM
+What?
+ALICE
+Wow.
+SAM
+What are you going on about now?
+ALICE
+You have got it bad, son!
+SAM
+Oh for god’s sake Alice.
+ALICE
+“I think there’s some old hot
+chocolate”? Why don’t you just get
+her name tattooed on your arse while
+you’re at it?
+SAM
+You’re being ridiculous[22]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
 ALICE
-(to herself)
-What the hell is wrong with
-everyone today?
-Her computer pings.
-ALICE CONT.
-Oh don’t you start.
+“Would you like tea Celia? Coffee
+perchance? My heart carved from my
+chest and arranged on a little doily?
+Please, Celia, cut out my tongue so I
+can always be there to lick your
+stamps for you!”
+SAM
+Okay firstly, this place is making you
+really morbid. Secondly, if you knew
+anything about stamps you’d know
+that modern prints are self-adhesive
+so actually ALICE
+Also, how do you know where I hide
+my biscuits.
+SAM
+It’s literally the same place you did
+when we were students – back of the
+top shelf in the upper leftmost
+cabinet. Where you think people
+won’t be able tall enough to see
+them.
+ALICE
+Touché. But you should be very
+careful about sharing such
+knowledge. Choco Liebnitz are
+simply too powerful for the common
+palette.
+SAM
+If you say so. Anyway, I need to get
+back toALICE
+Staring into the eyes of your dearest
+beloved?
+[23]
+
+©Rusty Quill 2023
+
+Private & Confidential
+
+Beat.
+SAM
+I’d have an incredibly witty retort for
+that if I wasn’t so completely
+shattered.
+ALICE
+Awwww! I know sweetums, I know.
 
 [Music]
 ANNOUNCER
@@ -863,105 +869,95 @@ Attribution Non-Commercial Sharealike 4.0 International License.
 The series is created by Jonathan
 Sims and Alexander J Newall, and
 directed by Alexander J Newall.
-This episode was written by Jamie
-Petronis and Alexander J Newall
-and edited with additional
-materials by Jonathan Sims and
-Alexander J Newall, with vocal
-edits by Nico Vetesse,
-soundscaping by Meg McKellar, and
-masting by Catherine Rinella with
-music by Sam Jones.
-It featured Billie Hindle as Alice
-Dyer, Shahan Hamza as Samama
-Khalid, Anusia Battersby as Gwen
-Bouchard, Sarah Lambie as Lena
-Kelley with additional voices from
-Jonathan Sims.
+This episode was written by
+Jonathan Sims and edited with
+additional materials by Alexander J
+Newall, with vocal edits by Lowri
+Ann Davis, soundscaping by Tessa
+Vroom, and masting by Catherine
+Rinella with music by Sam Jones.
+It featured Billie Hindle as Alice Dyer,
+Shahan Hamza as Samama Khalid,
+Anusia Battersby as Gwen
+Bouchard, Lowri Ann Davies as Celia
+Ripley, Sarah Lambie as Lena Kelley.
 The Magnus Protocol is produced by
 April Sumner, with executive
 producers Alexander J Newall, Dani
 McDonough, Linn Ci, and Samantha
 F.G. Hamilton, and Associate
 Producers Jordan L. Hawk, Taylor
-Michaels, Nicole Perlman, Cetius
-d’Raven, and Megan Nice.
-[19]
-
-V3.1
-12-09-2023
+[24]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
+Michaels, Nicole Perlman, Cetius
+d’Raven, and Megan Nice.
 To subscribe, view associated
-materials, or join our Patreon,
-visit rustyquill.com. Rate and
-review us online, tweet us
-@therustyquill, visit us on
-facebook or email us at
+materials, or join our Patreon, visit
+rustyquill.com. Rate and review us
+online, tweet us @therustyquill, visit
+us on facebook or email us at
 mail@rustyquill.com
 Thanks for listening.
 
-[20]
-
-V3.1
-12-09-2023
+[25]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-The Magnus Protocol 5 – Personal Screening
-CAT2RB2377-10012023-05022024
-Disappearance (undetermined) -/- Invitation [internet blog]
+The Magnus Protocol 6 – Introductions
+CAT1RB4824-09022024-12022024
+Injury (needles) -/- intimidation [999 call]
 Incident Elements:
- Negligent work environment
- Isolation
- Surveillance
- Mentions of - workplace counselling
+ Needles
+ Sadism
+ Stalking
+ Mentions of – mugging, implied murder
+ SFX – pained screams
 Transcripts: https://shorturl.at/gzF15
-This Episode is dedicated to Nikolas Rabayda, thank you for your generous support!
-You can a complete list of our Kickstarter backers https://rustyquill.com/the-magnus-
-
-protocol-supporter-wall/
+This Episode is dedicated from Eric Crabtree to LaWanda
+Anderson, thank you for your generous support! You can a
+complete list of our Kickstarter backers
+https://rustyquill.com/the-magnus-protocol-supporter-wall/
 Created by Jonathan Sims and Alexander J Newall
 Directed by Alexander J Newall
-Written by Alexander J Newall and Jamie Petronis (for more of his work visit
-https://www.thecellarletters.com/)
-Script Editing with Additional Materials by Jonathan Sims and Alexander J Newall
-Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani
-McDonough, Linn Ci, and Samantha F.G. Hamilton
-Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius
-d’Raven, and Megan Nice
+Written by Jonathan Sims
+Script Editing with Additional Materials by Alexander J Newall
+Executive Producers April Sumner, Alexander J Newall,
+Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G.
+Hamilton
+Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole
+Perlman, Cetius d’Raven, and Megan Nice
 Produced by April Sumner
 Featuring (in order of appearance)
-Sarah Lambie as Lena Kelley
 Shahan Hamza as Samama Khalid
 Billie Hindle as Alice Dyer
 Anusia Battersby as Gwendolyn Bouchard
-Jonathan Sims as Chester
-Dialogue Editor – Nico Vettese
-Sound Designer – Meg McKellar
+Hattie Quinlan as Operator 1
+Harry Roebuck as Needles
+Tom Park as Operator 2
+Joe Bence as Police Operator
+Sarah Lambie as Lena Kelley
+Lowri Ann Davies as Celia Ripley
+[26]
+
+©Rusty Quill 2023
+
+Private & Confidential
+
+Dialogue Editor – Lowri Ann Davies
+Sound Designer – Tessa Vroom
 Mastering Editor - Catherine Rinella
 Music by Sam Jones (orchestral mix by Jake Jackson)
 Art by April Sumner
-
 SFX from previously credited artists.
 Support us on Patreon at https://patreon.com/rustyquill
 Check out our merchandise available at
 https://www.redbubble.com/people/RustyQuill/shop and
-
-[21]
-
-V3.1
-12-09-2023
-
-©Rusty Quill 2023
-
-Private & Confidential
-
 https://www.teepublic.com/stores/rusty-quill
 Join our community:
 WEBSITE: rustyquill.com
@@ -969,13 +965,11 @@ FACEBOOK: facebook.com/therustyquill
 TWITTER: @therustyquill
 REDDIT: reddit.com/r/RustyQuill
 EMAIL: mail@rustyquill.com
-The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty
-Quill Ltd. and licensed under a Creative Commons Attribution Non-Commercial Share
-alike 4.0 International Licence.
+The Magnus Protocol is a derivative product of the Magnus
+Archives, created by Rusty Quill Ltd. and licensed under a
+Creative Commons Attribution Non-Commercial Share alike 4.0
+International Licence.
 
-[22]
-
-V3.1
-12-09-2023
+[27]
 
 
