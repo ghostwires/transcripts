@@ -3,15 +3,13 @@
 Private & Confidential
 
 The Magnus Protocol
-Episode 6
-"Introductions"
-Written by Jonathan Sims
-Edited by Alexander J Newell
+Episode 7
+"Give and Take"
+Written by Alexander J Newall
+Edited by Jonathan Sims
 
-Show-Notes are available at the end of the Transcript.
-
-12-09-2023
-Draft 2
+04-10-2023
+Draft 3
 [1]
 
 ©Rusty Quill 2023
@@ -19,71 +17,73 @@ Draft 2
 Private & Confidential
 
 ANNOUNCER
-This episode is dedicated from Eric
-Crabtree to LaWanda Anderson You will always be my chipmunk and
-I love you always. You taught me
-that it's ok to seek help and know my
-value as a person. I spent so much
-time Hunting for reasons to exist and
-with help I learned that the reason
-lives inside me all along. This world
-shines brighter because you exist in
-it. I love you always.
+This episode is dedicated to Heather
+Nichols.
 [Intro Theme]
 ANNOUNCER
 Rusty Quill Presents: The Magnus
 Protocol.
-Episode Six – Introductions
+Episode Seven – Give and Take
 [Music]
 
-1. INT. OIAR OFFICE – NIGHT, CLEAR (COMPUTER)
-SAM is typing away on his computer, though the rhythm of it is
-unsteady. He is exhausted and keeps almost drifting off to sleep
-before jolting himself back awake.
-From her desk, ALICE starts to whistle a lullaby at him.
-SAM
-Not helping, Alice.
+1. INT. O.I.A.R. OFFICE – NIGHT, CLEAR (COMPUTER)
+ALICE is sat at the computer giving CELIA an introduction to the
+Freddy system.
 ALICE
-I’m sorry, I’m meant to be helping
-now?
+-so then you just hit the submit
+button over here and…
+There is the same tinny fanfare as always.
+ALICE
+(cont.)
+…that’s your first case.
+CELIA
+Cool.
+ALICE
+Questions?
+CELIA
+Seems straightforward enough.
+ALICE
+(thrown)
+It does?
 [2]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-SAM
-I’m going to get another coffee.
+CELIA
+Yeah. I mean, it’s an old system, but
+it could have been worse. It’s not like
+we’re wrestling with tape recorders
+and manila folders.
 ALICE
-Have you considered simply
-bypassing your mouth altogether
-and injecting the beans directly into
-your bloodstream?
-SAM
-Great idea. Why didn’t I think of that?
+And we’re not bothered by the whole
+“my skin turned into butterflies”
+case?
+CELIA
+Nah. Can’t say butterflies really
+scare me. Besides, I’m guessing all
+the cases are a bit “off” and that’s
+why we’re assessing them.
 ALICE
-Not enough coffee beans in your
-blood.
-SAM
-Of course.
-Beat.
+…pretty much.
+CELIA
+You mentioned some might get read
+out by the computer. Is there
+anything different about those ones?
 ALICE
-Real talk, though, if the first three
-coffees haven’t helped, I wouldn’t
-get another. More caffeine isn’t
-going to make you more awake, it’s
-just going to make you shake and
-puke.
-SAM
-(Yawning)
-I’ll have to risk it. I’m really
-struggling here.
+Not really. Colin, he’s the weird IT
+guy, he reckons some of the system
+runs through the sound card so it
+just spits them out randomly.
+CELIA
+You’re sure?
 ALICE
-Oh sure. Ignore the woman who’s
-worked nights for almost a decade.
-What would she know?
-SAM
-So what would you suggest?
+Well, no. But it kinda makes sense.
+CELIA
+Have you ever checked to see if the
+spoken cases have anything in
+common?
 [3]
 
 ©Rusty Quill 2023
@@ -91,37 +91,37 @@ So what would you suggest?
 Private & Confidential
 
 ALICE
-Going back in time and buying those
-black-out curtains like I told you to.
-SAM
-I know, I know, I just- we barely see
-the sun as it is, it feels wrong to
-actively shut it out entirely.
+Never noticed anything obvious.
+Besides, we can’t stop it either way
+so mostly we just go for a coffee if
+we get a chatter. Just remember
+though, you’ve got to get through
+your whole caseload so you can’t
+waste too much time on this stuff.
+CELIA
+Understood.
 ALICE
-Oh Sam. The sun is the enemy. It
-rules the world of light but we who
-dwell in darkness feel only its wrath.
-Get the curtains.
-SAM
-Yeah, maybe.
+Anything else?
+CELIA
+Is there any way to look up specific
+files?
 ALICE
-Or get fired for falling asleep at your
-desk. Your call. Incidentally, did you
-know you make this adorable little
-“mlem” noise when you drop off?
-SAM
-(affectionately)
-You really punish people for daring
-to be your friend, you know that,
-right?
+Like what?
+CELIA
+Oh I don’t know. Every case about
+being buried alive or meat or…
+whatever.
 ALICE
-My justice is harsh but fair. Anyway,
-you’d best get your nap out of the
-way. We need you bright-eyed and
-bushy tailed when you meet the new
-guy.
-SAM
-Aren’t I the new guy?
+Well, there’s a search bar, but it
+doesn’t actually do anything. You’d
+have to dig through them all
+manually.
+(suspicious)
+Why do you ask?
+CELIA
+Just figuring it all out. Ah well, I
+guess I’ll need to find Bigfoot on my
+own time.
 
 [4]
 
@@ -130,497 +130,521 @@ Aren’t I the new guy?
 Private & Confidential
 
 ALICE
-Pffft. You wish. You’re old news,
-Sam, basically a dinosaur. There’s a
-new new hire coming in. It’s all in
-Lena’s email, which you would
-probably have read if you were
-conscious.
-SAM
-Is someone else leaving?
+(won over)
+Ha! You joke but there was this one
+case a couple of years ago...
+CELIA
+Let me guess, somebody got killed
+by a big shoe?
+Beat.
 ALICE
-Hope not, but this job has kind of a
-high turnover rate, so Lena likes to
-hire a couple of replacements when
-an old-timer leaves.
-SAM
-What, and just assumes one of them
-won’t stick it out?
-ALICE
-She’s usually right. And at this exact
-moment, my snoozy darling, the
-smart money’s not on you.
-SAM
-What happens if both of us thrive
-here?
-ALICE
-Then we draw lots and one of you
-gets eaten at the Christmas party.
-SAM
-Well, let’s hope the new guy isn’t too
-stringy.
-ALICE
-Ooh, fighting words!
-GWEN enters from the break room.
+You’ll fit right in here.
+2. CYBERSPACE – (COMPUTER)
+CHESTER
+From
+DMargolis@oxfordpeoplestrust.org
+to HR@oxfordpeoplestrust.org RE:
+Tendering resignation. 3rd February
+2016
+To whom it may concern, I am
+writing to inform you that I am
+tendering my resignation as
+manager of the Hilltop Centre
+branch of Oxford Peoples Trust
+effective immediately. I will not be
+working my notice period and unless
+you wish for this to become a legal
+matter I advise you to pay me
+properly for that time.
+I am aware that you may not have
+been directly responsible for the
+events that have taken place at the
+Hilltop Centre branch over the last
+six months but you have
+nonetheless failed to provide
 [5]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-SAM
-Hey, Gwen, you hear we’ve got a new
-hire coming in?
-GWEN
-Whoopdedoo.
-SAM
-Not you too?
-GWEN
-Training someone up takes a lot of
-time and we’re massively behind as
-it is.
-SAM
-True but once they’re trained up it’s
-another pair of hands to help.
-ALICE
-If they stick around.
-GWEN
-Which they won’t. Now, like I said,
-massively behind.
-SAM
-Sure, sorry.
-They resume typing in silence, until the computer starts to play
-a casefile.
-2. CYBER – N/A, N/A (999 CALL)
-There is a ringing as a call comes through.
-OPERATOR 1
-Emergency, which service?
-NEEDLES
-What a fantastically good question.
+adequate support despite my
+repeated messages requesting your
+intervention. I am thus left with no
+other choice than to sever all ties
+with the company which appears to
+care so little for my health, goodwill
+or years of service.
+You will find a complete account of
+all that has happened attached and
+this should be more than sufficient
+for your records. I shall expect my
+final paycheck paid promptly and in
+full.
+Regards,
+Dianne Margolis BA (hons), JP
+Attachment reads:
+I, Dianne Margolis BA (Hons), JP am
+a victim of neglect from the
+management of Oxford Peoples
+Trust and I believe that facts stated
+herein are true to the best of my
+knowledge.
+I was appointed to the manager role
+at the Hilltop Centre branch on the
+17th August 2015 after the death of
+Derek Chambers, the former
+manager. I had worked as a
+volunteer under Mr. Chambers for
+three years, two of which he was
+frequently absent due to his illness.
+Upon his death I was offered a full
+managerial probation from Mr. C
+Clayton of OPT. I completed this
+probation and began managing the
+site proper from the 8th November
+2015.
 [6]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-Beat.
-OPERATOR 1
-Police, ambulance or fire?
-NEEDLES
-Well no-one’s on fire, so probably
-not that one. Although they also do
-rescue, don’t they, and this poor
-fellow really would benefit from a bit
-of rescuing right now.
-OPERATOR 1
-Sir, describe the situation and I can
-transfer you as appropriate.
-NEEDLES
-Hang on, I’ll ask him.
-The phone is moved around and held close to a man whose
-breathing is ragged and pained.
-NEEDLES
-(slightly distant)
-What do we think? Police or
-ambulance?
-VICTIM
-(pained and mumbling)
-…help…
-OPERATOR 1
-Sir? Sir are you in danger?
-The phone is brought away from the victim and back up to
-Needles.
-NEEDLES
-You’ll have to forgive him, he’s full of
-needles at the moment.
-Beat.
+It soon became apparent that though
+Mr. C Clayton was my line manager,
+neither he nor the Human
+Resources Department would
+provide any managerial oversight or
+support and any requests for
+assistance sourcing a replacement
+volunteer for my former role would
+go unanswered.
+I finally resorted to personally
+preparing, printing and posting A4
+flyers around the Hilltop Centre in
+the hopes of attracting local
+volunteers already familiar with the
+site. (I secured permission from the
+custodians prior.)
+It was on 13th November 2015 that I
+received a walk-in application from
+an individual seeking the position. I
+understand my inability to recall his
+name or find it in the relevant
+paperwork or emails may affect the
+credibility of my account, but the fact
+remains he applied. The young
+man's interview was not exceptional
+as he had no experience in charity
+work, no driving license nor any
+demonstrable experience in retail. He
+claimed however, to know the Hilltop
+Centre better than anyone and as he
+was the only applicant in the role I
+elected to give him a try.
+He began his two week probation on
+14th November 2015. I notified Mr. C.
+Clayton and HR of the appointment
 [7]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-OPERATOR 1
-Uh… Sir, can I please have your
-location?
-NEEDLES
-Oh, I thought you got it
-automatically?
-OPERATOR 1
-Not on a mobile soNEEDLES
-Wonderful! I have longer than I
-thought. In that case, we’ll have a
-little natter at our end and call you
-back once we come to a decision
-about which service.
-OPERATOR 1
-Sir, don’t hangA scream of agony from the victim, then the line goes dead.
-There computer locates the next call for the case.
-Another ringing as a second call goes through to 999.
-OPERATOR 2
-Emergency, which service?
-NEEDLES
-We’ve been discussing it, and we’re
-going to go with police. Final
-answer.
-OPERATOR 2
-Transferring you now.
-The call is put through.
-POLICE OPERATOR
-Police, what’s your emergency?
+and Mr. C. Clayton replied that I
+should “chill” and it was “all good”.
+The new volunteer had a number of
+issues with his probation and
+struggled with basic inventory,
+stocking, till management and
+cleaning duties however, he was
+punctual, hardworking and had an
+extremely positive disposition. He
+even personally donated a rather
+large false plant in a somewhat
+disconcerting ceramic pot modelled
+on a shouting human face.
+Towards the end of his probation he
+told me he was having a good time
+since it was “all for a good cause”
+and that he had a friend who also
+wished to volunteer. I was somewhat
+dubious as to how helpful an
+associate of this young man would
+be but given that the site still needed
+at least 5 more staff members and
+Mr. C. Clayton was no longer
+replying to my messages, I had little
+choice but to interview them.
+The young woman (whose name also
+escapes me at this time) began on
+26th November 2015 and had a
+similar level of experience, offset by
+an equally enthusiastic work ethic
+and demeanor. I did have to give
+them an informal warning to stop
+laughing so much whilst on the main
+floor but they insisted “it’s all for a
+good cause” and there were no
+customers at the time.
 [8]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-NEEDLES
-Yes, hello Police. I’ve got a man here
-and, well, let’s just say he’s been
-quite stabbed.
-POLICE OPERATOR
-Are you in any danger?
-NEEDLES
-(Amused)
-Me? Gosh no! No. I suspect he
-thought I was at first though. The
-way he postured and pulled out his
-little knife.
-POLICE OPERATOR
-Is the attacker still in the area?
-NEEDLES
-Oh yes, very much so. Although I
-really wouldn’t go so far as to call
-him an attacker. In fact, in many
-ways it was an act of affection by the
-end. An embrace. A cuddle, even!
-Ha! Yes, let’s call it a cuddle.
-He starts laughing to himself.
-POLICE OPERATOR
-Are you sure you’re ok? Panic is
-normal in these situations. Have you
-been hurt?
-NEEDLES
-Of course it hurts, how couldn’t it?
-But I’ve come to rather enjoy the
-pain by now. All those teeny tiny
-holes bright and sharp…
-
+The second volunteer also made a
+donation in the form of a large
+Bearskin rug. I attempted to contact
+Mr C Clayton to enquire about our
+policy regarding real fur items,
+especially ones of such size, but was
+informed that he was on a “personal
+development sabbatical” and thus
+unreachable. I elected to store this in
+the back room, especially given the
+sharpness of its teeth.
+Three days after this second
+probation began, she told me she
+also had some friends who also
+wished to volunteer. As I was still
+technically understaffed I agreed to
+meet with them. I normally would not
+have accepted so many new starters
+at once but with the Christmas
+period approaching and still no reply
+from Mr. C Clayton I feel I made a
+managerial decision that was clearly
+within my jurisdiction.
+The next two volunteers started on
+the 28th November 2015. They also
+made donations of a large chandelier
+of dark glass and an oversized
+gramophone with a collection of
+records of what I believe to be
+religious plainsong. I was surprised
+that young adults would donate such
+exotic items and explained it was not
+necessary but they insisted claiming
+it was “all for a good cause”.
+The previous volunteers began to
+onboard the new starters whilst I
+updated the branches ledgers,
 [9]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-POLICE OPERATOR
-I’m going to need you to stay with
-me. The man, the one you said was
-stabbed, is he still there?
-NEEDLES
-I doubt he’s going anywhere ever
-again.
-POLICE OPERATOR
-Is he breathing? Does he need an
-ambulance?
-NEEDLES
-Absolutely, but that isn’t the real
-question, is it?
-POLICE OPERATOR
-I can dispatch an ambulance, but I
-need your location. Do you know
-your address? Do you know where
-you are?
-NEEDLES
-I know exactly where I am. I grew up
-here, you know. It was a decent
-place back then. Nice people lived
-here, you understand? Not like now.
-Now it’s a dreadful place. Not safe to
-walk at night. I take some pride in
-that, actually.
-POLICE OPERATOR
-Sir, I need an address or a landmark.
-Tell me where you are.
-NEEDLES
-Oh the land is definitely marked now,
-same as me, and it feels good. It
-satisfies in a way I never really
-thought anything would. It fills that
-hollow, lonely hole inside quite
+documentation and the other
+paperwork that has since been lost. I
+attempted to submit standard
+monthly reports during this time but
+Mr. C Clayton had not yet returned
+from his sabbatical which I had by
+then learned was with full pay in the
+Seychelles. I'm sure he had a lovely
+time.
+On the 30th November, I was
+introduced to four more
+“volunteers”. It seemed that my
+instructions had been misconstrued
+and all of them had already been
+offered a position. I explained that
+this was contrary to the Oxford
+People's Trust's normal hiring
+policies but I elected to nonetheless
+offer them a probation in order to
+fully fill the volunteer roster for the
+Christmas period.
+I expressly notified the young man I
+had hired first however, that he
+should not imply any further
+volunteer roles were available.
+All four of them started the same day
+and despite me being very clear that
+it was not necessary they had also
+brought personal donations in the
+form of A crudely-carved rocking
+horse, a grandfather clock that
+leaked some sort of dark oil, A
+heavily vandalized set of the
+Encyclopedia Britannica and an
+extensive collection of abstract
+canvas artworks respectively. I told
+them these were not fit for sale, but
 [10]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-nicely. It’s not sadism, or
-masochism, I tried both of those
-already. I think it’s the fear, the look
-in their eyes once they realize their
-mistake, it just makes me want to
-hold them close, so I do.
-POLICE OPERATOR
-The injured man… Did you stab him?
-NEEDLES
-Ah well that’s a tricky one. Sort of?
-In many ways he stabbed himself on
-me. By the time he saw the needles
-we were already very close. Close
-enough to smell his sweat and cheap
-aftershave. In fact, he barely had
-time to be afraid before we
-embraced. He’s terrified now of
-course...
-POLICE OPERATOR
-I need to put you through to my
-supervisor.
-NEEDLES
-(suddenly sharp)
-If you leave this call I shall embrace
-him again and I sincerely doubt he
-would survive.
-(returning to jocular)
-You know what? I’d like to change
-my answer. I did stab him, yes. I
-certainly repositioned myself to
-make sure he got some in his face. In
-his eyes. Does that count? He keeps
-touching them like he’s going to be
-able to pull all the metal out but I told
-him it will only drive them deeper. It
-won’t last too long, thankfully, he’ll
-finish bleeding out any minute now,
+my instructions to remove them were
+disregarded. It was at this point I
+began to sense that I was starting to
+lose control of the situation.
+On the 1st of December I arrived to
+find that the new hires had already
+opened the shop. To be clear I had
+not provided any keys and remain
+unsure how they obtained a set. I
+intended to pursue the matter
+immediately but was initially unable
+to locate them behind all the
+additional donations they appeared
+to have accepted.
+None of the items were fit for sale. I
+specifically recall two large, soiled
+Crinoline dresses, a Chaise Longue
+with cushions filled with some sort
+of coarse sand, a taxidermied
+vulture, a rusty antique printing
+press and a collection of old medical
+equipment that had seemingly been
+recently used. There were many,
+many additional items but I was
+unable to take a full inventory as the
+shopfloor was overfull.
+With great difficulty I found the
+young man I had originally hired
+towards the back of the shop
+laughing with a large group of young
+adults including the previous
+volunteers and multiple others I did
+not recognize. I told them that social
+gatherings were not permitted during
+work hours but he insisted they were
+all volunteers and when I attempted
+to tell them all to leave the premises
 [11]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-but in the meantime that fear wafting
-off him as he lies there, half afraid of
-death and half afraid of living with
-what has happened to him. It’s quite
-delightful. And it drowns out the
-aftershave nicely.
-POLICE OPERATOR
-(disturbed but keeping it
-together)
-Give me your address and remain
-where you are.
-NEEDLES
-Do I frighten you? Mr. Operator.
-POLICE OPERATOR
-Is that why you called? To try and
-scare whoever picked up?
-NEEDLES
-Call it desert. But you’re not afraid
-are you? Unsettled, off-balance but
-nothing more. Why is that?
-POLICE OPERATOR
-I guess I’m just not scared of
-needles.
-NEEDLES
-(irritated)
-Not sca- This isn’t some poxy blood
-test, some little pinprick, this is
-hundreds, thousands of razor sharp
-points pushing into your flesh. We’re
-talking about the embrace of an iron
-maiden, an excruciating agony
-formed from a thousand tiny hurts.
-POLICE OPERATOR
-Sir, you’re clearly not… well. And I
-believe you’ve hurt someone who
+they laughed and continued bringing
+in additional items.
+It was clear by this time that this
+situation required intervention from
+head office and so I began to push
+my way through to the landline but
+as I did so I saw yet more people
+entering the shop with donations:
+some sort of leather kite, an oddly
+curved brass telescope, a
+wheelbarrow full of shifting fossils,
+an armload of swords, lengths of
+rope… and they were all laughing
+and calling out to one another “it’s
+all for a good cause!”
+As more and more people arrived,
+pressing into the shop, the central
+shelving was toppled and items were
+being damaged underfoot. A tin
+bathtub filled with moldy food, a
+stack of old dental retainers, a brace
+of half-butchered pheasants, jars of
+what appeared to be pickled hands; I
+could no longer see the exits and
+still more volunteers pushed
+themselves inwards.
+The pressure grew unbearable and I
+was pinned on all sides, my
+shoulders crushed against an
+ancient diving suit filled with
+sawdust, with my neck wrenched
+under a broken picnic hamper whilst
+bloodstained china was ground
+beneath my feet. There wasn’t even
+enough space to fall now.
+I tried to scream but could only
 [12]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-may have tried to mug you so if you
-give me your location I can send
-someone over to help.
-NEEDLES
-Oh, I see. You don’t believe me. Yes,
-I suppose that makes sense. It is
-somewhat outlandish and that’s only
-exacerbated by the distancing effect
-of the phone. Yes, the more I think
-on it the more obvious it is that this
-call was never going to give me what
-I was after. I wonder, though, which
-of the police contact centres you’re
-hiding in Hendon? Lambeth?
-POLICE OPERATOR
-Excuse me?
-NEEDLES
-Lambeth, then and I am sure I could
-recognize your voice now.
-Beat.
-NEEDLES CONT’D
-Ah, there it is. There’s the fear. Not
-much, just a little prick but we found
-it in the end, didn’t we?
-Beat.
-POLICE OPERATOR
-I’m transferring you to my supervisor
-now.
-NEEDLES
-Then I’ll be going. I’ve no interest in
-speaking to them, and besides, we
-agreed that if you left the call my
-friend here would have a last little
-cuddle before I go. I do hope speak
+manage a wheeze as I began to
+blackout. My limbs were contorted
+and gouged by unseen edges, my
+mouth filling with the copper taste of
+imperial coins pouring down on me
+from a jar above.
+That’s when the gunshots started.
+The volunteers didn’t stop laughing
+but I could feel the deadened thud of
+impacts and I could see spatters of
+gore through what gaps there were
+in the items all around me. Again and
+again there was a rapid thud-thudthud and the laughing voices began
+to be drowned out by the growing
+crackle of flames.
+Without warning, the pressure
+lessened and I dropped into a small
+hollow beneath an upturned
+bookcase. There was a path ahead of
+me, jagged with shards of wood and
+glass were constantly shifting with
+the press of the crowd. I dragged
+myself forward over the broken
+detritus occasionally getting caught
+but pressing onwards until I tumbled
+out of the emergency exit and onto
+the tarmac outside.
+Dazed, I tried to get to my feet only
+to be shoved to the ground by a
+heavyset man in black clothing, who
+demanded I identify myself while
+pressing a gun against the back of
+my head.
+I screamed, then I wept, great
+heaving sobs of terror with broken
 [13]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-again soon Mr. operator, see if we
-can’t find some other frightful little
-pinpricks we can explore together…
-The call ends with a click.
-3.INT. OIAR OFFICE – NIGHT, CLEAR (COMPUTER)
-SAM, GWEN and ALICE are all sat at their desks. Sam let’s out a
-noise of bemusement at the case. The others clearly weren’t
-listening.
-SAM
-Is that it?
-GWEN
-Is what it?
-SAM
-The case. It just kind of ends.
-ALICE
-What sort was it?
-SAM
-Didn’t you hear it?
-ALICE
-I barely hear my own. You tune them
-out after a while.
-SAM
-It was a pair of emergency services
-calls.
-ALICE
-Oh, yeah, you’re not getting any
-closure from those. You might be
-assigned the follow-up coroner’s
-report if something weird happens to
-the body but that’s pretty rare. Why,
-were you enjoying it?
+ribs. This somehow seemed to
+satisfy him and he threw me roughly
+over his shoulder and walked away
+from the Hilltop Centre as the charity
+shop blazed behind us. I swear I
+could still hear them laughing over
+the thudding of machine guns and
+the roar of unchecked fire…
+It has been made very clear to me
+that I am not to identify the security
+firm that took this action, so I shall
+not do so here. Nor am I aware of
+which individual or organisation
+hired them, except in as far as I know
+for a fact they were not working for
+the Oxford People's Trust.
+They have also expressed in no
+uncertain terms that the fire is to be
+treated as an accident, with no
+further investigation by OPT. If you
+wish to discuss this further with
+them, I can provide you contact
+information, but I heavily advise
+against it. Unless you send Mr. C
+Clayton, of course. I rather think he
+deserves to be fully debriefed by
+them.
+Do not contact me again unless it is
+to discuss additional compensation.
+
+3. INT. OIAR OFFICE – NIGHT, CLEAR (COMPUTER)
+CELIA is breathing heavily. ALICE notices and pulls out her
+headphones.
 [14]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-SAM
-I wouldn’t exactly go that far.
 ALICE
-Well who knows, maybe you’ll get
-lucky and they’ll kill again. What was
-it?
-SAM
-Like… A guy made of needles I think.
+Everything all right?
+CELIA
+No, yeah I’m fine just... the voice
+threw me.
 ALICE
-Needles? Is that scary? I’ve been
-working here so long I can’t tell
-anymore.
-GWEN
-Maybe if you’re scared of needles?
-SAM
-To be fair, he did sound kind of…
-sensitive about that.
+Who Chester? He’s not so bad.
+Better than Norris, whiny little toad.
+CELIA
+I’m sorry?
 ALICE
-Huh.
-LENA enters.
-LENA
-Good evening everyone.
+There’s three voices.
+CELIA
+And those are their names?
 ALICE
-Lena! Little bird told me the new hire
-was coming in today.
-LENA
-Please refrain from referring to me
-as a “little bird” Alice.
+Well, that’s what I call them, at least.
+CELIA
+Chester, Norris and…
 ALICE
-Big bird, then. So where’s the fresh
-meat?
+Augustus.
+CELIA
+Right.
+Beat.
+ALICE
+Listen if you need to step out for
+some airCELIA
+No I’m fine really. Do you know who
+voices “Chester”?
+
 [15]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-LENA
-She is getting a cup of coffee from
-the break room. Her name is Celia,
-and I trust you will all make her feel
-welcome.
-GWEN
-We’ll certainly try.
-CELIA enters with a cup of coffee and a little donut.
-CELIA
-Lena, these little donuts are
-amazing! Where do you get them?
-LENA
-Celia, these are you co-workers.
-CELIA
-Oh, god, of course, I’m sorry! Hello
-everyone!
-SAM
-That’s alright, we’re a bit of a
-letdown after mini-donuts.
 ALICE
-Lena likes to put them out when
-someone new joins our little family.
-LENA
-Just ensure you eat them on site.
-Now I’ll leave you all to get
-acquainted, I have some intake
-paperwork to finish. Alice, I’ll have a
-word with you about training later
-tonight. Celia, come by my office
-once you’re done here, we have
-some last papers to sign.
+Uh, no? Why? Looking for an
+autograph?
 CELIA
-Will do!
+Just thought I recognised it for a
+moment..
+ALICE
+I mean, the system’s was built in the
+90s – maybe they got like a radio guy
+to do it and you heard him as a kid?
+CELIA
+Maybe. Doesn’t matter. I’m sure it
+wasn’t anyone important.
+
+4. I.T. “OFFICE” – NIGHT, CLEAR (SAM’S PHONE)
+SAM stands in the corridor and knocks on the metallic door to
+the IT office. There are the distinct sounds of someone typing on
+a keyboard in the room, it doesn’t sound like it’s going well.
+SAM
+(hesitant)
+Hello?
+There is a muffled swear behind the door and then it is yanked
+open.
+COLIN
+What? Oh it’s you.
+SAM
+Yeah, hi.
+COLIN
+What do you want?
+
 [16]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-LENA leaves.
-CELIA CONT.
-So yeah! Never worked somewhere
-with minidonuts before!
-ALICE
-I wouldn’t get too excited. They’re
-probably still left over from when
-Sam joined us.
 SAM
-Well I liked them just fine.
-CELIA
-You’re Sam, then?
+Sorry, I don’t want to interrupt you
+or(he sees the look on
+COLIN’s face)
+Uh anyway yeah, I was wondering if
+you knew who “John” was?
+COLIN
+John who?
 SAM
-Yup. Only just joined myself.
-CELIA
-Awesome! Actually, can I ask you a
-question? Your interview…
+Great question.
+COLIN
+What.
 SAM
-Oh my god, yeah, suuuuper weird,
-right?
-CELIA
-Thank you! I was sat there like
-“whaaaaaaat?”
-ALICE
-You should both be proud. Lena only
-tries to talk you out of it if she thinks
-you’re worth talking to in the first
-place.
-CELIA
-Yeah. It’s been a while since I had an
-interview but that was…
+I got a weird email from
+“John” with a random name and an
+address and it looks like it’s from an
+internal email so…
+COLIN
+There’s no one here called John.
+SAM
+Oh right. You’re sure?
+COLIN
+Yes.
+Beat.
+SAM
+Well is there someone else I could
+ask or…
+COLIN
+Listen mate. If you’re going to get
+this worked up over a weird email
 
 [17]
 
@@ -628,39 +652,35 @@ interview but that was…
 
 Private & Confidential
 
-ALICE
-Yeah she used to have a real
-problem with turnover, people would
-take the job and bail after a couple of
-weeks, so she changed up her
-interview style to make sure she only
-got people who wereSAM
-Suitable.
-ALICE
-Desperate.
-CELIA
-And I’m both, the system works!
-Also, I don’t know if I caught your
-name.
-ALICE
-Alice. I’m the longest inmate down
-here, so let me know if you have any
-questions: where are the toilets? Do
-they have any sharper knives? How
-do I make the nightmares stop?
-Anything at all. And that chatterbox
-over in the corner is Gwen.
-GWEN
-Sorry, Celia, was it? It’s lovely to
-meet you, I hope you have a good
-time here now if you’ll excuse me I
-have a lot of work to do.
-She returns to her typing.
-CELIA
-Sure, no worries. I’ll be honest, I
-thought there’d be more people
-working here given the size of the
-building?
+you’re going to freak when you see
+the real stuff.
+SAM
+What… real stuff?
+COLIN
+Oh you’ll see.
+SAM
+(looking over Colin’s
+shoulder)
+Is that why you’ve taped over your
+webcam?
+COLIN
+You finished?
+SAM
+(pulling out his phone)
+Well listen, if you see anything from
+this email addressCOLIN
+Hey! Put that away! Didn’t you see
+the sign?
+SAM
+Yeah, “No external electronics”, butCOLIN
+(growing furious)
+But you thought that didn’t apply to
+you?
+SAM
+It’s just a phone, I didn’t thinkCOLIN
+No you didn’t. Of all the brainless,
+idiotic stupid- -
+
 [18]
 
 ©Rusty Quill 2023
@@ -668,109 +688,108 @@ building?
 Private & Confidential
 
 SAM
-Yeah, no we’re, uh…
-ALICE
-Streamlined?
+Look, I’m… I’m going to go.
+He starts to leave.
+COLIN
+Give me that!
 SAM
-Streamlined. Sure. There is an IT guy
-as well, though you might want to
-steer clear of him until you’ve got
-your bearings a bit.
-Alice chuckles slightly to herself at the memory of pranking
-Sam.
-SAM CONT’D
-But mostly it’s just us.
-CELIA
-Four weirdos in a basement reading
-scary stories. Dream job.
-ALICE
-If you say so.
-SAM
-Fair warning some of these cases
-are… They’re not fun to read.
-CELIA
-I appreciate the concern but I’m sure
-I’ll be alright. I don’t scare so easy
-these days.
-ALICE
-Yeah, you got that hardened killer
-look in your eyes.
-CELIA
-Damn, and here I thought I’d hidden
-it behind a sweet and bubbly
-demeanor. Anyway, I’d better go
+Get off!
+COLIN
+It’s already recorded tooThere is a scuffle. The recording is cut off as the phone falls to
+the floor and breaks.
+5. INT. MANAGER’S OFFICE – NIGHT, WINDY (MANAGER’S
+LANDLINE)
+LENA is sat speaking on the phone, we do not hear the man on
+the other end of the line but it sounds like he is in a restaurant or
+similar environment.
+LENA
+-of course, but I can assure you that
+there really is no need toGWEN enters abruptly.
+LENA
+(cont.)
+Worry. Now I do apologize but
+something has just come up so I
+have to go. I will get everything over
+to you as soon as I can. Please
+excuse me.
+LENA puts the phone down and the line disconnects but we can
+still hear.
+
 [19]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-check in with Lena. Lovely to meet
-you all!
-SAM
-Lovely to meet you too!
-Celia leaves.
-SAM CONT’D
-She seems nice.
-ALICE
-(thinking)
-Yeah…
+LENA
+(cont.)
+You’re supposed to knock before
+entering.
 GWEN
-Don’t get attached.
-ALICE
-Wouldn’t dream of it.
-
-4. OIAR BREAKROOM – NIGHT, CLEAR (CCTV)
-Sam is making himself another cup of coffee. He sighs to
-himself waits for the coffee machine to finish dispensing.
-Alice enters with Celia as he picks up the mug.
-ALICE
-And here we reach the highlight of
-our tour. The breakroom!
-CELIA
-It’s quite a sight.
-ALICE
-While I understand you’re awed by
-its magnificence, I must warn you
-that flash photography can spook
-the local wildlife.
+I know.
+LENA
+Then I trust there is some emergency
+which justifies this interruption?
+GWEN
+(approaching the desk)
+I thought you’d want to see this.
+LENA
+What is it?
+GWEN
+It’s really quite amusing, actually.
+LENA
+(readying for a fight)
+Gwen what exactly are you- [playing
+at]
+GWEN
+(threatening)
+Trust me.
+Beat. Lena takes GWEN’s phone and starts a video. The audio
+quality is very poor.
+KLAUS
+(Phone video, begging)
+Please. Please, you don’t have to do
+this.
+YOUNGER LENA
+(Phone video)
+We both know I do.
 [20]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-SAM
-The “local wildlife” is just getting
-another coffee if you want in?
-ALICE
-Against my warnings.
-SAM
-It’s fine. I’m fine. I’m still adjusting to
-the nights, that’s all.
-CELIA
-I can’t say I’m looking forward to that
-aspect of the job either.
-SAM
-Has Alice tried to sell you her
-second hand curtains yet?
-ALICE
-Alice had not yet gotten to the advice
-section of the tour, but it was next on
-the agenda.
-SAM
-You sure I can’t get you anything,
-Celia? Tea maybe? I think there’s
-some ancient hot chocolate hidden
-behind Alice’s “secret” biscuit stash.
-ALICE
-I knew it was you, you little thief!
-CELIA
-Thanks but I’m alright for now Sam,
-honestly. I might take you up on it
-later.
-SAM
-Sure thing.
+KLAUS
+(Phone video)
+I I-could disappear again! They
+would never know!
+YOUNGER LENA
+(Phone video)
+I’m sorry Klaus.
+Beat.
+KLAUS
+(Phone video)
+Well, so am I.
+There is a struggle. YOUGER LENA is thrown to the floor and
+Klaus flees. There is a Gunshot. Klaus cries out but keeps
+stumbling away.
+YOUNGER LENA
+(Phone video, coughing)
+Klaus! Klaus! Shit…
+LENA stops the video.
+Beat.
+LENA
+You are aware that most people
+would consider directly confronting
+me like this a rather foolish idea?
+GWEN
+But that’s why it’s so funny you see?
+Because not only do I have a video
+of you trying to murder someone,
+even better, I have multiple copies of
+you failing to do so.
+LENA
+And that is better because?
 
 [21]
 
@@ -778,88 +797,86 @@ Sure thing.
 
 Private & Confidential
 
-CELIA
-Am I good to head back, Alice? Colin
-said he’d have my workstation set up
-by now.
-ALICE
-Go for it. I’ll be over in a bit to take
-you through your first cases.
-CELIA
-Perfect. See ya, Sam!
-Celia leaves.
+GWEN
+Because I suspect the only thing
+worse than being convicted for
+attempted murder is being punished
+by the people who paid for it.
+LENA
+And you believe they don’t already
+know?
+GWEN
+According to my source, they believe
+this man to be quite dead.
+LENA
+Source. Singular. Interesting.
 Beat.
-ALICE
-Wow.
-SAM
-What?
-ALICE
-Wow.
-SAM
-What are you going on about now?
-ALICE
-You have got it bad, son!
-SAM
-Oh for god’s sake Alice.
-ALICE
-“I think there’s some old hot
-chocolate”? Why don’t you just get
-her name tattooed on your arse while
-you’re at it?
-SAM
-You’re being ridiculous[22]
+LENA CONT’D
+And who do you imagine my masters
+to be in this scenario?
+GWEN
+Whoever they are, I suspect they
+have the power to reward me for
+alerting them to your incompetence.
+Maybe with your job.
+Beat. Lena takes a deep breath.
+LENA
+You have ambition, Gwen, I will grant
+you that, but not a lot of imagination.
+You are blackmailing me personally,
+correct? For what? I am not a
+wealthy woman, certainly not
+compared to your own family. What
+is it that you want?
+GWEN
+I want “in”.
+[22]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-ALICE
-“Would you like tea Celia? Coffee
-perchance? My heart carved from my
-chest and arranged on a little doily?
-Please, Celia, cut out my tongue so I
-can always be there to lick your
-stamps for you!”
-SAM
-Okay firstly, this place is making you
-really morbid. Secondly, if you knew
-anything about stamps you’d know
-that modern prints are self-adhesive
-so actually ALICE
-Also, how do you know where I hide
-my biscuits.
-SAM
-It’s literally the same place you did
-when we were students – back of the
-top shelf in the upper leftmost
-cabinet. Where you think people
-won’t be able tall enough to see
-them.
-ALICE
-Touché. But you should be very
-careful about sharing such
-knowledge. Choco Liebnitz are
-simply too powerful for the common
-palette.
-SAM
-If you say so. Anyway, I need to get
-back toALICE
-Staring into the eyes of your dearest
-beloved?
+LENA
+Really?
+Beat.
+LENA
+(cont.)
+I would want to know how you
+obtained this information.
+GWEN
+Too bad.
+Beat. LENA chuckles slightly.
+GWEN
+(thrown)
+What?
+LENA
+It’s simply a bit unexpected. Perhaps
+you have more stomach for this work
+than I gave you credit for. And I have
+been needing someone to step up to
+the real work for quite some time
+now.
+GWEN
+Meaning what exactly?
+LENA
+(Pulling out paperwork)
+If you want answers and authority,
+you’ll have you chance to earn them.
+I am appointing you as the new
+“Externals Liaison.”
+GWEN
+A… promotion?
+
 [23]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-Beat.
-SAM
-I’d have an incredibly witty retort for
-that if I wasn’t so completely
-shattered.
-ALICE
-Awwww! I know sweetums, I know.
-
+LENA
+Of a sort. I hope you’re as ready for it
+as you think you are. Consider
+yourself “in”.
 [Music]
 ANNOUNCER
 The Magnus Protocol is a podcast
@@ -870,31 +887,35 @@ The series is created by Jonathan
 Sims and Alexander J Newall, and
 directed by Alexander J Newall.
 This episode was written by
-Jonathan Sims and edited with
-additional materials by Alexander J
-Newall, with vocal edits by Lowri
-Ann Davis, soundscaping by Tessa
-Vroom, and masting by Catherine
+Alexander J Newall and edited with
+additional materials by Jonathan
+Sims, with vocal edits by Nico
+Vettese, soundscaping by Meg
+McKellar, and masting by Catherine
 Rinella with music by Sam Jones.
 It featured Billie Hindle as Alice Dyer,
 Shahan Hamza as Samama Khalid,
 Anusia Battersby as Gwen
 Bouchard, Lowri Ann Davies as Celia
-Ripley, Sarah Lambie as Lena Kelley.
+Ripley, Ryan Hopevere-Anderson as
+Colin Becher, Sarah Lambie as Lena
+Kelley with additional voices from
+Jonathan Sims.
 The Magnus Protocol is produced by
 April Sumner, with executive
 producers Alexander J Newall, Dani
 McDonough, Linn Ci, and Samantha
 F.G. Hamilton, and Associate
 Producers Jordan L. Hawk, Taylor
+Michaels, Nicole Perlman, Cetius
+d’Raven, and Megan Nice.
+
 [24]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-Michaels, Nicole Perlman, Cetius
-d’Raven, and Megan Nice.
 To subscribe, view associated
 materials, or join our Patreon, visit
 rustyquill.com. Rate and review us
@@ -909,24 +930,24 @@ Thanks for listening.
 
 Private & Confidential
 
-The Magnus Protocol 6 – Introductions
-CAT1RB4824-09022024-12022024
-Injury (needles) -/- intimidation [999 call]
+The Magnus Protocol 7 – Give and Take
+CAT2RC3338-03022016-12022024
+Agglomeration (miscellany) -/- congregation [email]
 Incident Elements:
- Needles
- Sadism
- Stalking
- Mentions of – mugging, implied murder
- SFX – pained screams
+ Claustrophobia
+ Agoraphobia
+ Gun violence
+ Fire
+ Mentions of – human remains, rotting food, blood,
+suffocation
 Transcripts: https://shorturl.at/gzF15
-This Episode is dedicated from Eric Crabtree to LaWanda
-Anderson, thank you for your generous support! You can a
-complete list of our Kickstarter backers
-https://rustyquill.com/the-magnus-protocol-supporter-wall/
+This Episode is dedicated to Heather Nichols, thank you for your
+generous support! You can a complete list of our Kickstarter
+backers https://rustyquill.com/the-magnus-protocol-supporterwall/
 Created by Jonathan Sims and Alexander J Newall
 Directed by Alexander J Newall
-Written by Jonathan Sims
-Script Editing with Additional Materials by Alexander J Newall
+Written by Alexander J Newall
+Script Editing with Additional Materials by Jonathan Sims
 Executive Producers April Sumner, Alexander J Newall,
 Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G.
 Hamilton
@@ -934,23 +955,22 @@ Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole
 Perlman, Cetius d’Raven, and Megan Nice
 Produced by April Sumner
 Featuring (in order of appearance)
-Shahan Hamza as Samama Khalid
 Billie Hindle as Alice Dyer
-Anusia Battersby as Gwendolyn Bouchard
-Hattie Quinlan as Operator 1
-Harry Roebuck as Needles
-Tom Park as Operator 2
-Joe Bence as Police Operator
-Sarah Lambie as Lena Kelley
 Lowri Ann Davies as Celia Ripley
+Jonathan Sims as Chester
+Shahan Hamza as Samama Khalid
+Ryan Hopevere-Anderson as Colin Becher
+Anusia Battersby as Gwendolyn Bouchard
+Sarah Lambie as Lena Kelley
+Paul Schmidt as Klaus
 [26]
 
 ©Rusty Quill 2023
 
 Private & Confidential
 
-Dialogue Editor – Lowri Ann Davies
-Sound Designer – Tessa Vroom
+Dialogue Editor – Nico Vettese
+Sound Designer – Meg McKellar
 Mastering Editor - Catherine Rinella
 Music by Sam Jones (orchestral mix by Jake Jackson)
 Art by April Sumner
