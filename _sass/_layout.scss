@@ -222,6 +222,10 @@ h2 {
     font-size:      1.2rem;
     @include media-query($on-palm) { font-size: 0.9rem; }
 }
+details .details {
+    border: 1px dashed;
+    padding: 2%;
+}
 
 
 /**
