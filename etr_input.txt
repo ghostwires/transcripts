@@ -1,990 +1,871 @@
 ©Rusty Quill 2023
 
 The Magnus Protocol
-Episode 8
-"Running on Empty"
-Written by Alexander J Newall
+Episode 9
+"Rolling With It"
+Written by Alexander J Newall and Jonathan Sims
 Edited by Jonathan Sims
 
-04-10-2023
-Draft 3
+12-09-2023
+Draft 1.3
+
 [1]
 
 ©Rusty Quill 2023
 
 ANNOUNCER
-This episode is dedicated to Gabriel
-Spencer - Thank you to the Magnus
-Institute for bringing me on an
-adventure through some of my
-biggest fears, with Jonathan and
-friends at my side.
-[Intro Theme]
+This episode is dedicated to Sofia
+Eickstedt, statement regarding their
+entrapment in The Podcast. Oh
+please god if anyone can hear this
+please send help. I haven't been a
+physical being in so long. I'm losing
+myself to this podcast. Wait what's
+that over there? An episode of a
+sequel? It's so intriguing. I can't help
+but reach out my non-existent hands
+to it. O-oh no not again! Oh the
+horrors! Nooooo[Intro Theme]
 ANNOUNCER
 Rusty Quill Presents: The Magnus
 Protocol.
-Episode Eight – Running on Empty
+Episode Nine – Rolling With It
 [Music]
-
-1. CYBERSPACE – N/A, N/A (CASE FILE – THESIS
-SUBMISSION)
-NORRIS
-Coursework assessment report
-13718B
-Reviewing Tutor: Joseph Peterson
-(#ARCSTAF-12)
-Submitting Student: Terrance
-Stevens (ID# ARCSTU-39609)
-Result: FAIL - late submission (28%)
-Assessment:
-Structure & Organization – 50%
-Knowledge – 40%
-Understanding – 30%
+1. INT. O.I.A.R. OFFICE – NIGHT, CLEAR (COMPUTER)
+SAM is sat at his desk filling in a huge pile of paperwork and
+singing tunelessly under his breath.
+Celia enters.
+CELIA
+Evening.
+SAM
+(distracted)
+Hey.
+Celia puts her bags down, sits and turns on her PC. Sam just
+keeps scribbling away with his paperwork.
+Pause.
 [2]
 
 ©Rusty Quill 2023
 
-Analysis – 10%
-Source Material Usage – 10%
-Extenuating circumstances:
-Serious Medical Condition, Trauma,
-Miscellaneous
-Tutor Comments:
-“See me.”
-ATTACHMENT:
-Title: Forton’s Brutal Liminality, a
-case study of architecturally induced
-psychological stressors as a result
-of prolonged exposure to liminal
-spaces in the Brutalist mode as
-exhibited by Forton Service Station.
-Introduction:
-This paper will present a
-comprehensive analysis of Forton
-Services as a key site of study for
-the intersection between Brutalism
-and Liminal space design with a
-secondary focus on the
-psychological stresses such sites
-can cause.
-First I will combine Theoretical
-Frameworks for Brutalism and
-Liminality. I will then examine
-Service Stations as psychologically
-stressful Liminal spaces before
-moving onto an architectural
-analysis of Forton Services and its
-history as a Brutalist site. This will
+CELIA
+So. How’s the novel?
+SAM
+Hm what? Oh right, yeah.
+He returns to his paperwork
+SAM CONT.
+Just filling in some more onboarding
+paperwork. You know what it’s like.
+CELIA
+Do I? No-one’s given me anything
+since day one…
+SAM
+It’s my own fault. I checked a box for
+a Response department one-to-one.
+CELIA
+Yeah… Alice mentioned something
+about that. Also, that there hasn’t
+been a Response department for
+years now?
+SAM
+(still writing)
+That’s what I was told.
+Beat.
+CELIA
+Sorry am I missing something?
+Because otherwise this seems
+prettySAM
+Pointless? Yeah. Completely.
+CELIA
+You lost me.
 [3]
 
 ©Rusty Quill 2023
 
-culminate in a case study into the
-effects of extended exposure to
-Liminal spaces with Brutalist
-Architecture via my employment at
-Forton services.
-To start with, let us establish a
-theoretical underpinning for this
-paper by linking the architectural
-style of Brutalism to the
-anthropological theory of Liminality.
-I will do this by providing compatible
-interpretations of both and
-suggesting the new concept of
-Brutal Liminality.
-Brutalism, originating from the
-French 'béton brut' - raw concrete, is
-an architectural movement that
-focuses on utilitarian purpose. This
-often results in exposed raw
-materials, stark forms, repetitive
-geometric shapes and monolithic
-structures. This can often lead endusers to feel overwhelmed or
-oppressed. (Zumthor, P. 2006).
-'Liminal' spaces, derived from the
-Latin 'limen', meaning 'threshold' are
-transitional spaces normally
-inhabited for short periods. They
-have been shown to have marked
-effects upon the psychology of those
-exposed to them and long-term
-exposure has been found to illicit
-anxiety responses (Augé, M. 1995),
-(Bachelard, G. 1994) and feelings of
-the uncanny (Trigg, D. 2012).
-
+SAM
+Well, I refuse to give it the
+satisfaction of giving up.
+CELIA
+You don’t want to give the
+automated bureaucratic system any
+satisfaction?
+SAM
+Exactly. And honestly, it’s kind of
+compelling by this point. Like its
+deliberately weird and pointless
+y’know?
+CELIA
+How so?
+SAM
+Look.
+(He pulls some paperwork across. CELIA pulls in closer)
+CELIA
+(reading)
+Please list your earliest four negative
+memories associated with school or
+an equivalent childhood educational
+institution, then rate each from zero
+to seven with zero being neutral and
+seven being traumatic.
+(laughing)
+I’m sorry what?
+SAM
+It gets better.
+CELIA
+(digging through pages)
+Please list every dead creature you
+have seen in the last three months…
+how many blood transfusions have
 [4]
 
 ©Rusty Quill 2023
 
-My hypothesis is that that Forton
-services, as a site of intersection
-between these two psychologically
-significant elements can be
-considered a site of what I have
-termed “Brutal Liminalism” and this
-is why it has a profound effect upon
-those exposed to it in the long term
-as testified by my own experiences.
-Specifically, it creates an effect of
-absence despite presence, an
-“architectural hunger" of a sort.
-Service stations such as Forton were
-originally conceived of as a location
-in and of themselves rather than
-merely a pause in a journey.
-However, with the widespread
-adoption of personal automobiles
-and the subsequent
-overdevelopment of UK road
-infrastructure, these spaces
-transitioned into liminal spaces.
-This increase in travelers, far beyond
-older design parameters, has led to
-an ephemeral flux of people
-transitioning through service
-stations at all hours, leaving only
-trash in their wake.
-Not only this, there are perceived
-time distortions associated with
-such spaces exacerbated by the
-deliberate absence of clocks (to
-encourage longer stays) and 24 hour
-opening times with rolling opening,
-closing, cleaning and restocking
-routines.
+you had within the last ten years…
+“Why?” Why what?
+SAM
+(smiling)
+Just “Why”.
+Beat.
+CELIA
+Well, that’s… something
+SAM
+Isn’t it? And even better, I know noone will ever read it.
+CELIA
+I’m glad you’re having fun.
+SAM
+Sometimes it’s nice to just have an
+excuse to sit quietly for a while and
+think about things.
+CELIA
+Things like “why”?
+SAM
+Why- See? You do get it.
+CELIA
+Well, I’m glad you’re in a good mood,
+‘cause I’ve got some bad news. I
+can’t find anything more on the
+Magnus Institute and honestly, at
+this point I am out of ideas.
+SAM
+That’s all right. I really appreciate
+you humoring my little crusade but
+maybe Alice is right. Maybe I should
+pack it in.
 [5]
 
 ©Rusty Quill 2023
 
-I propose that because these spaces
-are devoid of persistent humanity
-and consistent time perception, they
-have thus become dislocated from
-humanity’s shared mindscape and
-there are unique health risks to
-people who are over-exposed to this
-phenomenon. In essence, I believe
-the “architectural hunger” of a space
-that resents its own transitional
-nature can be dangerous and I have
-a unique personal insight into this
-phenomenon
-I originally took my role as a night
-janitor at Forton following a
-protracted divorce which cost me the
-majority of my friendships. The
-ensuing stress episode led me to
-quit my job as a deputy fiduciary
-services administrator. I thus applied
-and successfully interviewed for a
-low stress Janitor role despite my
-overqualifications. At the same time I
-successfully applied for the
-Architecture Program at Lancashire
-University as a mature, 51 year old
-student.
-I soon came to realize that Forton
-Services is an ideal example of
-“Brutal Liminalism” given its status
-as both a popular motorway service
-station and a landmark of brutalist
-architecture. And I believe this is
-primarily thanks to the 20 meter
-Pennine Tower which was listed in
-
+CELIA
+I’m sorry.
+SAM
+Life’s too short right?
+CELIA
+(standing)
+Isn’t it just. Fancy horrible coffee?
+SAM
+Nah I’m good. Besides these bad
+boys won’t fill themselves in.
+CELIA
+(smirking)
+Don’t have too much fun while I’m
+gone.
+CELIA exits as SAM chuckles to himself.
+Extended Pause as SAM continues to file paperwork.
+The computer gives a slight ping and SAM looks up at it.
+CHESTER
+Statement and Research assessment
+for artefact CD137 SAM
+What the hell?
+2. CYBERSPACE – N/A, N/A(COMPUTER)
+CHESTER
+(cont)
+Magnus Institute – Manchester.
+Private and confidential.
+Viability as subject – none
 [6]
 
 ©Rusty Quill 2023
 
-2012 despite being closed to the
-public.
-The site is seventeen point seven
-acres featuring an eastern picnic site
-and facilities on both sides of the M6
-motorway with seating for 700
-people, 101 toilets and 403 parking
-spaces.
-The top of the tower once held a finedining restaurant with a roof-level
-sun terrace both of which featured
-unmatched panoramic views of the
-surrounding rural countryside on all
-sides.
-Unfortunately, the effects of Brutal
-Liminality soon took effect with a
-1978 government review describing
-the site as “a soulless fairground”
-and the restaurant became a
-trucking lounge before being closed
-to the public in 1989. No-one has
-eaten there in decades.
-There were later failed attempts to
-repurpose the space but in 2017, the
-two pentagonal lifts in the center of
-the Tower shaft were replaced
-leaving the higher floors derelict and
-inaccessible.
-The tower still stands overlooking
-the surrounding countryside, the
-only access via the Brutally Liminal
-Forton Services below, but the
-entrance is sealed and this is
-perhaps for the best.
+Viability as agent – low
+Viability as catalyst – Medium.
+Recommend referral to Catalytics for
+Enrichment applicability
+assessment.
+Statement follows:
+Yeah, I see you not touching them.
+Smart. But gloves aren’t going to be
+any protection if your hand slips and
+they go clattering across the table.
+I’d put them in that box real careful,
+because let me tell you, those babies
+are due for some serious bad luck.
+So yeah, I tell you all about them,
+how I got them, all that crap and you
+just… You take them away, right?
+You accept them? Good. I think. I’m
+pretty sure that’s how it works. It’s
+how it worked for me, at least. Put
+them in whatever vault you like, bury
+them, drop them in the ocean, for all
+I care. All that matters is that they’re
+yours now.
+It was Gary who roped me into all
+this. He was one of those hardcore
+nerd types, and right from when we
+were at school together he’d try to
+get me to play in his stupid games. I
+mean, Advanced Dungeons and
+Dragons was the big new thing, but I
+never saw the appeal. I tried it once
+to shut him up, but you just sat
+around saying stuff that’s not real.
+Where’s the game in that? And after
 [7]
 
 ©Rusty Quill 2023
 
-Despite being unable to enter the
-tower itself, I myself still came to find
-that over the months of my work
-there I was undergoing a
-psychological shift.
-It was initially subtle enough that I
-failed to notice it and when I did, I
-assumed there was a rational
-explanation. Put simply, there were
-less and less people every night. At
-first, I assumed it was some
-seasonal change I hadn’t accounted
-for but every day it grew more
-pronounced until finally, one night, I
-realized that I had not seen a single
-person.
-This was obviously impossible, but it
-was verified by my log (see fig 1). I
-racked my brains, trying to
-remember if I had caught even a
-glimpse but no, no one. Intrigued, I
-stepped outside to check the car
-park. There wasn’t a single car. But
-there was… something else.
-As my eyes adjusted to the amber-lit
-expanse I started to notice streaks of
-light lingering in the air. There was a
-nebulous haze across the entire car
-park, a mélange of muted colors
-punctuated with more vivid reds,
-whites and yellows but even more
-curiously I realized it primarily
-hovered above the asphalt. The
-Greenery and walkways were mostly
-clear. The effect was curiously
-familiar but I couldn’t quite place it. I
-have since been unable to determine
+school me and Gary drifted apart. No
+surprise, it happens, right?
+But then last year, Carl leaves me. It
+wasn’t a huge deal. It’s not like we
+were engaged or anything and we’d
+barely seen each other since he
+moved to Doncaster but it still hurt
+y’know? So when Gary contacts me
+out of the blue begging me to join
+his group I think screw it, why not?
+Gary wasn’t that bad, at least, I
+thought so, and god knows I needed
+a pick-me-up. A bit of harmless fun.
+So I turn up at his apartment and I
+realize Gary has been doing
+seriously well since school. He’s got
+this sweet place over in West
+Didsbury. That said, when he invites
+me in, I notice he’s looking kind of
+haggard. He’s wearing this obviously
+expensive long-sleeved turtleneck
+but he’s got bags under his eyes, his
+trousers are torn and he’s walking
+with a limp.
+I ask if he’s okay and he mumbles
+something about a mugging so I
+leave it alone but I do notice that a
+bunch of the bulbs have blown and
+there’s a huge leak over his massive
+sound system. I don’t say anything
+though. I mean, it’s not like my tiny
+rented studio was any better. That
+said, I do notice a slight stain on his
+wall that I think might be blood.
+There’s no-one else there yet, just
+me and him, and I’m feeling pretty
 [8]
 
 ©Rusty Quill 2023
 
-if this effect was psychological,
-physiological, or atmospheric in
-nature but I maintain that the
-phenomena was accompanied by a
-disquieting sense of absence. Of
-hunger.
-I squinted again, trying to make out
-details in those long, waving,
-iridescent strips. I could trace denser
-routes through the chaos leading
-through the main doors to the
-facilities and as I watched a memory
-of my ex-wife’s photography leapt
-unbidden to mind, my favorite shot
-that she’d given me on our seventh
-anniversary: “A study of traffic.”
-That’s when I realized why this all
-felt so familiar. Timelapse. If I could
-have walked into that photo, this
-must be what it would have felt like.
-It would have been beautiful if it
-weren’t so unsettling.
-In retrospect I was clearly having
-some kind of severe hallucinatory
-episode brought on by long-term
-exposure to the space. I knew I
-should probably just sit quietly and
-wait it out but the glowing mist had
-already crept into the building itself,
-and my only instinct was to hide, to
-find somewhere, anywhere that I
-might be free of that overwhelming
-miasma sloshing back and forth
-within the foyer threatening to wash
-me away with it.
-I retreated, away from the main
+awkward. Then he starts talking
+about this game we’re apparently
+going to be playing and I feel an
+entirely different kind of awkward
+‘cause I have no idea what he’s on
+about. Then he says to me that he
+assumes I don’t have any dice of my
+own and I tell him no– I’ll have to use
+his. That puts a smile on his face. I
+know why now of course.
+I was expecting him to give me a
+bunch of those cheap little plastic
+dice with all the different points, but
+instead he reaches into his pocket
+and pulls out a pair of normal ones.
+Six sides, off white, little black dots,
+you know what dice look like. I mean,
+you’re looking at them right now. I
+ask him if we need, you know, weird
+dice and he shakes his head, saying
+this game just uses “two dee six”.
+He holds them out for me to take
+them, so I do. God, they felt heavy.
+It’s been a while since I played the
+tables but I’ve played with enough
+bones to know they were too heavy...
+And there was something else too.
+From that point on I own those dice.
+And I know it.
+Gary doesn’t bother waiting after
+that. He immediately claims he got a
+call from someone else in the group.
+They can’t make it, game’s
+cancelled, sorry you came all this
+way, blah blah blah. And just like
+that I’m back outside, waiting on a
+taxi to get me home.
 [9]
 
 ©Rusty Quill 2023
 
-entrance, away from the densest
-areas of the kaleidoscope in the
-hopes of finding somewhere less
-overwhelmingly saturated. And that
-was when I saw the woman.
-She was tall, young, and thin, almost
-to the point of malnourishment,
-dressed similarly to a stewardess
-with a tightly fitting blue waistcoat
-buttoned over a sensible looking
-grey skirt. She was beaming, holding
-open the door to the lift and inviting
-me inside. There was a small brass
-badge on her waistcoat, but instead
-of a name it simply read “You are
-here”.
-I hesitated a moment but before I
-could consider her strangeness a
-particularly high tide of color swept
-down the corridor toward me. I
-panicked, and before I realized what I
-was doing I had darted inside the lift
-and slammed the close-door button.
-“Thank you!” I croaked, my voice
-catching from disuse. She didn’t
-seem to notice and instead
-continued to smile warmly at me as
-she reached across and pushed the
-button for the penultimate floor
-marked “Restaurant”. A button I
-knew was disabled. The lift started to
-climb.
-I stood, leaning against the doors
-and tried to catch my breath as she
-began to speak:
+Do I really need to give you the
+whole lowdown on the next bit? I
+mean, you said you're specifically
+looking for, what was it,
+“supernaturally active items” right? I
+feel like when I tell you I'm giving
+you a pair of cursed dice you can
+probably put the pieces together.
+Look, long story short, I start rolling
+them and notice that they make stuff
+happen. I roll high, good things
+happen: job offers, free coffees from
+hot baristas, tax refund; I roll low,
+bad things happen: Broken tech, lost
+money, bad moods all around. And
+when I roll really low... Well, you’ve
+seen the scars.
+The thing is though I still don’t really
+know if they ever made me roll them.
+I mean, I did. A lot. And I knew that
+the risks probably outweighed the
+rewards but I don’t think I ever felt
+them like “calling” to me or anything
+y’know? It always felt like my choice.
+Even if it was a shitty choice.
+Besides, I've never gotten anything
+good in my life except by blind
+chance, so why should this be any
+different?
+After a while, though, I did notice
+that… it's not actually random. You
+get a few high rolls, your next one's
+is probably going to be low. And if
+you've gotten all the bad luck out,
+you've got good things coming. I
+know, I know, that's meant to be
+’superstition, but I’m telling you, I
 [10]
 
 ©Rusty Quill 2023
 
-“Good Evening!” She exclaimed,
-“It’s my pleasure to welcome you!
-You are here! Stay awhile!”
-I gabbled some indeterminate
-question and her rictus grin stayed
-as wide as ever, but she said
-nothing. Then the doors to the lift
-opened with a ping and I tumbled
-backwards onto the floor.
-“Stay awhile!” she called again
-before the lift doors closed
-depositing me in the tower.
-I’d been shown the locked tower
-stairway on my first day by my
-predecessor Molly, and I knew there
-was nothing up there any more apart
-from damp and broken furniture. At
-least, there shouldn’t have been.
-Before me though, was a restaurant,
-spotless and bright with retro 60s
-décor and the sweet smell of frying
-pork drifting towards me from the
-central kitchen. Chairs and tables
-lined the outside wall, each of which
-sported a large window which would
-have granted an impressive view of
-the landscape below if they weren’t
-all blacked out. This didn’t seem to
-concern the diners however, who
-were perfectly content eating whilst
-chatting amiably with one another.
-There was a moment of relief then,
-for as strange as the situation was,
-at least there were people. I was no
-longer trapped in that bizarre,
+kept track and I've got enough maths
+in me to be sure of the odds. They’re
+not random, it all balances out
+eventually. So that’s when I get to
+thinking, what if the person rolling
+doesn't matter just as long as the
+rolls balance out overall... Well, you
+see where I'm going with this.
+The weirdest thing, nobody ever said
+no. Some stranger approaches you
+slides a pair of dice over to you and
+tells you to roll them, you say no,
+right? But they always did. Sure,
+they'd give me weird looks, tell me to
+get lost, treat me like the creep I
+absolutely was, but they still rolled
+them. And sure, I know better than
+most everyone loves rolling dice but
+it does make me wonder how much
+control I ever really had...
+I did spread good luck as well as
+bad. After all, even when you
+stacked the odds, plenty of people
+got high numbers and then a letter
+arrives right there and then with
+welcome news. I hated them for it
+though. Those stupid damn grins as
+they robbed me of my good luck.
+But when they rolled low, when you
+could see the misfortune dropping
+over them like a shadow, or better
+yet when they rolled real low and you
+could be certain that the next throw
+would be a good one. There was a
+dark joy to that, I’ll admit.
+
 [11]
 
 ©Rusty Quill 2023
 
-solitary, aurora limbo downstairs.
-The feeling faded though, when I
-heard what they were saying, or
-rather what they weren’t saying.
-Looking around, the restaurant was
-near capacity with only one free
-table but when I tried to listen to any
-one conversation it was just… noise.
-A muffled murmur that sounded like
-speech but held no information.
-Their mouths were moving but all I
-could make out was a meaningless
-garble, just the impression of
-speech, nothing more.
-Similarly, as I looked closer at the
-diners themselves, I noticed oddly
-repeating elements to them. Three
-women were wearing the same
-blood-red heels. Two men, the same
-blue coats and worse, there were
-even recurring features iterating on
-different faces: the same green eyes
-on two women, identical moustaches
-on three men. These were as much
-an impression of people as the
-sound was an impression of speech.
-And they were all so horribly thin.
-A Chef turned to me, the same smile
-on his face below a fourth version of
-a bushy moustache and an identical
-“You are here” name tag on his
-chest. He gestured from his place
-behind the counter to the only open
-table:
-“Good Evening!” He cried, “You are
-here! We hope you stay awhile!”
+And my system worked. It wasn’t
+perfect, I’d still get a few dud rolls
+here and there: a broken down car, a
+missed payment, once I even went
+through a plate glass window, but for
+the most part I’d really turned stuff
+around for myself, offloading all the
+crap to someone else for a change.
+Clearly something that idiot Gary
+had never even thought to try.
+And then it started to change and the
+luck was… different. Not in whether
+it was good or bad, but how it was
+good or bad. At first, it had all been
+pretty normal stuff, sometimes even
+predictable but gradually it started
+becoming more… I don’t know,
+abstract? Like it used to be getting
+an extra hashbrown or whatever and
+then it became just being in a good
+mood and then finally you couldn’t
+even pin down what had happened
+you just knew something had. And
+as my luck kept getting better and
+better I started to feel less and less…
+connected to the world. Like I was a
+lucky ghost, or something, walking
+with normal but not really one of
+them anymore. I was just this figure
+stepping into their lives long enough
+to gift them fortune or, more often,
+misery before moving on.
+I started to enjoy that more than the
+luck. I was rolling for myself less and
+less, focusing more on being some
+mysterious stranger. I even began
+dressing for the part: I got hold of
+this long dark coat, a wide-brimmed
 [12]
 
 ©Rusty Quill 2023
 
-I automatically stepped towards the
-table before I caught myself. At the
-same time everybody in the room
-seemed to lean ever so slightly
-forward in anticipation.
-That was when I noticed the breeze
-blowing in through the blacked out
-windows, only they weren’t blacked
-out. They weren’t even windows.
-They were gaping square holes and
-beyond them was nothing at all. Any
-one of the diners could reach out if
-they had a mind to and plunge their
-hand outwards into the dark,
-foreboding and utterly featureless
-void. There was nothing. Nothing
-above, nothing below, nothing at all.
-Nothing, save the tower and the
-restaurant.
-My whole body recoiled from that
-awful absence, and I retreated
-backwards towards the lift. That was
-when the gentle murmur of nonspeech abruptly ceased to be
-replaced with a complete and utter
-silence.
-Everyone was still smiling but their
-repeating faces had frozen, staring
-straight at me.
-The chef spoke again and though his
-tone hadn’t changed it was clear this
-was no longer a request:
-“Stay awhile.”
+hat, grew a proper goatee, the works.
+This was up until about a week ago.
+That’s when I see Gary, sat in a
+coffee shop just down the road from
+the fancy uptown flat I was living in
+(thank you double-six). And he looks
+normal. Not happy, exactly, but
+certainly not the miserable shell he'd
+been when I saw him last. And a
+vicious little idea comes to me. So, I
+walk up to him and say hello.
+You should have seen his face. Guilt
+at first sure but then it slides into
+confusion when he sees the outfit.
+He starts to stammer out some halfbaked apology when I hold up my
+hand to stop him. I put on “the
+voice” and tell my old friend thank
+you so much for the gift and that I
+want to pay him back. He knows
+what's coming then even before I
+take them out and place them on the
+table between us.
+He doesn’t want to roll them. He
+wants to be anywhere that isn't sat
+across from me in that grotty little
+cafe but he picks them up anyway,
+and grimly throws them.
+I’d never seen snake eyes come up
+before. Never in all the thousands of
+times I’d seen them rolled, clattering
+across someone’s future. Maybe
+they'd been saving themselves for a
+special occasion, an honor for an
+unworthy keeper. Or maybe Gary
+was just really, really unlucky. Either
 [13]
 
 ©Rusty Quill 2023
 
-The diners echoed his words, a
-gradual chorus disseminating about
-the room, overlapping and
-entwining, wrapping me up and
-dragging me back towards the table.
-“Stay awhile.”
-Their grip on me tightened, a dozen
-hands pushing and pulling me as
-one. Then a man with that same
-moustache leant down towards my
-leg, opened his mouth, and bit into
-me.
-Pain shot through my body, but my
-thrashing was in vain as one of the
-women buried her teeth in my
-shoulder, and I could feel hot blood
-flowing down my back as whilst at
-the same time the chef took off one
-of my fingers, the bone barely
-slowing his chiseled jaw.
-I screamed, but the sound withered
-draining out the windows into
-nothing.
-With a sudden surge of adrenaline, I
-shoved and kicked and fought my
-way free of the emaciated crowd,
-their thin and brittle bodies offering
-little resistance despite their number.
-But I had nowhere to go. The lift had
-disappeared as if it had never been.
-And beyond the windows was of
-course nothing. “You are here”, I
-thought bitterly.
-
+way, there's this moment of silence
+as we both stare at the table and the
+dice stare back.
+When the truck barrels through the
+wall, it isn't the grill that hits Gary
+first. It’s the bricks that are crushed
+in front of it. Half of one slams into
+his jaw, ripping it from the top of his
+face and spraying me with a clatter
+of dislodged teeth. Another hits the
+side of his head, collapsing his eye
+socket and opening his skull, like an
+overripe grape. Maybe that's what
+kills him. I hope so. Because I don't
+want to think about what it must
+have felt like as the wheels of the
+massive vehicle roll over him and
+ground his body into the lino.
+Apparently the driver was asleep at
+the wheel. The building is wrecked
+but somehow nobody else was hurt
+except for Gary. Just unlucky, I
+guess.
+I stagger out of there before the
+police and ambulance arrive and I
+throw up. I don't know what I
+expected to happen, what
+satisfaction I thought I might get
+from seeing Gary get screwed over
+by the dice, but that… it’s too much
+and I know I can't keep them.
+And that brings us about up to date.
+They're yours now, and I never want
+to see them again. Don't get me
+wrong, it’s a blow but I’m just not the
+right guy to carry them. Besides I've
 [14]
 
 ©Rusty Quill 2023
 
-and so when faced with the prospect
-of being eaten alive, or leaping out
-one of those windows into pure
-oblivion, it was no choice at all. I
-jumped.
-Beat
-NORRIS
+seen how they treat people who give
+them away.
+It's a damn shame, though.
+Well, maybe just once more. For old
+time's sake.
+[Transcription ends due to
+interruption. Statement giver
+declared dead by paramedics atscene.]
+
+3. INT. MANAGER’S OFFICE – NIGHT, CLEAR (LANDLINE)
+GWEN knocks at the door.
+LENA
+Come in Gwen.
+GWEN enters.
+LENA
+Sit.
+Beat. Gwen sits.
+LENA
 (cont.)
-The paramedics listed my missing
-finger and other injuries
-as having been received when I fell
-from the tower and baring further
-evidence to the contrary (which I
-shall not be returning to Forton to
-collect), I am forced to accept their
-diagnosis of falling damage and
-associated trauma as a result of a
-stress-induced psychotic episode.
-In conclusion, there is no question
-that my time working at Forton
-Services has affected me profoundly.
-This experience is proof of the
-intense mental pressure that such
-Brutal Liminalism can have upon a
-person who is overexposed to such
-“hungry architecture”.
-I can only apologise for my
-unintentional extended absence. I
-hope this may provide some context,
-though I am painfully aware that no
-missing person report was filed with
-the police since apparently none of
-my colleagues, tutors or fellow
-students noticed my absence.
-Nonetheless, I hope that this can still
-be considered an extenuating
+I have your first assignment for you.
+LENA passes an envelope across the desk.
+LENA
+You are to visit a man by the name of
+“Nigel Dickerson” and hand him this
+envelope which contains a name and
+address. Take note of anything he
+says or does in response, especially
+
 [15]
 
 ©Rusty Quill 2023
 
-circumstance and that my findings
-do merit further study. Though I
-would request that any further work
-be passed to another student.
-The text-to-speech completes and the computer winds down
-into an idle state.
-
-2. INT. O.I.A.R. BREAKROOM– NIGHT, CLEAR (CCTV)
-ALICE is sat watching something on her phone. GWEN enters
-clearly irritated. She attempts to flick on the kettle only to find it
-empty. She puts it down roughly.
-GWEN
-Alice.
+his stress levels and emotional state,
+as well of those of any companions.
 Beat.
 GWEN
-(cont.)
-Alice.
-
-ALICE
-(pulling out an ear bud)
-Hmmm?
+I’m sorry, I’m confused.
+LENA
+Was there something unclear about
+my instructions?
 GWEN
-You did it again.
-ALICE
-Hmmm.
+Nigel Dickerson. As in the Nigel
+Dickerson? From tv?
+LENA
+Possibly. I don't watch television.
 GWEN
-Don’t “hmmm” me. We agreed that
-when you empty the kettle you fill it
-back up after.
+You must know him. He was huge in
+the 90s. Saturdays on Six? Mr
+Bonzo? The Prank Tank?
+LENA
+That seems feasible, given what I
+know of the man.
+GWEN
+And why not just email him?
+LENA
+Because I have found over the years
+that anything less than the personal
+touch in these situations often leads
+to… misunderstandings. Besides, I
+thought it might be informative for
+our new Externals Liaison.
+GWEN
+Is all this… theatricality really
+necessary?
 [16]
 
 ©Rusty Quill 2023
 
+LENA
+I can assure you it is. Consider it an
+audition if you like. And try to keep
+calm while you’re there.
+Gwen sighs heavily.
+GWEN
+(Sarcastic)
+I’ll try not to get too starstruck.
+LENA
+Very good.
+4. INT. THE PUB – EARLY MORNING, CLEAR (ALICE’S
+PHONE)
+TEDDY sits and hands a drink to ALICE.
 ALICE
-(Still watching)
-It’s not empty.
-GWEN
-There’s not even a third of a cup in
-there!
+Cheers me dears.
+TEDDY
+Cheers.
 ALICE
-(Finally engaging)
-So it’s not empty then is it?
-GWEN
-It’s bad enough that you deliberately
-try to find talkers and leave them
-running just to mess with meALICE
-Allegedly.
-GWEN
--but the least you could do is keep
-the kettle filled!
-Beat. GWEN starts refilling the kettle.
+So, what are you doing here
+Teddybear?
+TEDDY
+I mean, I can go if you like.
 ALICE
-You sound stressed. Problems up
-the corporate ladder? Already feeling
-the strain of deputy president of
-executive synergy?
-GWEN
-“External Liaison”.
+Sure. Just leave your wallet, yeah?
+TEDDY
+Ah, in the market for an unpaid
+overdraft, are we?
 ALICE
-And of course, we both know what
-that means. Right?
-GWEN
-I assume I’m going to be managing a
-bunch of contractors.
+Seriously though, I’m surprised you
+can make it on a weekday morning.
 [17]
 
 ©Rusty Quill 2023
 
+TEDDY
+Yeah well, let’s just say I’m currently
+free as a bird from nine to five.
 ALICE
-(Interested despite herself)
-Contractors for what?
-GWEN
-I’ll be receiving a more
-comprehensive overview “shortly”.
+Ah shit Teddy, what happened?
+TEDDY
+Redundant. They actually started
+plans to downsize the day before my
+interview and it turned out their
+hiring department didn’t get the
+memo. Last in, first out. You know
+how it goes.
 ALICE
-Gosh. How exciting. I do hope you
-decide tell us lowly grunts when
-Lena finally figures out what your job
-is. Assuming any of us are still here
-by then.
-GWEN
-And what’s that supposed to mean?
+Bastards! You deserve better than
+that.
+TEDDY
+(shrugging)
+Yeah well, since when does anyone
+get what they deserve eh?
 ALICE
-Just been a lot of changes round
-here recently. I don’t love it. Teddy,
-Sam, Celia, and did you hear Lena
-put Colin on “mental health leave”?
-GWEN
-What?
+French Revolution? There were
+some pretty just deserts there?
+TEDDY
+Yeah yeah.
+(he drinks)
+So, how’s things back in the crypt?
 ALICE
-Oh yeah, it was a whole thing. He
-flipped out and smashed up Sam’s
-phone.
-GWEN
-I always said he was unbalanced.
-ALICE
-You say a lot of things, mostly crap. I
-dunno... Feels like something’s
-going on here.
-
+(hesitant)
+I mean, uh… Lena’s just hired a
+couple of…
+TEDDY
+You hear me asking for a job? I only
+just got out, I’m staying well-shot of
+that creepshow.
 [18]
 
 ©Rusty Quill 2023
 
-GWEN
-What’s “going on” is a massive
-backlog that you aren’t helping with.
-Speaking of, where’re Sam and
-Celia?
 ALICE
-They finished their caseloads early
-so they headed off together.
-GWEN
-They can’t just leave like that without
-even signing outALICE
-Maybe they were too busy gettin’ hot
-and heavy to Norris’ sexy drone and
-didn’t notice.
-GWEN
-Don’t be gross.
+(relieved)
+Fair enough!
+(she drinks)
+It’s all right. You met Sam obviously
+and then we had Celia join on top of
+that so we’re all staffed up for a
+change which is… nice.
+TEDDY
+Nice?
 ALICE
-You got it, “boss”.
+Yeah?
+TEDDY
+Alice, I’ve known you what? Four
+years? I don’t think I’ve ever heard
+you describe something as “nice”.
+“Wicked” maybe, “sick nasty” sure,
+you even unironically used “tubular”
+a few times but “nice”? Never.
+ALICE
+(unconvincingly)
+Ok, first, I was being super ironic,
+and second it is “nice”. We’re more
+or less on top of the case-load and
+Sam and Celia get along greatTEDDY
+Ah. There it is.
+ALICE
+What?
+TEDDY
+What?
+ALICE is unimpressed.
 
-3. INT. A MAISONETTE – MORNING, BRIGHT (SAM’S
-PHONE).
-GERRY
-(bustling in)
-Sorry for the mess, I wasn’t
-expecting anyone.
-CELIA
-One empty mug hardly counts as
-“mess.”
-GERRY
-Oh you’re too kind!
-(calling from the kitchen)
 [19]
 
 ©Rusty Quill 2023
 
-There’s some fresh sourdough rolls,
-if you want a bite?
-SAM
-No thank you!
-GERRY
-(calling)
-You sure? Homemade lemon curd to
-go with it…
-SAM
-(calling)
-We’re fine, honestly!
-GERRY
-(calling)
-Tea? Coffee? Orange juice?
-CELIA
-(calling)
-You’re very kind, but nothing for us,
-thank you!
-GERRY
-(reentering)
-Well, if you’re sure…
-GERRY sits with a cup of herbal tea.
-GERRY
-(sitting)
-So where were we, I don’t think I
-caught your names…
-SAM
-Sam.
-CELIA
-(walking around)
-Celia.
-
+TEDDY
+(cont.)
+I’m just saying I could understand it
+if the office felt crowded.
+ALICE
+(sarcastic)
+Oh you know me, I just love to turn
+work into a minefield of
+interpersonal tension.
+TEDDY
+You guys were together for years.
+It’s understandable.
+ALICE
+You know, people drown in the
+Thames all the time, Teddy. I’ve seen
+the statistics. It would look so much
+like an accident.
+TEDDY gets a text.
+TEDDY
+Oh hold that death threat. Looks like
+I’ve actually got an interview nearby
+so…
+SAM enters and starts walking over.
+ALICE
+Say no more, you head off and I’ll sit
+here working on my weepy alibi. “I’m
+sorry officer, it all happened so
+quickly. One moment teddy was
+stood over the water, talking
+nonsense aboutTEDDY
+Sam! Hey!
+SAM arrives just as Alice chokes a little.
 [20]
 
 ©Rusty Quill 2023
 
-GERRY
-Pleasure to meet you both. I’m
-Gerry!
 SAM
-(smiling)
-We know.
-GERRY
-(laughing)
-Oh right, course you do! You asked
-for me, duh! So what can I do you
-for?
+(to Alice)
+Hey! You okay?
+ALICE
+Fine. Thanks.
 SAM
-Right, wellCELIA
-This place all yours?
-GERRY
-(laughing)
-With London rent? Hardly! Don’t get
-me wrong, the landlord’s lovely and
-all, but I still share it with Gee Gee.
-CELIA
-Gee Gee?
-Gertrude enters.
-GERTRUDE
-That would be me.
-GERRY
-Visitors, Gee Gee!
-GERTRUDE
-Yes I can see that Gerry.
-(coldly)
-To what do we owe this early
-morning… pleasure.
+Teddy right? Mind if I join you?
+TEDDY
+Afraid I’m actually just heading off
+soSAM
+Hey no worriesTEDDY
+I’ll have to leave you in Alice’s tender
+care.
+(leaving)
+Help yourself to my pint, if you like - I
+barely touched it!
+SAM
+Oh, uh… Cheers!
+Teddy exits. SAM picks up the pint.
+ALICE
+I wouldn’t. Teddy’s rife with diseases
+of the mind.
+SAM
+I think I’ll risk it.
+SAM sips happily.
+Beat.
+SAM CONT.
+So. You and Teddy.
 [21]
 
 ©Rusty Quill 2023
 
+ALICE
+Me and Teddy what?
 SAM
-Oh yeah, sorry we work nights so…
-GERTRUDE
-So?
+How long have you two…
+ALICE
+What?
 Beat.
+ALICE
+(cont. realizing)
+Oh my god! What is it with people
+today? Teddy? No! Nooooo.
 SAM
-Ahem. Well… uh… we were
-wonderingCELIA
-Did you paint this?
-GERTRUDE
-Excuse me?
-GERRY
-Oh yes! I call it “Camden Epiphany”.
-Do you like it?
-CELIA
-It’s lovely!
-GERRY
-You can have it if you want.
-CELIA
-Oh no I couldn’t…
-GERRY
-It’s fine honestly, I’ve got plenty
-more out back. You’d be doing us a
-favor to be honest. Gee Gee’s always
-saying they take up too much space
-aren’t you Gee Gee?
-GERTRUDE
-What exactly did you say was your
-business with my grandson?
+Harsh.
+ALICE
+Don’t get me wrong Teddy’s a good
+lad but he’s not...
+SAM
+(joking, oblivious)
+Lurking in the woods, eluding
+hunters and appearing only in
+occasional blurry photos?
+ALICE
+Look, mate, Bigfoot’s a good lay, but
+he’s got some real abandonment
+issues. But yeah, Teddy was in the
+area for a work thing, that’s all.
+Anyway, why are you here? You only
+usually swing by at the end of the
+week.
+SAM
+I was actually hoping to talk to you.
 
 [22]
 
 ©Rusty Quill 2023
 
-CELIA
-Uh… Sam?
+ALICE
+You talk to me all night at work.
 SAM
-Right. Of course. I was wondering if
-you knew anything about The
-Magnus Institute?
-Beat. No-one moves.
+(leaning in)
+Well, I wanted to ask you something.
+ALICE
+Oh yeah?
 SAM
-(cont.)
-I was on one of their gifted kids
-programs and -um- I got hold of a list
-of a few of the other kids and
-thought it might be nice if we could
-get in contact, swap stories and that.
-GERTRUDE
-I see. Well I’m sorry, but I don’t think
-Gerry can help youGERRY
-Yeah I barely remember any of it.
-Beat. GERTRUDE disapproves.
+(quietly)
+Something private.
+ALICE
+(leaning in despite herself)
+Yeah?
+Beat.
 SAM
-Oh, so you were a candidate?
-GERRY
-Oh yeah but I was pretty young. I
-remember filling in a bunch of forms
-and questionnaires then some old
-men asking me questions about
-what books I liked to read, who did I
-look up to, that kind of thing. Then I
-left.
+I want you to come to some ruins
+with me.
+Beat.
+ALICE
+Come again?
 SAM
-(Disappointed)
-That’s all?
+(leaning back)
+Listen, I know that you said I
+shouldn’t pay too much attention to
+the cases and that, but I genuinely
+think there might have been
+something really weird going on at
+the Magnus Institute and then there
+was this new case that came up andALICE
+Hang on, hang on, you already
+managed to talk Celia into all this
 [23]
 
 ©Rusty Quill 2023
 
-GERRY
-Yea, afraid so. Other than just sitting
-around with a bunch of other kids in
-a room that smelled like old books.
-Beat. SAM is clearly dejected.
-GERTRUDE
-(standing)
-Well if that’s all, we really have to get
-on with our day…
+guff. Why not take her on your little
+Scooby Doo adventure?
 SAM
-(standing)
-Of course, we’ll just be going then.
-Ah, well.
-GERRY
-Don’t take it too much to heart. It’s
-such a lovely morning.
+I mean, I do like CeliaALICE
+But?
 SAM
-(smiling)
-You’re not wrong.
-GERTRUDE
-(opening the door)
-Off you go then. Nice to meet you
-both.
-GERRY
-(bustling)
-Don’t forget Camden Epiphany!
-CELIA
-Wouldn’t dream of it.
-GERRY
-(still bustling)
-And come back soon! Always a
-pleasure to chat with old friends!
-[24]
-
-©Rusty Quill 2023
-
-GERTRUDE
-I don’t know they’ll have much
-reason to, Gerry.
-(to Sam)
-Good luck hunting elsewhere.
+But… I’m not sure we’re quite at the
+“going-to-Manchester-to-digthrough-a-burned-down-building”
+stage.
+ALICE
+Right. And we are?
 SAM
-Thanks again for your time.
-CELIA
-Bye Gerry!
-GERRY
-Bye Celia!
-The door closes with us outside alongside Sam and Celia.
-GERRY
-(muffled)
-I liked them.
-GERTRUDE
-(muffled)
-Of course you do.
-4. EXT. GERRY’S FLAT - MORNING, BRIGHT (SAM’S
-PHONE).
-SAM and Celia are stepping outside onto the pavement.
-SAM
-Well that wasCELIA
-Nice?
-SAM
-- a dead end.
-CELIA
-Yeah. Free painting though!
-[25]
-
-©Rusty Quill 2023
-
-SAM
-(starting to walk)
-How do you intend to get that on the
-tube?
-CELIA
-I’ll figure it out.
+(sheepish)
+Well, we used to be.
 Beat.
-SAM
-Thanks for coming with me Celia. I
-know we’ve only been working
-together a few weeks.
-CELIA
-Hey, it was my idea, remember?
-SAM
-I know Alice just wants me to drop
-this whole Magnus thing but, well, I
-had to try. Not that it matters, dead
-ends all the way down.
-Beat.
-CELIA
-Well, maybe you can help me with
-my mystery.
-SAM
-And what mystery is that?
-CELIA
-I’m trying to look into… Weird
-physics stuff: time travel, other
-dimensions, teleportation, all that
-good stuff. Freddy doesn’t really do
-searches, so could you keep an eye
-out and let me know if any come up
-in your cases?
+Alice sighs then takes a deep gulp from her pint.
+ALICE
+When do we leave?
 
-[26]
-
-©Rusty Quill 2023
-
-SAM
-Uh, sounds a bit sci-fi compared to
-our usuals. What’s this for? You’re
-not doing research for that podcast
-you were on, are you?
-CELIA
-You know about that?
-SAM
-I might have given you a quick
-google.
-CELIA
-Then yeah. I’m doing a favor for
-Georgie.
-SAM
-Fair enough.
-Beat.
-CELIA
-So do we have deal? Help with each
-other’s mysteries?
-SAM
-Yeah all right. Deal.
-CELIA
-Great. Also as part of the deal, you
-have to carry this painting on the
-tube.
-SAM
-Now hang on[Music]
+[Music]
 ANNOUNCER
 The Magnus Protocol is a podcast
 distributed by Rusty Quill and
-[27]
-
-©Rusty Quill 2023
-
 licensed under a Creative Commons
 Attribution Non-Commercial Sharealike 4.0 International License.
 The series is created by Jonathan
 Sims and Alexander J Newall, and
 directed by Alexander J Newall.
+[24]
+
+©Rusty Quill 2023
+
 This episode was written by
-Alexander J Newall and edited with
-additional materials by Jonathan
-Sims, with vocal edits by Lowri Ann
-Davies, soundscaping by Tessa
-Vroom, and masting by Catherine
+Jonathan Sims and Alexander J
+Newall, with vocal edits by by Nico
+Vettese, soundscaping by Meg
+McKellar, and masting by Catherine
 Rinella with music by Sam Jones.
 It featured Billie Hindle as Alice Dyer,
 Shahan Hamza as Samama Khalid,
 Anusia Battersby as Gwen
-Bouchard, Lowri Ann Davies as Celia
-Ripley, with additional voices from
-Alexander J Newall.
+Bouchard, Kazeem Tosin Amore as
+Teddy Vaughan Sarah Lambie as
+Lena Kelley, with additional voices
+from Jonathan Sims.
 The Magnus Protocol is produced by
 April Sumner, with executive
 producers Alexander J Newall, Dani
@@ -1001,30 +882,25 @@ us on facebook or email us at
 mail@rustyquill.com
 Thanks for listening.
 
-[28]
+[25]
 
 ©Rusty Quill 2023
 
-The Magnus Protocol 8 – Hostile Workplace
-CAT2RBC3366-12072023-28022024
-Architecture (liminal) -/-hunger [coursework]
+The Magnus Protocol 9 – Rolling With It
+CAT3RB3354-14101998-08032024
+Dice (bone) -/- fate [Magnus Statement]
 Incident Elements:
-· Temporal Distortion
-· Spatial Distortion
-· Altered Reality
-· Isolation
-· Graphic Violence
-· Canibalism
-· Mentions of – stress, trauma, psychological breakdown,
-starvation
+ Addiction (Gambling)
+ Vehicle Accident
+ Graphic Violence
+ Mentions of – superstition
 Transcripts: https://shorturl.at/gzF15
-This Episode is dedicated to Gabriel Spencer, thank you for your
+This Episode is dedicated to Sofia Eickstedt, thank you for your
 generous support! You can a complete list of our Kickstarter
 backers https://rustyquill.com/the-magnus-protocol-supporterwall/
 Created by Jonathan Sims and Alexander J Newall
 Directed by Alexander J Newall
-Written by Alexander J Newall
-Script Editing with Additional Materials by Jonathan Sims
+Written by Jonathan Sims and Alexander J Newall
 Executive Producers April Sumner, Alexander J Newall,
 Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G.
 Hamilton
@@ -1032,24 +908,23 @@ Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole
 Perlman, Cetius d’Raven, and Megan Nice
 Produced by April Sumner
 Featuring (in order of appearance)
-Alexander J Newall as Norris
+Shahan Hamza as Samama Khalid
+Lowri Ann Davies as Celia Ripley
+Jonathan Sims as Chester
+Sarah Lambie as Lena Kelley
 Anusia Battersby as Gwendolyn Bouchard
 Billie Hindle as Alice Dyer
-Jon Gracey as Gerry Keay
-Lowri Ann Davies as Celia Ripley
-[29]
+Kazeem Tosin Amore as Teddy Vaughan
+Dialogue Editor – Nico Vettese
+Sound Designer – Meg McKellar
+Mastering Editor - Catherine Rinella
+[26]
 
 ©Rusty Quill 2023
 
-Shahan Hamza as Samama Khalid
-Sue Sims as Gertrude Robinson
-Dialogue Editor – Lowri Ann Davies
-Sound Designer – Tessa Vroom
-Mastering Editor - Catherine Rinella
 Music by Sam Jones (orchestral mix by Jake Jackson)
 Art by April Sumner
-SFX from soundly, Freesound (CCO): vckhaze,
-deleted_user_2104797, & previously credited artists.
+SFX from previously credited artists.
 Support us on Patreon at https://patreon.com/rustyquill
 Check out our merchandise available at
 https://www.redbubble.com/people/RustyQuill/shop and
@@ -1065,6 +940,6 @@ Archives, created by Rusty Quill Ltd. and licensed under a
 Creative Commons Attribution Non-Commercial Share alike 4.0
 International Licence.
 
-[30]
+[27]
 
 
