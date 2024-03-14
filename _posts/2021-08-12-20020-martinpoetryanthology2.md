@@ -53,7 +53,7 @@ Visitors, by Martin K.
 > Knocking.
 > 
 > Crawling, crawling  
-> Seeking, seeking
+> Seeking, seeking
 > 
 > I cannot welcome you in, strange visitors,  
 > I cannot make you a cup of tea,  
@@ -97,7 +97,7 @@ Yonder, by K. Blackwood.
 > I'll give you a clue it moves with a fluid grace  
 > Moving down then up, unravelling a thread behind it.
 > 
-> Bulbous in its form  
+> Bulbous in its form  
 > Spun with method and the instinct of far less years than I,  
 > And yet it spins in the wind.  
 > Buffeted by forces it cannot see  
@@ -176,7 +176,7 @@ Filed Away, by M. K. B.
 
 ##### [STERN INHALE]
 
-Draw State, by Blackwood Esq.
+Draw State, by Blackwood Esq.
 
 > I spy, with my little eye, something about to go *snap.*
 > 

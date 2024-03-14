@@ -39,7 +39,7 @@ I always find it difficult to get to sleep. When people tell me that their heads
 
 As I gazed at my window, I could see the orange light of the streetlamps seeping through the thin white curtains. I could sense that sleep wasn't far off, so I set down my book, *The Dark Revival* by Josephine Knightley, and turned off my beside lamp. I'd just finished re-reading the appendix which detailed the author's sudden disappearance after she finished writing her masterpiece. It really is a foundational classic of vampire fiction -- but of course Stoker and Polidori usually get all the credit.
 
-As soon as my eyes darted back to the window, I saw something. The silhouette of a woman wearing a long, flowing skirt. Someone was right outside my window.
+As soon as my eyes darted back to the window, I saw something. The silhouette of a woman wearing a long, flowing skirt. Someone was right outside my window.
 
 Now, depending on where you live, this may be more or less likely. If you live on the ground floor in a busy inner-city neighbourhood, of course, someone may well be standing outside your window late at night. Entirely plausible. However, I lived on suburban street, far from the city centre. And my bedroom was on the second floor.
 
@@ -49,7 +49,7 @@ I chastised myself for getting so worked up over nothing, but the adrenaline cou
 
 The next morning I was drowsy and irritable and stumbled into the kitchen for my first cup of tea. Checking my phone's calendar, I realised that the deadline for my next script was looming. I was making reasonable progress, I just had a few more pages to write, and then I could go back and make some edits in time for submission. After a perfunctory shower and a slice of toast, I packed up my laptop and set off for my favourite local café.
 
-It was a resolutely grey day and I was certain the sun wouldn't break through the clouds any time soon. When I arrived, the café was bustling with students, freelancers and elderly ladies; the usual crowd. My favourite booth was taken over by a pair of undergraduates laden with books and papers. The only seat available was at the dreaded communal table, which introverts like me tend to avoid at all costs. However, I was craving the signature latte, and had no desire to lug my hefty laptop elsewhere, so I sat down.
+It was a resolutely grey day and I was certain the sun wouldn't break through the clouds any time soon. When I arrived, the café was bustling with students, freelancers and elderly ladies; the usual crowd. My favourite booth was taken over by a pair of undergraduates laden with books and papers. The only seat available was at the dreaded communal table, which introverts like me tend to avoid at all costs. However, I was craving the signature latte, and had no desire to lug my hefty laptop elsewhere, so I sat down.
 
 Diagonally opposite me, at that feared communal table, was a woman. I'm terrible at judging people's ages, but my guess would be that she was in her mid-thirties, perhaps about my age. She had gently curled auburn hair, swept up in a messy bun, and a striking, angular face, with full, red lips. She was wearing a high-necked blouse adorned with a cameo brooch. People with a fondness for vintage clothes were by no means a rarity in this café, but something about her particular style made me pause, and perhaps I stared a little longer than I should have. She had a leather-bound notebook in front of her, and was furiously scribbling in it with a fountain pen. Then, seeming to sense my presence, she looked up to meet my gaze.
 
@@ -95,7 +95,7 @@ She handed me her notebook and her fountain pen, and gestured to a page where I 
 
 Jo swept out of the café and onto the street, clutching her long, black skirt. Before I settled down to work on my script, I noticed that she had left behind a full cup of coffee, completely untouched.
 
-Late that night, around 2am, I had trouble sleeping again. But this time, my thoughts were occupied by less mundane matters: The way Jo's hair fell in soft curls on her forehead; the way she held my hand, so strong and decisive; the way her lips pressed together in that beatific smile. Even though I was clutching *The Dark Revival,* and my eyes were scanning its printed pages, I wasn't reading a single word.
+Late that night, around 2am, I had trouble sleeping again. But this time, my thoughts were occupied by less mundane matters: The way Jo's hair fell in soft curls on her forehead; the way she held my hand, so strong and decisive; the way her lips pressed together in that beatific smile. Even though I was clutching *The Dark Revival,* and my eyes were scanning its printed pages, I wasn't reading a single word.
 
 I was jolted out of my reverie by a message alert on my phone. I dropped the book off the side of the bed, grabbed the phone from my bedside table and glanced at the notification. It was from an unknown number.
 
@@ -135,7 +135,7 @@ Before I finally passed out, I managed to whisper one last word: "Yes."
 > 
 > Director: Jeffrey Nils Gardner
 > 
-> Producer: Lowri Ann Davies
+> Producer: Lowri Ann Davies
 > 
 > Executive Producer: Alexander J Newall
 > 

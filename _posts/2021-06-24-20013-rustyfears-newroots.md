@@ -47,7 +47,7 @@ I follow Oliver into the house, passing shadowy corners and empty hallways. Ther
 
 In his kitchen I sit at a small table, this too cluttered with odds and ends. I begin picking at the items in front of me as he digs for tea in his cabinets. It's an odd assortment of seeds and uprooted plants, corked bottles and rubber bands. It looks like the contents of a junk drawer dumped and left. When I look up he is still shuffling through his seeming empty cabinets and his mouth twists in resignation. He takes a breath before smiling apologetically at me. Taking two tea bags from a battered box and placing them in mugs.
 
-"Not ideal, but--" He shrugs his shoulders shyly and suddenly I can see the boy that I knew, his shoulders always shrugging with his smiles and his cheeks so quick to pink. "So what brings you back?" He does not say *home,* he does not say *here.* He carefully pours the steaming kettle over the mugs.
+"Not ideal, but--" He shrugs his shoulders shyly and suddenly I can see the boy that I knew, his shoulders always shrugging with his smiles and his cheeks so quick to pink. "So what brings you back?" He does not say *home,* he does not say *here.* He carefully pours the steaming kettle over the mugs.
 
 "I -- well..." I shrug helplessly back at him and suddenly he is laughing and I find myself laughing with him as if we were still children. Loud and obnoxious but so endearing.
 
@@ -75,7 +75,7 @@ He's quiet, and when I try to find his eyes, he is looking away from me. The pro
 
 When he speaks again it's a croak. "Not tonight, I don't think. It's getting late." It's not though. The sky is still glowing warmly; the leaves outside the window sparkle with the late sun. "Maybe in the morning."
 
-I don't argue and follow him to a guest bedroom he tries to hastily make up for me. In the end I end up in his bed next to him, telling him about a book I will never write, him offering to illustrate it. We fall asleep mid-conversation.
+I don't argue and follow him to a guest bedroom he tries to hastily make up for me. In the end I end up in his bed next to him, telling him about a book I will never write, him offering to illustrate it. We fall asleep mid-conversation.
 
 In the morning I wake before Oliver. I am drawn to the orchard like a moth desperate for light throws itself against the glass of a store front. I carefully sneak out from under the covers, down the stairs and out the door in my bare feet. It is early, so early that the sun is not even visible, the sky just beginning to brighten from blackness into drowsy blues. When I approach the gate, I'm surprised to find it overgrown, though I shouldn't be. The fence is strangled by vicious weeds; the door sticks for a moment on overgrown grass.
 
@@ -95,7 +95,7 @@ When I see Oliver coming toward me he looks shaken, his eyes wide and his face p
 
 In the morning I'm not feeling well. All through the night I have felt a fist in my belly, softly scratching from inside me. Now the feeling has swelled to a buzzing wasps' nest.
 
-Oliver is nowhere to be found so I begin opening random doors. I find his studio. It's not neat like I've always known him to be. His brushes seem brutalized, the paint on the handles chipping off in chunks, the bristles bent and shedding. His paintings are all facing the wall, the backs of them looking like exposed spines. I pull one backward to peek at its face and see an orange. The lines of it are stark and harsh, straight where it should be soft and curved. Like his portraits, it's not exactly right. It seems to pulse. Like I could pull back the peel and find a heart inside or a lung. I let go and startle at the clack of canvas striking the wall.
+Oliver is nowhere to be found so I begin opening random doors. I find his studio. It's not neat like I've always known him to be. His brushes seem brutalized, the paint on the handles chipping off in chunks, the bristles bent and shedding. His paintings are all facing the wall, the backs of them looking like exposed spines. I pull one backward to peek at its face and see an orange. The lines of it are stark and harsh, straight where it should be soft and curved. Like his portraits, it's not exactly right. It seems to pulse. Like I could pull back the peel and find a heart inside or a lung. I let go and startle at the clack of canvas striking the wall.
 
 Pain splits down my chest when I stand up straight and I grip the edge of his desk to collect myself. My fingers brush a covered canvas and I pause. My hands are shaking as I grab the corner of the paint stained rag and pull. It's my face. It is me but distorted, wrong, my eyes seem to float over my face, my nose too small. It's horrible.
 

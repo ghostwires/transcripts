@@ -39,7 +39,7 @@ Statement begins.
 
 #### GERTRUDE (STATEMENT)
 
-It wasn't a particularly special day when I went for a walk in the Lynden woods. I had been trying to make myself leave the house at least once a week; that way when someone asked what I'd been up to, I could say "I had a lovely walk, I saw a butterfly," to sound fine. I wanted people to think I was making the most of this three-month, enforced break. That only boring people needed a job to give their life structure, like preferring school to the holidays, and this, in many ways, was really more like a sabbatical.
+It wasn't a particularly special day when I went for a walk in the Lynden woods. I had been trying to make myself leave the house at least once a week; that way when someone asked what I'd been up to, I could say "I had a lovely walk, I saw a butterfly," to sound fine. I wanted people to think I was making the most of this three-month, enforced break. That only boring people needed a job to give their life structure, like preferring school to the holidays, and this, in many ways, was really more like a sabbatical.
 
 The woods are round the back of Lynden House, and the tourists stick to the lawns and the lake. If you follow the path round past the dairy, it turns into this scrubby, heath area, and then there are some trees, and you can mostly be by yourself.
 
@@ -65,7 +65,7 @@ The well was narrow, almost brushing my shoulders and the iron rungs were gritty
 
 The mouth of the well quickly receded into a ragged circle of light. How far down should I keep climbing? What if the rungs ran out? But the mews were close now, and I risked a hand to extract my phone and shine its beam below me.
 
-The well had dried to a sludgy mud filled with sticks and the mulch of decaying leaves. Only a foot away, I could see the eyes, like two yellow half moons and, reaching out as far as I could, I felt cold, wet fur, soaked in black slime. I gripped it and pulled it out of the clinging mud. It scrabbled for my shoulder and lay across it, the mud cold on my cheek. I felt a heave of nausea at the smell, the shock of having this strange trembling thing suddenly against me, the pattering of its heart, the pinpricks of its claws as it clung on. And I felt a second of concern about whether it was really such a good idea to take something, anything out of here. But that was overtaken by a fierce desire to take care of it. *You need my help,* I thought. *I will save you.* My hands raw from the iron, my legs smeared with mud, I carried us both out of the dark and into the light.
+The well had dried to a sludgy mud filled with sticks and the mulch of decaying leaves. Only a foot away, I could see the eyes, like two yellow half moons and, reaching out as far as I could, I felt cold, wet fur, soaked in black slime. I gripped it and pulled it out of the clinging mud. It scrabbled for my shoulder and lay across it, the mud cold on my cheek. I felt a heave of nausea at the smell, the shock of having this strange trembling thing suddenly against me, the pattering of its heart, the pinpricks of its claws as it clung on. And I felt a second of concern about whether it was really such a good idea to take something, anything out of here. But that was overtaken by a fierce desire to take care of it. *You need my help,* I thought. *I will save you.* My hands raw from the iron, my legs smeared with mud, I carried us both out of the dark and into the light.
 
 ------
 
@@ -81,7 +81,7 @@ That night I dreamed I was still in the well, the cold smell surrounding me. I w
 
 "Are you sure? Aren't foxes red?"
 
-Beth was in the habit of dropping round a few times a week. She said it was because she was in the area, but I knew it was to keep an eye on me. She sometimes gently asked what I had planned for dinner, or talked vaguely about how much better it made *her* feel to have a shower everyday.
+Beth was in the habit of dropping round a few times a week. She said it was because she was in the area, but I knew it was to keep an eye on me. She sometimes gently asked what I had planned for dinner, or talked vaguely about how much better it made *her* feel to have a shower everyday.
 
 "The baby ones can be darker."
 
@@ -103,7 +103,7 @@ Beth regarded the creature. Although it had only been three days, it whined and 
 
 "It's fine."
 
-In fact, I didn't have much choice. By the end of the first day, the creature was still uninterested: cat food, dog biscuits, fruit, canned tuna, birdseed, a lovingly prepared plate of fresh vegetables and even mealworms from the reptile department of the pet shop. It was the same with water: tap, mineral, boiled, chilled, in a bowl or poured enticingly from one container to the other. The creature ignored them all.
+In fact, I didn't have much choice. By the end of the first day, the creature was still uninterested: cat food, dog biscuits, fruit, canned tuna, birdseed, a lovingly prepared plate of fresh vegetables and even mealworms from the reptile department of the pet shop. It was the same with water: tap, mineral, boiled, chilled, in a bowl or poured enticingly from one container to the other. The creature ignored them all.
 
 But when I sat down for lunch, it raised its head from my shoulder and, just as I brought the sandwich to my lips, it insinuated its own pointed snout and tested the bread with its teeth. I held my breath as, slowly, the creature took a single bite. There was a long pause where it showed no further interest, until I raised the sandwich to my mouth again. The creature once more slid to intercept it.
 
@@ -153,7 +153,7 @@ I hoped she would have the grace not to reply instantly, but instead she pinged 
 
 I felt a stab of annoyance. Why was everyone being like this? If Jen had helped an animal and took it around with her, people would cluster round and want to stroke it and say how marvelous she was. They were jealous. Jealous that I'd done something cool and daring and wasn't just their unfortunate, troubled charity case they could patronise and feel superior to. I replied straight away:
 
-> Wouldn't want to spoil anyone's perfect afternoon, so we'll give it a miss, thanks.
+> Wouldn't want to spoil anyone's perfect afternoon, so we'll give it a miss, thanks.
 
 > Don't be like that, it's a BBQ, everyone is in the garden. Jen just means not to let it get into the house or make a mess or anything.
 
@@ -167,7 +167,7 @@ A few seconds later, my phone rang. I ignored it.
 
 After a month I began leaving, first the windows, and then the back door open. Maybe the creature would transition slowly, from its post on my shoulder or lap to a cautious sniff outside, then finally to a wild and free life, returning once a year to show me that everything was well. Maybe it would even bring its own young to visit, to show its gratitude. I didn't want to trap it here against its will. But it never put even its nose outside. I didn't like leaving the house with it, since it drew stares, although usually of suspicion rather than interest. I started avoiding places where I knew other people would be.
 
-One day, I drove to the edge of Epping Forest and parked the car. I wasn't thinking too hard about what I might be possibly considering doing, and I meandered down the path, the creature snuffling at my feet. Its ears pricked at every rustle of small creatures in the leaf litter. Whatever it was, it was clearly a predator. It took a few steps into the undergrowth to investigate a tangle of bracken, and suddenly I had turned around and was running back to the car, the keys clenched in my fist, my eyes on the door handle. I reached it, fumbled the keys and as I reached down to snatch them back up, the creature caught up to me and sank its teeth into my hand.
+One day, I drove to the edge of Epping Forest and parked the car. I wasn't thinking too hard about what I might be possibly considering doing, and I meandered down the path, the creature snuffling at my feet. Its ears pricked at every rustle of small creatures in the leaf litter. Whatever it was, it was clearly a predator. It took a few steps into the undergrowth to investigate a tangle of bracken, and suddenly I had turned around and was running back to the car, the keys clenched in my fist, my eyes on the door handle. I reached it, fumbled the keys and as I reached down to snatch them back up, the creature caught up to me and sank its teeth into my hand.
 
 The drive back was very quiet. The creature sat on my lap staring at me, my bloodied hand on the steering wheel a kind of penance. When we got home, I silently prepared the creature's favourite meal, and patiently allowed it to take a bite from each spoonful before placing it in my own mouth. That night, the nightmares were worse: I found myself aware this time that this was a dream, but unable to wake myself, and with the sensation that I had been trapped in this hole for many weeks. 
 
@@ -211,7 +211,7 @@ I opened the door. The creature was sitting outside the bathroom, its halfmoon e
 
 ------
 
-I struggled on through the next few weeks. I didn't leave the house, I didn't speak to anyone, I did not have a moment alone without the creature. Its favourite thing was to drape over my shoulders while I stroked it, mechanically, repetitively, for hours at a time. If I stopped, it would squeak and wiggle, then finally begin to chitter, a warning sign I had learnt to recognise.
+I struggled on through the next few weeks. I didn't leave the house, I didn't speak to anyone, I did not have a moment alone without the creature. Its favourite thing was to drape over my shoulders while I stroked it, mechanically, repetitively, for hours at a time. If I stopped, it would squeak and wiggle, then finally begin to chitter, a warning sign I had learnt to recognise.
 
 If I kept it happy, the nightmares were lessened, and I might have whole stretches of normal sleep in a night, and awake feeling almost refreshed. If I annoyed it in some slight way -- and the size of the offence required to trigger punishment shrank every day -- then I felt a sinking dread at what was to come.
 
@@ -223,7 +223,7 @@ That was the last straw. It had isolated me from my friends, controlled what I a
 
 I reached down and grabbed the creature. It seemed to sense the change in me, and it wriggled and hissed, making a fierce, gurgling ululation I had never heard before. Holding it firmly by the scruff, I thrust it into a sturdy canvas bag and tied the handles shut, then grabbed my car keys.
 
-It was dark, the car park closed and the house itself shuttered, but there was no way of locking the entrance to Lynden Woods. The creature had ceased hissing and was now making a plaintive cheeping noise, trembling in the bag, as if hoping to inspire the same compassion that had made me take it home the first time.
+It was dark, the car park closed and the house itself shuttered, but there was no way of locking the entrance to Lynden Woods. The creature had ceased hissing and was now making a plaintive cheeping noise, trembling in the bag, as if hoping to inspire the same compassion that had made me take it home the first time.
 
 I found my way to the well unerringly; perhaps having spent every night of the past six months in its depths had burned it in my brain. I leant over its pitch black mouth, untied the bag's handles and shook it hard. I had a final glimpse of the creature: its half-moon eyes wide with rage, long, clever claws scrabbling at thin air, and then it vanished into the darkness.
 

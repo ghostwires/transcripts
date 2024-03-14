@@ -50,7 +50,7 @@ Streets, by Martin K. Blackwood.
 > 
 > Paths of good intention.
 > 
-> Leading somewhere.
+> Leading somewhere.
 > 
 > Anywhere.
 > 

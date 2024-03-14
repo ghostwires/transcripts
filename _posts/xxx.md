@@ -12,7 +12,7 @@ Helen Gould!
 
 #### BRYN
 
-Bryn Monroe,
+Bryn Monroe.
 
 #### BEN
 
@@ -66,7 +66,7 @@ _(laughing)_ Okay, I'm abandoning the start of this episode. Do share.
 
 #### BEN
 
-Oh, I -- I think -- and this is like, I've got very rough history, but basically I think they had one of the counselors, like the counselor of Nicea and Saint Nicholas was there, and they were having an argument over the Arian heresy? Which isn't the Nazi "Aryan," and it's -- yeah. A guy called Arial Something. They got into a fistfight about theology and he punched him right in the face, and I think the person he punched went on to become pope, so Santa Claus punched the pope in the face.
+Oh, I think -- and this is like, I've got very rough history, but basically I think they had one of the counselors, like the counselor of Nicea, and Saint Nicholas was there, and they were having an argument over the Arian heresy? Which isn't the Nazi "Aryan," and it's a guy called Arial Something. They got into a fistfight about theology and he punched him right in the face, and I think the person he punched went on to become pope, so Santa Claus punched the pope in the face.
 
 #### ALEX
 
@@ -86,7 +86,7 @@ I hate to break it to you --
 
 #### ALEX
 
-I'm fairly certain that's where paladins came from, Ben. Right. Anyway, today we are going to be playing, you know, just to shake things up for our third party things, a game by Grant Howitt! _(sarcastically)_ Hold the phone!
+I'm fairly certain that's where paladins came from, Ben. Right. Anyway, today we are going to be playing, you know, just to shake things up for our third-party things, a game by Grant Howitt! _(sarcastically)_ Hold the phone!
 
 #### BRYN
 
@@ -120,7 +120,7 @@ Didn't Critical Role play that?
 
 #### BEN
 
-I was going to say, "you know, that one that podcast that's much more popular than this one."
+I was going to say, "you know, that one podcast that's much more popular than this one."
 
 #### ALEX
 
@@ -140,7 +140,7 @@ Yeah.
 
 #### ALEX
 
-It's Honey Con, 2018. You are going to undertake the greatest heist the world has ever seen. Two things! One, you have a complex plan that requires precise timing. Two, you are a god damn bear.
+It's Honey Con, 2018. You are going to undertake the greatest heist the world has ever seen. Two things! One, you have a complex plan that requires precise timing. Two, you are a __god damn bear.__
 
 So, I'm going to go around and we're going to be *rolling* for characters, no pre-genning here. Who'd like to go first?
 
@@ -192,7 +192,7 @@ My role is...
 
 ##### [DICE ROLLS]
 
-I am the face. So I am a washed-up panda face. And, are we rolling for hats?
+I am the face. So I am a washed-up panda face. And... are we rolling for hats?
 
 #### ALEX
 
@@ -222,7 +222,7 @@ Oh, fantastic.
 
 #### BEN
 
-I am a washed-up panda face wearing a cowboy hat. I would like to think that I am also -- have a cigar, because of that guy from the eighties.
+I am a washed-up panda face wearing a cowboy hat. I would like to think that I also have a cigar, because of that guy from the eighties.
 
 #### ALEX
 
