@@ -1,743 +1,880 @@
 ©Rusty Quill 2023
 The Magnus Protocol
-Episode 9
-"Rolling With It"
-Written by Alexander J Newall and Jonathan Sims
-Edited by Jonathan Sims
-Draft 1.3
+Episode 10
+"Saturday Night"
+Written by Jonathan Sims
+Edited by Alexander J Newall
+#### 27-06-2023
+Draft 1.1
 #### ANNOUNCER
-This episode is dedicated to Sofia
-Eickstedt, statement regarding their
-entrapment in The Podcast. Oh
-please god if anyone can hear this
-please send help. I haven't been a
-physical being in so long. I'm losing
-myself to this podcast. Wait what's
-that over there? An episode of a
-sequel? It's so intriguing. I can't help
-but reach out my non-existent hands
-to it. O-oh no not again! Oh the
-horrors! Nooooo[Intro Theme]
+This episode is dedicated to Talia
+Lindner -- This is dedicated to my
+friends and family for listening to me
+talk about the Magnus Archives for
+far longer than could be considered
+reasonable. I apologize in advance
+for what Magnus Protocol will do to
+me. You are the real heroes.
+##### [Intro Theme]
 #### ANNOUNCER
 Rusty Quill Presents: The Magnus
 Protocol.
-Episode Nine -- Rolling With It
+Episode Ten -- Saturday Night
 ##### [Music]
-1. INT. O.I.A.R. OFFICE -- NIGHT, CLEAR (COMPUTER)
-SAM is sat at his desk filling in a huge pile of paperwork and
-singing tunelessly under his breath.
-Celia enters.
+#### 1. INT. MORNING PROGRAM TV STUDIO- DAY, CLEAR (CASE
+FILE -- TV INTERVIEW)
+The strains of “Mr. Bonzo's on his Way” fade away as the host
+GERALDINE HARDY can be heard laughing.
+#### GERALDINE
+Now, I'm sure I don't need to tell
+anyone what that little blast of 90s
+nostalgia was. “Mr. Bonzo's On His
+Way” which topped charts for over
+eleven weeksNIGEL
+(jokingly)
+Twelve.
+#### GERALDINE
+Twelve weeks, smashing the record
+for TV tie-in music and launching a
+merchandise empire. Well, Today I'm
+here with the creator of Mr. Bonzo
+and former host of “Saturday on
+Six”, Nigel Dickerson.
+#### NIGEL
+It's an absolute pleasure to be here
+Geraldine. Nice to be on TV again.
+#### GERALDINE
+It has been a while, hasn't it?
+#### NIGEL
+I've kept busy.
+#### GERALDINE
+So, twenty-five years since Mr.
+Bonzo's debut. Why don't you tell us
+a little bit about how it all started?
+#### NIGEL
+(with odd energy)
+I mean, it started as a joke...
+Beat.
+#### NIGEL
+Channel Six approached me in
+ninety-four to be the host and
+frontman of their Saturday night
+variety show. It was a risky move
+back then of course -- Channel Six
+had only existed for a year and I
+wasn't exactly a household name. I
+mean, I was part of the BBC's family
+programming, but I was hardly top of
+anyone's list.
+Still, “Nigel Dickerson presents
+Saturdays on Six” or “Nigel's SOS”
+as they started calling it, really took
+off. I mean, at the end of the day it
+was still the same sort of variety
+show that BBC and ITV were running
+on Saturday primetime: skits, music,
+interviews, some on-location
+features. What marked us out though
+was that we didn't take ourselves
+nearly as seriously as them. The
+whole conceit was that the set was
+built like an enormous comedy
+dungeon, and I'd been imprisoned by
+“Mr. Six.”
+#### GERALDINE
+Mr. Six?
+#### NIGEL
+Oh, he was our fictional head of
+Channel Six and I had to do a good
+show so I'd be released.
+#### GERALDINE
+(laughing, playing along)
+Oh of course.
+#### NIGEL
+We had a lot of fun with it. At the top
+of each show I'd get a phone call
+from Mr. Six, who was always very
+angry, and he's say he'd gotten a
+complaint from some busybody
+writing in with a name like Mrs.
+Sourpucker or Mr. Smallprick, and
+then I'd be told I had to do the whole
+show without... I don't know, using
+the words “up next” or standing on
+one leg or something and people
+loved it. They really loved it.
+#### GERALDINE
+And where did Mr. Bonzo come into
+it?
+#### NIGEL
+(slight energy change)
+Yes. Mr. Bonzo. Of course. Well, one
+of our big things was pranks. We had
+a whole section called “You Got
+Berried!” where we'd invite on some
+serious public figure and make them
+look a bit silly, like, uh, get a famous
+footballer to do a bunch of kick-ups
+but we'd weighted the ball, and at the
+end I'd come out, say “You Got
+Berried!” and give them this big
+golden raspberry trophy. It was all in
+fun, of course. No guests were hurt.
+So, one day, my producer, Rich, had
+this fantastic idea. We do the whole
+schtick of inviting a famous person
+on, someone really serious, and we
+tell them we're going to have them
+do a segment with a popular
+children's entertainer. Now,
+obviously these folks won't have any
+idea about what kids are actually
+watching, so we could come up with
+the most horrendous thing, claim
+kids loved it and see how long it took
+for the guest to realize that they were
+the joke. That they'd been “berried”.
+So I came up with this awful clown
+character -- this big bulbous,
+splotchy suit, running around,
+screaming his own name and
+generally being a nightmare.
+#### GERALDINE
+Who came up with the name “Mr.
+Bonzo”?
+#### NIGEL
+You know, I honestly don't
+remember. I know it wasn't me or
+Rich, but at some point someone
+said it and the name just stuck. I
+don't really know what else to say
+about it. His name is Mr. Bonzo.
+I remember the first show we used
+him. We'd invited Gotard Rimbaeu --
+the chef. He was very big at the time.
+Lots of TV appearances, a cooking
+column in The Times. But I think he
+was looking to soften his public
+image after the Mirror ran a story on
+him, I don't quite remember...
+#### GERALDINE
+#### “BRITAIN'S SNOOTIEST CHEF”
+#### NIGEL
+That was it. Yeah, after that he
+agreed to do a segment on our show
+teaching children how to cook. He's
+obviously never seen the show and
+was completely oblivious to kids'
+culture. He was absolutely perfect.
+When Mr Bonzo emerged out of the
+pantry, the effect was... incredible.
+Rimbeau's face went white and he
+looked like he was about to scream.
+I'll be honest, I'd seen the suit
+already, but I hadn't seen it moving,
+and it was even freaking me out a bit.
+Rimbeau tried to keep it together, as
+far as he knew all the kids did love
+Mr. Bonzo, but when that big rubbery
+clown started knocking over pans
+and smashing eggs all over the
+studio kitchen, “the snooty chef”
+actually tried to hide behind a
+shelving unit. And finally, when Mr
+Bonzo went in for a cuddle, Rimbeau
+genuinely attacked him with a frying
+pan. He actually broke the arm of the
+guy wearing him, which I took as my
+cue to enter with the Golden Berry.
+This was on live TV don't forget.
+#### GERALDINE
+Sounds like a disaster!
+#### NIGEL
+I thought so too. But according to
+our audience it was the best thing
+we'd ever done. Over the next week
+we got literally hundreds of letters
+demanding more Mr. Bonzo.
+#### GERALDINE
+Even with a broken arm?
+#### NIGEL
+Well, there was a different man in the
+suit, of course. There were a few of
+them over the years. It was very
+physically demanding and that
+wasn't the only injury we had with it.
+It actually became a sort of ritual: the
+newest member of the production
+crew wore Mr. Bonzo until someone
+else joined.
+#### GERALDINE
+Or until they got hit by a pan!
+She laughs. Nigel doesn't.
+#### NIGEL
+Ha. Yes. Of course, the joke couldn't
+last. The problem with a surprise
+prank is that doing it on Saturday
+night primetime means pretty soon
+everyone knows about it, and the
+guests knew it was coming. A couple
+even requested it. So the prank part
+of it sort of died, and he just became
+an SOS mascot. One of my many
+tormentors in the dungeon. By the
+end we'd even retired Mr. Six, and it
+was all Bonzo.
+#### GERALDINE
+Clearly it was the right decision.
+#### NIGEL
+The kids certainly liked him. It turned
+out they really did think he was
+hilarious. Well, the ones who didn't
+wet themselves, anyway.
+Gerladine laughs
+#### NIGEL
+(cont.)
+There was a pretty stark dividing line
+between the two. Soon it was
+Bonzomania: merch sales were
+through the roof; “underserving
+number one hit single” actually did
+become a number one hit single and
+we even started construction on a
+small Bonzoland theme park at one
+point. It was... It was a good time.
+#### GERALDINE
+(tonal shift)
+And thenNIGEL
+And then we all know what
+happened. People... stopped liking
+Mr. Bonzo.
+#### GERALDINE
+If you don't feel comfortable
+discussing Terrance Menki, we could
+move on toNIGEL
+No, it's fine. You know it was only
+the last one, right? The one where he
+was caught? The police said there
+were eleven bodies in total and his
+wardrobe was full of all sorts of
+homemade costumes. Who knows
+what he wore for the rest? But no,
+because he was caught dressed as
+Mr. Bonzo, that's all people
+remember, the, uh, theGERALDINE
+The “Bonzo Butcher”.
+#### NIGEL
+The Bonzo Butcher! Ridiculous
+tabloid garbage. It didn't even look
+like him! He got the colors
+backwards! But they still splashed
+the image all over the front page.
+Complete overreaction.
+#### GERALDINE
+An overreaction?
+#### NIGEL
+No, I mean, uh, it was inappropriate.
+To show to the public I mean.
+#### GERALDINE
+It certainly had a profound effect on
+the Mr. Bonzo brand.
+#### NIGEL
+Bonzoland halted construction
+shortly afterwards and the suits
+decided it was best to “temporarily”
+halt production on SOS.
+#### GERALDINE
+And how about you personally?
+#### NIGEL
+Well of course I got death threats.
+We had nothing to do with it
+obviously, but people can be very
+stupid about this sort of thing.
+Anyway, that was that -- in the minds
+of the public, Mr. Bonzo had been
+completely changed.
+Beat.
+#### NIGEL
+(cont.)
+I'm given to understand he's still got
+some fans. In the, uh, edgier parts of
+the internet. As a “meme”.
+#### GERALDINE
+Yes, I was going to ask --Mr. Bonzo
+merchandise is still on sale via your
+own website. Do you feel at all
+uneasy about that?
+#### NIGEL
+About what? The fact that a few
+sales might be from people trying to
+be edgy? A man's got to make a
+living, Geraldine, and it's not like I
+can tell if someone's buying a t-shirt
+ironically. Besides, people think of
+Nigel Dickerson and Mr. Bonzo is
+never far behind so it's not like its
+changing my reputation. In a lot of
+ways I'm more his prisoner now than
+I ever was on my show.
+#### GERALDINE
+And how do you respond to the more
+recent rumours?
+#### NIGEL
+(on guard)
+Excuse me?
+#### GERALDINE
+The witness statements from three
+murders over the last five yearsNIGEL
+(speaking over her)
+I told your producer this wasn't
+going to be discussed.
+#### GERALDINE
+-that claim a person in a Mr. Bonzo
+costume was at the scene? Do you
+think there could be a copycat?
+#### NIGEL
+(Getting up)
+This interview is over. Don't contact
+us again.
+#### GERALDINE
+Us?
+#### NIGEL
+(losing it)
+It was a joke alright!? Mr. Bonzo was
+meant to be funny, make people
+laugh! Is that so wrong? Why am I
+still trapped dealing with all thisthis- Why won't he let me go?! WhyThe recording abruptly cuts out.
+#### 2. INT. OIAR OFFICES -- NIGHT, CLEAR (COMPUTER).
+CELIA finishes listening to the Case. She types it up and files it
+with a double click and 8-bit fanfare. She sighs, then gets up
+from her chair and walks over to the breakroom. The empty
+office is noticeably silent.
+Silence.
+The office door opens and COLIN enters. He looks around for a
+second.
+#### COLIN
+Hello?
 #### CELIA
-Evening.
-#### SAM
+(from the breakroom)
+Colin?
+She comes back into the room.
+#### COLIN
+Sorry, don't let me interrupt.
+#### CELIA
+It's fine, just stuck the kettle on. You
+want a cup?
+#### COLIN
+No thanks. I'm cutting back on
+caffeine...
+#### CELIA
+Celia.
+#### COLIN
+Celia. Right. Sorry.
+#### CELIA
+No problem -- I'm still new.
+#### COLIN
+Where is everyone?
+#### CELIA
+Gwen's on “assignment”, whatever
+that means. Alice and Sam are, uh,
+following up something from a case.
+#### COLIN
 (distracted)
-Hey.
-Celia puts her bags down, sits and turns on her PC. Sam just
-keeps scribbling away with his paperwork.
-Pause.
+Right. Shame. Wanted Alice's
+thoughts on something. You know
+anything about computers?
 #### CELIA
-So. How's the novel?
-#### SAM
-Hm what? Oh right, yeah.
-He returns to his paperwork
-#### SAM CONT.
-Just filling in some more onboarding
-paperwork. You know what it's like.
+Not really. Weren't you on leave?
+#### COLIN
+For my brain, yeah. Didn't work.
+Talked to three therapists. None of
+them even knew what a logic gate is.
+What the hell use is that going to be?
 #### CELIA
-Do I? No-one's given me anything
-since day one...
-#### SAM
-It's my own fault. I checked a box for
-a Response department one-to-one.
+I don't know
+#### COLIN
+None. I was just sat their twiddling
+my thumbs. Best thing for me is
+figuring this out.
 #### CELIA
-Yeah... Alice mentioned something
-about that. Also, that there hasn't
-been a Response department for
-years now?
-#### SAM
-(still writing)
-That's what I was told.
+(unconvinced)
+Right.
+#### COLIN
+So the other's are all gone out right?
+#### CELIA
+Yeah, butCOLIN
+Great. That'll make things easier.
+He sits at a desk and starts booting it up.
+#### COLIN
+(cont.)
+Maybe don't tell them I've been on
+their terminals. They'll only get the
+wrong idea.
+#### CELIA
+Uh, sure.
+Colin starts typing on the PC a little breathless.
 Beat.
 #### CELIA
-Sorry am I missing something?
-Because otherwise this seems
-prettySAM
-Pointless? Yeah. Completely.
+Cool. Well, I think that was the kettle,
+so I'll probably leave you to it.
+#### COLIN
+Yeah. Oh, and, uh, Celia?
 #### CELIA
-You lost me.
+Mm?
+#### COLIN
+If Lena asks, I wasn't here.
+He starts to pull open the active computer, muttering to himself
+while Celia walks off to the breakroom.
+#### CELIA
+...sure.
+#### 3. EXT. THE MAGNUS INSTITUTE RUINS -- NIGHT, STARTING TO
+RAIN (SAM'S PHONE)
+SAM and ALICE pick their way gingerly through the burned and
+collapsed skeleton of the Magnus Institute. ALICE is under an
+umbrella. Her foot almost goes through a rotten floorboard and
+SAM grabs her.
 #### SAM
-Well, I refuse to give it the
-satisfaction of giving up.
-#### CELIA
-You don't want to give the
-automated bureaucratic system any
-satisfaction?
+Careful.
+#### ALICE
+Yeah, well, that'd be easier if I wasn't
+digging through a crumbling, rotten
+ruin in the rain.
 #### SAM
-Exactly. And honestly, it's kind of
-compelling by this point. Like its
-deliberately weird and pointless
-y'know?
-#### CELIA
-How so?
+And it'd be even easier if you
+stopped moaning and got on with
+actually looking around you.
+#### ALICE
+Touché. Although I'll point out I still
+don't haven't any idea what we're
+even looking for. Is it bad vibes?
+Because I think I have found them.
+She lifts up some rotten planking.
+#### ALICE
+Oh, no. False alarm. Just a dead rat.
+Lovely.
+She drops the plank.
 #### SAM
-Look.
-(He pulls some paperwork across. CELIA pulls in closer)
-#### CELIA
-(reading)
-Please list your earliest four negative
-memories associated with school or
-an equivalent childhood educational
-institution, then rate each from zero
-to seven with zero being neutral and
-seven being traumatic.
-(laughing)
+I'll know it when I see it.
+#### ALICE
+Will you? Because that sounds very
+suspiciously, like the kind of line
+someone says when they don't know
+what they're looking for. I honestly
+don't know what you expect. It's a
+ruin. Burned wood, collapsed rooms,
+rubble. It's not exactly a treasure
+trove.
+#### SAM
+If you're that bothered you can head
+home. Don't let me keep you.
+#### ALICE
+Sam, there is honestly nowhere I'd
+rather be than here with you. And to
+be clear, I mean that in a profoundly
+depressing way. Like, it's Saturday
+night and I'm choosing to hang out
+in a hole with you. A wet hole. And
+not the good kind either.
+#### SAM
+Well, thanks then I guess.
+#### ALICE
+Well, you're welcome then I guessSAM
+Hang on, what was that?
+#### ALICE
+(suddenly interested
+despite herself)
+WhatSAM
+Turn back, shine your light over...
+Yes!
+He clambers over some broken furniture and starts wrestling
+with a rusty old filing cabinet.
+#### ALICE
+Wait are you serious? We're getting
+excited over that. It'll be empty. And
+even if it isn't its rusted shutSAM
+(straining pathetically)
+Which means I should be able to
+break the lock...
+#### ALICE
+And find a peer-reviewed paper on
+all the tetanus you're going to get.
+Your gonna cut yourself up for
+mulch The filing cabinet opens slightly with a grinding sound.
+#### SAM
+Got it!
+He looks inside.
+#### ALICE
+So? Any life changing revelations?
+Or...
+#### SAM
+(disappointed)
+MulchALICE
+(enjoying herself)
+Mulch, that's right.
+#### SAM
+Dammit!
+He kicks the filing cabinet. It clearly hurts.
+#### ALICE
+You all right?
+#### SAM
+I'm fine!
+Beat
+#### SAM
+(con.t)
+Ow.
+#### ALICE
+Look, Sam, you asked me to come
+and I came. I'm sorry that this isn't
+the closure or whatever it was you
+were searching for but I think you're
+wasting your time. We're just lucky
+this place hasn't already collapsed
+on us.
+#### SAM
+I don't feel lucky.
+#### ALICE
+That makes two of us. Look I get it,
+okay? It has some weird bits I'll
+grant you. That carved floor in the
+big atrium -- I don't know what's
+going on with that. But whatever
+ghosts you're hoping to bust? I don't
+think they're here.
+Beat.
+#### ALICE
+Sam.
+#### SAM
+Fine! Fine let's...
+He starts rummaging in the filing cabinet.
+#### ALICE
+Seriously? I literally just talked you
+into leaving, please don't now tell me
+you've actually found something
+thatSAM
+(Yanking his hand out)
+Aha!
+#### ALICE
+(wearily)
+It's a key.
+#### SAM
+Oh yeah. And you know what that
+means?
+#### ALICE
+Someone's gym bag is getting really
+grim trapped in a locker somewhere?
+#### SAM
+(beseechingly)
+Alice.
+#### ALICE
+(Wearily good natured)
+Eurgh. Fine. 10 more minutes. And
+I'm keeping the umbrella.
+4. INT. NIGEL DICKERSON'S MANSION. NIGHT, RAINING (TV)
+The TV flicks on. There is a beat, then the doorbell rings. NIGEL
+shuffles down the stairs as the doorbell rings again.
+#### NIGEL
+(to himself)
+Alright, I'm coming...
+He unbolts the door. There's a lot of them. Then he opens the
+heavy wooden doors to find GWEN stood in the porch.
+#### NIGEL
+What?
+#### GWEN
+(checking papers)
+Uh- Nigel Dickerson?
+#### NIGEL
+Do you know what time it is?
+#### GWEN
+I'm here on behalf of the Office of
+Incident Assessment and Response.
+#### NIGEL
+Oh?
+A realization dawns on him.
+#### GWEN
+I have a message for you. I was told
+to deliver it personally. Here.
+She tries to hand him the envelope. He does not take it.
+#### NIGEL
+I can't.
+#### GWEN
+My instructions were very clear. Go
+to the home of Nigel Dickerson and
+hand over this envelope.
+#### NIGEL
+It's not for me.
+Beat. A Sigh.
+Come in. And wipe your feet.
+GWEN does so, closing the door behind her. NIGEL sighs then
+walks over and turns on an old hi-fi. “Mr Bonzo's on his Way”
+starts playing
+#### NIGEL
+I'm sorry about this
+#### GWEN
+Uhh...what?
+NIGEL turns the music up.
+There is a wet, lumbering step on the staircase. Something is
+dragging itself down the stairs to meet them.
+#### GWEN
+What is- Who...?
+#### NIGEL
+Try not to stare. He doesn't like it
+when people stare.
+MR BONZO drags himself into view.
+#### GWEN
+(horrified)
+Oh my god!
+#### MR BONZO
+B-B-B-Bonzo Bonzo Bonzo!
+#### NIGEL
+Mr Bonzo meet... I didn't actually get
+your name. Probably for the best.
+#### MR BONZO
+#### BONZO BONZO BONZO!!!
+#### NIGEL
+(urgently)
+I said don't stare!
+Gwen does not reply. It is clear she is trying not to
+hyperventilate.
+#### NIGEL
+(To Bonzo, wearily)
+Looks like they've got another one
+for you.
+(To Gwen)
+Give it to him.
+#### MR BONZO
+#### BONZO!
+#### GWEN
+I... what?
+Mr Bonzo is becoming agitated.
+#### MR BONZO
+#### BONZO! BONZO!
+#### NIGEL
+The name, the address -- tell him
+where to go.
+#### GWEN
+What? I don't- No one told me
+anything. Who's in there?
+#### MR BONZO
+(growing angry)
+#### BOOONZOOO!
+#### NIGEL
+(starting to panic)
+What are you talking about? The
+envelope, just give him the envelope!
+#### GWEN
+C-can he read?
+#### NIGEL
+Just do it!
+Gwen holds out the envelope and Mr Bonzo snatches it into his
+mouth, audibly chewing it. His teeth are not soft.
+#### MR BONZO
+#### BONZO!! BONZO BONZO BONZO!
+Mr. Bonzo excitedly lumbers away, violently throwing open the
+door and lumbering off into the night.
+#### NIGEL
+(panting with relief)
+Oh thank god. That nearly went very
+badly.
+#### GWEN
+I... I don'tNIGEL
+Tell the people who sent you “you're
+welcome. Again.”
+#### GWEN
+Ah- okay?
+#### NIGEL
+Now get out of his house.
+#### 5. EXT. THE MAGNUS INSTITUTE RUINS -- NIGHT,
+THUNDERSTORM (TAPE RECORDER)
+Somewhere in a dark abandoned office a tape recorder clicks
+on. The sounds of a thunderstorm, muffled by several walls, is
+punctuated by a close trickle and distant drips. The door to the
+office rattles, as someone tries to open it. SAM and ALICE can
+be heard through the rotten wood.
+#### SAM
+(muffled)
+You literally just saw me try.
+#### ALICE
+(muffled)
+I believed you couldn't open it.
+That's not the same as being locked.
+#### SAM
+(muffled, wearisome)
+Here we go again with the ickle, baby
+shrimp Sam routine.
+#### ALICE
+(muffled)
+A) I have never called you a baby
+shrimp but thanks for the idea.
+B) Shut up and try the key.
+SAM tries the key in the lock. It does not turn.
+#### ALICE
+(muffled. Cont.)
+Well, we tried. Come on.
+#### SAM
+(muffled)
+Hang on, the wood here's pretty
+rotten. I think...
+With a wet crack, the wood around the lock breaks and it
+collapses inwards with SAM tangled in it.
+#### SAM
+Ha! Suck it!
+#### ALICE
+That really hurt didn't it?
+Beat. SAM shifts in the sharp woodpile.
+#### SAM
+Maybe.
+#### ALICE
+C'mere.
+She helps him up and they pick rotten wood off him.
+#### ALICE
+(cont.)
+So much for your key.
+#### SAM
+We're here aren't we?
+#### ALICE
+And where is here exactly?
+#### SAM
+Someone's office, I guess? Looks
+like it held up better than the rest...
+#### ALICE
+(picking something up)
+Who do you reckon Archie was?
+#### SAM
+Huh?
+#### ALICE
+I found one of those old timey name
+block things.
+#### SAM
+Uh... Archipelago?
+#### ALICE
 I'm sorry what?
 #### SAM
-It gets better.
-#### CELIA
-(digging through pages)
-Please list every dead creature you
-have seen in the last three months...
-how many blood transfusions have
-you had within the last ten years...
-“Why?” Why what?
+What?
+#### ALICE
+You're just going to skip straight to
+“Archipelago”? Not, I don't know,
+architect? Archive?
 #### SAM
-(smiling)
-Just “Why”.
-Beat.
-#### CELIA
-Well, that's... something
+I mean, there are books I suppose...
+He picks one up and it disintegrates in his hands.
 #### SAM
-Isn't it? And even better, I know noone will ever read it.
-#### CELIA
-I'm glad you're having fun.
+(cont'd)
+There were books, anyway.
+#### ALICE
+Nice chair. I could look real ominous
+swiveling in that thing.
 #### SAM
-Sometimes it's nice to just have an
-excuse to sit quietly for a while and
-think about things.
-#### CELIA
-Things like “why”?
+I wouldn't risk it. Not unless you
+want woodworms up your butt.
+#### ALICE
+Ew. That explains the pattern on the
+floor.
 #### SAM
-Why- See? You do get it.
-#### CELIA
-Well, I'm glad you're in a good mood,
-'cause I've got some bad news. I
-can't find anything more on the
-Magnus Institute and honestly, at
-this point I am out of ideas.
+Oh yeah... What is that?
+#### ALICE
+Worm tracks. Or y'know symbols of
+ancient otherworldly power. One or
+the other.
 #### SAM
-That's all right. I really appreciate
-you humoring my little crusade but
-maybe Alice is right. Maybe I should
-pack it in.
-#### CELIA
-I'm sorry.
-#### SAM
-Life's too short right?
-#### CELIA
-(standing)
-Isn't it just. Fancy horrible coffee?
-#### SAM
-Nah I'm good. Besides these bad
-boys won't fill themselves in.
-#### CELIA
-(smirking)
-Don't have too much fun while I'm
-gone.
-CELIA exits as SAM chuckles to himself.
-Extended Pause as SAM continues to file paperwork.
-The computer gives a slight ping and SAM looks up at it.
-#### CHESTER
-Statement and Research assessment
-for artefact CD137 SAM
-What the hell?
-2. CYBERSPACE -- N/A, N/A(COMPUTER)
-#### CHESTER
-(cont)
-Magnus Institute -- Manchester.
-Private and confidential.
-Viability as subject -- none
-Viability as agent -- low
-Viability as catalyst -- Medium.
-Recommend referral to Catalytics for
-Enrichment applicability
-assessment.
-Statement follows:
-Yeah, I see you not touching them.
-Smart. But gloves aren't going to be
-any protection if your hand slips and
-they go clattering across the table.
-I'd put them in that box real careful,
-because let me tell you, those babies
-are due for some serious bad luck.
-So yeah, I tell you all about them,
-how I got them, all that crap and you
-just... You take them away, right?
-You accept them? Good. I think. I'm
-pretty sure that's how it works. It's
-how it worked for me, at least. Put
-them in whatever vault you like, bury
-them, drop them in the ocean, for all
-I care. All that matters is that they're
-yours now.
-It was Gary who roped me into all
-this. He was one of those hardcore
-nerd types, and right from when we
-were at school together he'd try to
-get me to play in his stupid games. I
-mean, Advanced Dungeons and
-Dragons was the big new thing, but I
-never saw the appeal. I tried it once
-to shut him up, but you just sat
-around saying stuff that's not real.
-Where's the game in that? And after
-school me and Gary drifted apart. No
-surprise, it happens, right?
-But then last year, Carl leaves me. It
-wasn't a huge deal. It's not like we
-were engaged or anything and we'd
-barely seen each other since he
-moved to Doncaster but it still hurt
-y'know? So when Gary contacts me
-out of the blue begging me to join
-his group I think screw it, why not?
-Gary wasn't that bad, at least, I
-thought so, and god knows I needed
-a pick-me-up. A bit of harmless fun.
-So I turn up at his apartment and I
-realize Gary has been doing
-seriously well since school. He's got
-this sweet place over in West
-Didsbury. That said, when he invites
-me in, I notice he's looking kind of
-haggard. He's wearing this obviously
-expensive long-sleeved turtleneck
-but he's got bags under his eyes, his
-trousers are torn and he's walking
-with a limp.
-I ask if he's okay and he mumbles
-something about a mugging so I
-leave it alone but I do notice that a
-bunch of the bulbs have blown and
-there's a huge leak over his massive
-sound system. I don't say anything
-though. I mean, it's not like my tiny
-rented studio was any better. That
-said, I do notice a slight stain on his
-wall that I think might be blood.
-There's no-one else there yet, just
-me and him, and I'm feeling pretty
-awkward. Then he starts talking
-about this game we're apparently
-going to be playing and I feel an
-entirely different kind of awkward
-'cause I have no idea what he's on
-about. Then he says to me that he
-assumes I don't have any dice of my
-own and I tell him no- I'll have to use
-his. That puts a smile on his face. I
-know why now of course.
-I was expecting him to give me a
-bunch of those cheap little plastic
-dice with all the different points, but
-instead he reaches into his pocket
-and pulls out a pair of normal ones.
-Six sides, off white, little black dots,
-you know what dice look like. I mean,
-you're looking at them right now. I
-ask him if we need, you know, weird
-dice and he shakes his head, saying
-this game just uses “two dee six”.
-He holds them out for me to take
-them, so I do. God, they felt heavy.
-It's been a while since I played the
-tables but I've played with enough
-bones to know they were too heavy...
-And there was something else too.
-From that point on I own those dice.
-And I know it.
-Gary doesn't bother waiting after
-that. He immediately claims he got a
-call from someone else in the group.
-They can't make it, game's
-cancelled, sorry you came all this
-way, blah blah blah. And just like
-that I'm back outside, waiting on a
-taxi to get me home.
-Do I really need to give you the
-whole lowdown on the next bit? I
-mean, you said you're specifically
-looking for, what was it,
-“supernaturally active items” right? I
-feel like when I tell you I'm giving
-you a pair of cursed dice you can
-probably put the pieces together.
-Look, long story short, I start rolling
-them and notice that they make stuff
-happen. I roll high, good things
-happen: job offers, free coffees from
-hot baristas, tax refund; I roll low,
-bad things happen: Broken tech, lost
-money, bad moods all around. And
-when I roll really low... Well, you've
-seen the scars.
-The thing is though I still don't really
-know if they ever made me roll them.
-I mean, I did. A lot. And I knew that
-the risks probably outweighed the
-rewards but I don't think I ever felt
-them like “calling” to me or anything
-y'know? It always felt like my choice.
-Even if it was a shitty choice.
-Besides, I've never gotten anything
-good in my life except by blind
-chance, so why should this be any
-different?
-After a while, though, I did notice
-that... it's not actually random. You
-get a few high rolls, your next one's
-is probably going to be low. And if
-you've gotten all the bad luck out,
-you've got good things coming. I
-know, I know, that's meant to be
-'superstition, but I'm telling you, I
-kept track and I've got enough maths
-in me to be sure of the odds. They're
-not random, it all balances out
-eventually. So that's when I get to
-thinking, what if the person rolling
-doesn't matter just as long as the
-rolls balance out overall... Well, you
-see where I'm going with this.
-The weirdest thing, nobody ever said
-no. Some stranger approaches you
-slides a pair of dice over to you and
-tells you to roll them, you say no,
-right? But they always did. Sure,
-they'd give me weird looks, tell me to
-get lost, treat me like the creep I
-absolutely was, but they still rolled
-them. And sure, I know better than
-most everyone loves rolling dice but
-it does make me wonder how much
-control I ever really had...
-I did spread good luck as well as
-bad. After all, even when you
-stacked the odds, plenty of people
-got high numbers and then a letter
-arrives right there and then with
-welcome news. I hated them for it
-though. Those stupid damn grins as
-they robbed me of my good luck.
-But when they rolled low, when you
-could see the misfortune dropping
-over them like a shadow, or better
-yet when they rolled real low and you
-could be certain that the next throw
-would be a good one. There was a
-dark joy to that, I'll admit.
-And my system worked. It wasn't
-perfect, I'd still get a few dud rolls
-here and there: a broken down car, a
-missed payment, once I even went
-through a plate glass window, but for
-the most part I'd really turned stuff
-around for myself, offloading all the
-crap to someone else for a change.
-Clearly something that idiot Gary
-had never even thought to try.
-And then it started to change and the
-luck was... different. Not in whether
-it was good or bad, but how it was
-good or bad. At first, it had all been
-pretty normal stuff, sometimes even
-predictable but gradually it started
-becoming more... I don't know,
-abstract? Like it used to be getting
-an extra hashbrown or whatever and
-then it became just being in a good
-mood and then finally you couldn't
-even pin down what had happened
-you just knew something had. And
-as my luck kept getting better and
-better I started to feel less and less...
-connected to the world. Like I was a
-lucky ghost, or something, walking
-with normal but not really one of
-them anymore. I was just this figure
-stepping into their lives long enough
-to gift them fortune or, more often,
-misery before moving on.
-I started to enjoy that more than the
-luck. I was rolling for myself less and
-less, focusing more on being some
-mysterious stranger. I even began
-dressing for the part: I got hold of
-this long dark coat, a wide-brimmed
-hat, grew a proper goatee, the works.
-This was up until about a week ago.
-That's when I see Gary, sat in a
-coffee shop just down the road from
-the fancy uptown flat I was living in
-(thank you double-six). And he looks
-normal. Not happy, exactly, but
-certainly not the miserable shell he'd
-been when I saw him last. And a
-vicious little idea comes to me. So, I
-walk up to him and say hello.
-You should have seen his face. Guilt
-at first sure but then it slides into
-confusion when he sees the outfit.
-He starts to stammer out some halfbaked apology when I hold up my
-hand to stop him. I put on “the
-voice” and tell my old friend thank
-you so much for the gift and that I
-want to pay him back. He knows
-what's coming then even before I
-take them out and place them on the
-table between us.
-He doesn't want to roll them. He
-wants to be anywhere that isn't sat
-across from me in that grotty little
-cafe but he picks them up anyway,
-and grimly throws them.
-I'd never seen snake eyes come up
-before. Never in all the thousands of
-times I'd seen them rolled, clattering
-across someone's future. Maybe
-they'd been saving themselves for a
-special occasion, an honor for an
-unworthy keeper. Or maybe Gary
-was just really, really unlucky. Either
-way, there's this moment of silence
-as we both stare at the table and the
-dice stare back.
-When the truck barrels through the
-wall, it isn't the grill that hits Gary
-first. It's the bricks that are crushed
-in front of it. Half of one slams into
-his jaw, ripping it from the top of his
-face and spraying me with a clatter
-of dislodged teeth. Another hits the
-side of his head, collapsing his eye
-socket and opening his skull, like an
-overripe grape. Maybe that's what
-kills him. I hope so. Because I don't
-want to think about what it must
-have felt like as the wheels of the
-massive vehicle roll over him and
-ground his body into the lino.
-Apparently the driver was asleep at
-the wheel. The building is wrecked
-but somehow nobody else was hurt
-except for Gary. Just unlucky, I
-guess.
-I stagger out of there before the
-police and ambulance arrive and I
-throw up. I don't know what I
-expected to happen, what
-satisfaction I thought I might get
-from seeing Gary get screwed over
-by the dice, but that... it's too much
-and I know I can't keep them.
-And that brings us about up to date.
-They're yours now, and I never want
-to see them again. Don't get me
-wrong, it's a blow but I'm just not the
-right guy to carry them. Besides I've
-seen how they treat people who give
-them away.
-It's a damn shame, though.
-Well, maybe just once more. For old
-time's sake.
-##### [Transcription ends due to
-interruption. Statement giver
-declared dead by paramedics atscene.]
-3. INT. MANAGER'S OFFICE -- NIGHT, CLEAR (LANDLINE)
-GWEN knocks at the door.
-#### LENA
-Come in Gwen.
-GWEN enters.
-#### LENA
-Sit.
-Beat. Gwen sits.
-#### LENA
+Look, you can be creeped out or
+sarcastic but not both.
+#### ALICE
+Watch me.
+SAM moves closer and the wooden floor creaks ominously.
+#### ALICE
 (cont.)
-I have your first assignment for you.
-LENA passes an envelope across the desk.
-#### LENA
-You are to visit a man by the name of
-“Nigel Dickerson” and hand him this
-envelope which contains a name and
-address. Take note of anything he
-says or does in response, especially
-his stress levels and emotional state,
-as well of those of any companions.
-Beat.
-#### GWEN
-I'm sorry, I'm confused.
-#### LENA
-Was there something unclear about
-my instructions?
-#### GWEN
-Nigel Dickerson. As in the Nigel
-Dickerson? From tv?
-#### LENA
-Possibly. I don't watch television.
-#### GWEN
-You must know him. He was huge in
-the 90s. Saturdays on Six? Mr
-Bonzo? The Prank Tank?
-#### LENA
-That seems feasible, given what I
-know of the man.
-#### GWEN
-And why not just email him?
-#### LENA
-Because I have found over the years
-that anything less than the personal
-touch in these situations often leads
-to... misunderstandings. Besides, I
-thought it might be informative for
-our new Externals Liaison.
-#### GWEN
-Is all this... theatricality really
-necessary?
-#### LENA
-I can assure you it is. Consider it an
-audition if you like. And try to keep
-calm while you're there.
-Gwen sighs heavily.
-#### GWEN
-(Sarcastic)
-I'll try not to get too starstruck.
-#### LENA
-Very good.
-#### 4. INT. THE PUB -- EARLY MORNING, CLEAR (ALICE'S
-PHONE)
-TEDDY sits and hands a drink to ALICE.
-#### ALICE
-Cheers me dears.
-#### TEDDY
-Cheers.
-#### ALICE
-So, what are you doing here
-Teddybear?
-#### TEDDY
-I mean, I can go if you like.
-#### ALICE
-Sure. Just leave your wallet, yeah?
-#### TEDDY
-Ah, in the market for an unpaid
-overdraft, are we?
-#### ALICE
-Seriously though, I'm surprised you
-can make it on a weekday morning.
-#### TEDDY
-Yeah well, let's just say I'm currently
-free as a bird from nine to five.
-#### ALICE
-Ah shit Teddy, what happened?
-#### TEDDY
-Redundant. They actually started
-plans to downsize the day before my
-interview and it turned out their
-hiring department didn't get the
-memo. Last in, first out. You know
-how it goes.
-#### ALICE
-Bastards! You deserve better than
-that.
-#### TEDDY
-(shrugging)
-Yeah well, since when does anyone
-get what they deserve eh?
-#### ALICE
-French Revolution? There were
-some pretty just deserts there?
-#### TEDDY
-Yeah yeah.
-(he drinks)
-So, how's things back in the crypt?
-#### ALICE
-(hesitant)
-I mean, uh... Lena's just hired a
-couple of...
-#### TEDDY
-You hear me asking for a job? I only
-just got out, I'm staying well-shot of
-that creepshow.
-#### ALICE
-(relieved)
-Fair enough!
-(she drinks)
-It's all right. You met Sam obviously
-and then we had Celia join on top of
-that so we're all staffed up for a
-change which is... nice.
-#### TEDDY
-Nice?
-#### ALICE
-Yeah?
-#### TEDDY
-Alice, I've known you what? Four
-years? I don't think I've ever heard
-you describe something as “nice”.
-“Wicked” maybe, “sick nasty” sure,
-you even unironically used “tubular”
-a few times but “nice”? Never.
-#### ALICE
-(unconvincingly)
-Ok, first, I was being super ironic,
-and second it is “nice”. We're more
-or less on top of the case-load and
-Sam and Celia get along greatTEDDY
-Ah. There it is.
-#### ALICE
-What?
-#### TEDDY
-What?
-ALICE is unimpressed.
-#### TEDDY
-(cont.)
-I'm just saying I could understand it
-if the office felt crowded.
-#### ALICE
-(sarcastic)
-Oh you know me, I just love to turn
-work into a minefield of
-interpersonal tension.
-#### TEDDY
-You guys were together for years.
-It's understandable.
-#### ALICE
-You know, people drown in the
-Thames all the time, Teddy. I've seen
-the statistics. It would look so much
-like an accident.
-TEDDY gets a text.
-#### TEDDY
-Oh hold that death threat. Looks like
-I've actually got an interview nearby
-so...
-SAM enters and starts walking over.
-#### ALICE
-Say no more, you head off and I'll sit
-here working on my weepy alibi. “I'm
-sorry officer, it all happened so
-quickly. One moment teddy was
-stood over the water, talking
-nonsense aboutTEDDY
-Sam! Hey!
-SAM arrives just as Alice chokes a little.
+Careful...
 #### SAM
-(to Alice)
-Hey! You okay?
-#### ALICE
-Fine. Thanks.
+(turning)
+Oh thank goodness you said that
+otherwise I would've jumped up and
+down the dangerousThe floor breaks.
 #### SAM
-Teddy right? Mind if I join you?
-#### TEDDY
-Afraid I'm actually just heading off
-soSAM
-Hey no worriesTEDDY
-I'll have to leave you in Alice's tender
-care.
-(leaving)
-Help yourself to my pint, if you like -- I
-barely touched it!
+(falling)
+Oh shi-!
+ALICE catches him and pulls him back but not before he drops
+his key with a distant splash. SAM gasps in relief.
 #### SAM
-Oh, uh... Cheers!
-Teddy exits. SAM picks up the pint.
+I dropped the key!
 #### ALICE
-I wouldn't. Teddy's rife with diseases
-of the mind.
+What was that? Because it sounded
+a lot like, “I'm sorry Alice you were
+right. We should head back now
+before I get myself killed falling into
+a soggy pit. Gosh you're sexy, here's
+a twenty for your trouble.”
 #### SAM
-I think I'll risk it.
-SAM sips happily.
-Beat.
-#### SAM CONT.
-So. You and Teddy.
+We can't! This is the first clue we've
+found!
 #### ALICE
-Me and Teddy what?
+Clue? What clue!? It's a hole Sam.
+It's a dark and manky hole in a dark
+and manky office in a dark and
+manky building riddled with bugs
+and god knows what else. I'm sorry
+but enough. This isn't some grand
+clue to your childhood. It's a hole.
+Time to go Sam.
+Beat. Sam lets out a long, defeated breath.
+#### ALICE
+(cont'd)
+I am sorry. I know you got your
+hopes up.
 #### SAM
-How long have you two...
+No, you're right. I don't know what
+I'm looking for. I have... I have
+memories of weird stuff I saw here,
+but no context. I want to know what
+was happening, why they chose us...
+why they didn't choose me. Maybe
+find the bit where everything started
+to go wrong. But... it's too late. And
+now... I'm the only one left who
+cares.
 #### ALICE
-What?
+I care.
 Beat.
 #### ALICE
-(cont. realizing)
-Oh my god! What is it with people
-today? Teddy? No! Nooooo.
-#### SAM
-Harsh.
-#### ALICE
-Don't get me wrong Teddy's a good
-lad but he's not...
-#### SAM
-(joking, oblivious)
-Lurking in the woods, eluding
-hunters and appearing only in
-occasional blurry photos?
-#### ALICE
-Look, mate, Bigfoot's a good lay, but
-he's got some real abandonment
-issues. But yeah, Teddy was in the
-area for a work thing, that's all.
-Anyway, why are you here? You only
-usually swing by at the end of the
-week.
-#### SAM
-I was actually hoping to talk to you.
-#### ALICE
-You talk to me all night at work.
-#### SAM
-(leaning in)
-Well, I wanted to ask you something.
-#### ALICE
-Oh yeah?
-#### SAM
-(quietly)
-Something private.
-#### ALICE
-(leaning in despite herself)
-Yeah?
+Not a lot mind, don't flatter yourself.
+But the truth is, closure's for movies,
+mate. All we get is manky holes.
 Beat.
 #### SAM
-I want you to come to some ruins
-with me.
-Beat.
+You know there's a cream for that.
 #### ALICE
-Come again?
+(warmly)
+There's my baby shrimp.
 #### SAM
-(leaning back)
-Listen, I know that you said I
-shouldn't pay too much attention to
-the cases and that, but I genuinely
-think there might have been
-something really weird going on at
-the Magnus Institute and then there
-was this new case that came up andALICE
-Hang on, hang on, you already
-managed to talk Celia into all this
-guff. Why not take her on your little
-Scooby Doo adventure?
-#### SAM
-I mean, I do like CeliaALICE
-But?
-#### SAM
-But... I'm not sure we're quite at the
-“going-to-Manchester-to-digthrough-a-burned-down-building”
-stage.
+(sighing)
+Come on, let's get out of here before
+we fall into what I'm starting to think
+might be a cesspit.
 #### ALICE
-Right. And we are?
+Oh I thought that was you! I figured
+you'd messed yourself when you fell.
 #### SAM
-(sheepish)
-Well, we used to be.
-Beat.
-Alice sighs then takes a deep gulp from her pint.
+Charming.
+They start walking away from the tape recorder.
 #### ALICE
-When do we leave?
+I calls it as I smells it. Now, as fun as
+it is being moments away from
+getting our own creepy case, I could
+really do with a drink. You think that
+pub we passed is still open?
+#### SAM
+It's Manchester, so yeah, probably.
+Whether they'll serve us when we
+smell like a dead fox is another
+matter...
+The voices finally disappear, lost to the distance and the rain.
+There is a long silence as the tape keeps running. The water is
+gently disturbed below. Then there is a thud on the hidden
+wooden trapdoor and the rattle of a padlock.
+There is the distinct sound of a key being dragged across wood
+then being blindly fumbled in a lock which finally clicks.
+The trap door opens, the lock falling away and [ERROR]
+emerges and takes a shuddering breath..
+Click.
 ##### [Music]
 #### ANNOUNCER
 The Magnus Protocol is a podcast
@@ -748,18 +885,18 @@ The series is created by Jonathan
 Sims and Alexander J Newall, and
 directed by Alexander J Newall.
 This episode was written by
-Jonathan Sims and Alexander J
-Newall, with vocal edits by by Nico
-Vettese, soundscaping by Meg
-McKellar, and masting by Catherine
+Jonathan Sims and edited with
+additional material by Alexander J
+Newall, with vocal edits by Lowri
+Ann Davies, soundscaping by Tessa
+Vroom, and masting by Catherine
 Rinella with music by Sam Jones.
 It featured Billie Hindle as Alice Dyer,
 Shahan Hamza as Samama Khalid,
 Anusia Battersby as Gwen
-Bouchard, Kazeem Tosin Amore as
-Teddy Vaughan Sarah Lambie as
-Lena Kelley, with additional voices
-from Jonathan Sims.
+Bouchard, Ryan Hopevere-Anderson
+as Colin Becher, Lowri Ann Davies
+as Celia Ripley.
 The Magnus Protocol is produced by
 April Sumner, with executive
 producers Alexander J Newall, Dani
@@ -775,21 +912,25 @@ online, tweet us @therustyquill, visit
 us on facebook or email us at
 mail@rustyquill.com
 Thanks for listening.
-The Magnus Protocol 9 -- Rolling With It
-#### CAT3RB3354-14101998-08032024
-Dice (bone) --/- fate [Magnus Statement]
+The Magnus Protocol 10 --Saturday Night
+A reminder that the Magnus Protocol will go on a short hiatus
+until 11 April 2024 (9 April 2024 for early access Patreons and
+Kickstarter Backers)
+#### CAT1RB2275-06082021-09032024
+Mascot (kids) --/- murder [TV interview]
 Incident Elements:
- Addiction (Gambling)
- Vehicle Accident
- Graphic Violence
- Mentions of -- superstition
+ Psychological torment
+ Clowns
+ SFX -- creepy music (yes, seriously), distorted voices
+ Mentions of -- murder, serial killers
 Transcripts: https://shorturl.at/gzF15
-This Episode is dedicated to Sofia Eickstedt, thank you for your
+This Episode is dedicated to Talia Lindner, thank you for your
 generous support! You can a complete list of our Kickstarter
 backers https://rustyquill.com/the-magnus-protocol-supporterwall/
 Created by Jonathan Sims and Alexander J Newall
 Directed by Alexander J Newall
-Written by Jonathan Sims and Alexander J Newall
+Written by Jonathan Sims
+Script Edited with additional material by Alexander J Newall
 Executive Producers April Sumner, Alexander J Newall,
 Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G.
 Hamilton
@@ -797,15 +938,17 @@ Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole
 Perlman, Cetius d'Raven, and Megan Nice
 Produced by April Sumner
 Featuring (in order of appearance)
-Shahan Hamza as Samama Khalid
+Catherine Luff as Geraldine Hardy
+Steve Newman as Nigel Dickerson
 Lowri Ann Davies as Celia Ripley
-Jonathan Sims as Chester
-Sarah Lambie as Lena Kelley
-Anusia Battersby as Gwendolyn Bouchard
+Ryan Hopevere-Anderson as Colin Becher
+Shahan Hamza as Samama Khalid
 Billie Hindle as Alice Dyer
-Kazeem Tosin Amore as Teddy Vaughan
-Dialogue Editor -- Nico Vettese
-Sound Designer -- Meg McKellar
+Anusia Battersby as Gwendolyn Bouchard
+Uncredited as Mr. Bonzo
+Introducing Beth Eyre as [Error]
+Dialogue Editor -- Lowri Ann Davies
+Sound Designer -- Tessa Vroom
 Mastering Editor -- Catherine Rinella
 Music by Sam Jones (orchestral mix by Jake Jackson)
 Art by April Sumner
