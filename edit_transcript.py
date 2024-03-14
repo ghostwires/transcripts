@@ -15,6 +15,7 @@ for line in text:
     # if line[:4] == 'Page' and line[-5:] == 'of 19':
     #     continue
     line = line.replace('’', '\'')
+    line = line.replace('', '') #gets rid of invisible unicode character (000c)
     line = line.replace('‘', '\'')
     line = line.replace('–', '-')
     line = line.replace('—', '-')
