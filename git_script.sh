@@ -1,4 +1,4 @@
-#!/bin/zsh
+w#!/bin/zsh
 
 REPO_PATH="/Users/home/projects/transcripts"
 git -C "$REPO_PATH" add -A
