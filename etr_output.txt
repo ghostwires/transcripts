@@ -1,2317 +1,585 @@
-Inexplicables -- E03 -- Public Speaking 
+©Rusty Quill 2023 The Magnus Protocol Episode 11 "Marked" Written by Jonathan Sims Edited by Alexander J Newall 
 
-#### INEXPLICABLES
+#### 02-08-2023
 
-By Tom Critch and Alexander J Newall Episode 3 -- Public Speaking Content Warnings:  Strong language  Addiction & recovery  Alcohol & alcoholism  Arguments (inc shouting)  Manipulation  Social anxiety & panic attacks  Vicarious embarrassment  Victim blaming & dehumanisation  Sexual references  Discussions of: discrimination, substance abuse, poverty & homelessness, romantic rejection  Mentions of: vehicular accident, dementia, police & arrests, food, injury, parental death & funerals, violence  SFX: ringing, crying 
+Draft 1.1 
 
-#### ICS, TOILETS -- MORNING
+#### ANNOUNCER
 
-HAROLD (MUFFLED) (Distressed) Monsters! They're all monsters! 
+This episode is dedicated to Stuart Pollock -- I humbly dedicate this episode to the talented folks at Rusty Quill, and to supporters of good art and content everywhere. 
 
-##### [SHUHELA SOFTLY SHUSHES, TRYING TO CALM HIM DOWN]
+##### [Intro Theme]
 
 
 
-#### SHUHELA
+#### ANNOUNCER
 
-It's alright... HAROLD (MUFFLED) I just- And then- then with the teeth... Ah, the teeth! 
+Rusty Quill Presents: The Magnus Protocol. Episode Eleven -- Marked 
 
-##### [HAROLD WHIMPERS/SOBS]
+##### [Music]
 
 
 
-#### SHUHELA
+#### 1. EXT. THE SIDE OF A MOTORWAY -- AFTERNOON, DRIZZLY
 
-I, I know love, I know. It's a lot to process. 
+(CELIA'S PHONE) A busy motorway nearby. CELIA is asleep on grass. She starts to make slightly distressed noises as she stirs. A lorry roars past nearby and she awakes with a start. 
 
-##### [DOOR OPENS/CLOSES; FOOTSTEPS]
+#### CELIA
 
+Hhng! She looks around, momentarily disorientated. Then realization sinks in and she lets out a noise of frustration. 
 
+#### CELIA
 
-#### FRANK
+Christ, not again. She starts to slowly, painfully get to her feet. 
 
-Shuhela? What's- HAROLD (MUFFLED) Mum dying is a lot to process. People trying to rip me off, that's a lot to process. But this? This is- 
+#### CELIA
 
-#### SHUHELA
+(to herself) Wonderful. Perfect. A thought strikes her suddenly and she starts patting down her pajamas, letting out a small cry of triumph as she pulls out the phone. 
 
-I-I-It's okay, Frank. We're just having a little bit of a wobble, aren't we Harold? 
+#### CELIA
 
-##### [KNOCKING ON CUBICLE DOOR]
+(to herself) Yes! Ok, phone in the pocket works. She starts tapping the screen. 
 
+#### CELIA
 
+(to herself) If it had signal. She sighs in helpless frustration. 
 
-##### [HAROLD WHIMPERS]
+#### CELIA
 
+Shit. She stretches and starts trudging off towards the motorway. 
 
+#### CELIA
 
-#### FRANK
+Hold on, Jack, I'm on my way. 2. INT. OIAR OFFICES -- NIGHT, DRIZZLY (COMPUTER) SAM is tapping morosely away at his terminal. He stops, lets out a sigh of low-key misery, then resumes tapping. ALICE enters, carrying coffees and a bag of pastries. 
 
-He's locked himself in the bogs? 
+#### ALICE
 
-#### SHUHELA
+Good morning, brackets night! How're we hanging? 
 
-Yeah... 
+#### SAM
 
-#### FRANK
+(not great) Great. 
 
-Why? 
+#### ALICE
 
-#### SHUHELA
+Well, luckily your best friend in this or any other world, the one and only Alice Dyer, has bought you a fancy coffee and a discount pasty. 
 
-It's my fault. He's been so interested in everything, I thought it might be good if he met Len and some of the others before their session. 
+#### SAM
 
-#### FRANK
+(struggling to play along) Not the Alice Dyer? From such hits as "well at least it wasn't both legs" and "who needs grandparents anyway?" 
 
-(Wearily) Ah... Shuhela... 
+#### ALICE
 
-#### SHUHELA
+The very same. Here. Oat milk latte with hazelnut syrup -- god's final curse on a fallen world. 
 
-He said he was ready! 
+#### SAM
 
-#### FRANK
+I'm telling you it's nice. 
 
-Ah, and you believed him? 
+#### ALICE
 
-#### SHUHELA
+It's chemical warfare waged upon the tongues of the foolish. Besides, I'm sweet enough already. Sam grudgingly chuckles. 
 
-(to Harold) Just open the door, eh, love? Open the door and we can sit down, and have a nice cuppa, and talk it out, yeah? HAROLD (MUFFLED) No! I'm never coming out! 
+#### SAM
 
-#### FRANK
+Clearly. 
 
-What happened? 
+#### ALICE
 
-#### SHUHELA
+And for a pastry you got a choice of cinnamon swirl or pain au chocolat. Fair warning, they're both a bit stale so there's not much in it. 
 
-Well... 
+#### SAM
 
-##### [FLASHBACK TRANSITION]
+You don't need to do this, you know. I'm fine. 
 
+#### ALICE
 
+Oh really? Fantastic! You just spit that coffee back out then and I can go get a refund. Beat 
 
-#### ICS, MEETING ROOM -- EARLIER
+#### ALICE
 
+(cont.) I do get it. Facing your past is tough. Finding out there isn't any past left to actually face... that's even tougher. 
 
-
-#### SHUHELA
-
-So, before you all get started, I just wanted to introduce everyone to... Harold. VAMPIRES (UNISON) (Disinterestedly) Hi, Harold. 
-
-#### HAROLD
-
-Hello. 
-
-#### SHUHELA
-
-And so we thought it might be a good idea for him to start meeting some more of the gang. Maybe sit in on the, uh, start of today's open, if everyone is okay with that? 
-
-##### [THE VAMPIRES MURMUR NONCOMITTALLY BUT BROADLY AMENABLE]
-
-
-
-#### HAROLD
-
-Great. 
-
-##### [CHAIRS SCRAPE]
-
-
-
-#### SHUHELA
-
-Ooh, thanks everyone. I'll just stick around for a bit and make sure everyone's settled in. 
-
-#### HAROLD
-
-You'll hardly know I'm here. 
-
-#### SHUHELA
-
-Great, so- 
-
-#### HAROLD
-
-(Joking) Because I'm a ghost. 
-
-#### ...
-
-What? 
-
-#### SHUHELA
-
-So, Len, why don't you take it from here? (Aside, to Harold) Len is the vampire support group rep. They've been talking about issues around anonymity, really deep stuff. 
-
-#### HAROLD
-
-Of course they have. 
-
-#### LEN
-
-Right then. First, I'd like to welcome everyone to today's session. It's, uh, it's good to see some new faces, vamps, friends and family and that and, uh... Harold obviously. Well, anyway, who'd like to start? 
-
-#### ...
-
-Cheers Suzy. 
-
-#### SUZY
-
-Hey. Yeah, so, um, I don't want to speak for everyone. We've all got our own personal journeys and that, but I'm just... tired of people not even acknowledging that I'm there. Like, I know this only works if we all keep a low profile, loved ones too, anonymous solidarity and all that. But these days, lying low feels like way more than just staying out of trouble. I might as well be literally invisible, you know? 
-
-##### [MURMURED ASSENT FROM THE VAMPIRES]
-
-
-
-#### HAROLD
-
-Hmm. Yeah, yeah, like with chuggers. 
-
-#### LEN
-
-What's that, Harold? 
-
-#### HAROLD
-
-Chuggers. You know, 'charity muggers?' Those hippies that stand on corners and get all up in your grill about sea turtles or other stuff. It's a total scam. I mean they're all on commission, you know. Whenever I see one coming I just cross the road, fake a phone call or something. 
-
-#### SUZY
-
-(Bemused) Yeah... Right, um... 
-
-#### SHUHELA
-
-Uh, th-thank you for that Harold, but, um, let's try not to interrupt in the future, alright love? 
-
-#### HAROLD
-
-If you say so. 
-
-#### LEN
-
-You were saying, Suzy? 
-
-#### SUZY
-
-Er, no. No, it's fine. I was basically finished anyway. 
-
-#### LEN
-
-If you're sure. 
-
-##### [PAPER RUSTLING]
-
-So, Robbie, you mentioned something interesting last time that I thought we could return to. All about accepting differences before we can manage them. Do you want to speak on that a bit more? 
-
-#### ROBBIE
-
-I mean, yeah, basically, it's just, like, we don't just have to stay dry, we have to fake being normal, and look all 'together' on top, y'know? And it's like, you've got to cut yourself some slack cos it's hard enough without beating yourself up about always being perfect, y'know? 
-
-##### [MORE MURMURED ASSENT]
-
-I don't know... it's like, I'm already using all my energy not to just fall back and get fucking wasted, never mind all the extra stuff. 
-
-#### HAROLD
-
-Mmm, yeah. I totally know where you're coming from. 
-
-#### LEN
-
-Harold, I realise that you're trying to be helpful and relate, but I really think you might want to just listen for this session, alright? 
-
-#### SHUHELA
-
-Yes, Harold love, let's not- 
-
-#### HAROLD
-
-No, no, no, honestly, I-I've been there. Okay. We all have had those days where you just want to cut loose, and you get carried away, and the next day you remember everything you did, and you're like, 'Gargh!' Oh, and the hangovers, am I right? 
-
-#### ROBBIE
-
-Is this a joke to you mate? 
-
-#### LEN
-
-Okay. Why don't we all just take a moment and- 
-
-#### ROBBIE
-
-I was nicking offcuts from the butchers just to get by, and you sit there pretending like you have any idea- 
-
-#### HAROLD
-
-No, no, hey, I-I'm just saying that, that a bit of willpower and you can just overcome- 
-
-##### [ROBBIE HISSES, LEAPING FOR HAROLD, KNOCKING CHAIRS OVER]
-
-
-
-##### [SUZY INTERCEPTS AND STRUGGLES WITH ROBBIE]
-
-
-
-#### SUZY
-
-It's alright, Robbie! 
-
-#### SHUHELA
-
-Okay, Harold, time to go! 
-
-#### SUZY
-
-Leave him! 
-
-#### HAROLD
-
-What's wrong with his eyes? Oh god! His teeth! 
-
-##### [ROBBIE CONTINUES TO SNARL WHILE STRUGGLING AGAINST RESTRAINT]
-
-
-
-#### LEN
-
-(Calmingly) Come on, Robbie, you've been making proper progress. Don't let some stupid arsehole ruin it, alright? Just focus on the breathing, yeah? In... 
-
-#### SUZY
-
-(Struggling) He's just ignorant! It, it isn't worth it! 
-
-#### LEN
-
-... and out... 
-
-#### ROBBIE
-
-(Panting) He needs... to learn... 
-
-#### SUZY
-
-That's right! You're bang on, look, he does, yes- 
-
-#### LEN
-
-... and in... 
-
-#### SUZY
-
-Yeah. But this isn't how we show them they're wrong, is it, Robbie? Come on. Come on now, you've got this. 
-
-#### LEN
-
-... and out... 
-
-##### [ROBBIE'S BREATHING EVENS OUT, WITH A SNARL HE RESUMES HIS SEAT]
-
-
-
-#### SHUHELA
-
-Okay, right, well, thank you Len. Good job everyone! Woo. I'll just, uh, I'll help Harold up and take him for some fresh air. You all carry on... 
-
-##### [FLASH FORWARD TO]
-
-
-
-#### ICS, TOILETS -- MORNING
-
-
-
-#### FRANK
-
-What were you expecting? 
-
-#### SHUHELA
-
-I had no idea he thought we were messing with him! 
-
-#### FRANK
-
-He hasn't believed any of it. He thought we were scammers. 
-
-#### SHUHELA
-
-(Indignant) Who? Me and you? And Cressida? 
-
-#### FRANK
-
-Mmmhmm. 
-
-#### SHUHELA
-
-(Realising) Nooooo... But- but how? I mean, he's seen all the- Oh dear, I didn't realise... Oh, okay... 
-
-#### FRANK
-
-(Calling) Harold! It's Frank. HAROLD (MUFFLED) You stay out! 
-
-#### FRANK
-
-Harold, you can't just hide in the bog all day. HAROLD (MUFFLED) Yes I can! 
-
-#### FRANK
-
-Fine! You stay here. Enjoy the smell. 
-
-#### SHUHELA
-
-We can't just leave him! 
-
-#### FRANK
-
-(Exaggeratedly) You heard him, we should just leave him here. 
-
-#### SHUHELA
-
-Frank! 
-
-#### FRANK
-
-(Exaggeratedly) Completely alone. 
-
-##### [CUBICLE UNLOCKS, FOOTSTEPS]
-
-
-
-#### SHUHELA
-
-(Gently) Ohhh, hello, love. 
-
-#### HAROLD
-
-(Shaken) He tried to bite me. 
-
-#### SHUHELA
-
-But he didn't. Did he? 
-
-#### FRANK
-
-You got him riled up. It's just his natural response to a threat. 
-
-#### HAROLD
-
-"Natural"?! There was nothing "natural" about him! 
-
-#### FRANK
-
-If you'd taken him seriously to begin with, he wouldn't have come at you like that. He's pretty young, and you pushed his buttons. 
-
-#### HAROLD
-
-Oh, so it's my fault he nearly tore my throat out, is it? 
-
-#### FRANK
-
-Pretty much. 
-
-#### SHUHELA
-
-No, love, if it's anyone's fault, it's mine. I should have explained all this to you before we went in there. 
-
-#### HAROLD
-
-You can't let a thing like that walk the streets! It'll kill someone! 
-
-#### SHUHELA
-
-(Stern) They're not "things" Harold! They're still people, just like you. They just have a condition. 
-
-#### HAROLD
-
-They're not the same as us! Shuhela, they're not the same at all! 
-
-#### FRANK
-
-No, you're right. Because at least we get to live in a world that accepts we even exist. 
-
-#### SHUHELA
-
-Our job is to help them keep their lives together. That's what your Mum spent her whole life trying to do! 
-
-##### [DOOR OPENS/CLOSES]
-
-
-
-#### SUZY
-
-(Cautiously) How are we doing in here? Ooohh, that is a smell. 
-
-##### [HAROLD SHRIEKS AND SHUTS HIMSELF IN CUBICLE AGAIN]
-
-Oh. I see. 
-
-#### SHUHELA
-
-Ah, he-he'll be alright. 
-
-##### [FRANK SNORTS]
-
-
-
-#### SUZY
-
-Sure. May I? 
-
-##### [FOOTSTEPS AND GENTLE DOOR KNOCKING]
-
-(calling) Harold? Harold, its Suzy. 
-
-##### [HAROLD WHIMPERS]
-
-Robbie asked me to come in and apologise for him since you probably don't want to see him right now. He shouldn't have reacted like that, okay? He was out of order, and, and he's sorry. He's working on it. 
-
-#### ...
-
-Anyway, I just wanted to check in and let you know. If you ever have any questions about this... stuff or whatever, I'm around. HAROLD (MUFFLED) (Meekly) Yeah. 
-
-##### [HAROLD COUGHS, THEN IN DEEPER VOICE]
-
-Yeah, okay. 
-
-#### SUZY
-
-(Surprised) Uh. Oh. Uh... alright, good. Well... I'll leave you to it then. Look after yourself, Harold. 
-
-##### [FOOTSTEPS BACKING OFF]
-
-
-
-#### SHUHELA
-
-You were an absolute star out there, my love. You should be proud. 
-
-#### FRANK
-
-Well done. 
-
-#### SUZY
-
-(Awkward at praise) I, uh, right, yes. Uh, anyway, I'll, I'll come round later if it's still okay for me to borrow that charger? 
-
-#### SHUHELA
-
-Of course, love. You know where to find me. 
-
-##### [DOOR OPENS/CLOSES]
-
-
-
-#### SHUHELA
-
-(Calling) She's gone now, love. 
-
-##### [HAROLD EMERGES]
-
-
-
-#### HAROLD
-
-(Shaky) I just. I thought all this was, y'know, like a scam and, and- 
-
-#### FRANK
-
-No, it's not. 
-
-#### HAROLD
-
-No. 
-
-#### SHUHELA
-
-No. 
-
-##### [DOOR OPENS/CLOSES]
-
-
-
-#### CRESSIDA
-
-Here you all are. What on earth are you doing huddling in here? I- Goodness Harold, are you alright? 
-
-#### HAROLD
-
-Yeah. Uh... I'm fine. Everything is fine. 
-
-#### SHUHELA
-
-Just a bit of a wobble, nothing to worry about. 
-
-#### CRESSIDA
-
-A... "wobble"? 
-
-#### HAROLD
-
-I do not "wobble"! I'm fine! Can we just... move on, please? 
-
-#### CRESSIDA
-
-Certainly. I have news: we've finally got a date for the acquisition meeting. The council contacted me this morning. They wanted to see us this Friday, 10am sharp. 
-
-#### SHUHELA
-
-Ooh, fantastic! 
-
-#### HAROLD
-
-Acquisition of what? 
-
-#### CRESSIDA
-
-We are going to make a pitch for why we should officially acquire St Mark's Church. Friday at 10am, we tell the council why we are better suited to owning St Mark's and its grounds than anyone else. As you can clearly see, and, uh, 
-
-##### [SNIFFS] smell... this building is not exactly in the best repair, and we are
-
-running out of room for all the... services we provide. So, a change of location is needed. 
-
-#### SHUHELA
-
-So what about Iris's speech? She wrote pages and pages about the whole shebang. 
-
-#### CRESSIDA
-
-Well, I had thought Harold might want to do that. 
-
-#### HAROLD
-
-Me? 
-
-#### FRANK
-
-Him? 
-
-#### CRESSIDA
-
-Yes. This could be Harold's chance to begin representing ICS as its new co-CEO, to tell the people in power that we're the only ones with a practical solution to the inexplicables left on the streets, and that we need a larger premises to enact it. What do you think? 
-
-#### HAROLD
-
-Oh. Well, uh, naturally, I'm flattered, but... I'm not sure I'm the one to- I know nothing about the project, I don't even know what- 
-
-#### SHUHELA
-
-We can talk you through it! We've got four whole days and all of Iris's notes. It'll be a fantastic chance for you to build some bridges! 
-
-#### HAROLD
-
-Oh, I don't know... 
-
-#### FRANK
-
-It'll keep you safe in the office for a while. 
-
-#### HAROLD
-
-Oh. Well. I mean, I'll do it if it needs to be done but- 
-
-#### CRESSIDA
-
-Excellent. 
-
-#### SHUHELA
-
-Oh, I'm sure you'll be brilliant, love. 
-
-#### FRANK
-
-Mmmm. 
-
-#### IRIS' HOUSE -- MORNING
-
-
-
-##### [CLOCK TICKING, THEN STARTS CHIMING]
-
-
-
-#### MEREDITH
-
-Oh, for fuck's sake. 
-
-##### [MEREDITH SIGHS, PULLS OUT PHONE AND DIALS; RINGTONE THEN...]
-
-GODBOLT (TELEPHONE) Hello? 
-
-#### MEREDITH
-
-Hello handsome! Have you had an accident in the last three months because of some dipshit back seat driver? GODBOLT (TELEPHONE) Who is this? 
-
-#### MEREDITH
-
-Oh shit, uh... Sorry, wrong number. GODBOLT (TELEPHONE) Meredith? 
-
-#### MEREDITH
-
-Wait. Godbolt? GODBOLT (TELEPHONE) Oh, hey! I didn't realise. Uh, how did you get my number? DENISE (TELEPHONE, DISTANT) He just needs a little more backbone. 
-
-#### MEREDITH
-
-Oh, you know me, international lady of mystery and all that. GODBOLT (TELEPHONE) (Aside) Shhh now, just a minute. (To Meredith) Uh, what did you say, sorry? 
-
-#### MEREDITH
-
-I said I'm an international- Forget it, it's not funny. GODBOLT (TELEPHONE) Alright. 
-
-#### MEREDITH
-
-So... who was that on the phone? GODBOLT (TELEPHONE) Oh that's, uh... that's no-one. What's up? 
-
-#### MEREDITH
-
-Well, I... just checked my diary and apparently my very important call with the Hong Kong investors was just rescheduled by one of my PAs, meaning I have a free afternoon. Maybe you fancy a cheeky catch-up? Drinks? Me actually staying conscious this time? GODBOLT (TELEPHONE) Oh, uh... well... DENISE (TELEPHONE, DISTANT) He was the same at school. Never spoke to anyone. 
-
-#### MEREDITH
-
-Oh. You with someone? GODBOLT (TELEPHONE) What? No. (Aside) Shh, please, I-I'll be there in a minute. DENISE (TELEPHONE, DISTANT) Saw doctor after doctor. Fat lot of good it did. 
-
-#### MEREDITH
-
-Is... Is, is everything all right? GODBOLT (TELEPHONE) Hmm? What? Oh yeah, everything's great. 
-
-#### MEREDITH
-
-I mean, hey, if you're with someone then it's not a big deal, I'll just- DENISE (TELEPHONE, DISTANT) Is that Nick? Say hi to him! Hiiii baby boy! GODBOLT (TELEPHONE) No I'm- H-Hang on, I'll, I'll just go outside. 
-
-#### MEREDITH
-
-Actually, you know what? It's fine. GODBOLT (TELEPHONE) No! Wait just let me explain. 
-
-#### MEREDITH
-
-I said it's fine. GODBOLT (TELEPHONE) Meredith... 
-
-#### MEREDITH
-
-Say 'Hi' to Nick for me. 
-
-##### [PHONE BEEPS AS CUT OFF]
-
-
-
-#### MEREDITH
-
-Urgh. Stupid. Stupid, fucking stupid! You never call them back! 
-
-##### [THROWS PHONE, HITS SOMETHING THAT SMASHES, THE CLOCK CHIMES]
-
-Ohhh... damn it! 
-
-#### ICS, IRIS' OFFICE -- DAY
-
-
-
-##### [HAROLD IS TYPING AT THE COMPUTER]
-
-
-
-#### HAROLD
-
-'The Oxford English Dictionary defines community as...' 
-
-##### [MUCH BACKSPACING]
-
-No... 'Ever since the dawn of Man, when Man first saw Man and then... met Man... and...' Oh man... 
-
-##### [MUCH BACKSPACING]
-
-'Hey there! My name's Harold and I'm here with an amazing-' 
-
-##### [MUCH BACKSPACING]
-
-Sounds like a bloody ad... 
-
-##### [TYPING]
-
-CALI-BIGMAN (VIDEO) Wwwwhat is up my dudes! This is Cali-Bigman, and today we're gonna be looking at my personally approved Top Ten List for absolute public speaking domination! As always though, before we start make sure to smash that Like button, smash the Subscribe button and ring-a-ling that bell for all of my latest self-improvement vids! Now, let's get straight into it! Now, research has shown that the fear of public speaking ranks even higher than the fear of spiders, even higher than the fear of heights and, get this, even higher than the fear of death! So it's not surprising that a whole bunch of you have commented asking for my help- 
-
-##### [HAROLD'S PHONE RINGS; VIDEO PAUSES WITH A CLICK]
-
-
-
-##### [HAROLD TAKES A DEEP BREATH AND EXHALES, BEFORE ANSWERING]
-
-
-
-#### HAROLD
-
-Harold Stonewell. BELFRAGE (TELEPHONE) Harold, its John Belfrage. 
-
-#### HAROLD
-
-John, hi, yeah, I've been meaning to call you back. BELFRAGE (TELEPHONE) Are you available this Monday at 9 o'clock? 
-
-#### HAROLD
-
-Oh, um, I'm not sure, I haven't got my diary in front of me... Can you remind me what it's regarding? BELFRAGE (TELEPHONE) I've spoken to Rajshree. We need you to come to Endeavour Square so you have a chance to put your side across to the investigation. 
-
-#### HAROLD
-
-Investigation? [SNORTS] I'm not sure what exactly you think is going here, but- BELFRAGE (TELEPHONE) I think we're looking at multiple instances of gross misconduct, including misappropriation of client funds, negligent investment into a fraudulent real estate scam, illegal international transfers- 
-
-#### HAROLD
-
-Whoa, whoa, whoa, whoa, whoa, wait, hang on just a minute! (Adopts sad tone) As I've already explained, I recently lost my mother, and I'm really not in a fit emotional state to engage in this sort of conjecture- BELFRAGE (TELEPHONE) Yes, you said. Except your "emotional state" hasn't stopped you from taking over her business, has it? 
-
-#### HAROLD
-
-I'm sorry? BELFRAGE (TELEPHONE) I have been reliably informed that you're now CEO for her business in... Gravesby. That is correct, isn't it? 
-
-#### HAROLD
-
-What!? No! No! Well... I'm acting purely in an advisory capacity, you see, I'm not drawing a wage, and I wouldn't- BELFRAGE (TELEPHONE) I hope I don't need to remind you that taking such a position whilst under investigation would violate all kinds of protocols. 
-
-#### HAROLD
-
-Absolutely, I'd never dream of- BELFRAGE (TELEPHONE) I think you should probably speak to your Legal Officer then. Because not only is she under the impression you're now Acting CEO of your mother's company, but she also seems to think you are making withdrawals from said company. 
-
-#### HAROLD
-
-What!? Jesus Christ! No, John, I did not instruct anyone to do anything like that! BELFRAGE (TELEPHONE) Listen Harold, let's be honest with each other. You've mucked us around for long enough- 
-
-#### HAROLD
-
-(Indignant) Mucked you around! John, my mother died! I had a funeral to organise, the transition of a business to oversee, and I've got a three-bedroom house to sell. I haven't had the time, frankly, to- BELFRAGE (TELEPHONE) Be here on Monday morning at 9am. Otherwise we're looking at an arrest. 
-
-##### [BEEP AS BELFRAGE HANGS UP]
-
-
-
-#### HAROLD
-
-Shit. (Softly) Fucking... 
-
-##### [FOOTSTEPS; DOOR CREAKS OPEN]
-
-(Calling) Shuhela! Shuhela, have you got Cressida's mobile number? 
-
-#### IRIS' HOUSE -- AFTERNOON
-
-
-
-##### [DOORBELL RINGS AS BIRDS TWEET]
-
-
-
-#### GODBOLT
-
-(Calling) Meredith? 
-
-##### [DOOR KNOCKING]
-
-Are you there? It's me! 
-
-##### [MORE DOOR KNOCKING]
-
-MEREDITH (INSIDE) What? 
-
-#### GODBOLT
-
-Meredith, you've got totally the wrong end of the stick. MEREDITH (INSIDE) Hey, none of my business what you get up to. You do you. 
-
-##### [FOOTSTEPS WALK AWAY]
-
-
-
-##### [CREAK OF LETTERBOX OPENING]
-
-
-
-#### GODBOLT
-
-Come on! Meredith, just give me five minutes. Please? Meredith? 
-
-##### [LETTERBOX SHUTS, GODBOLT SIGHS]
-
-Fuck it. You know what? 
-
-##### [EXTENDED SOUNDS OF ATTEMPTED DRAINPIPE CLIMBING AND EXERTION]
-
-Ow. Ah! Ow! Fuck! Great idea, climbing the fu- OW! 
-
-##### [HEAVY FALL, LEAVES RUSTLE, FABRIC RIPS]
-
-Aaaaah, fuck's sake... ow! Ow! 
-
-##### [DOOR OPENS/CLOSES; FOOTSTEPS]
-
-
-
-#### MEREDITH
-
-You'd make a shit burglar. 
-
-#### GODBOLT
-
-(Pained) I think something just entered me. 
-
-#### MEREDITH
-
-Hot. 
-
-#### GODBOLT
-
-Look, Meredith... 
-
-#### MEREDITH
-
-It's fine, alright, none of my business who you're shagging. 
-
-#### GODBOLT
-
-Would you shut up for two damn seconds and listen? 
-
-#### MEREDITH
-
-One... Two... 
-
-#### GODBOLT
-
-That was my Aunt Denise on the phone. She's in a care home and I visit her when I can, because, well, she's not exactly firing on all cylinders, if you get me. 
-
-#### MEREDITH
-
-Sure, whatever. So who's Nick? 
-
-#### GODBOLT
-
-My cousin. Denise's son. Never visits her. Just a useless sack of shit, really. 
-
-#### MEREDITH
-
-Right. So... why did you come all the way here just to say that? 
-
-#### GODBOLT
-
-Oh. Well... I thought, well... I, I dunno, I, I thought you might be- 
-
-#### MEREDITH
-
-What? Jealous? Don't flatter yourself, you're not all that. 
-
-#### GODBOLT
-
-(Cocky) Oh yeah? 
-
-#### MEREDITH
-
-Yeah. You're like, a 4. 5, tops. I've had much better offers. 
-
-#### GODBOLT
-
-Ouch. 
-
-#### MEREDITH
+#### SAM
 
 Yeah. 
 
-##### [LEAVES RUSTLE AS GODBOLT STRUGGLES WITH BUSH]
+#### ALICE
 
+But at the end of the day, when all's said and done, you just have to choose... Beat. Sam is expectant despite himself. 
 
+#### ALICE
 
-#### GODBOLT
+Cinnamon swirl or pain au chocolat? Sam exhales. She got him. 
 
-No, I mean literally, ouch. This bush is really getting, ah... kinda, ah, intimate. Can you help me up please? 
+#### SAM
 
-#### MEREDITH
+Cinnamon swirl. Please. 
 
-I really am a fucking saint you know that, right? 
+#### ALICE
 
-##### [MORE RUSTLING AS MEREDITH ASSISTS]
+Nah, you took too long. You get pain au chocolat. 
 
+#### SAM
 
+(sarcastic) Curses! Alice hands him his pastry. Beat. 
 
-#### GODBOLT
+#### ALICE
 
-Ow, ow, dammit. [SIGHS] Who has roses by their front door? Oh fuck, these are my best jeans! 
+You actually wanted the Pain au Chocolat didn't you? 
 
-#### MEREDITH
+#### SAM
 
-(Laughing) Oh shit! It's torn the arse out! Look at those cheeks! 
+What can I say? You're predictable. 
 
-#### GODBOLT
+#### ALICE
 
-Oh yeah, laugh it up. 
+Dammit. They chuckle, then Sam slips back into his low mood as he eats. He sighs. 
 
-#### MEREDITH
+#### ALICE
 
-Look, just get inside before you moon some poor granny or something. 
+(cont.) They're not that stale. 
 
-#### GODBOLT
+#### SAM
 
-It's not funny. Absolutely gutted man, I love these jeans! 
+I can't believe it all turned out to just be a waste of time. 
 
-##### [FOOTSTEPS; DOOR OPENS/CLOSES]
+#### ALICE
 
+Oh yeah, massively pointless. Train tickets cost an arm-and-a-leg too. 
 
+#### SAM
 
-#### SATIE'S RESTAURANT -- EVENING
+Jesus, all right. 
 
+#### ALICE
 
+What? You're the one who says they don't need empty platitudes. I thought I'd maybe try harsh truths. 
 
-##### [SOUNDS OF A MODERATELY BUSY ITALIAN RESTAURANT THAT PROBABLY
+#### SAM
 
+Well, can you maybe try something else? 
 
+#### ALICE
 
-#### SERVES DECENT EGG PASTA]
+Like changing the subject maybe? Where are Celia and Gwen? I've got a mocha for Celia and I was really looking forward to pretending I "accidentally" forgot to order Gwen anything. 
 
+#### SAM
 
+They're not here yet. 
 
-#### CRESSIDA
+#### ALICE
 
-Could you at least have some... wine? It's a bit less suspicious than just sitting there with an empty plate, watching me eat. 
+Did they call in? 
 
-#### LILY
+#### SAM
 
-Water's fine. Look, Cressida, I've got a call in thirty minutes, so- 
+I didn't get anything. Might have gone through to Lena. Beat. 
 
-#### CRESSIDA
+#### SAM
 
-Very well. Your little package is under the table. 
+Hey, are you alright? You keep glancing at the door. 
 
-##### [CRINKLE OF PAPER]
+#### ALICE
 
+Hm? Nah, it's nothing. 
 
+#### SAM
 
-#### LILY
+It's not nothing. You're on edge. 
 
-Is it fresh? 
+#### ALICE
 
-#### CRESSIDA
+It's stupid. 
 
-Does it really matter? Now, tell me. How are things looking at your end? 
+#### SAM
 
-##### [RUSTLING AS PACKAGE IS STOWED]
+So? 
 
+#### ALICE
 
+I just... I dunno. When I left the coffee shop, it felt like someone was following me. 
 
-#### LILY
+#### SAM
 
-You've got the council for the entire morning session if you need it. 
+What did they look like? 
 
-#### CRESSIDA
+#### ALICE
 
-Excellent. And is William likely to be gracing us with his presence? 
+Well. I didn't actually see anyone but it wouldn't be the first time, London's creep central. 
 
-#### LILY
+#### SAM
 
-Well, I can't exactly just keep him locked up in his office. 
+So how can you be sure you were followed if you didn't see anyone? 
 
-#### CRESSIDA
+#### ALICE
 
-Sadly not. But he will need you to get him there, won't he? 
+I'm not sure. That's why it's bothering me so much. 
 
-#### LILY
+#### SAM
 
-What are you suggesting? 
+Sounds like maybe you were more bothered by that "soggy ruin" than you admit. 
 
-#### CRESSIDA
+#### ALICE
 
-I'm suggesting that if he were to be, let's say, unavoidably detained in transit for the duration of the meeting, that would be very fortuitous for ICS. 
+Don't joke about that, mate. I was dreaming about it all day. It'll be nothing. I'm just jumpy. 
 
-#### LILY
+#### SAM
 
-Cressida... 
+I could walk you home this morning if you'd like? Beat. 
 
-##### [BACKGROUND DOOR OPENS/CLOSES; FOOTSTEPS APPROACH]
+#### ALICE
 
+...Yeah, actually. If you're offering. 
 
+#### SAM
 
-#### CRESSIDA
+I am. 
 
-It wouldn't need to be anything drastic, just a minor- Oh... Harold... 
+#### ALICE
 
-#### LILY
+Cool. Beat. 
 
-What? 
+#### ALICE
 
-##### [ANGRY FOOTSTEPS]
+(cont'd) 'Cause I worry about you. You're too delicate to be safe out there without me watching your back. 
 
+#### SAM
 
+Of course. Beat. 
 
-#### HAROLD
+#### ALICE
 
-Just what the hell do you think you're playing at? 
+Anyway. You know what'll take our minds off it? 
 
-#### CRESSIDA
+#### SAM
 
-Lily, this is Harold Stonewell, Iris's son, and as of yesterday, her successor. Harold, Lily is William Allen's personal assistant. 
+Classifying unspeakable horrors all night for no discernible reason? 
 
-#### LILY
+#### ALICE
 
-We've met. 
+You know it. Sam hits a button and CHESTER starts talking. 
 
-#### HAROLD
+#### SAM
 
-(To Lily) Yes, hello again. (To Cressida, loudly) Look, I don't know what you think you're playing at, but if you think for one moment that you can just- 
+And we're off... 3. INT. CYBERSPACE (CASE FILE -- EMAIL NARRATION) 
 
-##### [FOOTSTEPS]
+#### CHESTER
 
+To: Alison Leshi (G.Leshi@cornwallcouncil.gov.uk) From: Gordon J (hello@padstowgroundworks.co.uk) Date: January 6th 2020. Subject: Re: Padstow civil cemetery exhumations Hi Alison, You asked for a quick email of confirmation when the work began, just to say everything has proceeded as anticipated. It's taking longer than usual to dig due to the cold snap, but we've already accounted for that in our timelines. We also did some load testing of the ground near the cliff edge, and it looks like there's only a few graves where the erosion means we won't be able to use the Bobcat, and that's few enough that my boys can do that by hand. The first few days have gone smoothly, and several units have already been reinterred at Newquay with no problem. David, the medical examiner, seems happy enough with all the precautions we're taking, and while we've certainly had our fair share of lookie-loos, there's not been any sign of the protestors you were so concerned about stirring up. I guess it helps that no-one's been buried here for over a hundred years, so it's not like we're pulling up granddad. The sailors sleeping here haven't seen mourners since Queen Vic. On a personal note, I'd just like to say thank you for using us to do this job. I know we can't have been the cheapest company to put in a bid, but as local lads we've been coming to this graveyard all our lives (even if just to sneak some booze as stupid teenagers), and now that the cliff's finally giving up the ghost (if you'll pardon the pun), it feels right for us to be the ones taking it apart. Anyway, let me know if you have any other questions. Otherwise, I'll drop you a line in a couple of weeks when job's done. Regards, Gordie. To: Alison Leshi (G.Leshi@cornwallcouncil.gov.uk) From: Gordon J (hello@padstowgroundworks.co.uk) Date: January 12th 2020. Subject: Re: Exhumation pause Hi Alison, Bad news, I'm afraid. Well, odd news, at least. David suggested I keep updating you with what's going on, as we've had to stop work for a day or two while an expert comes down. It shouldn't impact the timetable too much, so the original budget should cover it, but we can discuss all that later. I don't know if you actually saw us retrieving any units during your visit the other day, but for context, the containers they're buried in are of really varied quality. I'd say just under half were buried in decent coffins that are still in good enough shape to remove and transport unopened. For others though, the wood has rotted to the point where it's pretty much impossible to keep the boxes together and some were just wrapped in oil cloth. This means we're seeing, touching and moving a lot of human remains directly. Don't worry, this isn't about a health and safety thing -- we have all the right gear and David's making sure we follow procedure. It's just that one of the graves had a body in that was too well-preserved for the age it should have been. Or at least, most of the skin was in extremely good condition. The back was completely covered in this complicated tattoo of a ship sailing across an open sea towards an open horizon. It was really impressive. Unfortunately, David thinks we need a second opinion and to run some tests to confirm that this body is as old as it should be, as obviously if it's been buried more recently than 1908 then that technically makes the cemetery a crime scene, and we have to shutdown for god know's how long. I'll be honest though, I'm glad of the break. Taking up all these graves is starting to get to me a bit. I almost feel sorry for doing it. The waves are so close and getting closer. If I were a sailor buried here, I'd take some comfort in that. As you can see I'm getting morbid. Short break will do us all some good I think. Will update you when I hear word Regards, Gordie To: Alison Leshi (G.Leshi@cornwallcouncil.gov.uk) From: Gordon J (hello@padstowgroundworks.co.uk) Date: January 14th 2020. Subject: Re: Exhumation pause Alison, Can you give David a nudge for me? He's still working on that body we found and he's stopped responding to my emails. I got him on the phone, but to be honest he doesn't sound like he's in any real rush to complete the job and while he's worrying about salt water and tattoos, we're out here sat on our hands and I'm paying the lads by the day. It's almost enough to make you dream of sailing away for real. Like that poor fella's tattoo. Saying that, I had another look at the photos David attached and I'm starting to think I might have been wrong about it. When I first looked, I thought it was hopeful, a crew sailing towards the sunrise. But looking again, the sun is lower than I thought, and there's a shape in the water behind the ship. I think they're being chased by something. Creepy eh? Oh, and speaking of tattoos, you remember you wanted an update on local sentiment about the move? Well, I don't know if this counts as resistance -- hell, I don't even know if they're local -- but there's someone started poking around the site asking questions. Big snake tattoo up their arm and a bunch of other ink. Wouldn't give their name, but claims to be a big deal "online". Don't really know what that means, but they've been asking questions about the body. According to them the tattoo is an "Oscar Jarrett", and that's a big deal to some folks in that community -- something to with Sutherland Macdonald whoever that is. Dunno if that's quite what you were worried about but thought you'd want to know. They're kinda giving the boys the creeps. We were thinking of calling the police if we saw them again but I know you're worried about backlash so we'll hold off doing that for now. You should visit the site again when you get the chance. The salt air will do wonders for your mood. It's weird, I've lived here all my life, but spending all this time out on the cliffs, it can still reach you y'know? The waves crash so loud you can hear them in your dreams. 
 
+#### G
 
-#### WAITER
+To: Alison Leshi (G.Leshi@cornwallcouncil.gov.uk) From: Gordon J (hello@padstowgroundworks.co.uk) Date: January 16th 2020. Subject: Re: Re: Exhumation pause I just wanted to reach out to offer my condolences. I don't know how close you were to David, but this sort of thing always hits hard, even it's just a colleague. If it's any consolation, he's with the sea now. The deep will care for his bones. 
 
-Is everything alright? 
+#### G
 
-#### CRESSIDA
+To: Alison Leshi (G.Leshi@cornwallcouncil.gov.uk) From: Gordon J (hello@padstowgroundworks.co.uk) Date: January 17th 2020. Subject: Re: David's passing Dear Alison, I should first offer my formal apology. I was unaware that my emails were coming across as in any way unprofessional, and shall forthwith attempt to acquit my communications in a manner more becoming of one corresponding with a government official. My thoughts and opinions on maritime matters will no longer be included in my emails. In addition, I should be most grateful if you could see fit to provide myself with appropriate authorisations to contact the medical examiner's offices to follow up with the cadaver that has been causing such consternation. Yours sincerely, Gordon Alan Johnson To: Alison Leshi (G.Leshi@cornwallcouncil.gov.uk) From: Gordon J (hello@padstowgroundworks.co.uk) Date: January 18th 2020. Subject: Re: Re: Re: David's passing Look, I was not "making fun of you" but I'm not sure what you want. I'm emailing an employer about my work and am getting accused of my emails being "unprofessional". That's the best I can manage. I haven't been sleeping much recently. Weird dreams. Shapes in the water and that. And before you say that it's "unprofessional" to tell you that I'm just giving an explanation, That's all. I need you to contact the examiner again, he's dragging his feet. Besides, I want to see the body again. I dug him up, he's my responsibility. I just need to see it. I need to know what's in the water. To: Alison Leshi (G.Leshi@cornwallcouncil.gov.uk) From: Gordon J (hello@padstowgroundworks.co.uk) Date: January 20th 2020. Subject: Re: Examiner's office breakin It wasn't me. I swear it was that creep, the one with all the ink. They want to keep it for themselves. I saw them, I saw them hanging around the office when I was waiting. Waiting so long just to see it, just to know what's in the water. And they took it. They think they're smart, but I saw them I know where they're staying and if they think they deserve it they're wrong. It belongs to the deep. I'm going to go get it and I'm going to find it and if they try and stop me I swear the ocean will claim us all. I can taste the salt and spray. It's waiting in the water. To: Alison Leshi (G.Leshi@cornwallcouncil.gov.uk) From: Gordon J (hello@padstowgroundworks.co.uk) Date: January 20th 2020. Subject: Re: Re: Examiner's office break-in There was a problem delivering your message to "hello@padstowgroundworks.co.uk" This email address is no longer in service. 4. INT. OIAR OFFICES -- NIGHT, DRIZZLY (COMPUTER) 
 
-It's lovely, thank you dear. Harold, do sit down. People are staring at you. 
+#### SAM
 
-#### WAITER
+Alice? 
 
-Would you like a menu, sir? 
+#### ALICE
 
-#### HAROLD
+Hm? 
 
-What? No, I'm not-! I'm not staying long. 
+#### SAM
 
-##### [CHAIR SCRAPES AS HE SITS]
+Is there a way to cross reference cases? 
 
+#### ALICE
 
+What do you mean? 
 
-#### WAITER
+#### SAM
 
-Can I get you a drink then? 
+I just got another case about tattoos. 
 
-#### HAROLD
+#### ALICE
 
-No, thank you! 
+And? You already know the page to check the scores. 
 
-##### [FOOTSTEPS]
+#### SAM
 
+Yeah... but I just thought it might be worth noting somewhere that they might be linked. There's this tattooist, and I think they might beALICE What have I told you about thinking? 
 
+#### SAM
 
-#### LILY
+Don't? 
 
-I can leave you two if you wan- 
+#### ALICE
 
-#### CRESSIDA
+That's right. Beat. Alice sighs. 
 
-(To Lily) Nonsense. This will only take a moment. (To Harold) Now Harold, anything you want to say to me, you can say in front of Lily. 
+#### ALICE
 
-#### HAROLD
+(cont.) I don't think there's any way to mark cases as connected. They all come in standalone, that's just how it works. 
 
-I- Really? Fine. You had no business tipping off the FCA. 
+#### SAM
 
-#### CRESSIDA
+Yeah. I get it. 
 
-Pardon me? 
+#### ALICE
 
-#### HAROLD
+Besides, I thought we'd established that we aren't interested in any more creepy investi-[gations] GWEN enters hesitantly. 
 
-John Belfrage! You told him I was taking over the business! 
+#### ALICE
 
-#### CRESSIDA
+Christ on a peddlebike, what happened to you? 
 
-You'll have to forgive me Harold, but you did suggest I get in contact with him. 
+#### GWEN
 
-#### HAROLD
+(setting up at her desk) Tube was delayed. Points failure. 
 
-Yeah, well, I, w- That's beside the point! 
+#### ALICE
 
-#### CRESSIDA
+And that's why you look like the "before" picture for a sleep clinic? 
 
-And it's a good job I did. When you and Meredith announced you were taking over ICS, I had to do some due diligence in my capacity as Acting Legal Officer. 
+#### GWEN
 
-#### HAROLD
+I have been having some trouble sleeping. Not that it's any of your concern. 
 
-Yes, alright, but that doesn't excuse going behind my- 
+#### ALICE
 
-#### CRESSIDA
+Oh, but I am concerned. So very concerned. I can't decide if you look more like a bog witch with caffeine withdrawal or that Cheddar Gorge mummy. 
 
-You can imagine my surprise when I discovered that you were part of an investigation. And for fraud, no less. 
+#### SAM
 
-#### HAROLD
+She's allowed to be a bit tired Alice. It's fine. 
 
-It's none of your bloody concern! 
+#### ALICE
 
-#### CRESSIDA
+Woah there, we talked about this Sam, no need to be so savage, we're here to help. Now, Gwen, if you had to rate your mattress on a scale of 1 to that big medieval wheel they used to torture people withGWEN Can I please just get some work done, youShe spots the third coffee. 
 
-Well, acting as both Legal and Financial Officer for ICS -- an organisation which you are now the newly appointed co-CEO of -- I'm afraid that it is very much my concern. With this in mind, I have notified the relevant authorities of your appointment as director. Furthermore, I am now informing you as your advisor that we should prepare you for the very real possibility of imminent criminal charges. 
+#### GWEN
 
-#### HAROLD
+(cont'd) (surprised) Hang on, did you get me a coffee? 
 
-But I am as much a victim as any of my clients! 
+#### ALICE
 
-#### CRESSIDA
+Uhh... 
 
-(Dripping with 'sympathy') Of course you are. And as Legal Officer for ICS, I'm duty bound to assist you in proving that fact. But I can only do so from a place of perceived transparency. Do you understand? 
+#### SAM
 
-#### HAROLD
+Yeah. You like mocha? 
 
-You- [SIGHS] Right. Yeah, I get it. Just... run things by me in future, okay? Especially where the FCA are concerned. Belfrage isn't an idiot. 
+#### GWEN
 
-#### CRESSIDA
+Yes. She takes the coffee carefully. Beat. 
 
-Noted. Now, I do need to mention that assisting you in these matters will be quite a drain on my time. As a result, I will need you to 'step-up' a bit more as CEO to help maintain the business. We are this close to securing St. Mark's, and finally being able to provide a real inexplicables shelter, but we can't do it without your invaluable help. 
+#### GWEN
 
-#### HAROLD
+Thank you, Alice. 
 
-Oh well, yes. O-Of course. Anything I can do. 
+#### ALICE
 
-#### CRESSIDA
+I... Sure. Whatever. Don't get used to it. A slightly awkward silence. 
 
-Excellent. I'm so pleased we had this talk, Harold. Now, please don't let me keep you any further. 
+#### GWEN
 
-#### HAROLD
+Is Lena in yet? 
 
-Right, yes. Uh. I need to go finish the speech, and uh... yeah. 
+#### SAM
 
-##### [CHAIR SCRAPES AS HE STANDS]
+She went into her office about an hour ago. She hasn't come out since. Why? 
 
-Nice meeting you Lily. 
+#### GWEN
 
-#### LILY
+Nothing. We need a debrief on a... meeting I had. 
 
-Likewise. 
+#### SAM
 
-##### [FOOTSTEPS DEPART; DOOR OPENS/CLOSES]
+Right, well I thinkThe door bursts open and CELIA hurries in. 
 
+#### CELIA
 
+Sorry, sorry! I know, I know -- there was an emergency at home I had toI'm sorry I'm late! 
 
-#### CRESSIDA
+#### GWEN
 
-(Smiling) Oh, nervous little weasel, isn't he? 
+Do you have any idea what the time is? 
 
-#### LILY
+#### ALICE
 
-William would eat him alive in a debate. 
+I'm sorry, are you joking right now? 
 
-#### CRESSIDA
+#### GWEN
 
-Which is why we're going to have to think of something you can do, so that doesn't happen and our arrangement can continue. Aren't we, my dear? 
+I have responsibilities now, Alice. I need more of an explanation than just a "home emergency". 
 
-#### LILY
+#### ALICE
 
-Apparently. 
+You arrived literally one minute ago! 
 
-#### ICS, MAIN OFFICE -- EVENING
+#### GWEN
 
+And I gave a full explanation for my lateness. Which, I might add, I didn't actually need to do for a subordinate. 
 
+#### CELIA
 
-##### [DOOR OPENS/CLOSES; FOOTSTEPS, CHAIR RATTLES AS IT'S PUSHED AWAY]
+It's fine reallyALICE No, it's not. You don't owe her anything! In fact, you should take her coffee as reparation. 
 
+#### CELIA
 
+One of my radiators sprung a leak and flooded the lounge. 
 
-#### GODBOLT
+#### GWEN
 
-Wow. So this is what it looks like inside. Damn... 
+I see. Well that's understandable but don't let's make a habit of it shall we? 
 
-#### MEREDITH
+#### CELIA
 
-Oi, that's my business you're talking about. Bit of respect, yeah? 
+Of course. 
 
-##### [DOOR CREAKS; FOOTSTEPS]
+#### GWEN
 
+See, that wasn't so painful, was it Alice? Alice takes a breath for a devastating putdown. 
 
+#### SAM
 
-#### GODBOLT
+Let it go. ALICE exhales and sips her coffee instead. 
 
-Business? Looks more like a shipwreck in here. 
+#### GWEN
 
-#### SHUHELA
+Luckily, I don't think Lena's noticed, so you should be ok. She's not as laid back as I am. Alice chokes a little. 
 
-Evening, love! What are you doing up here so late? I was just locking up! 
+#### CELIA
 
-##### [KEYS JANGLE]
+Good to know. 
 
-(to Godbolt) I'm Shuhela, nice to meet you. 
+#### GWEN
 
-##### [FOOTSTEPS]
+Great, well if that's everything you all really should get to work otherwise you'll never get out of here. Don't let me keep you. 
 
+#### ALICE
 
+(muttered) I'd like to see you try... 
 
-#### GODBOLT
+#### GWEN
 
-Hi, Godbolt. I've heard a lot about you. 
+(already departing) I'll be in Lena's office if you need me. She walks off. Beat. 
 
-#### MEREDITH
+#### CELIA
 
-He's lying. I've told him literally nothing. 
+You ok, Alice? It honestly doesn't bother me. 
 
-#### SHUHELA
+#### ALICE
 
-Oh, that's alright. He's just being polite, aren't you? Is she giving you the tour then? 
+I can't believe she drank your mocha! 
 
-#### GODBOLT
+#### 5. INT. MANAGER'S OFFICE -- NIGHT, DRIZZLY (MANAGER'S
 
-(Slightly mocking) There's a tour! Goodness me, how exciting! 
+LANDLINE) LENA is sat at her desk typing. Gwen knocks then immediately enters. 
 
-#### MEREDITH
+#### LENA
 
-Give it a rest, you sarcastic prick. 
+Ah. You're back I see. How did it go? I trust you were successful? 
 
-##### [DOOR OPENS/CLOSES; FOOTSTEPS]
+#### GWEN
 
+What was that? 
 
+#### LENA
 
-#### SUZY
+Excuse me? 
 
-Hey Shuhela. Sorry, I'm so late, I got stuck in the traffic and- 
+#### GWEN
 
-#### SHUHELA
+What. The hell. Was. That. 
 
-Suzy! Come say hello. This is Harold's sister, Meredith, and her friend... GGodbolt? Is that right? 
+#### LENA
 
-#### SUZY
+Ah. Presumably you are referring to Mr. Bonzo. 
 
-We've met. 
+#### GWEN
 
-#### MEREDITH
+No. No, no. I watched Nigel's SOS every week as a kid. I know Mr. Bonzo. That thing was not Mr. Bonzo. 
 
-(Recognising) Ohhhh! Hey. 
+#### LENA
 
-#### GODBOLT
+I assure you that it was. He is one of our Externals. 
 
-Listen, forget this. Why don't we just hit that place I told you about, it's twofor-one until ten. 
+#### GWEN
 
-#### MEREDITH
+Mr. Bonzo is a man in a big fat funny suit who pours green custard on celebrities. That... abomination wasn't a costume. That was skin. It was sagging, it was sweaty! 
 
-No, we, we just got here. 
+#### LENA
 
-#### GODBOLT
+I'll grant you that Mr. Bonzo is one of our more... obviously grotesque Externals but I assure he is a valued asset. 
 
-No. Yeah, I know but they're already locking up here anyway, so how about I get us a taxi, and we just go have ourselves a good time, yeah? 
+#### GWEN
 
-#### MEREDITH
+I thought he was going to kill me! 
 
-Well, I mean, I guess? If that's what y- 
+#### LENA
 
-##### [DEPARTING FOOTSTEPS]
+But he didn't, which means you've passed the first part of your probation. Congratulations. Did you scream? 
 
+#### GWEN
 
+What? No! 
 
-#### GODBOLT
+#### LENA
 
-Give me five minutes! 
+You should. It really helps one cope with the more affronting aspects of the job. And they usually like it. Beat. 
 
-##### [DOOR OPENS/CLOSES]
+#### GWEN
 
+What was in that envelope I gave him? 
 
+#### LENA
 
-#### MEREDITH
+A name and an address. 
 
-Weird. 
+#### GWEN
 
-#### SHUHELA
+But for who? 
 
-(To Suzy) Ooh, she's done alright there, hasn't she? You didn't find him in Gravesby, did you? 
+#### LENA
 
-#### MEREDITH
+I'm sure you've already worked that out. But just in case you haven't, keep an eye on the case loads over the next few days. It should become abundantly clear. 
 
-Yeah, actually. Wild, I know. 
+#### GWEN
 
-#### SHUHELA
+I don't understand. 
 
-Huh. Will wonders never cease. 
+#### LENA
 
-##### [AWKWARD SILENCE]
+Yes, you do. Beat. 
 
+#### GWEN
 
+But... why? 
 
-#### SUZY
+#### LENA
 
-So Shuhela, about that charger... 
+"Why" comes later. For now, it's best you try to process the "what". I'll let you know when I have another liaison assignment for you. 
 
-#### SHUHELA
+#### GWEN
 
-Oh right, yes! Of course love, back in a tick. 
+(defeated) I... Ok. Gwen opens the door. 
 
-##### [FOOTSTEPS; DOOR CREAKS]
+#### LENA
 
+Oh, and Gwen? 
 
+#### GWEN
 
-#### MEREDITH
+Yes? 
 
-So... Frank said you're probably a... 
+#### LENA
 
-#### SUZY
+Get some sleep. You look dreadful. Gwen closes the door. 
 
-Charity case? Yep, that's me. Vampire. Recovering, obviously. 
+##### [Music]
 
-#### MEREDITH
 
-Right. 
 
-#### ...
+#### ANNOUNCER
 
-Tell you what, you scared the shit out of me climbing up that wall like that. 
+The Magnus Protocol is a podcast distributed by Rusty Quill and licensed under a Creative Commons Attribution Non-Commercial Sharealike 4.0 International License. The series is created by Jonathan Sims and Alexander J Newall, and directed by Alexander J Newall. This episode was written by Jonathan Sims and edited with additional materials by Alexander J Newall, with vocal edits by Nico Vettese, soundscaping by Meg McKellar, and mastering by Catherine Rinella with music by Sam Jones. It featured Billie Hindle as Alice Dyer, Shahan Hamza as Samama Khalid, Anusia Battersby as Gwen Bouchard, Lowri Ann Davies as Celia Ripley, Sarah Lambie as Lena Kelley, with additional voices from Jonathan Sims. The Magnus Protocol is produced by April Sumner, with executive producers Alexander J Newall, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton, and Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice. To subscribe, view associated materials, or join our Patreon, visit rustyquill.com. Rate and review us online, tweet us @therustyquill, visit us on facebook or email us at mail@rustyquill.com Thanks for listening. The Magnus Protocol 11 -- Marked 
 
-#### SUZY
+#### CAT23RC5246-06012020-11032024
 
-Yeah... about that... 
-
-#### MEREDITH
-
-It was awesome! 
-
-#### SUZY
-
-(Thrown) What? 
-
-#### MEREDITH
-
-Yeah it was brilliant! And, like, your teeth were all [VAMPIRIC MOUTH SOUNDS] absolutely fantastic. Ten out of ten! 
-
-#### SUZY
-
-Oh, well, thanks, I guess? 
-
-#### MEREDITH
-
-So, er, while I have you... can I ask you a couple of questions? About, you know, vamping? Vampiring? 
-
-#### SUZY
-
-(Unsure) Uh, sure. 
-
-#### MEREDITH
-
-Wicked. Okay so, first question. What's the deal with the garlic cos, like, I've never understood that? 
-
-#### SUZY
-
-Yeah, well, it's, um, not actually a thing. I quite like garlic bread. 
-
-#### MEREDITH
-
-Uh-huh. And daylight? 
-
-#### SUZY
-
-Stings your eyes a bit. Um, we just need to wear shades. 
-
-#### MEREDITH
-
-Okay, that's not so bad. And your teeth? Where do they... go? Y'know, when they're not all [VAMPIRIC MOUTH SOUNDS]? 
-
-#### SUZY
-
-Ah-hah, well, they just sort of... retract. 
-
-#### MEREDITH
-
-Cool. Cool. Can you turn into a bat? 
-
-#### SUZY
-
-No. 
-
-#### MEREDITH
-
-Wolf? 
-
-#### SUZY
-
-No. 
-
-#### MEREDITH
-
-What about, like, a horde of rats? 
-
-#### SUZY
-
-(Chuckling) Oh yeah. We do that all the time for a laugh. 
-
-#### MEREDITH
-
-Really? 
-
-#### SUZY
-
-No. 
-
-#### MEREDITH
-
-Damn. 
-
-#### SUZY
-
-Sorry. 
-
-#### MEREDITH
-
-S'all right. So, I mean, the big question is, what, what about the blood-sucking stuff. Does it taste really good or...? 
-
-##### [SUZY MAKES A SOFT SOUND OF AWKWARDNESS]
-
-(Realising) Oh, hey, sorry. That, that was... that was shit of me. No, yeah, I didn't mean anything by it. It's just, um, you're the first one I've met, y'know? Forget about it, it's none of my business. You do you; no judgment here. 
-
-#### SUZY
-
-No... I mean, it's alright. Just... I wouldn't go around the ICS asking stuff like that. It gets pretty old when it's the only thing anyone ever wants to talk to you about. And... no-one owes you an explanation, yeah? 
-
-#### MEREDITH
-
-Gotcha. 
-
-#### SUZY
-
-Alright. So the blood thing is... hard to explain. I mean, it's not the stuff itself, like the smell or the taste or whatever... It's what it does to you. Like... You know when you just wanna get completely out of your head for whatever reason? Like, you just decide that screw it, tonight you are just going to wreck yourself? 
-
-#### MEREDITH
-
-Yeah, I know that. 
-
-#### SUZY
-
-Yeah, but then sometimes you can find that sweet spot where everything is just- just goes away for a bit, and you feel like... like everything is gravy for a while. 
-
-#### MEREDITH
-
-Yeah. 
-
-#### SUZY
-
-Yeah, it's like that. Times a million. 
-
-#### MEREDITH
-
-Doesn't sound so bad. 
-
-#### SUZY
-
-Mmhmm. And then you wake up. And you still have to deal with everything that made you drink in the first place, except it's all ten times worse because of all the shit you did the night before. And now you have to fix the things, twice as fast otherwise you're screwed. And it's just... you know... 
-
-#### MEREDITH
-
-Never-ending? 
-
-#### SUZY
-
-Yeah, exactly. And you, you can't take a moment to sort your shit out, because part of you knows that if you do, it'll be a lot worse than you're admitting. And then that moment of peace starts to feel really inviting again. And... yeah, well. 
-
-#### MEREDITH
-
-Changed my mind. That sounds proper shit. 
-
-#### SUZY
-
-It is. Was. But that was before. And now we're all keeping dry and keeping it together. And it's better when you have other people with you, so... yeah. 
-
-#### MEREDITH
-
-Cool. It's good you're getting help. Help is... good. Listen, you know what, I've been a total prick quizzing you on this- 
-
-#### SUZY
-
-Forget about it. 
-
-#### MEREDITH
-
-No, I shouldn't have been so... yeah. Total prick. I'm sorry. 
-
-#### SUZY
-
-Okay. 
-
-##### [DOOR CREAKS, FOOTSTEPS]
-
-
-
-#### SHUHELA
-
-Sorry about that, love. It's never where you leave it, right? Here you are. 
-
-##### [ITEM CHANGES HANDS]
-
-Everything alright out here? 
-
-#### MEREDITH
-
-Yeah. 
-
-#### SUZY
-
-More or less. 
-
-#### SHUHELA
-
-Oh, I am glad. For a moment there, I thought Mr Fabulous Arse would drive us apart! 
-
-#### MEREDITH
-
-Yeah, speaking of, where the hell has he gone? 
-
-##### [GENERAL MOVEMENT AS SHUHELA LOCKS UP]
-
-
-
-#### SUZY
-
-Have you known him long? 
-
-##### [FOOTSTEPS HEAD DOWN STAIRS]
-
-
-
-#### MEREDITH
-
-Godbolt? Nah, only a couple of days. He seems alight though. Why? He's not your ex or something, is he? 
-
-#### SUZY
-
-No... not Godbolt. Ah... just be careful with him, yeah? Don't let him lead you on. 
-
-##### [FOOTSTEPS; DOOR OPENS/CLOSES]
-
-
-
-#### MEREDITH
-
-Well that's ominous. 
-
-#### TOWN HALL, MEETING ROOM -- MORNING
-
-
-
-##### [PAPER RUSTLES AS HAROLD REHEARSES]
-
-
-
-#### HAROLD
-
-'Since 2012, the North-West has seen the highest rise of... highest rise of...' Shitting hell! I had it last night. Shit, shit, fucking shit. 
-
-#### SHUHELA
-
-Relax, love. You're gonna be absolutely fine. I'm here, Cressida's here... 
-
-#### FRANK
-
-if all else fails, you can always blag it. 
-
-#### HAROLD
-
-Blag it? Blag it? Oh yeah, I'll just go in there and start pulling stats out of my arse, shall I? I'm sure that'll go down really well. 
-
-##### [FOOTSTEPS APPROACH]
-
-
-
-#### CRESSIDA
-
-Good news, everybody. Looks like William Allen is a no show. They've tried his office, his mobile, Lily's mobile; no-one can get hold of him. 
-
-#### FRANK
-
-Convenient. 
-
-#### CRESSIDA
-
-Yes, isn't it? So, is he ready? 
-
-#### SHUHELA
-
-Yes! 
-
-#### HAROLD
-
-No. 
-
-#### CRESSIDA
-
-That's the spirit. Come on then. 
-
-##### [FOOTSTEPS; DOOR OPENS/CLOSE]
-
-
-
-##### [GENERAL MURMUR OF VOICES AS FOLKS TAKE THEIR SEATS]
-
-
-
-#### COUNCIL SPEAKER
-
-Good morning everyone. Sorry for the delay. Uh, as you can see we're a man down already, but after some deliberation we have decided it is in everyone's best interests to press on regardless. With that in mind I'd like to thank the... uh... [PAPERS RUSTLE] The ISC- 
-
-#### SHUHELA
-
-(Calling) ICS! 
-
-#### COUNCIL SPEAKER
-
-Oh my apologies. Ah yes, I'd like to thank ICS for their patience. Now, I understand we have their CEO speaking to us today regarding... ah yes, St Mark's on Cruttenden Street. Is that correct? 
-
-##### [CHAIR SCRAPES]
-
-
-
-#### HAROLD
-
-Yes, your honour that's... Hello, yes. Harold Stonewell. 
-
-#### COUNCIL SPEAKER
-
-Good morning. You don't need to stand, but it is appreciated. Also, uh, I'm not a judge, so Councillor should suffice. 
-
-#### HAROLD
-
-Oh, um, yes. Councillor. 
-
-#### COUNCIL SPEAKER
-
-Excellent. Now as we all know, St Mark's is currently under public management, and as such we have several enterprises vying for the acquisition rights. It's your job, Mr Stonewell, to tell us why we should give it to ICS. In your own time, please. 
-
-##### [PAPERS RUSTLE AS HAROLD NERVOUSLY FUMBLES]
-
-
-
-#### HAROLD
-
-Yes. Uh. Hmm, yes that's- Yes, well, I, I, I, I, I, I wanted to- (DROPS PAPER) Oh f- Sorry. (RETRIEVES PAPER, CLEARS THROAT) I wanted to speak to you all today about the crisis we face, over... over... um... Over-population! Um, recession. Rising living costs, et cetera, et cetera, indeed! Who here hasn't heard these terms? None of us. None of us haven't heard these terms. FRANK (BACKGROUND) Good grief... SHUHELA (BACKGROUND) Shhh! 
-
-#### HAROLD
-
-And um... We can no longer ignore them, or even avoid them. No! Gravesby is a micro... uh, a microcosm of these wider world issues, and so, as such, we need to, to, to, to, to look at the bigger picture in order to make best our understanding of the smaller picture. Which in itself is part of the bigger picture, you see? 
-
-##### [MUTED COUGHS]
-
-Er, yes. Well, right. Um. So, since 2012 the North-West has seen the highest levels of cuts to local services, to government schemes, to- Uh... uh... 
-
-##### [MOBILE PHONE BUZZES SOFTLY, AND IS ANSWERED]
-
-
-
-#### COUNCIL MEMBER #1
-
-(Quietly) Ian, hi, no, I'm in session. Oh not long, it seems open and shut. I'll call you back in ten. 
-
-##### [PHONE CALL CUTS OFF]
-
-My apologies. Do continue. 
-
-#### HAROLD
-
-Yes. Okay. So to, uh... to, uh... SHUHELA (BACKGROUND) Government schemes! 
-
-#### HAROLD
-
-Oh yes, yes. Um, government services- sorry, schemes, um, to, uh, for the most basic facilities, a tax paying member of this community could and should expect- 
-
-#### COUNCIL SPEAKER
-
-I'm sorry to interrupt, Mr Stonewall. 
-
-#### HAROLD
-
-Stonewell. 
-
-#### COUNCIL SPEAKER
-
-But due to the delayed start, we, we are under certain time pressures. Can we please just skip this preamble, thorough as it is, and address the primary matter at hand: namely, that St Mark's is in a state of severe disrepair, and given this fact, how can a social care organisation with no major public or private funding possibly expect to realise these rather... (PAPERS RUSTLE) ambitious plans that you've submitted to us? 
-
-#### HAROLD
-
-Uh... Oh well... um... I, that is to say, we... we would, um... intend to- 
-
-##### [CHAIR SCRAPES; FOOTSTEPS]
-
-
-
-#### CRESSIDA
-
-Cressida Hynes, Chief Legal and Financial Officer to ICS. If I may, Councillor? 
-
-#### COUNCIL SPEAKER
-
-Please. 
-
-#### CRESSIDA
-
-You are correct that we would not be able to shoulder the costs of this alone. That is why we would need assistance from the council to realise these plans. 
-
-#### COUNCIL MEMBER #2
-
-I'm sorry, you expect us to hand over the church and pay you for your own renovations, when other interested parties are willing to shoulder the entire costs themselves? 
-
-#### CRESSIDA
-
-I'll be blunt. The cost to the council for ICS to take over and renovate St Mark's will be chicken feed in comparison to what you'll have to spend on rehousing the homeless population if you don't. Assuming that you are going to rehouse them, of course. 
-
-#### COUNCIL SPEAKER
-
-Miss Hynes, we have made it clear, time and time again, that we'll make no provisions for vagrants who continually- 
-
-#### CRESSIDA
-
-The fact is, Councillor, that every day the homeless in Gravesby remain without shelter results in appalling, avoidable suffering. 
-
-#### COUNCIL SPEAKER
-
-Miss Hynes, I am sure we can all agree that homelessness in Gravesby is a problem, but it is not the problem that we have been brought here to solve. We are here to determine what is to happen to St Mark's. 
-
-#### CRESSIDA
-
-Forgive me, Councillor, but these two problems are inseparable. Time and time again, the local government has refused to offer any solutions to our homelessness crisis. I would not presume to appeal to your conscience, but I would suggest that you consider recent opinion polls regarding local government. 
-
-##### [COUNCILLORS MURMUR]
-
-
-
-#### COUNCIL MEMBER #3
-
-(Whispering) Oh, why is she bringing it up? 
-
-#### CRESSIDA
-
-People are not happy with you. Not at all. 
-
-##### [MURMURING INTENSIFIES]
-
-But, happily, we are here presenting you with the solution. ICS can deal with this because helping the homeless is what we already do. Day in, day out, year in, year out. By granting the St Mark's site to ICS and assisting in the renovations, you would be allowing us to finally end this issue once and for all, with all the complexities neatly handled by us. You only need to sign a cheque. 
-
-#### COUNCIL MEMBER #3
-
-You really expect to handle the entire homeless population of Gravesby within a single facility? People with criminal records, emotional problems, drug addictions? You're just going to lump them all in together and... what? Just hope for the best? 
-
-#### CRESSIDA
-
-No. We will provide the best, because we are the best. The site is large enough for two hundred interior beds and, further, two hundred in additional facilities on the grounds and- 
-
-#### COUNCIL MEMBER #3
-
-(Incredulous) Additional facilities? 
-
-#### CRESSIDA
-
-Do you have an alternative? Because your current plan seems to be just abandoning these people. Our work will keep them safe, and bring them back into society. It's what we do, and we're very good at it. All we're asking for are the basic facilities we need to solve your problem before it draws any more unwanted attention. Like... the national press, for example. 
-
-##### [WHISPERING AS COUNCILLORS CONFER]
-
-
-
-#### HAROLD
-
-(Aside) Should I do the rest of my speech now? 
-
-#### CRESSIDA
-
-(Aside) Maybe hold off for now. I think they've got enough to consider. 
-
-#### COUNCIL SPEAKER
-
-It is at this point we would customarily hear any arguments against the proposal. However, given the absence of any formal opposition to these proceedings, I suggest we should just press on and put the motion to a vote. Any objections? 
-
-#### ...
-
-Very well. In that case, all those in favour of allowing ICS acquisition rights to St Marks along with the necessary funding to allow basic renovation, please say aye. 
-
-#### COUNCIL MEMBERS
-
-Aye. 
-
-#### COUNCIL SPEAKER
-
-And those against? 
-
-#### COUNCIL MEMBERS
-
-Nay. 
-
-#### COUNCIL SPEAKER
-
-The ayes have it seven to five, no abstainers. Motion is carried. Thank you all. 
-
-#### SHUHELA
-
-(Loudly) Get in! 
-
-##### [SHUHELA GASPS AS FRANK LAUGHS]
-
-(Whispers) Oh! Sorry! 
-
-#### HAROLD
-
-Did we win? Did I-? 
-
-#### CRESSIDA
-
-Congratulations, Harold. You just bought yourself a church. 
-
-#### COUNCIL SPEAKER
-
-With no further motions proposed, we are hereby adjourned for this session. If we can please clear the chambers. 
-
-##### [DOOR OPENS/CLOSES; FOOTSTEPS STRIDE IN]
-
-
-
-#### WILLIAM
-
-(To Lily) --the second we are done here you get onto the transport department and you tell them that they are going to do something about that corner tomorrow, understand? (To the room, politely) Ladies and gentlemen, I am so sorry for the delay. 
-
-#### COUNCIL SPEAKER
-
-Ah, Bill, we've been calling you. Is, is everything all right? 
-
-#### WILLIAM
-
-Yes, thankfully nothing serious. Although the car's in a bit of a nasty state. Lily here got caught out on that bloody blind spot on Cressington Way. We're lucky we didn't end up smeared across the dual carriageway. 
-
-#### COUNCIL SPEAKER
-
-Bill, if, if you've been in an accident, it's, it's probably best we run you down to the Royal and get you both checked up. 
-
-##### [FOOTSTEPS AS WILLIAM MOVES AROUND]
-
-
-
-#### LILY
-
-Uh, no! 
-
-#### WILLIAM
-
-Lily, you have had enough input for one day. No, no that won't be necessary. We're both fine. Besides, this has been delayed quite long enough. I know we're behind, and I see our friends from ICS are here, so, let's crack on shall we? 
-
-#### CRESSIDA
-
-Perhaps we should update our friend and colleague on the motion... carried. 
-
-#### WILLIAM
-
-"Carried"? What do you mean "motion carried"? 
-
-#### COUNCIL SPEAKER
-
-We've already ruled on ICS' proposal. 
-
-#### WILLIAM
-
-Oh, good! So, who are we considering next? 
-
-##### [PAUSE, WITH SOME MUTED COUGHING]
-
-Oh. You have got to be- You haven't given them the rights!? 
-
-#### CRESSIDA
-
-And some additional funding besides. 
-
-#### WILLIAM
-
-WHAT? It's not even eleven! You were in here for less than an hour! 
-
-#### COUNCIL MEMBER #2
-
-Well, we were waiting for you for more than half an hour. 
-
-#### WILLIAM
-
-Yes, well, my phone was damaged in the car crash that just nearly killed me, so apologies for the inconvenience, Linda! 
-
-#### COUNCIL SPEAKER
-
-Bill, why don't we just go outside, and, and you can calm down- 
-
-#### WILLIAM
-
-You can't just carry a motion without me! I'm the bloody Mayor! 
-
-#### COUNCIL MEMBER #2
-
-That's not how it works and you know it. We put the motion to the house and the vote was cast, seven to five. If you'd been here to register your objections, well then maybe- 
-
-#### WILLIAM
-
-(Irate) This is absolutely ridiculous! Jesus! I turn my back for 5 minutes and you just completely- Christ on a bike! 
-
-#### LILY
-
-Look, William, I think it would be wise to- 
-
-#### WILLIAM
-
-Will you shut! Up! Lily! (To the room) I will be taking formal action against this, you know that? There will be a proper investigation into what has happened here, and I will speak to each of you in turn. 
-
-#### COUNCIL MEMBER #1
-
-Oh, give over Bill. It's done. 
-
-#### WILLIAM
-
-I will not "give over"! 
-
-#### CRESSIDA
-
-If there's anything we can do to help, just drop us an email. 
-
-#### WILLIAM
-
-You made a mistake today, Cressida, and you will come to regret it very soon! 
-
-#### COUNCIL SPEAKER
-
-Bill... Bill. 
-
-#### WILLIAM
-
-(To Lily) Get me everything we have on ICS, now. Everything! 
-
-##### [FOOTSTEPS DEPARTING]
-
-
-
-#### LILY
-
-Yes, of course, sir. I'll get straight onto it. 
-
-##### [DOOR OPENS/CLOSES]
-
-
-
-##### [BACKGROUND NOISE OF COUNCILLORS MILLING AROUND]
-
-
-
-#### FRANK
-
-What a tit. 
-
-#### SHUHELA
-
-I never know what people see in him. I just worry for Lily. That poor girl, she must get a right earful from him. 
-
-#### CRESSIDA
-
-I wouldn't worry about her; she can handle herself, trust me. Besides, it's all hot air. 
-
-#### HAROLD
-
-So that's it? We won? 
-
-#### CRESSIDA
-
-Yes, Harold. We won. 
-
-#### HAROLD
-
-And my speech helped? 
-
-#### SHUHELA
-
-It was wonderful, love. Dead inspiring, weren't it, Frank? 
-
-#### FRANK
-
-Mmmm. 
-
-#### CRESSIDA
-
-It was perfect. We make an excellent team, and your mother would be very proud. But now, it's time to celebrate. I am going to take you all out for dinner. 
-
-#### SHUHELA
-
-Oh! I'll need to stop off and scrub up. You'll have to get your suit out too, Frank! 
-
-#### FRANK
-
-Eurgh. 
-
-#### SATIE'S RESTAURANT -- NIGHT
-
-
-
-##### [FOOTSTEPS]
-
-
-
-#### SUZY
-
-(Quietly) Everyone's looking at us... 
-
-#### MEREDITH
-
-Yeah, cos we're well fit. Let them look. 
-
-#### HAROLD
-
-(Tipsy) Eyyyy there she is. My dear sister, and- 
-
-##### [DRINK SPLASHES AS HE YELPS ON RECOGNISING SUZY]
-
-Uh. Hello. 
-
-#### SUZY
-
-(Nervous) Yes, hello again Harold. 
-
-#### SHUHELA
-
-Suzy! Lovely of you to join us. Come sit over here with me, pet. 
-
-#### CRESSIDA
-
-Well, don't you both look lovely. How about some more drinks? Yes? 
-
-#### MEREDITH
-
-Orange juice. Thanks. 
-
-#### HAROLD
-
-(Snorting) Juice? Really? You're not pregnant, are you? 
-
-#### SUZY
-
-Just a Coke for me, please. 
-
-#### SHUHELA
-
-Oooh, everything looks so nice! I dunno what to have! 
-
-#### FRANK
-
-You'll have the fish. 
-
-#### SHUHELA
-
-Hang on, what makes you think that? 
-
-#### FRANK
-
-You always get the fish. 
-
-#### SHUHELA
-
-I don't always get the- 
-
-#### CRESSIDA
-
-So! Now that we're all here, I just wanted to take a moment to say a few words. 
-
-##### [CHAIRS SCRAPE]
-
-
-
-#### HAROLD
-
-Speeeeeech! 
-
-#### CRESSIDA
-
-Yes, thank you, Harold. Anyway, I just wanted to extend my gratitude to everyone. This has been a long time coming, but our efforts have finally been rewarded. I couldn't be more proud of you all. 
-
-#### HAROLD
-
-(Laughing) Crusty old bastards never saw us coming, did they? 
-
-#### CRESSIDA
-
-Indeed. Well, that's everything apart from telling you all: enjoy yourselves! The tab's on me. You've earned it. 
-
-##### [GLASSES CLINK AMIDST GENERAL RESTAURANT NOISE AND CHATTER]
-
-
-
-#### SHUHELA
-
-Oh, I meant to ask, Frank -- how's Hannah doing? 
-
-#### FRANK
-
-I swung by this morning but she didn't answer. Still upset with me, I reckon. 
-
-#### SHUHELA
-
-Aww, she'll come round. 
-
-#### FRANK
-
-Mmm. 
-
-#### HAROLD
-
-So, are you really not drinking? What's brought all this on? 
-
-##### [CHAIR SCRAPES]
-
-
-
-#### MEREDITH
-
-Right, I'm going for a cigarette. 
-
-##### [FOOTSTEPS AS SCENE MOVES OUTSIDE TO AN URBAN STREETSCAPE]
-
-
-
-##### [FLICKING OF LIGHTER AS MEREDITH LIGHTS UP]
-
-
-
-##### [FOOTSTEPS APPROACH]
-
-
-
-#### GODBOLT
-
-Oy oy! Who do we have here? 
-
-#### MEREDITH
-
-You really do have a pair of balls on you, I'll give you that. Just rocking up here after totally bailing on me earlier. 
-
-#### GODBOLT
-
-Yeah, sorry about before. I shouldn't have- I just- yeah. That was really uncool. Got you flowers. 
-
-##### [FOLIAGE RUSTLES]
-
-
-
-#### MEREDITH
-
-Yeah, I can see that. 
-
-#### GODBOLT
-
-And? 
-
-#### MEREDITH
-
-And I'm out with the work lot, so can you just, like, go? And I'll call you, or whatever. 
-
-#### GODBOLT
-
-Come off it, I'm here to rescue you! You don't want to hang around with this sad lot. Why don't we just get out of here? You and me, go get a drink, paint the town- 
-
-#### MEREDITH
-
-I said back off. Is that clear enough for you? 
-
-#### GODBOLT
-
-Wait. You're serious? 
-
-##### [FOOTSTEPS BACK OFF]
-
-Riiiight. Okay, fine. I'll just... Fine. Whatever. 
-
-##### [FOLIAGE RUSTLES AS IT'S DUMPED AND GODBOLT HEADS OFF]
-
-
-
-#### MEREDITH
-
-Dammit. 
-
-##### [DOOR OPENS/CLOSES]
-
-
-
-#### SUZY
-
-He didn't look happy. Everything alright? 
-
-#### MEREDITH
-
-Yeah. Just peachy. 
-
-#### SUZY
-
-You sure? 
-
-#### MEREDITH
-
-Me? I'm fucking fabulous. I am living the dream. 
-
-#### SUZY
-
-I know it's none of my business, but you did the right thing. You're better off without him. 
-
-#### MEREDITH
-
-Yeah, well. I don't need a babysitter. 
-
-#### SUZY
-
-No, you don't. 
-
-#### ...
-
-Are you coming back inside? 
-
-#### MEREDITH
-
-Yeah, screw it. Let's eat, I'm starving. What are you having? 
-
-#### SUZY
-
-I thought I'd start with the garlic bread. 
-
-##### [MEREDITH SNORTS]
-
-
-
-##### [FOOTSTEPS; DOOR OPENS]
-
-
-
-#### MEREDITH
-
-You alright Cressida? 
-
-#### CRESSIDA
-
-Hmmm? Oh yes. Just grabbing some fresh air. 
-
-#### MEREDITH
-
-Well, I wouldn't leave that lot unsupervised with an open tab. 
-
-#### CRESSIDA
-
-I'll be back in a moment. Uh, keep an eye on them in the meantime, won't you? 
-
-##### [DOOR CLOSES]
-
-
-
-##### [FOOTSTEPS APPROACH]
-
-You're late. 
-
-#### LILY
-
-Sorry, sorry, I got held up and, and- 
-
-#### CRESSIDA
-
-Yes, I'm sure. Sterling work with William earlier. It's appreciated. 
-
-#### LILY
-
-He's been in a foul mood ever since. Will be for the rest of the week. 
-
-#### CRESSIDA
-
-Still, I'm sure it's worth it, yes? 
-
-#### LILY
-
-Um. Yes. 
-
-#### CRESSIDA
-
-Good girl. Here's the rest of your... payment, as discussed. 
-
-##### [RUSTLING OF PAPER PACKAGE]
-
-And before you ask, yes, it's fresh. 
-
-#### LILY
-
-Thanks. I know it's sounds daft but it does make a difference, you know, and- 
-
-#### CRESSIDA
-
-Just take it, dear. I'd rather I wasn't carrying it any longer than necessary. 
-
-##### [RUSTLING AS LILY ACCEPTS PACKAGE]
-
-I'll be in touch. 
-
-##### [CLOSING THEME]
-
-Inexplicables is a podcast distributed by Rusty Quill Ltd and licensed under a Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International Licence. Written by: Tom Critch & Alexander J Newall Script Editing: Helen Gould Producer: Hannah Preisinger Director: Maddy Searle Production Manager: April Sumner Executive Producer: Alexander J Newall Cast Beth Eyre -- Meredith Stonewell Harry Farmer -- Harold Stonewell Safiyya Ingar -- Shuhela Ian Hayles -- Frank Fay Roberts -- Cressida Mark Nicolson -- Abraham Godbolt Karim Kronfli -- John Belfrage Savy Des-Etages -- Lily Jones Vera Chok -- Suzy Broadbent Alexander Doddy -- William Allen Alexander J Newall -- Ivan Frank Voss -- Len Sas Freeman -- Denise Tai Lawson -- Robbie Mike LeBeau -- Cali-Bigman Jenny Haufek -- Council Speaker Amy Dickinson -- Council Member #1 Annie Fitch -- Council Member #2 / Vampire Francesca Reid -- Council Member #3 Nico Vettese -- Waiter / Vampire / Council Member Imogen Harris -- Vampire Editing: Maddy Searle Mastering: Jeffrey Nils Gardner Music: Samuel DF Jones Artwork: Anika Khan 
+Tattoo (corpse) --/- compulsion [email exchange] Incident Elements: - Thalassophobia - Obsession - Mentions of: corpses, exhumation Transcripts: https://shorturl.at/gzF15 This episode is dedicated to Stuart Pollock, thank you for your generous support! You can a complete list of our Kickstarter backers https://rustyquill.com/the-magnus-protocol-supporterwall/ Created by Jonathan Sims and Alexander J Newall Directed by Alexander J Newall Written by Jonathan Sims Script Edited with additional material by Alexander J Newall Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice Produced by April Sumner Featuring (in order of appearance) Lowri Ann Davies as Celia Ripley Billie Hindle as Alice Dyer Shahan Hamza as Samama Khalid Anusia Battersby as Gwendolyn Bouchard Sarah Lambie as Lena Kelley Jonathan Sims as Chester Dialogue Editor -- Nico Vettese Sound Designer -- Meg McKellar Mastering Editor -- Catherine Rinella Music by Sam Jones (orchestral mix by Jake Jackson) Art by April Sumner SFX from Soundly and previously credited artists Support us on Patreon at https://patreon.com/rustyquill Check out our merchandise available at https://www.redbubble.com/people/RustyQuill/shop and https://www.teepublic.com/stores/rusty-quill Join our community: WEBSITE: rustyquill.com FACEBOOK: facebook.com/therustyquill TWITTER: @therustyquill REDDIT: reddit.com/r/RustyQuill EMAIL: mail@rustyquill.com The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty Quill Ltd. and licensed under a Creative Commons Attribution Non-Commercial Share alike 4.0 International Licence. 
