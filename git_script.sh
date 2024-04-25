@@ -1,5 +1,6 @@
 w#!/bin/zsh
 
+whoami
 REPO_PATH=""
 git -C "$REPO_PATH" add -A
 git -C "$REPO_PATH" commit -m "[the weekly auto-save]"
