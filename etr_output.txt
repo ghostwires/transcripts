@@ -1,12 +1,12 @@
-©Rusty Quill 2023 The Magnus Protocol Episode 12 "Getting Off" Written by Alexander J Newall Edited by Jonathan Sims 
+©Rusty Quill 2023 The Magnus Protocol Episode 13 "Futures" Written by Alexander J Newall Edited by Jonathan Sims 
 
-#### 20-10-2023
+#### 14-06-2023
 
-Draft 1.4 
+Draft 3.1 
 
 #### ANNOUNCER
 
-This episode is dedicated from Thomas Cardona to Amanda Thanks for showing me the wonderfully eldritch horror that is TMA, I can't wait to go down the rabbit hole even further when we terrorize our friends with it too. 
+This episode is dedicated to Odin Panek -- Hello everyone! It's Odin, your nerd named after a Norse god. I hope you enjoyed the episode. I also hope you have a wonderful day, evening or night whenever or wherever you are. 
 
 ##### [Intro Theme]
 
@@ -14,131 +14,483 @@ This episode is dedicated from Thomas Cardona to Amanda Thanks for showing me th
 
 #### ANNOUNCER
 
-Rusty Quill Presents: The Magnus Protocol. Episode Twelve -- Getting Off 
+Rusty Quill Presents: The Magnus Protocol. Episode Thirteen -- Futures 
 
 ##### [Music]
 
-1. INT. O.I.A.R. BREAKROOM- NIGHT, CLEAR(CCTV) CELIA is searching cupboards in the breakroom without much luck, she is clearly very tired. SAM enters. 
+
+
+#### 1. INT. PLEASANT RESTAURANT -- EVENING, CLEAR (SAM'S
+
+PHONE) There is a pleasant murmur of conversation combined with soft piano music coming in over speakers. It's a well-chosen date spot, fancy enough to matter without being ostentatious. Sam and Celia sit opposite one another. 
 
 #### SAM
 
-The secret tunnel is actually hidden behind the fridge so... 
-
-#### CELA
-
-Oh cheers, I'd have been here all night. CELIA yawns. SAM snorts. 
-
-#### CELIA CONT.
-
-Tea. Need tea. 
-
-#### SAM
-
-Oh er... middle cupboard on the left, isn't it?. 
+So what are we thinking? 
 
 #### CELIA
 
-Empty. 
+On the one hand, this technically counts as breakfast so I should probably go with something light, but on the other... I'm in the mood for rich and cheesy. Choices, choices. 
 
 #### SAM
 
-Ah, well if it's not there I'm afraid we might just be out. 
+Yeah, I must admit, it is kinda weird waking up then immediately going out on a dinner date. 
 
 #### CELIA
 
-Eurgh. 
+Yeah, working nights is taking some getting used to. 
 
 #### SAM
 
-Tell you what, give me moment. SAM rushes off. CELIA closes the cabinets then stands waiting. SAM reenters slightly out of breath. 
-
-#### SAM
-
-(hiding his breathlessness) Here you go. He hands her a tea bag. 
+You seem all right. 
 
 #### CELIA
 
-You stunner! Where did you find it? 
+You're not too bad yourself. 
 
 #### SAM
 
-I've learned that keeping my fancy Assam in breakroom cupboards is a quick way to lose it. 
+(blushing) I, Heh- uh... Celia laughs. A waiter arrives. 
+
+#### WAITER
+
+Are we ready to order? 
 
 #### CELIA
 
-What? Oh, no you don't have toSAM It's all good, really. 
+I'll have the baked camembert and he's... 
+
+#### SAM
+
+I'll have the same, thank you. 
+
+#### WAITER
+
+Very good. The waiter departs. 
 
 #### CELIA
 
-ButSAM Celia, take the tea bag. I have more. Beat. Celia yawns despite herself. 
+Alice was right -- it is easy to make you blush.. 
+
+#### SAM
+
+You just caught me unawares. 
 
 #### CELIA
 
-(sighing) Thanks, I owe you. 
+Of course. 
 
 #### SAM
 
-No, it's- Uh... Pause. Sam fidgets while Celia makes tea. 
-
-#### SAM
-
-(too casual) Hey, would you maybe want to go out and grab a cup with me some time? Of tea. Or coffee. Breakfast? Beat. Celia hesitates. 
-
-#### SAM CONT.
-
-Or not. I mean you don't have to, obviously. Just a thought. Not, like, in exchange for the teabag or anything I just meant thatCELIA No, I'd love to, its just... 
-
-#### SAM
-
-(deflated) You're busy. 
+So you asked her about me? 
 
 #### CELIA
 
-No! Well, actually yes, sort of, but it's not like that. It's just... complicated. I would need to sort some stuff out first. 
+Just doing my due diligence. 
 
 #### SAM
 
-Water your dog, walk your pot plant, that kind of thing? 
+And what else did she say about me? 
 
 #### CELIA
 
-Something like that. 
+That you don't know how cute you are. 
 
 #### SAM
 
-Well, hey, no worries, I totally understand. You let me know if you you maybe manage to get some time andCELIA Saturday, 6? under the clock at Leicester Square. That work? We'll go for dinner- well, breakfast- you know what I mean. 
-
-#### SAM
-
-(surprised) Oh er, yeah, yeah that works! 
+(pleased) Oh. Well... 
 
 #### CELIA
 
-Cool. 
-
-#### SAM
-
-Cool! CELIA finished prepping her tea and starts to head out. 
+...and that you're an overachiever, obsessive, a bit repressedSAM OkayCELIA -nosey, kind of a recluseSAM Thank you. 
 
 #### CELIA
 
-See you later. 
+-and very easy to wind up. Beat. 
 
 #### SAM
 
-Yeah! See you! CELIA exits as ALICE enters, almost bumping into her. 
+Well, she's not wrong, I guess. So who do I talk to to get a complete list of your flaws? 
 
 #### CELIA
 
-(To Alice) Oh, sorry Alice, didn't see you there. 
-
-#### 2. CONT. SCENE -- INT. O.I.A.R. BREAKROOM -- NIGHT,
-
-CLEAR(CCTV) Alice sidles over to the counter to make herself some coffee. Pause. 
+No-one. I'm mysterious. 
 
 #### SAM
+
+Hmmm. Well jokes aside we should probably just get all of our baggage out on the table now. It's risky enough dating at work without adding bombshell revelations to the mix. 
+
+#### CELIA
+
+You want to start with the big stuff? Ok then. CELIA settles herself. 
+
+#### CELIA
+
+(cont.) I have a baby. Jack. He's just over a year old now. 
+
+#### SAM
+
+Cool. Beat. 
+
+#### CELIA
+
+And before you ask, no there's no dad on the scene. Not even sure who he is. I had a couple of wild years after I moved here. It was a really weird time for me, but somehow I got lucky enough to come out of it all with him. 
+
+#### SAM
+
+Fair enough. Do I get to meet him? 
+
+#### CELIA
+
+That depends on your baggage. Dish. 
+
+#### SAM
+
+All right... SAM arranges his own thoughts. 
+
+#### SAM
+
+(cont.) No kids of my own. Both my parents are still around. I haven't worked up the nerve to tell them that I bailed on my last job yet. 
+
+#### CELIA
+
+They'd care that much? 
+
+#### SAM
+
+I was tested as a kid and, uh, they said I was "gifted" so mum and dad got a bee in their bonnet and enrolled me in every "enrichment" program they could findCELIA Like The Magnus Institute? 
+
+#### SAM
+
+No. They were the first ones that didn't want me. 
+
+#### CELIA
+
+That why you're so hung up on them? 
+
+#### SAM
+
+I don't know. Maybe? That definitely feels like when it all started. 
+
+#### CELIA
+
+When what started? 
+
+#### SAM
+
+Well after that it all just went downhill. Didn't get into Oxford, so I went to Nottingham. I graduated but I missed a first by one mark. Then I went to work at a legal firm. I was there for years, hoping they'd eventually sponsor me for a law degree. 
+
+#### CELIA
+
+And? SAM sighs. 
+
+#### SAM
+
+I had a breakdown. Stress. There was an... incident at work. I... freaked out during a presentation. After that they "encouraged" me to move on and I did. Six unemployed months later and I took a job at the O.I.A.R. 
+
+#### CELIA
+
+(Slightly cautious) Alice hooked you up? 
+
+#### SAM
+
+(noticing) Yeah. Uh Full disclosure, we dated at Uni and stayed in contact after. I did my best to help her though her parents' deaths but after that we pretty much dropped out of touch. According to her she dropped me a line about the job after "the most pathetic vague-post she had ever seen". 
+
+#### CELIA
+
+And now? 
+
+#### SAM
+
+Now she's a friend. An insufferable, obnoxious know-it-all friend but yeah, just a friend. 
+
+#### CELIA
+
+All right then. Pause, they both drink. 
+
+#### SAM
+
+That everything we think? 
+
+#### CELIA
+
+Yeah. I did want to ask you, though... 
+
+#### SAM
+
+(Bracing himself) All right... 
+
+#### CELIA
+
+The cases, at work. Do you think they're real? Beat. 
+
+#### SAM
+
+Do you? 
+
+#### CELIA
+
+I asked you first. Beat. 
+
+#### SAM
+
+I... don't know. I hope not. You? 
+
+#### CELIA
+
+I'm pretty sure they're real. Awkward pause. 
+
+#### SAM
+
+More wine? 
+
+#### CELIA
+
+Please. SAM pours. The call ends abruptly. 
+
+#### 2. INT. MANAGER'S OFFICE -- NIGHT, LIGHT RAIN
+
+(MANAGER'S LANDLINE) GWEN enters the office and stands silent and shaking. Lena looks up calmly. 
+
+#### LENA
+
+Can I help you Gwen? 
+
+#### GWEN
+
+Is it my fault? 
+
+#### LENA
+
+You'll have to be more specific. 
+
+#### GWEN
+
+Bonzo. One of the cases. Did it really happen? Was it because of me? Beat. 
+
+#### LENA
+
+Yes. Whatever horrible case you read, it happened. Beat. GWEN reacts. 
+
+#### GWEN
+
+And am I responsible? 
+
+#### LENA
+
+To a degree. Beat. 
+
+#### GWEN
+
+Tell me why. Beat. Lena stands and sits against her desk. 
+
+#### LENA
+
+Sit. 
+
+#### GWEN
+
+I don't want- [to sit] 
+
+#### LENA
+
+Sit. Gwen does so, unsteadily. 
+
+#### LENA
+
+(cont.) The world is full of opposing forces, some benevolent, most not. In order for the wheels to keep on turning, all these forces need to be monitored and balanced. That is where we come in. 
+
+#### GWEN
+
+That doesn't mean anything. 
+
+#### LENA
+
+And yet it is the only explanation you're going to get for now. 
+
+#### GWEN
+
+So what? We're the bad guys? 
+
+#### LENA
+
+We are... managing the "bad guys".. Beat. 
+
+#### LENA
+
+(cont. returning to her desk) There should be an email in your inbox. We have another external that needs assignment. It's quite urgent. Beat. 
+
+#### LENA
+
+(cont.) Gwen? 
+
+#### GWEN
+
+I'll sort it. 
+
+#### LENA
+
+See that you do. 
+
+#### 3. INT. QUIET FRENCH HOSPITAL WARD -- SUNSET, CLOUDY
+
+(CASE RECORDING). 
+
+#### ANSWERPHONE
+
+Welcome to the Zorrotrade customer support line. This call may be recorded for training and monitoring purposes. Please select from one of the following options: For sales enquiries, press one. For technical support, press two. For complaints, press thrSomeone pushes three. Beat. We're sorry that you are not completely satisfied with the Zorrotrade app. Unfortunately, all our operators are busy at the moment. Please leave a message, including your account number and an explanation of your complaint and we will contact you as soon as possible. Thank you. Tone. Beat. Someone takes a deep breath, holds it shakily then exhales. 
+
+#### DARRIEN
+
+(intense) Listen you thieving bastards, I want my money. I don't care about your "suspicious activity" bollocks, I have burnt my entire life to the ground for this stupid bloody app and now you owe me my goddam money. So, you can either pay up or I drop a line to the Ombudsman and tell them all about your little "Projection" trading, see what they make of it. Beat. 
+
+#### DARRIEN
+
+(cont.) You can't just take my money, lock me out of your app, and then expect me to roll over. I've been a user for years. Hell, I've probably invested more via this poxy little program than everyone else put together and what do I have to show for it? Eh? You owe me. So either give me my money or... Or I'llI'llBeat. Is this meant to be, like, punishment or something? I'm not a bad person, all right? Wanting to be rich doesn't make you a bad person. Sure, most rich people are dicks but most of them started that way. Hell, most of them got to be rich because they were dicks. You don't even know me. I mean, sure, I went to a Public school but I got there on a scholarship and I worked my ass off. I hid it from the other lads, of course I did, otherwise they'd have ripped the piss out of me. One time I even faked a broken leg just to get out of admitting I couldn't afford a skiing trip. Classic. 'Course mum and dad weren't happy but they'd been dirt poor their whole lives so what did they know? I earned everything I got. Most of the other lads went to uni, Oxbridge and that, but not me. I had "the plan". While the rest of them were stuck translating Plato or whatever I would be out there earning bank. I took my entire student loan out and got straight to shorting using your app. This was back when it had only just launched. I struggled through your first janky interface, your weird background checks, all those damn glitches but I stuck with it because unlimited Margins and Deposits was pretty sweet. Made some quick cash shorting failing startups then used that to broaden into Crypto, leveraged some EM ETFS, scraped up a few pennies then started to go long on a few obvious winners like Omni and Sparkhub for some hedging. Easy peasy. It was good. It was working. I'd meet up with the lads and suddenly I was the one buying the good stuff. And sure, money can't buy you love, but you'd be amazed what personal trainers, high end surgery and hair plugs can achieve on a speccy little finance nerd. Life was good. Bloody expensive but good. I had a couple of close calls sure but something always came along. God bless Bitcoin amirite? So yeah, then I got cocky and I bet against the big man himself. I shorted Dantex hard in 2020. Stupid, really, but the whole Zurich thing had wiped a bunch out of my portfolio and I got a tipoff from one of the lads. So I went all in. And no, I don't blame Zorrotrade for that. But it was a bad time. I remember I was sitting on deck with Oli, watching the sun set in the Riviera and I was ready to close up shop. I grabbed my phone and started messing with the settings looking to settle up. That was when I noticed your new: "Personal Projection Short Selling" feature. It was disabled, buried under advanced lab settings and covered in disclaimers without any explanation but it still grabbed me. I had no idea what it was and there was nothing about it online Just that one slider with the warning: "These settings are experimental and may not function as intended, user discretion is advised." You really think that is enough after what you've done to me? But hey, screw it, I figured I was already basically broke, what did I have to lose. I flicked it on and a new dialogue window opened with two words: "Investment Amount". Bear in mind that at this point I barely had a pot to piss in. So I put in my last few grand. Why the hell not? The phone pinged and a little approving tick appeared and then it was gone. Nothing else. I carried on drinking and passed out around 4am. Oli kicked me shoreside in "Le Brusc" the next evening. He wasn't too impressed with the mess I had made of his guest cabin and let's be honest, we didn't really get on anyway. He dumped me at the dock with nowhere to stay and told me he'd send me a bill for the 
+
+#### TV.
+
+I tried calling up one of the other lads but no-one was picking up. That was when I checked the group chat. Turns out I must have run my mouth the night before because now Oli had told everyone I was broke. Apparently, they always knew I'd "end up back in the gutter eventually." I was just writing a proper response when my phone died. I'd been borrowing Oli's charger. Beat. There's a beep on the call. 
+
+#### DARRIEN
+
+Yeah, I know I'm going long with this, but tough. You can just shut up and listen. So it turns out that stepping off a yacht, alone, in some pissant fishing dock in the arse end of nowhere, in the middle of the night with a thousand dollar case and a lost look on your face is a good way to get yourself mugged. They took everything. The case, my watch, my jacket, even my shoes. But not my phone. Dunno why, it's like they didn't even notice it. Kicked the hell out of me, though. Talk about rock bottom... It took a while to convince anyone to let me borrow their charger and call the British embassy. Took me even longer to get through to the embassy. They told me to go online for an emergency travel permit and it was as I was applying for it, that I saw a new email ping up from my bank app. "Deposit received" I opened it and got as far as "remaining balance: one hundred thousand and eighty three pounds, twelve pence" before I was I was back on Zorrotrade reading a notification: "Congratulations! In recognition of your change in circumstances, you're Personal Projection Short Sell has now been paid in full. We hope you invest again soon!" Somehow, when I was pissed out my skull, I'd used the app to bet against myself and come out ahead. It didn't make any sense but when I checked with the bank, there it was all was, every penny. Obviously you hadn't worked the bugs out of this projection thing yet but that's your problem. Not mine. It's not like I hacked it or anything. Still, I knew it was probably a fluke. Time to call it quits. Only, that's the thing with money. It multiplies, especially when you're good at finding loopholes. Maybe I should have focused on how it worked but the wheels were already turning. If by some bizarre twist this really was shorting against what, my own life? I could make bank. I just needed to nudge things in a bad direction and the payout would grow... And no, it wasn't fraud. I've checked and there's no regulations about it or anything, so like I said: your app, your problem... I started with a couple of small tests. Nothing huge. I bet a thousand quid then picked a fight with the biggest stranger I could. It cost me a tooth but... four hundred profit. A good return but it didn't cover the dental bill to get it properly fixed. I tried again, this time betting 10k before renting a car (with insurance) and crashing it into a tree at speed. That messed my leg up pretty badly and I got a faceful of glass but I also got 50k profit. That was more like it. I spent a few weeks breaking myself, and sabotaging my life, in various ways, and by the end I'd banked a cool mil. It was just so liberating, so addictive, literally cashing in my misery into cold, hard cash. So as the sun set over the harbor I opened the app again and dug straight through to the Personal Projection Short Selling box: "Investment Amount" One million pounds, 'You Only Live Once' right? Again, the little ping and the tick. Then it was time to go for a walk. I'd picked out the spot the day before, a cliff about an hour and a half's walk uphill near some old monastery or whatever called Notre-Dam du Mai. It had a decent view if you're into that kind of thing but more importantly it was high. Just high enough to really hurt me, not enough to kill me. Or so I hoped. On the way I made a few phone calls, first to my parents, telling them I never loved them and hoped they died horribly, next I was on the group chat with the lads telling each of them just how many times I slept with their partners, even when I hadn't. Then it was on to my socials publicly declaring my affiliation with every messed up ideology and psychopath I could find. I ran out of time before I could confess to robbing orphanages to buy drugs but I think I made my point. Then I got to the cliff. It felt much taller standing at the top. There was a surprisingly chill wind blowing across the edge, driven upwards from the sea and that coupled with the sheerness of the drop gave me a moment of vertigo. I hesitated. Was this really worth it? Beat 
+
+#### DARRIEN
+
+(cont.) I jumped. Beat 
+
+#### DARRIEN
+
+(cont.) I woke up here at l'hopital Jean-Marcel, 2 days later. Apparently, I was in a medically induced coma since they found me. One leg was amputated and the other is full of pins. Cracked spine in two places, ruptured spleen, 6 broken ribs and a cracked skull. Every second hurts. But when I woke up I couldn't be happier. I was alive sure, but more than that I was rich, properly rich, untouchably rich. Everything was going to be okay. Everyone crowded me when I woke up but I just kept demanding my phone until finally one of the nurses gave up and handed it over. I had about a thousand missed calls but I skipped straight to Zorrotrader. I braced myself, looked down and there it was. Almost fifty million. But... there was a tiny symbol to the left of the figure. A minus symbol. And then I saw your notice. "Your payment has been suspended due to suspicious account activity including potential insider trading. Official bodies have been notified. Please repay your outstanding balance or prepare for Personal Adjustment." That was twelve hours ago and no matter what I do I can't seem to get through to anybody. So yeah, I need my money. I didn't do anything wrong I just... used a loophole, that's all. You can't blame me for playing the system. Besides I've got nothing left. Nothing. So just, give me my goddamn money. Beat. 
+
+#### DARRIEN
+
+Oh, right. Darrien Laurel. Account number 428813. 
+
+#### ANSWERPHONE
+
+Thank you. You are being transferred to our adjustments department. Click. There is something on the other end of the phone. It clearly isn't human. Metallic insectoid chittering grows louder. 
+
+#### DARRIEN
+
+H- hello? The chittering grows even louder. DARRIEN drops the phone. 
+
+#### DARRIEN
+
+(cont.) Oh god- what!? Nurse! NURSE! Darrien screams. The call ends. 
+
+#### 4. INT. O.I.A.R. OFFICE -- NIGHT, DRIZZLING (COMPUTER).
+
+SAM is quietly working. He's a little faster than he was but still hardly "dynamic." ALICE approaches. 
+
+#### ALICE
+
+Coffee? 
+
+#### SAM
+
+'fraid not. I'm still catching up. 
+
+#### ALICE
+
+Yeah, that'll happen when you turn up late and half-trollied. 
+
+#### SAM
+
+I don't know what you're talking about. 
+
+#### ALICE
+
+Those cheeks don't lie. Either you're reading a particularly saucy case or someone had a cheeky tipple before work. 
+
+#### SAM
+
+There may have been some wine. 
+
+#### ALICE
+
+Come on then, how was it? Did your eyes meet across a crowded MacDonald's or was it more of a crate of Buckfast under a bridge sort of situation? She gives a sarcastic wistful sigh. 
+
+#### SAM
+
+It was nice. 
+
+#### ALICE
+
+Nice, he says. Is she at least going to make an honest woman out of you? 
+
+#### SAM
+
+Alice, look, I'm not really comfortable talking to you about this. 
+
+#### ALICE
+
+Since when? 
+
+#### SAM
+
+It's just- I get that you might not love the idea of me seeing Celia, but... I just think we should keep things a bit more... professional now. You know? 
+
+#### ALICE
+
+Professional. 
+
+#### SAM
+
+Sorry, bad wording, but you know what I mean. Beat. 
+
+#### ALICE
+
+(Hurt and failing to hide it) No, you're right. I should probably stop getting tattoos of your face and return all your kidnapped pets... 
+
+#### SAM
+
+AliceALICE (Cont.) It's fine, I get it, I'll just find a way to soldier on somehow, despite this crushing blow. ALICE moves to leave. 
+
+#### SAM
+
+Alice wait. 
+
+#### ALICE
 
 What. 
+
+#### SAM
+
+I just don't want things to get weird... 
+
+#### ALICE
+
+Then you're in the wrong line of work. 
+
+#### SAM
+
+Yeah. Beat. 
+
+#### SAM
+
+I'm sorry. 
+
+#### ALICE
+
+(softening) Yeah. Look, I'm... happy you're happy. 
+
+#### SAM
+
+Thanks. Beat. 
+
+#### ALICE
+
+But if you ever ask me to be professional again, I'm going to have to take a shit on your desk. 
+
+#### SAM
+
+That seems completely fair and reasonable. Alice moves to leave. 
+
+#### SAM
+
+Hey... 
 
 #### ALICE
 
@@ -146,199 +498,47 @@ What?
 
 #### SAM
 
-Just get it over with. 
+(sighing) We spent most of the time discussing, if they are real. The cases. 
 
 #### ALICE
 
-I'm sure I don't know what you're talking about. 
+Sounds romantic. 
 
 #### SAM
 
-Mmhmm, Fine. Beat. 
+So what do you think? Are they? 
 
 #### ALICE
 
-I was just wondering though... (mocking) That is to say oh, um, ever so sorry to be a bother but what if you and I, uh, were to perhaps, if it's not too much trouble, maybe, go to purchase a cup of liquid 
+Does it matter? 
 
 #### SAM
 
-You know it's rude to eavesdrop? 
+Yeah, kind of! If we're working for the Men in Black or covering up ghosts or whatever then shouldn't someone go to the press or... 
 
 #### ALICE
 
-(normal again) You know it's rude to have absolutely no game? Christ, all these years and you still ask people out like a baby foal learning to tapdance. 
+Okay, a) You're drunk, b) You can't prove anything and c) you signed the official secrets act in your onboarding. And I know all your school friends say treason's "bussin'" and "fire", but it won't look good on your CV. 
 
 #### SAM
 
-Look it worked didn't it? 
-
-#### ALICE
-
-Maybe. Then again, maybe she's in the office right now packing her bags, burning off her fingerprints and booking a one-way flight to Costa Rica. Hard to tell. 
+Yeah butALICE Look Sam, you really want my opinion? Sober up and stop trying to make an impact. Just do the job and take your pay. 
 
 #### SAM
 
-(smiling) You're just jealous. 
+And what, just ignore what's going on right under my nose? 
 
 #### ALICE
 
-(gesturing) Oh yeah. Can't believe I'm missing out on all of "this." Devastating. Beat. They both clock it's a touch awkward. 
+(heading off) Pretty much. Keep it professional. 
 
 #### SAM
 
-Listen, AliceALICE Hmmm? 
-
-#### SAM
-
-Thanks. 
+(incredulous) I'm sorry? 
 
 #### ALICE
 
-For what? 
-
-#### SAM
-
-For coming with me to the institute, even though you knew it was going to be a waste of time. 
-
-#### ALICE
-
-And money. 
-
-#### SAM
-
-And money yeah. 
-
-#### ALICE
-
-Well don't worry about it. It wasn't that bad. 
-
-#### SAM
-
-Really? 
-
-#### ALICE
-
-No it was awful I'm just lying to you because I'm considerate like that. 
-
-#### SAM
-
-(smirking) Well either way, I've been thinking on it since we came back and I reckon you were right. I think I'm done with Magnus stuff. 
-
-#### ALICE
-
-(dubious) Oh yeah? 
-
-#### SAM
-
-Yeah why? 
-
-#### ALICE
-
-So you're telling me that if I had a case full of emails with the title "Magnus Institute re: Samama Khalid - Massive Conspiracy" you wouldn't be tempted? 
-
-#### SAM
-
-Nope. 
-
-#### ALICE
-
-Cool. Beat. 
-
-#### SAM
-
-You don't, though. Do you? That was just, like, a joke. Right? Alice sighs. 
-
-#### ALICE
-
-Come on, for now let's just focus on getting you as jaded and apathetic as possible. 
-
-#### SAM
-
-I'm sure Celia will love that. 
-
-#### ALICE
-
-Yeah well, we don't always get what we want, do we? 3. CYBERSPACE -- NORRIS (COMPUTER) Claim Review: EL-56920 Policy Holder: Soho Jack's Ltd. Policy Number: 548651-656 Policy Type: Employers' Liability Site Address: Soho Jack's, 9 Carlisle St, London W1D 3BK Affected Employee: Ms. Jordan Bennett Date of Incident: 9 March 2024 Incident Location: On site. Documentation: Crime Report -- Submitted Medical Practitioner Report -- Submitted Incident Book Entry -- Submitted First Aider's Report -- Submitted Supervisor's incident Report Submitted HSE communications -- Submitted Health-And-Safety policies Submitted Employment Contract -- Submitted Claim Valuation: £1,560,000 Assessment Conclusion: Claim Denied Reason: Fraudulent claim (see incident description and police report) Incident Description as Follows: I've been advised by my lawyer that I should cooperate with your insurance claim, even if I am suing your asses to kingdom-come. Something about "acting in good faith". So here is my account of what happened, for all the good it'll do. I could apologize for the handwriting but since it's your damn fault I won't bother. I started working at Jack's in the spring of '21 after finishing The Flair Academy six months earlier. I hadn't found a job the whole time and was just about to call-it, go back to flipping burgers when Jack's replied. Got an interview straight away, bossed the demo and somehow found myself tending at the Soho Gentleman's club. Jack's has dances on the bottom two floors with VIP suites for hire above with a dedicated bouncer keeping them separate. Really, it's just a quieter box with a private bar, some comfy chairs and the option of private dancers. It's always booked up with swank dickheads trying to show off, but Stags are the worst: they're cheap, they're loud, they drink too much, tip too little and only ever hire one dance for the groom. Plus there's always some "nice guy" that won't shut up about exploitation without even bothering to stop staring . This lot weren't the worst. Just a bunch of heavyset, middle-aged lads with names like Ozzer, or Rozzer or whatever. My guess was they used to be a school rugby team or something. The groom was fine, acted embarrassed even though he was obviously keen and they were easily pleased. They mostly just ordered lager so I did a couple of Helicopters and a Flash with some empties just for show and then left them to it and got ahead with restocking while they all swore they'd come back every year! (Noone ever does). They started giving the groom gifts. Same old tat as always, cufflinks, poo gags, all the standard stuff. Then the groom spotted the last one on the table, this cheap yellow and purple kids lunch box. It looked old and shoddy and no one admitted to bringing it but the groom just squealed with glee and carefully opened it before pulling out a bunch old souvenir merch. Pencils, postcards, keyrings, all sorts of crap, all the same yellow and purple and last of all a cracked CD case. When they saw it the whole bunch gave this big laughing cheer. I could see which way the wind was turning and sure enough the bestman came over and asked if he could play it. The cover had this awful comic sans title: "Mr. Bonzo's On His Way" and I wasn't exactly thrilled by this. Mr. Bonzo was way before my time and from what I had seen online he had always looked pretty messed up. But hey, it was their night, if they wanted to spend it on some cringy nostalgia trip, who was I to say no? This kind of thing happened often enough that we kept a battered old CD Player in the back that we could patch into the room's speakers, just in case. So, I ducked back there, put it on, turned the volume down as low as I could get away with, and prayed it wasn't too obnoxious. Immediately the cheering children's voices blared out the speakers accompanied by bouncy tubas loud enough to drown out the rest of the club's music. It was awful but I could hear the lads stamping the floor in rhythm and as the kids started singing the men were singing along: "Mr. Bonzo's on his way, he wants to stay, he wants to play! Mr. Bonzo's on his way, he wants to stay, he wants to play!" I gave them a minute since I didn't want to be a total killjoy but finally, I reached over and turned off the CD player before Derek came down from the office to "have a word." but instead of stopping it just grew louder, rattling the glassware in the bar: "Mr. Bonzo's on his way, he wants to stay, he wants to play!" I even yanked the cables from the speakers, but it just kept getting louder. I was just reaching for my walkie to call for a techie when I heard this massive crash from the room followed by this cheer from the party. I rushed back in ready to give them a bollocking but then hesitated behind the door when I saw it. It was hunched in the doorway, a bulbous figure with a purple hat that cast crazed shadows in all directions thanks to the club's lighting effects. Then it doffed it's hat and pushed itself into the room, foam catching on the doorframe with a squeak that set my teeth on edge. It massive bulbous google-eyes seemed to roam all over the room before settling on the groom and it was almost as if the huge toothy grin grew wider when it saw him. The rugby boys were tripping over themselves to get in and hug it, laughing and pushing the groom to the front and so I figured at that point it was a prank. Again, none of them took credit for it and there was a moment of genuine hesitation, until one of them yelled out "It's ya lapdance, Baz!" and they all fell about laughing. I know you'll think I should have seen the funny side of it, after all they weren't a bad bunch, but I was pissed. Not at them, they didn't know any better but at Joey the doorman. Derek had already ripped him a new one after he ducked out for a smoke and left me alone with punters, if he'd done it again and this time accidentally let this kind of thing happen... I was ready to kill him myself. I began to stride over, readying for the inevitable complaints then hesitated as I saw something far more unnerving than the ugly costume that was capering with the groom in the middle of the group. There was a pair of heavy boots on their side, poking just inside the still open doorway. Joey's boots, and they weren't moving. Just then the goggly eyes looked turned to me, and a puffy finger raised cheekily to it's mouth. By this time the men had all started chanting "Bonzo! Bonzo! Bonzo", stamping their feet and banging the tables in a circle around the pair in the center as the music grew deafening, distortions creeping into the music as the speakers strained. I grabbed for my walkie to call for help but as I raised it to my face I could hear that same godawful tune blaring from the tinny little speaker: "Mr. Bonzo's on his way, he wants to stay, he wants to play!" I started to yell at them, telling them to stop, to get out before we called the police but none of them heard. They were still focused on the thing as it took the groom by the arms and began to spin him around, faster and faster. The watching men, were falling over one another in their hysterics as it drew itself up to its full height, a full head taller than the largest of them, and, still spinning, suddenly ripped the groom's arms from their sockets with the gristly snap of bone, tendon and muscle. I remember, they were still laughing as the Groom began to scream, blood flooding out of his shoulders in gouts. It was only when I screamed with him that they realised what was happening. They began screaming themselves as Mr. Bonzo plunged its oversized hand into the groom's mouth, his teeth unable to penetrate its sweaty hide. The other hand closed over his face, stubby fingers pressing into his eyes and smothering his nose. Then the two hands jerked apart unfolding the groom's head with another flowering explosion of blood. The men began to roar, some in rage, most in terror. A few of the bigger guys picked up chairs or bottles and began to beat and slash at the thing. It didn't seem to notice, its bulbous, bloodshot, eyes staying fixed on the groom's body as it raised it overhead. One slash from a broken bottle burst one of the spots on its body releasing a stream of thick viscous liquid sloughing out from inside: some vile mixture of putrid water, rotten foam and rancid meat. The Bonzo thing didn't seem to notice as it raised the body and slammed it back into the floor over and over and over, each blow pulverizing the flesh and showering us in gore until all that was left was a dripping sack of shattered bones that it shoveled into its gaping gaptoothed mouth with satisfaction. For a split second, all was still but the music just pounded on, barely recognizable now over the distortion from the smoking speakers as those voices, no longer childlike, still chanted the words "He's here to stay... He wants to play..." Then Mr. Bonzo turned towards us with its head bowed almost reverentially and everybody went silent. Slowly, awfully slowly, it raised its head, titling it coquettishly to one side. Then the seams across its face split revealing it's gaping maw filled with even larger, sharper teeth. And it boomed playfully "Bonzo? Bonzo Bonzo?" I don't remember much of what followed but... I dream about it most nights. In the dream it digs through all those men to get to me, grabbing fistfuls of them and throwing them to smash against the wall. The strobe fires as it's hands plunge into the pile of us and each flash shows a little less flesh between me and it, between me and all those teeth... finally everyone else is gone. I raise my arm to protect myself and it gently but inexorably lifts it into its mouth, smiles and bites... None of us was left whole but I was the luckiest. All I lost was a hand, it wasn't even my dominant one. I've told the investigators everything I know, doctors too. I don't know why nobody outside the room heard or saw anything, why the cameras weren't working, why it let me live. But I do know why they weren't any bodies. All I actually want is my hand back so I can tend bar but that isn't going to happen is it? So I'll have to settle for the next best thing and sue you for everything I can get, because I don't know what happened that night but it was in your venue and no one came to help. Not Derek, not another doorman, no one. So yeah, you'd better have one hell of a settlement waiting for me, or I'll see you in court. 4. O.I.A.R. OFFICE INT.- NIGHT, CLEAR(COMPUTER) GWEN is sat at her desk, stunned by what she has just heard. ALICE enters 
-
-#### GWEN
-
-Jesus Christ... 
-
-#### ALICE
-
-I go by Alice now, actually. Beat. 
-
-#### ALICE CONT.
-
-Gwen? Hello? 
-
-#### GWEN
-
-(dazed) What? 
-
-#### ALICE
-
-Okay enough is enough. How am I meant to wind you up if you're already at the end of your rope? 
-
-#### GWEN
-
-(still distracted) Don't. 
-
-#### ALICE
-
-Wow. Are you, like, actually ok? 
-
-#### GWEN
-
-Yeah. Yeah, I just- I had to meet one of these externals... 
-
-#### ALICE
-
-Oh. I get it. Yeah, I've worked in civil service long enough to meet plenty of entitled little dipshit consultants. You shouldn't let it get to you. Gwen lets out a small, bitter laugh. 
-
-#### GWEN
-
-What do you think we're actually doing, here at the O.I.A.R.? 
-
-#### ALICE
-
-Apart from mortgaging our mental health for a wage packet? 
-
-#### GWEN
-
-We've both been here long enough to know this place. We're not doing good. We're not just sifting random data. There's something wrong here. 
-
-#### ALICE
-
-What are you getting at? 
-
-#### GWEN
-
-You never wonder what the point is? Who benefits from all this awfulness? 
-
-#### ALICE
-
-I don't wonder. I know. 
-
-#### GWEN
-
-(sitting up) What? Really? 
-
-#### ALICE
-
-(portentous) Oh yeah. I've known for a while. What we're doing here, it's all part of a grand plan to satisfy one of the most unspeakable evils known to mankind... Gwen's on the edge of her seat. 
-
-#### ALICE
-
-(almost a whisper) ...the UK government. Beat. GWEN sighs. 
-
-#### GWEN
-
-Thanks, Alice. Utterly useless as always. 
-
-#### ALICE CONT.
-
-Anytime. 
+It's ok when I say it. SAM sighs and goes back to work. 
 
 ##### [Music]
 
@@ -346,8 +546,8 @@ Anytime.
 
 #### ANNOUNCER
 
-The Magnus Protocol is a podcast distributed by Rusty Quill and licensed under a Creative Commons Attribution Non-Commercial Sharealike 4.0 International License. The series is created by Jonathan Sims and Alexander J Newall, and directed by Alexander J Newall. This episode was written by Alexander J Newall and edited with additional materials by Jonathan Sims, with vocal edits by Lowri Ann Davies, soundscaping by Tessa Vroom, and mastering by Catherine Rinella with music by Sam Jones. It featured Billie Hindle as Alice Dyer, Shahan Hamza as Samama Khalid, Anusia Battersby as Gwen Bouchard, Lowri Ann Davies as Celia Ripley, with additional voices from Alexander J Newall. The Magnus Protocol is produced by April Sumner, with executive producers Alexander J Newall, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton, and Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice. To subscribe, view associated materials, or join our Patreon, visit rustyquill.com. Rate and review us online, tweet us @therustyquill, visit us on facebook or email us at mail@rustyquill.com Thanks for listening. The Magnus Protocol 12 -- Getting Off 
+The Magnus Protocol is a podcast distributed by Rusty Quill and licensed under a Creative Commons Attribution Non-Commercial Share-alike 4.0 International License. The series is created by Jonathan Sims and Alexander J Newall, and directed by Alexander J Newall. This episode was written by Alexander J Newall and edited with additional materials by Jonathan Sims, with vocal edits by Nico Vettese, soundscaping by Meg McKellar, and mastering by Catherine Rinella with music by Sam Jones. It featured Billie Hindle as Alice Dyer, Shahan Hamza as Samama Khalid, Anusia Battersby as Gwen Bouchard, Lowri Ann Davies as Celia Ripley, Sarah Lambie as Lena Kelley. The Magnus Protocol is produced by April Sumner, with executive producers Alexander J Newall, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton, and Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice. To subscribe, view associated materials, or join our Patreon, visit rustyquill.com. Rate and review us online, tweet us @therustyquill, visit us on facebook or email us at mail@rustyquill.com Thanks for listening. The Magnus Protocol 13 -- Futures 
 
-#### CAT1RB4728-09032024-13032024
+#### CAT3RB4622-17092023-14032024
 
-Mascot (kids) --/- frenzy [insurance claim] Incident Elements: - Mascots - Bonzo - Graphic Violence - Mentions of: blood, dismemberment Transcripts: https://shorturl.at/gzF15 This episode is dedicated from Thomas Cardona to Amanda, thank you for your generous support! You can a complete list of our Kickstarter backers https://rustyquill.com/the-magnusprotocol-supporter-wall/ Created by Jonathan Sims and Alexander J Newall Directed by Alexander J Newall Written by Alexander J Newall Script Edited with additional material by Jonathan Sims Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice Produced by April Sumner Featuring (in order of appearance) Shahan Hamza as Samama Khalid Lowri Ann Davies as Celia Ripley Billie Hindle as Alice Dyer Anusia Battersby as Gwendolyn Bouchard Alexander J Newall as Norris Dialogue Editor -- Lowri Ann Davies Sound Designer -- Tessa Vroom Mastering Editor -- Catherine Rinella Music by Sam Jones (orchestral mix by Jake Jackson) Art by April Sumner SFX from Soundly, Freesound (CCO): vladnegrila, and previously credited artists Support us on Patreon at https://patreon.com/rustyquill Check out our merchandise available at https://www.redbubble.com/people/RustyQuill/shop and https://www.teepublic.com/stores/rusty-quill Join our community: WEBSITE: rustyquill.com FACEBOOK: facebook.com/therustyquill TWITTER: @therustyquill REDDIT: reddit.com/r/RustyQuill EMAIL: mail@rustyquill.com The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty Quill Ltd. and licensed under a Creative Commons Attribution Non-Commercial Share alike 4.0 International Licence. 
+Gambling (application) --/- murder [voicemail] Incident Elements: - Self Harm/attempted suicide - Obsession - Finance problems - Addiction (gambling) - Mentions of: Vehicle Accidents - SFX: insectoid Transcripts: https://shorturl.at/gzF15 This episode is dedicated to Odin Panek, thank you for your generous support! You can a complete list of our Kickstarter backers https://rustyquill.com/the-magnus-protocol-supporter-wall/ Created by Jonathan Sims and Alexander J Newall Directed by Alexander J Newall Written by Alexander J Newall Script Edited with additional material by Jonathan Sims Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice Produced by April Sumner Featuring (in order of appearance) Lowri Ann Davies as Celia Ripley Shahan Hamza as Samama Khalid Billie Hindle as Alice Dyer Anusia Battersby as Gwendolyn Bouchard Sarah Lambie as Lena Kelley Zena Carswell as Answerphone Euan Shedden as DarrienEp Dialogue Editor -- Nico Vettese Sound Designer -- Meg McKellar Mastering Editor -- Catherine Rinella Music by Sam Jones (orchestral mix by Jake Jackson) Art by April Sumner SFX from Soundly, Freesound: daboy291, SpliceSound, lyd4tuna, bevibelldesign, JonasTissell, Meg McKellar and previously credited artists Support us on Patreon at https://patreon.com/rustyquill Check out our merchandise available at https://www.redbubble.com/people/RustyQuill/shop and https://www.teepublic.com/stores/rusty-quill Join our community: WEBSITE: rustyquill.com FACEBOOK: facebook.com/therustyquill TWITTER: @therustyquill REDDIT: reddit.com/r/RustyQuill EMAIL: mail@rustyquill.com The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty Quill Ltd. and licensed under a Creative Commons Attribution Non-Commercial Share alike 4.0 International Licence. 
