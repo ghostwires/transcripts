@@ -1,906 +1,652 @@
 ©Rusty Quill 2023
 
 The Magnus Protocol
-Episode 13
-"Futures"
-Written by Alexander J Newall
-Edited by Jonathan Sims
+Episode 14
+“Pet Project”
+Written by Shaun Pellington
+Edited by Jonathan Sims and Alexander J Newall
 
-14-06-2023
-Draft 3.1
+09-10-23
+Draft 4.0
+[1]
 
 ©Rusty Quill 2023
 
 ANNOUNCER
-This episode is dedicated to Odin
-Panek - Hello everyone! It's Odin, your
-nerd named after a Norse god. I hope
-you enjoyed the episode. I also hope
-you have a wonderful day, evening or
-night whenever or wherever you are.
+This episode is dedicated to This
+episode is dedicated to Sari-Anna
+Ballard and I just wanted to say I
+absolutely love this series and
+everything you’ve done; you guys
+are an inspiration to me and I always
+look forward to seeing more of your
+content! Keep it up!
 [Intro Theme]
 ANNOUNCER
 Rusty Quill Presents: The Magnus
 Protocol.
-Episode Thirteen – Futures
+Episode Fourteen – Pet Project
 [Music]
 
-1. INT. PLEASANT RESTAURANT – EVENING, CLEAR (SAM’S
-PHONE)
-There is a pleasant murmur of conversation combined with soft
-piano music coming in over speakers. It’s a well-chosen date spot,
-fancy enough to matter without being ostentatious. Sam and Celia
-sit opposite one another.
-SAM
-So what are we thinking?
-CELIA
-On the one hand, this technically
-counts as breakfast so I should
-probably go with something light, but
-on the other… I'm in the mood for rich
-and cheesy. Choices, choices.
-
-SAM
-Yeah, I must admit, it is kinda weird
-waking up then immediately going out
-on a dinner date.
-CELIA
-
-©Rusty Quill 2023
-
-Yeah, working nights is taking some
-getting used to.
-SAM
-You seem all right.
-CELIA
-You’re not too bad yourself.
-SAM
-(blushing)
-I, Heh- uh...
-Celia laughs. A waiter arrives.
-WAITER
-Are we ready to order?
-CELIA
-I’ll have the baked camembert and
-he’s…
-SAM
-I’ll have the same, thank you.
-WAITER
-Very good.
-The waiter departs.
-CELIA
-Alice was right – it is easy to make you
-blush..
-SAM
-You just caught me unawares.
-CELIA
-Of course.
-SAM
-So you asked her about me?
-CELIA
-Just doing my due diligence.
-SAM
-
-©Rusty Quill 2023
-
-And what else did she say about me?
-CELIA
-That you don't know how cute you are.
-SAM
-(pleased)
-Oh. Well…
-CELIA
-…and that you're an overachiever,
-obsessive, a bit repressedSAM
-OkayCELIA
--nosey, kind of a recluseSAM
-Thank you.
-CELIA
--and very easy to wind up.
-Beat.
-SAM
-Well, she's not wrong, I guess. So who
-do I talk to to get a complete list of your
-flaws?
-CELIA
-No-one. I’m mysterious.
-SAM
-Hmmm. Well jokes aside we should
-probably just get all of our baggage out
-on the table now. It’s risky enough
-dating at work without adding
-bombshell revelations to the mix.
-CELIA
-You want to start with the big stuff? Ok
-then.
-
-©Rusty Quill 2023
-
-CELIA settles herself.
-CELIA
-(cont.)
-I have a baby. Jack. He’s just over a
-year old now.
-SAM
-Cool.
-Beat.
-CELIA
-And before you ask, no there’s no dad
-on the scene. Not even sure who he is. I
-had a couple of wild years after I moved
-here. It was a really weird time for me,
-but somehow I got lucky enough to
-come out of it all with him.
-SAM
-Fair enough. Do I get to meet him?
-
-CELIA
-That depends on your baggage. Dish.
-SAM
-All right…
-SAM arranges his own thoughts.
-SAM
-(cont.)
-No kids of my own. Both my parents are
-still around. I haven’t worked up the
-nerve to tell them that I bailed on my
-last job yet.
-CELIA
-They’d care that much?
-SAM
-I was tested as a kid and, uh, they said I
-was “gifted” so mum and dad got a bee
-
-©Rusty Quill 2023
-
-in their bonnet and enrolled me in every
-“enrichment” program they could findCELIA
-Like The Magnus Institute?
-SAM
-No. They were the first ones that didn’t
-want me.
-CELIA
-That why you’re so hung up on them?
-SAM
-I don’t know. Maybe? That definitely
-feels like when it all started.
-
-CELIA
-When what started?
-SAM
-Well after that it all just went downhill.
-Didn’t get into Oxford, so I went to
-Nottingham. I graduated but I missed a
-first by one mark. Then I went to work
-at a legal firm. I was there for years,
-hoping they’d eventually sponsor me
-for a law degree.
-CELIA
-And?
-SAM sighs.
-SAM
-I had a breakdown. Stress. There was
-an… incident at work. I… freaked out
-during a presentation. After that they
-“encouraged” me to move on and I did.
-Six unemployed months later and I took
-a job at the O.I.A.R.
-CELIA
-(Slightly cautious)
-
-©Rusty Quill 2023
-
-Alice hooked you up?
-SAM
-(noticing)
-Yeah. Uh Full disclosure, we dated at
-Uni and stayed in contact after. I did my
-best to help her though her parents’
-deaths but after that we pretty much
-dropped out of touch. According to her
-she dropped me a line about the job
-after “the most pathetic vague-post she
-had ever seen”.
-CELIA
-And now?
-SAM
-Now she’s a friend. An insufferable,
-obnoxious know-it-all friend but yeah,
-just a friend.
-CELIA
-All right then.
-Pause, they both drink.
-SAM
-That everything we think?
-CELIA
-Yeah. I did want to ask you, though…
-SAM
-(Bracing himself)
-All right…
-CELIA
-The cases, at work. Do you think they’re
-real?
-Beat.
-SAM
-Do you?
-CELIA
-
-©Rusty Quill 2023
-
-I asked you first.
-Beat.
-SAM
-I… don’t know. I hope not. You?
-CELIA
-I'm pretty sure they're real.
-Awkward pause.
-SAM
-More wine?
-CELIA
-Please.
-SAM pours.
-The call ends abruptly.
-
-2. INT. MANAGER’S OFFICE – NIGHT, LIGHT RAIN
-(MANAGER’S LANDLINE)
-GWEN enters the office and stands silent and shaking. Lena looks
-up calmly.
-LENA
-Can I help you Gwen?
-GWEN
-Is it my fault?
-LENA
-You’ll have to be more specific.
-GWEN
-Bonzo. One of the cases. Did it really
-happen? Was it because of me?
-Beat.
-LENA
-
-©Rusty Quill 2023
-
-Yes. Whatever horrible case you read, it
-happened.
-Beat. GWEN reacts.
-GWEN
-And am I responsible?
-LENA
-To a degree.
-Beat.
-GWEN
-Tell me why.
-Beat. Lena stands and sits against her desk.
-LENA
-Sit.
-GWEN
-I don’t want- [to sit]
-LENA
-Sit.
-Gwen does so, unsteadily.
-LENA
-(cont.)
-The world is full of opposing forces,
-some benevolent, most not. In order for
-the wheels to keep on turning, all these
-forces need to be monitored and
-balanced. That is where we come in.
-GWEN
-That doesn’t mean anything.
-LENA
-And yet it is the only explanation you’re
-going to get for now.
-GWEN
-So what? We’re the bad guys?
-
-©Rusty Quill 2023
-
-LENA
-We are… managing the “bad guys”..
-Beat.
-LENA
-(cont. returning to her desk)
-There should be an email in your inbox.
-We have another external that needs
-assignment. It’s quite urgent.
-Beat.
-LENA
-(cont.)
-Gwen?
-GWEN
-I’ll sort it.
-LENA
-See that you do.
-
-3. INT. QUIET FRENCH HOSPITAL WARD – SUNSET, CLOUDY
-(CASE RECORDING).
-ANSWERPHONE
-Welcome to the Zorrotrade customer
-support line. This call may be recorded
-for training and monitoring purposes.
-Please select from one of the following
-options:
-For sales enquiries, press one.
-For technical support, press two.
-For complaints, press thrSomeone pushes three.
-Beat.
-We’re sorry that you are not completely
-satisfied with the Zorrotrade app.
-Unfortunately, all our operators are
-busy at the moment. Please leave a
-message, including your account
-
-©Rusty Quill 2023
-
-number and an explanation of your
-complaint and we will contact you as
-soon as possible. Thank you.
-Tone.
-Beat.
-Someone takes a deep breath, holds it shakily then exhales.
-DARRIEN
-(intense)
-Listen you thieving bastards, I want my
-money.
-I don’t care about your “suspicious
-activity” bollocks, I have burnt my
-entire life to the ground for this stupid
-bloody app and now you owe me my
-goddam money. So, you can either pay
-up or I drop a line to the Ombudsman
-and tell them all about your little
-“Projection” trading, see what they
-make of it.
-Beat.
-DARRIEN
-(cont.)
-You can’t just take my money, lock me
-out of your app, and then expect me to
-roll over. I’ve been a user for years.
-Hell, I’ve probably invested more via
-this poxy little program than everyone
-else put together and what do I have to
-show for it? Eh?
-You owe me.
-So either give me my money or… Or I’llI’llBeat.
-Is this meant to be, like, punishment or
-something? I’m not a bad person, all
-
-©Rusty Quill 2023
-
-right?
-Wanting to be rich doesn’t make you a
-bad person. Sure, most rich people are
-dicks but most of them started that
-way. Hell, most of them got to be rich
-because they were dicks.
-You don’t even know me. I mean, sure, I
-went to a Public school but I got there
-on a scholarship and I worked my ass
-off. I hid it from the other lads, of
-course I did, otherwise they’d have
-ripped the piss out of me. One time I
-even faked a broken leg just to get out
-of admitting I couldn’t afford a skiing
-trip. Classic.
-‘Course mum and dad weren’t happy
-but they’d been dirt poor their whole
-lives so what did they know?
-I earned everything I got. Most of the
-other lads went to uni, Oxbridge and
-that, but not me. I had “the plan”. While
-the rest of them were stuck translating
-Plato or whatever I would be out there
-earning bank.
-I took my entire student loan out and
-got straight to shorting using your app.
-This was back when it had only just
-launched. I struggled through your first
-janky interface, your weird background
-checks, all those damn glitches but I
-stuck with it because unlimited Margins
-and Deposits was pretty sweet. Made
-some quick cash shorting failing
-startups then used that to broaden into
-Crypto, leveraged some EM ETFS,
-scraped up a few pennies then started
-to go long on a few obvious winners
-like Omni and Sparkhub for some
-hedging. Easy peasy.
-
-©Rusty Quill 2023
-
-It was good. It was working. I’d meet up
-with the lads and suddenly I was the
-one buying the good stuff. And sure,
-money can’t buy you love, but you’d be
-amazed what personal trainers, high
-end surgery and hair plugs can achieve
-on a speccy little finance nerd.
-Life was good. Bloody expensive but
-good. I had a couple of close calls sure
-but something always came along. God
-bless Bitcoin amirite?
-So yeah, then I got cocky and I bet
-against the big man himself. I shorted
-Dantex hard in 2020. Stupid, really, but
-the whole Zurich thing had wiped a
-bunch out of my portfolio and I got a
-tipoff from one of the lads. So I went all
-in.
-And no, I don't blame Zorrotrade for
-that. But it was a bad time.
-I remember I was sitting on deck with
-Oli, watching the sun set in the Riviera
-and I was ready to close up shop. I
-grabbed my phone and started messing
-with the settings looking to settle up.
-That was when I noticed your new:
-“Personal Projection Short Selling”
-feature. It was disabled, buried under
-advanced lab settings and covered in
-disclaimers without any explanation but
-it still grabbed me. I had no idea what it
-was and there was nothing about it
-online
-Just that one slider with the warning:
-“These settings are experimental and
-may not function as intended, user
-discretion is advised.” You really think
-
-©Rusty Quill 2023
-
-that is enough after what you’ve done
-to me?
-But hey, screw it, I figured I was already
-basically broke, what did I have to lose.
-I flicked it on and a new dialogue
-window opened with two words:
-“Investment Amount”. Bear in mind that
-at this point I barely had a pot to piss
-in. So I put in my last few grand. Why
-the hell not?
-The phone pinged and a little approving
-tick appeared and then it was gone.
-Nothing else. I carried on drinking and
-passed out around 4am.
-Oli kicked me shoreside in “Le Brusc”
-the next evening. He wasn’t too
-impressed with the mess I had made of
-his guest cabin and let’s be honest, we
-didn’t really get on anyway. He dumped
-me at the dock with nowhere to stay
-and told me he’d send me a bill for the
-TV.
-I tried calling up one of the other lads
-but no-one was picking up. That was
-when I checked the group chat. Turns
-out I must have run my mouth the night
-before because now Oli had told
-everyone I was broke. Apparently, they
-always knew I’d “end up back in the
-gutter eventually.” I was just writing a
-proper response when my phone died.
-I’d been borrowing Oli’s charger.
-Beat. There's a beep on the call.
-DARRIEN
-Yeah, I know I'm going long with this,
-but tough. You can just shut up and
-
-©Rusty Quill 2023
-
-listen. So it turns out that stepping off
-a yacht, alone, in some pissant fishing
-dock in the arse end of nowhere, in the
-middle of the night with a thousand
-dollar case and a lost look on your face
-is a good way to get yourself mugged.
-They took everything. The case, my
-watch, my jacket, even my shoes. But
-not my phone. Dunno why, it’s like they
-didn’t even notice it. Kicked the hell out
-of me, though. Talk about rock
-bottom…
-It took a while to convince anyone to let
-me borrow their charger and call the
-British embassy. Took me even longer
-to get through to the embassy. They
-told me to go online for an emergency
-travel permit and it was as I was
-applying for it, that I saw a new email
-ping up from my bank app. “Deposit
-received” I opened it and got as far as
-“remaining balance: one hundred
-thousand and eighty three pounds,
-twelve pence“ before I was I was back
-on Zorrotrade reading a notification:
-“Congratulations! In recognition of your
-change in circumstances, you’re
-Personal Projection Short Sell has now
-been paid in full. We hope you invest
-again soon!”
-Somehow, when I was pissed out my
-skull, I’d used the app to bet against
-myself and come out ahead. It didn’t
-make any sense but when I checked
-with the bank, there it was all was,
-every penny.
-
-©Rusty Quill 2023
-
-Obviously you hadn’t worked the bugs
-out of this projection thing yet but
-that's your problem. Not mine. It’s not
-like I hacked it or anything.
-Still, I knew it was probably a fluke.
-Time to call it quits.
-Only, that’s the thing with money. It
-multiplies, especially when you’re good
-at finding loopholes.
-Maybe I should have focused on how it
-worked but the wheels were already
-turning. If by some bizarre twist this
-really was shorting against what, my
-own life? I could make bank. I just
-needed to nudge things in a bad
-direction and the payout would grow...
-And no, it wasn't fraud. I’ve checked
-and there’s no regulations about it or
-anything, so like I said: your app, your
-problem…
-I started with a couple of small tests.
-Nothing huge. I bet a thousand quid
-then picked a fight with the biggest
-stranger I could. It cost me a tooth
-but… four hundred profit. A good return
-but it didn't cover the dental bill to get it
-properly fixed. I tried again, this time
-betting 10k before renting a car (with
-insurance) and crashing it into a tree at
-speed. That messed my leg up pretty
-badly and I got a faceful of glass but I
-also got 50k profit. That was more like
-it. I spent a few weeks breaking myself,
-and sabotaging my life, in various
-ways, and by the end I'd banked a cool
-mil.
-It was just so liberating, so addictive,
-literally cashing in my misery into cold,
-hard cash. So as the sun set over the
-
-©Rusty Quill 2023
-
-harbor I opened the app again and dug
-straight through to the Personal
-Projection Short Selling box:
-“Investment Amount” One million
-pounds, ‘You Only Live Once’ right?
-Again, the little ping and the tick. Then
-it was time to go for a walk.
-I’d picked out the spot the day before, a
-cliff about an hour and a half’s walk
-uphill near some old monastery or
-whatever called Notre-Dam du Mai. It
-had a decent view if you’re into that
-kind of thing but more importantly it
-was high. Just high enough to really
-hurt me, not enough to kill me. Or so I
-hoped.
-On the way I made a few phone calls,
-first to my parents, telling them I never
-loved them and hoped they died
-horribly, next I was on the group chat
-with the lads telling each of them just
-how many times I slept with their
-partners, even when I hadn’t. Then it
-was on to my socials publicly declaring
-my affiliation with every messed up
-ideology and psychopath I could find. I
-ran out of time before I could confess to
-robbing orphanages to buy drugs but I
-think I made my point.
-Then I got to the cliff. It felt much taller
-standing at the top. There was a
-surprisingly chill wind blowing across
-the edge, driven upwards from the sea
-and that coupled with the sheerness of
-the drop gave me a moment of vertigo. I
-hesitated. Was this really worth it?
-Beat
-
-©Rusty Quill 2023
-
-DARRIEN
-(cont.)
-I jumped.
-Beat
-DARRIEN
-(cont.)
-I woke up here at l’hopital Jean-Marcel,
-2 days later. Apparently, I was in a
-medically induced coma since they
-found me. One leg was amputated and
-the other is full of pins. Cracked spine
-in two places, ruptured spleen, 6
-broken ribs and a cracked skull. Every
-second hurts.
-But when I woke up I couldn’t be
-happier.
-I was alive sure, but more than that I
-was rich, properly rich, untouchably
-rich. Everything was going to be okay.
-Everyone crowded me when I woke up
-but I just kept demanding my phone
-until finally one of the nurses gave up
-and handed it over.
-I had about a thousand missed calls but
-I skipped straight to Zorrotrader. I
-braced myself, looked down and there it
-was. Almost fifty million. But… there
-was a tiny symbol to the left of the
-figure. A minus symbol. And then I saw
-your notice.
-“Your payment has been suspended
-due to suspicious account activity
-including potential insider trading.
-Official bodies have been notified.
-Please repay your outstanding balance
-or prepare for Personal Adjustment.”
-That was twelve hours ago and no
-matter what I do I can’t seem to get
-
-©Rusty Quill 2023
-
-through to anybody.
-So yeah, I need my money.
-I didn’t do anything wrong I just… used
-a loophole, that’s all. You can’t blame
-me for playing the system.
-Besides I’ve got nothing left. Nothing.
-So just, give me my goddamn money.
-Beat.
-DARRIEN
-Oh, right. Darrien Laurel. Account
-number 428813.
-ANSWERPHONE
-Thank you. You are being transferred to
-our adjustments department.
-Click. There is something on the other end of the phone. It clearly
-isn’t human. Metallic insectoid chittering grows louder.
-DARRIEN
-H- hello?
-The chittering grows even louder. DARRIEN drops the phone.
-DARRIEN
-(cont.)
-Oh god- what!? Nurse! NURSE!
-Darrien screams. The call ends.
-
-4. INT. O.I.A.R. OFFICE - NIGHT, DRIZZLING (COMPUTER).
-SAM is quietly working. He’s a little faster than he was but still
-hardly “dynamic.” ALICE approaches.
+1. INT. OIAR BREAKROOM - NIGHT, CLEAR. (CCTV)
+CELIA is having a moment to herself with a strong coffee.
+ALICE enters.
 ALICE
-Coffee?
-SAM
-
-©Rusty Quill 2023
-
-‘fraid not. I’m still catching up.
+How’s the new blend?
+CELIA
+Vicious.
 ALICE
-Yeah, that’ll happen when you turn up
-late and half-trollied.
-SAM
-I don't know what you're talking about.
-ALICE
-Those cheeks don’t lie. Either you’re
-reading a particularly saucy case or
-someone had a cheeky tipple before
-work.
-SAM
-There may have been some wine.
-ALICE
-Come on then, how was it? Did your
-eyes meet across a crowded
-MacDonald’s or was it more of a crate
-of Buckfast under a bridge sort of
-situation?
-She gives a sarcastic wistful sigh.
-SAM
-It was nice.
-ALICE
-Nice, he says. Is she at least going to
-make an honest woman out of you?
-SAM
-Alice, look, I’m not really comfortable
-talking to you about this.
-ALICE
-Since when?
-SAM
-It’s just- I get that you might not love
-the idea of me seeing Celia, but… I just
-think we should keep things a bit
-more… professional now. You know?
+Excellent.
+ALICE pours herself a cup, then opens a cabinet, reaches up
+and pulls down a pack of biscuits. She carefully extracts two,
+replaces the pack, closes the cabinet then sits next to CELIA.
+[2]
 
 ©Rusty Quill 2023
 
 ALICE
-Professional.
-SAM
-Sorry, bad wording, but you know what
-I mean.
+Choco Leibnitz?
+CELIA
+Ooh, the good stuff! I’m honoured.
+ALICE
+Damn right you are.
+They eat.
 Beat.
+ALICE (CONT.)
+So. How’s tricks?
+CELIA
+(yawning)
+Not bad. You?
 ALICE
-(Hurt and failing to hide it)
-No, you're right. I should probably stop
-getting tattoos of your face and return
-all your kidnapped pets…
-SAM
-AliceALICE
-(Cont.)
-It’s fine, I get it, I’ll just find a way to
-soldier on somehow, despite this
-crushing blow.
-ALICE moves to leave.
-SAM
-Alice wait.
+Same old. Been anywhere good
+recently?
+CELIA
+Oh well, y’know.
 ALICE
-What.
-SAM
-I just don’t want things to get weird…
-ALICE
-Then you’re in the wrong line of work.
-SAM
-Yeah.
+Do I?
 Beat.
-SAM
-I’m sorry.
+She eats again.
+ALICE CONT.
+Oh, the date! Yeah! I was going to
+ask you about that, actually.
+CELIA
+Oh yeah?
+ALICE
+So… how was it?
+[3]
+
+©Rusty Quill 2023
+
+CELIA
+It was… good.
+ALICE
+Ah.
+CELIA
+No, no it was good it’s just… well…
+ALICE
+Just…?
+CELIA
+We mostly talked about work.
+ALICE
+(pitying)
+Oh Sam.
+CELIA
+You know what he’s like, he’s a
+sweet guy but he can just be a bit…
+ALICE
+Infuriating?
+CELIA
+(laughing)
+-intense sometimes.
+ALICE
+Yeah. What were you actually talking
+about? He’s been kinda worked up
+about the job ever since you two
+went out. It’s like watching a dog
+with a toffee – funny at first, but it’s
+hard not to worry...
+
+[4]
+
+©Rusty Quill 2023
+
+CELIA
+(smiling)
+We were just speculating on what
+the actual deal is. You know, the big
+‘why’.
+ALICE
+Sure, I went through the same thing
+when I started.
+CELIA
+I mean, it wasn’t all work.
+ALICE
+Let me guess, discount roses, twofor-one sushi and a split cab home
+before nine, that sort of thing?
+CELIA
+I’m more of a lilies gal.
+ALICE
+(smiling)
+A woman after my own heart. Well
+don’t be too hard on him. He tries his
+best, he’s just a bit… naff
+sometimes.
+CELIA
+I'm sure he'll do better next time.
+ALICE
+Ha! Yeah.
+(realising she’s serious)
+Oh! Cool.
+Beat.
+They finish their biscuits.
+CELIA
+Listen Alice[5]
 
 ©Rusty Quill 2023
 
 ALICE
-(softening)
-Yeah. Look, I'm… happy you’re happy.
-SAM
-Thanks.
-Beat.
-ALICE
-But if you ever ask me to be
-professional again, I'm going to have to
-take a shit on your desk.
-SAM
-That seems completely fair and
-reasonable.
-Alice moves to leave.
-SAM
-Hey…
-ALICE
-What?
-SAM
 (sighing)
-We spent most of the time discussing,
-if they are real. The cases.
+Here we go…
+CELIA
+Is this going to be a problem?
 ALICE
-Sounds romantic.
-SAM
-So what do you think? Are they?
+Golly gosh I hope not!
+CELIA
+I’m serious. you need to tell me if
+you’re going to have an issue with
+us. I don't know what the deal was
+between you, but I’m not interested
+in getting tangled up in workplace
+drama.
 ALICE
-Does it matter?
-SAM
-Yeah, kind of! If we’re working for the
-Men in Black or covering up ghosts or
-whatever then shouldn’t someone go to
-the press or…
+(dripping with sarcasm)
+The only drama is the dilemma of
+how I could possibly get by without
+you all to myself!
+Beat.
+CELIA
+(uncertain)
+Alice, I…
+ALICE
+…am too intimidated by your genius
+intellect and desperately hot bod and
+think we should just stay friends? I
+couldn’t agree more.
+She stands to leave.
+ALICE CONT.
+And on that note I’m going to head
+off before I make you any more in
+love with me. Just try to restrain
+[6]
 
 ©Rusty Quill 2023
 
-ALICE
-Okay, a) You’re drunk, b) You can’t
-prove anything and c) you signed the
-official secrets act in your onboarding.
-And I know all your school friends say
-treason's “bussin'” and “fire”, but it
-won't look good on your CV.
+yourself yeah? Sam’s masculinity is
+already hanging by a thread.
+CELIA
+(mustering a laugh)
+Sure.
+ALICE exits.
+CELIA blows through her cheeks a bit overwhelmed.
+
+2. INT. O.I.A.R. OFFICE, NIGHT, CLEAR (CCTV)
+SAM is working at the computer slowly but steadily. LENA
+approaches.
+LENA
+Good evening, Sam. How are you
+getting on?
 SAM
-Yeah butALICE
-Look Sam, you really want my opinion?
-Sober up and stop trying to make an
-impact. Just do the job and take your
-pay.
+Oh, er, Yeah, good, great thank you.
+Getting into the groove.
+LENA
+I’m glad to hear it.
+Beat.
 SAM
-And what, just ignore what’s going on
-right under my nose?
-ALICE
-(heading off)
-Pretty much. Keep it professional.
+Was there… something else?
+LENA
+Have you seen Gwen tonight?
 SAM
-(incredulous)
-I’m sorry?
-ALICE
-It's ok when I say it.
-SAM sighs and goes back to work.
+I’ve not I’m afraid.
+But if I do, I’ll send her your way.
+LENA
+See that you do. Thank you, Sam.
+[7]
+
+©Rusty Quill 2023
+
+SAM
+Sure.
+Beat.
+LENA heads off.
+SAM
+Okay…
+Sam gets back to work and triggers another case.
+
+3. CYBERSPACE
+CHESTER
+Treatment Report.
+Elima Pest Ltd.
+Attending Technician: Alyssa Beck
+Date: 01.08.1995.
+Job No. 8146
+Client Contact: Anthony Walker.
+Property Type: Commercial.
+Address: Resounding Reptile
+Emporium, Hartshill, NewcastleUnder-Lyme
+Follow up Required: Yes
+Report Type: Call Out
+Note: Follow up postponed until
+[8]
+
+©Rusty Quill 2023
+
+location of attending technician
+determined.
+Initial Assessment - 15:30
+Call out received from dispatch at
+15:05 to attend the property. Client
+reported that a rat had been spotted
+in the shop’s break room.
+Upon arrival I met with the
+proprietor.
+Shopkeeper was concerned about
+the potential of fleas or ticks brought
+in by the rodent. He had clear
+red/sore patches around his neck
+from itching. I assured him that
+unless he had come into close
+contact, it was unlikely that he had
+been bitten or suffered from parasite
+transference. Most likely
+psychosomatic phantom bites as an
+effect of the current heatwave. Worth
+noting however, that the strong
+odour of the shop indicates that the
+IAQ of the Reptile Emporium is likely
+below recommendations.
+Follow-up probably required. I
+suspect that due to the heat and
+humidity of the shop, mosquitoes
+may be present, which might also be
+the source of the shopkeeper’s skin
+irritation. The Resounding Reptile
+Emporium backs onto a marshy
+nature reserve, which increases this
+risk, although none spotted during
+initial inspection.
+[9]
+
+©Rusty Quill 2023
+
+Requested shop to be cleared of
+customers for full inspection.
+Client's agitation increased,
+presumably due business worries,
+resulting in a brief altercation. Kept
+mentioning “his burden” and
+grabbing at my sleeve. Received
+slight scratch by accident, but no
+escalation or violence, so no need
+for a full incident report, although
+anyone following up should be
+advised there may be a mental health
+problem.
+Inspection - 15:41
+Break room situated in an annex
+separated from the main shop by a
+formerly external door (adequate
+barrier between main shop and
+affected area). Customers vacated
+from premises by client.
+Multiple uncovered food sources
+present in break room:
+ open bin containing various
+unfinished food items and
+empty frozen mice packets
+(snake food, presumably).
+ Discarded crisp and sweet
+wrappers on countertops.
+Even with window open, there is a
+strong smell of spoiled food.
+Recommended consideration: sealed
+waste disposal and food storage.
+Ants spotted in and around cabinets,
+follow-up required for treatment if
+full infestation identified.
+[10]
+
+©Rusty Quill 2023
+
+Further Inspection - 15:50
+Found Cylindrical droppings with
+sheared ends, indicating squirrel.
+Minimal volume: likely just the one.
+Woodland area and trees directly
+outside breakroom window.
+Recommended prevention: mesh
+grate over window to prevent further
+ingress.
+Squirrel discovered on overhead
+cabinets. Window left fully opened to
+aid exit. Area sealed.
+Treatment - 16:10
+Retrieved live capture trap from van.
+Customers granted re-entry to shop
+floor.
+During room preparation small hole
+discovered between wall of
+breakroom and adjacent room. Used
+by squirrel as point of egress.
+Adjacent room locked, key requested
+and signed out with client. Hole
+sealed.
+Summary - 16:30
+Squirrel found among storage boxes
+and captured alive with trap. Will
+seal ingress hole after removal.
+Captured squirrel appears lethargic,
+[11]
+
+©Rusty Quill 2023
+
+likely injured or poisoned. Remov******
+******
+******
+Police aren’t here yet. They say any
+minute but I don’t think it’ll matter. I
+can still hear the operator on the
+phone, but it’s just noise.
+Snakes, thousands of them. How
+could he keep so many in there?
+Dad, this is for you. For everything
+you taught me, everything you
+shared. I need you to know what
+happened and I know you’ll believe
+me.. Don’t blame yourself for not
+answering the phone. It’s not your
+fault. It’s not your fault.
+The other room, the one the squirrel
+escaped to, the one I’m in now, it’s a
+sort of makeshift CCTV office. Just a
+storage closet, really. All the
+cameras show the shop interior. Just
+after I caught the damn thing, when I
+was about to head out, something
+caught my eye. On the screen. I
+wasn’t being nosy, I promise, it was
+just there. I couldn’t help but notice.
+The client, the guy who owns the
+shop, he was reaching over the
+counter, grabbing at a customer,
+while their daughter stood crying
+nearby. I recognised the girl, or at
+[12]
+
+©Rusty Quill 2023
+
+least the toy gosling she was
+holding, remembered how she
+looked at her Dad when I told the two
+of them to wait outside. It reminded
+me of us.
+It’s selfish how I wish you were here
+now dad.
+When I unsealed the shop floor the
+shopkeeper seemed obsessed with
+continuing his sales pitch to the pair.
+He was adamant that they purchase
+a snake, and pretty much ignored me
+entirely. It made me a bit uneasy, so I
+hung back to watch. Thinking
+back… I should have noticed he was
+off.
+As I watched the monitor the
+shopkeeper suddenly lunged
+forward, clearing the desk, smashing
+the glass on his way with a crash I
+heard even through the closed door,
+leaving him sprawling among the
+crickets previously boxed on the
+shelf behind him. They were
+jumping, flowing, twitching.
+Thousands of them, just juddering
+pixels on the monitor, but the noise
+was palpable, punching through the
+wall like a fist. I grabbed my phone
+and called the police. I should’ve
+gone out there and helped but- but I
+was scared. I just couldn't.
+I started to explain over the phone
+and they said something back but I
+wasn’t listening. On the screen I
+could see the customer had
+[13]
+
+©Rusty Quill 2023
+
+scrambled to his feet and he and his
+daughter were nearly out of the
+entrance. The shopkeeper lunged
+one last time and that’s when I
+noticed he’d… started to change. He
+was bloated. Swollen around the
+neck.
+The door slammed in his face and as
+he stumbled backwards something
+fell from his mouth. I couldn’t make it
+out though. The screen was so fuzzy,
+and it was just a blur.
+Moments passed with no noise
+except the screaming crickets and
+my own thudding heartbeat. The
+shopkeeper lay completely prone, he
+hadn’t moved at all, and I wondered
+if the fall had knocked him out,
+cracked his skull or something. Then
+there was movement near his head,
+and he began to twitch and spasm. I
+thought it might be a seizure but
+then, his mouth began to open, wider
+and wider, impossibly wide, his jaw
+bones snapping with the strain. And
+then a horde of slender shapes
+slithered out.
+Snakes, Dad. Thousands of them. All
+from inside him, pushing up through
+his deflating throat. The floor was
+lost beneath the heaving, writhing
+mass of them. I could hear the
+scrape of their scales on the
+linoleum, but they made no other
+sound. Then the owner's body began
+to slide across the floor towards the
+closed door between us. It took me a
+[14]
+
+©Rusty Quill 2023
+
+moment to realise his body was
+being pulled over the broken glass
+and debris, carried on the creatures'
+backs. Towards me.
+I got the door locked just in time.
+This room, it’s a mess. Printouts,
+delivery notes, a bunch of rejection
+letters from some institute he pinned
+to the wall with a kitchen knife. And
+it's hot in here, dad. Too hot.
+Oh god. I can feel it. My throat is
+swelling. And it itches. I can still hear
+all the snakes brushing up against
+the door and… in the walls, I think.
+Christ, they’re in the walls…
+Oh god. I forgot about the hole.
+I love you Da-
+
+4. INT. OIAR OFFICE. NIGHT. CLEAR (COMPUTER)
+The case ends and Sam sits quietly viewing the monitor.
+Sam exhales slowly having unknowingly been holding his
+breath.
+Beat.
+SAM
+(quietly)
+No. No. Could be any institute.
+GWEN
+The letters, you mean?
+[15]
+
+©Rusty Quill 2023
+
+SAM
+Jesus! Don't sneak up on people like
+that!
+GWEN
+(putting bags down)
+I didn't “sneak up”. It’s not my fault if
+you're distracted.
+SAM
+When did you get here?
+GWEN
+Just now. Seems pretty
+straightforward to me. Snakes, not
+sure what the collective noun is,
+horde maybe? Cross link with
+infection too probably. I wouldn’t
+have thought the letters have any
+bearing on the classification.
+SAM
+Uh, right. Yeah. Thanks.
+GWEN
+You can check the binder yourself
+though, I’ve got other stuff to do.
+SAM
+Yeah. Oh, hey, speaking of, Lena
+was after you.
+GWEN
+When?
+SAM
+Dunno. Few minutes ago. She
+seemed uh… not happy.
+GWEN
+Is she ever?
+[16]
+
+©Rusty Quill 2023
+
+SAM
+Hah.
+GWEN
+What did you tell her?
+SAM
+Hmmm? Nothing. Just that I hadn’t
+seen you. Something wrong?
+GWEN
+Nothing you can help with.
+Beat.
+SAM
+Listen, GwenGWEN
+Just leave it alright. Focus on your
+cases. You wouldn’t understand.
+SAM
+(cold)
+Of course not.
+GWEN
+That’s not(heading off)
+I don’t have time for this.
+GWEN exits.
+SAM
+(muttering to himself)
+No-one ever does.
+The recording cuts off.
 
 [Music]
+[17]
+
+©Rusty Quill 2023
+
 ANNOUNCER
 The Magnus Protocol is a podcast
-distributed by Rusty Quill and licensed
-under a Creative Commons Attribution
-Non-Commercial Share-alike 4.0
-International License.
-
-©Rusty Quill 2023
-
-The series is created by Jonathan Sims
-and Alexander J Newall, and directed
-by Alexander J Newall.
-This episode was written by Alexander
-J Newall and edited with additional
-materials by Jonathan Sims, with vocal
-edits by Nico Vettese, soundscaping by
-Meg McKellar, and mastering by
+distributed by Rusty Quill and
+licensed under a Creative Commons
+Attribution Non-Commercial Sharealike 4.0 International License.
+The series is created by Jonathan
+Sims and Alexander J Newall, and
+directed by Alexander J Newall.
+This episode was written by Shaun
+Pellington and edited with additional
+materials by Jonathan Sims and
+Alexander J Newall, with vocal edits
+by Lowri Ann Davies, soundscaping
+by Tessa Vroom, and mastering by
 Catherine Rinella with music by Sam
 Jones.
 It featured Billie Hindle as Alice Dyer,
 Shahan Hamza as Samama Khalid,
-Anusia Battersby as Gwen Bouchard,
-Lowri Ann Davies as Celia Ripley, Sarah
-Lambie as Lena Kelley.
+Anusia Battersby as Gwen
+Bouchard, Lowri Ann Davies as Celia
+Ripley, Sarah Lambie as Lena Kelley
+with additional voices from Jonathan
+Sims.
 The Magnus Protocol is produced by
-April Sumner, with executive producers
-Alexander J Newall, Dani McDonough,
-Linn Ci, and Samantha F.G. Hamilton,
-and Associate Producers Jordan L.
-Hawk, Taylor Michaels, Nicole Perlman,
-Cetius d’Raven, and Megan Nice.
+April Sumner, with executive
+producers Alexander J Newall, Dani
+McDonough, Linn Ci, and Samantha
+F.G. Hamilton, and Associate
+Producers Jordan L. Hawk, Taylor
+Michaels, Nicole Perlman, Cetius
+d’Raven, and Megan Nice.
 To subscribe, view associated
 materials, or join our Patreon, visit
 rustyquill.com. Rate and review us
-online, tweet us @therustyquill, visit us
-on facebook or email us at
+online, tweet us @therustyquill, visit
+us on facebook or email us at
 mail@rustyquill.com
 Thanks for listening.
+[18]
 
 ©Rusty Quill 2023
 
-The Magnus Protocol 13 – Futures
-CAT3RB4622-17092023-14032024
-Gambling (application) -/- murder [voicemail]
+The Magnus Protocol 14 – Pet Project
+CAT1RB4426-01081995-15032024
+Transformation (snake) -/-horde
 Incident Elements:
-- Self Harm/attempted suicide
-- Obsession
-- Finance problems
-- Addiction (gambling)
-- Mentions of: Vehicle Accidents
-- SFX: insectoid
+- Body Horror
+- Snakes
+- Implied Harrassment
+- Mentions of: rodents, insects, dead animals
 Transcripts: https://shorturl.at/gzF15
-This episode is dedicated to Odin Panek, thank you for your
-generous support! You can a complete list of our Kickstarter
-backers https://rustyquill.com/the-magnus-protocol-supporter-wall/
+This episode is dedicated to Sari-Anna Ballard, thank you for
+your generous support! You can a complete list of our
+Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/
 Created by Jonathan Sims and Alexander J Newall
 Directed by Alexander J Newall
-Written by Alexander J Newall
-Script Edited with additional material by Jonathan Sims
-Executive Producers April Sumner, Alexander J Newall, Jonathan
-Sims, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton
+Written by Shaun Pellington
+Script Edited with additional material by Alexander J
+Newall and Jonathan Sims
+Executive Producers April Sumner, Alexander J Newall,
+Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G.
+Hamilton
 Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole
 Perlman, Cetius d’Raven, and Megan Nice
 Produced by April Sumner
 Featuring (in order of appearance)
-Lowri Ann Davies as Celia Ripley
-Shahan Hamza as Samama Khalid
 Billie Hindle as Alice Dyer
-Anusia Battersby as Gwendolyn Bouchard
+Lowri Ann Davies as Celia Ripley
 Sarah Lambie as Lena Kelley
-Zena Carswell as Answerphone
-Euan Shedden as DarrienEp
-Dialogue Editor – Nico Vettese
-Sound Designer – Meg McKellar
-Mastering Editor - Catherine Rinella
-Music by Sam Jones (orchestral mix by Jake Jackson)
+Shahan Hamza as Samama Khalid
+Jonathan Sims as Chester
+Anusia Battersby as Gwendolyn Bouchard
+
+[19]
 
 ©Rusty Quill 2023
 
+Dialogue Editor – Lowri Ann Davies
+Sound Designer – Tessa Vroom
+Mastering Editor - Catherine Rinella
+Music by Sam Jones (orchestral mix by Jake Jackson)
 Art by April Sumner
-SFX from Soundly, Freesound: daboy291, SpliceSound, lyd4tuna,
-bevibelldesign, JonasTissell, Meg McKellar and previously credited
-artists
+SFX from Soundly and previously credited artists
 Support us on Patreon at https://patreon.com/rustyquill
 Check out our merchandise available at
 https://www.redbubble.com/people/RustyQuill/shop and
@@ -912,8 +658,10 @@ TWITTER: @therustyquill
 REDDIT: reddit.com/r/RustyQuill
 EMAIL: mail@rustyquill.com
 The Magnus Protocol is a derivative product of the Magnus
-Archives, created by Rusty Quill Ltd. and licensed under a Creative
-Commons Attribution Non-Commercial Share alike 4.0 International
-Licence.
+Archives, created by Rusty Quill Ltd. and licensed under a
+Creative Commons Attribution Non-Commercial Share alike 4.0
+International Licence.
+
+[20]
 
 
