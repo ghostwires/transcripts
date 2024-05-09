@@ -1,12 +1,12 @@
-©Rusty Quill 2023 The Magnus Protocol Episode 14 "Pet Project" Written by Shaun Pellington Edited by Jonathan Sims and Alexander J Newall 
+©Rusty Quill 2023 The Magnus Protocol Episode 15 "Good Show" Written by Alexander J Newall Edited by Jonathan Sims 
 
-#### 09-10-23
+#### 01-11-2023
 
-Draft 4.0 
+Draft 3 
 
 #### ANNOUNCER
 
-This episode is dedicated to This episode is dedicated to Sari-Anna Ballard and I just wanted to say I absolutely love this series and everything you've done; you guys are an inspiration to me and I always look forward to seeing more of your content! Keep it up! 
+This episode is dedicated to Liesl Frank Thank you Alex and Jonny and everyone at Rusty Quill for giving us Magnus Archives and Magnus Protocol. And thank you to Daniris Rodriguez for showing me the Magnus Archives. I love you and I'm so happy I have you in my life. 
 
 ##### [Intro Theme]
 
@@ -14,307 +14,463 @@ This episode is dedicated to This episode is dedicated to Sari-Anna Ballard and 
 
 #### ANNOUNCER
 
-Rusty Quill Presents: The Magnus Protocol. Episode Fourteen -- Pet Project 
+Rusty Quill Presents: The Magnus Protocol. Episode Fifteen -- Well Run 
 
 ##### [Music]
 
-1. INT. OIAR BREAKROOM -- NIGHT, CLEAR. (CCTV) CELIA is having a moment to herself with a strong coffee. ALICE enters. 
+1. INT. O.I.A.R. BREAKROOM -- NIGHT, CLEAR (CCTV) CELIA is sat reading. SAM enters, walks over, then plops into the seat opposite. Beat. 
 
-#### ALICE
+#### SAM
 
-How's the new blend? 
+Ahem. CELIA turns a page. 
 
-#### CELIA
+#### SAM CONT.
 
-Vicious. 
-
-#### ALICE
-
-Excellent. ALICE pours herself a cup, then opens a cabinet, reaches up and pulls down a pack of biscuits. She carefully extracts two, replaces the pack, closes the cabinet then sits next to CELIA. 
-
-#### ALICE
-
-Choco Leibnitz? 
+Uh- Ahem? 
 
 #### CELIA
 
-Ooh, the good stuff! I'm honoured. 
+One sec. She notes something down. 
 
-#### ALICE
+#### SAM
 
-Damn right you are. They eat. Beat. ALICE (CONT.) So. How's tricks? 
-
-#### CELIA
-
-(yawning) Not bad. You? 
-
-#### ALICE
-
-Same old. Been anywhere good recently? 
+Ahem, please? CELIA chuckles and puts her paperwork away. 
 
 #### CELIA
 
-Oh well, y'know. 
+Sorry, go ahead. Beat. 
+
+#### SAM
+
+AhemCELIA Oh my, Sam! I didn't see you there! What can I do for you? 
+
+#### SAM
+
+I'm so glad you asked Celia! I was wondering if you had perhaps dropped something... 
+
+#### CELIA
+
+(amused but confused) Don't think so. 
+
+#### SAM
+
+You're sure? Nothing small and ticket shaped like perhaps(flourishing) These incredibly exclusive, hardlydiscounted, barely obstructed theatre tickets? 
+
+#### CELIA
+
+No. Beat. 
+
+#### SAM
+
+You're sure? Because they look like they'd be perfect for someone to use maybe for a second date... 
+
+#### CELIA
+
+Yea. Nothing to do with me. Beat. 
+
+#### SAM
+
+(earnest) So... is that a no toCELIA (smiling) I'm just playing... What's the show? 
+
+#### SAM
+
+(checking ticket) Oh, er... "The Pillowman"? CELIA starts laughing. 
+
+#### SAM
+
+What? 
+
+#### CELIA
+
+(laughing) Oh nothing, very romantic choice. 
+
+#### SAM
+
+Is it? I don't really know much about it, I just thought... 
+
+#### CELIA
+
+Well count me in. If only to see your face. 
+
+#### SAM
+
+Cool. Sorted, then. ALICE enters loudly and rushes over. 
 
 #### ALICE
 
-Do I? Beat. She eats again. 
+Not so fast now! SAM sighs quietly. 
+
+#### ALICE
+
+I mean sure you could both go canoodle in some stuffy old theatreSAM It's a good place to canoodle. 
+
+#### ALICE
+
+-or you could hear one of the great up-andcoming music sensations that is currently taking the London scene by storm! 
+
+#### SAM
+
+Let me guess, Dredgerman? 
+
+#### ALICE
+
+Don't be daft, they're taking a break before their tour! No, it's "Penny for the Well" actually. 
+
+#### SAM
+
+But it is still Luke on Bass right? How many bands is that boy in? 
+
+#### ALICE
+
+Let's just say that this revolutionary indie ensemble, which may or may not also include my incredibly talented younger brother, is playing The Gladstone Arms at ten thirty tomorrow evening and you are both on the guest list. You're welcome. Beat. 
+
+#### CELIA
+
+I'm sure Luke is great AliceALICE Oh he isCELIA -but I don't think I can make it. 
+
+#### SAM
+
+Anyway, we're going to the theatre. 
+
+#### ALICE
+
+Aha! But that's the best bit, they're the last ones on so you can do your boring play and then just swing by afterwards! 
+
+#### SAM
+
+AliceALICE Oh come on, it's the weekend. Live a little! 
+
+#### CELIA
+
+I'm sorry, but I don't think my sitter can stay late. Beat. 
+
+#### ALICE
+
+Your... sitter? 
+
+#### CELIA
+
+Yeah. There's no one else to step in so... it's a thanks but no thanks from me. Beat. 
+
+#### ALICE
+
+No, yeah, no, of course. So... Like, a dog sitter, or...? 
+
+#### CELIA
+
+A baby. Human. 
+
+#### ALICE
+
+(kind of thrown) Right. Sorry. Yeah, that's cool. Babies are cool. CELIA stands and picks up her paperwork. 
+
+#### CELIA
+
+I'll tell you what though, give me a bit more notice next time and I'll see if I can't sort something. I'd love to see your brother play. 
+
+#### ALICE
+
+Uh yeah, sure. 
+
+#### CELIA
+
+Anyhoo don't mind me, I'm a bit behind tonight. (to Sam) Just ping me the details for the theatre later yeah? 
+
+#### SAM
+
+'course. Celia exits. Beat. 
+
+#### ALICE
+
+So... 
+
+#### SAM
+
+(standing) And you say I'm clueless. 
+
+#### ALICE
+
+What? Sam exits. 
 
 #### ALICE CONT.
 
-Oh, the date! Yeah! I was going to ask you about that, actually. 
+(calling) What? I said babies were cool! 2. CYBERSPACE- N/A, N/A (COMPUTER) A phone recording begins. Beep. 
+
+#### VOICEMAIL
+
+Hi, you've reached The Sentinel tip-off hotline. If you are calling with information that you believe merits investigation for the public interest, please leave a message with as much detail as possible along with your name and number. If you wish to remain anonymous, please instead leave a three word code at the start of your message that we can use to identify future calls or correspondence from you. This voicemail is monitored by dedicated staff that are obliged to report serious crimes to local law enforcement if there is risk of imminent harm to anyone. Please speak after the tone. To end the recording, simply hang up. Beep 
+
+#### CUT TO:
+
+INT. CAR -- NIGHT, HEAVY RAIN (PHONE) 
+
+#### CATERER
+
+(catching their breath) I need to report... something. I can't go to the police, I- You're supposed to be independent and well, I've got to risk it. People need to know. They need to know what's happening, what they're doing, and I don't know how much time I've got left. I work as a caterer. High-end private functions, silver service, that kind of thing. It's my own company and I've managed to build up a decent reputation in the right circles. We get called in for the really high-end stuff. The kind of event where the guest list is so rich that you've never even heard of them. There's a big difference between "extravagance" and "elegance." We sell the latter. We're not a big operation though, there were only six permanent staff including myself. We do hire in fixed-term waiting staff and other contractors but even so... I knew these people. I worked with them for years and they didn't deserve what happened to them... We got the call a couple of months ago for a fairly small event at Wychwood Hall in the Cotswold's. Apparently, they had a family shoot and wanted us to prepare the game. Normally that would be pheasant or partridge and we'd just swap it for stuff we prepared off-site since no one could ever tell the difference, but they were really explicit about it being larger game and wanting to know who's kill they were eating. That meant a lot more prep time and equipment but they insisted and at this level you don't get to tell the client no, just how much extra it will cost. We set up the cooking gazebo during the early afternoon in the rear gardens on the butler's instruction. The house itself was a massive sprawling Elizabethan thing with pristine flowerbeds and prim lawns that ran right up to the surrounding woodland. It wasn't usual to be given center stage like that but I figured the client fancied themself a foodie and wanted to see the prep. Thankfully we brought the flashy gear, just in case. Normally you'd expect the shoot to have already been well underway by the time we arrived but people were only just arriving in their tinted Range Rovers and Rolls. I didn't say anything but I made damn sure everyone got a head start on the veg and sauces because as this rate it would be a miracle if they'd be eating before nine. Another hour passed with a couple more cars trickling in, but still no one had set out. Instead, I could see them through the leaded windows, just watching us work. Finally, after another half hour I had the house staff fetch the butler. He eventually came out, dour as before, and I told him that unless he knew something I didn't there was going to be a distinct lack of venison for tonight's venison medallions. He just gave me this look, told me to "prepare" and then headed back inside. Obviously that pissed me right off but what can you do? They'd paid for the day so we just hunkered down and looked busy. Finally, as the sun was starting to set a bloody red behind the woodland, the guns came out with their entourage, all tweed, Winchesters and dogs and in front of them marched this... matriarch. I don't know how else to describe her. This big, imposing, like some Roman statue brought to life and given a gun. I kept thinking of my army days cooking for the top brass. She had the same eyes, like they didn't see people any more just "assets" and "resistance." And if that wasn't enough, she had this huge custom rifle over her shoulder, like an antique elephant gun or something. There was no way it was UK legal, the thing looked like it could take out a jeep, never mind a stag! And it wasn't gilded or anything, it was dull and plain looking despite its massive size and you just knew that this was a gun for killing with, not showing off. It was her domain and she reeked of power and authority in every sense of the word and when she spoke they all listened. She had the guns all line up facing us with their dogs at heel and then they all just stood there watching the sun set as their staff and security all headed back into the house leaving us alone with them. That was when I knew something was really wrong. The woman stepped forward with her dogs by her side and faced me with this bright and wide smile splitting her face under her electric blue eyes and gunmetal-grey hair. Then she just locked eyes with me and began to carefully load the rifle without looking, punctuating each word with another cartridge. "Are you prepared?" she asked quietly. "As we can be" I replied. "but-" Then she raised her hand to silence me and it was as though she had slapped a gag in my mouth. I couldn't even think of disobeying her, the words just died in my throat. She returned to the group her dogs flanking her the whole way and her silhouette outlined in the blood-red dusk light. I couldn't make out any of the other's faces, dazzled as I was by the light. Then she stood tall and proud and said with just the tiniest hint of anticipation: "Let's begin then shall we?" As one, the hunters raised their rifles as one and levelled them at us as we stood transfixed under our gazebo. Theres a very specific feeling you get when you're staring down a barrel at close range. First the world gets very sharp and bright, then the horizon sort of shrinks around you till it's no wider than the dark hole aiming straight at you. It had been a long time since I'd felt like that, but it was still so familiar. Too familiar. The woman hadn't raised her own weapon, instead she called as though directing a firing squad: "Hunt." None of us replied. None of us even breathed. We stood completely still and silent, the only noise the gentle evening breeze through the trees and the slight hiss of the red wine reduction boiling over beside me. There wasn't even any birdsong. Then I realized, she wasn't talking to the other guns, she was talking to us. After seconds that felt like hours the woman seemed to grow impatient. Finally, she sighed and repeated: "Hunt" before shouldering her rifle, sighting and then pulling the trigger without hesitation. There was a deafening gunshot that stabbed at my eardrums, leaving them ringing and then a sudden clatter of someone falling to the ground behind me dragging utensils down with them. I couldn't turn to see who was hit, but I think it was Steven. He was only twenty-three. I know it was a headshot though, you don't forget that sound. Without lowering the rifle, she chambered another round and re-sighted, this time at me. She smiled greedily then pumped her eyebrows just once, playfully. "Hunt!" And this time, I understood. Without taking my eyes from her I reached out and gently closed my hand around the handle of the clever in front of me. It shone, pristine and unblemished, ready for its bloody work. Then slowly, so slowly, I raised it overhead, bracing myself for what followed. The woman grinned widely, her finger caressing the trigger, then I brought my hand down sharply, smashing the cleaver into the face of Marcus, our Saucier. He couldn't even cry out as it cleft deep into the base of his neck, his arterial blood gushing out and down into the overly-hot pot, releasing a plume of acrid ironsmelling steam. I looked down at his carcass then wiped the blood from my brow and yanked the blade free with a crunch before turning to the rest of my staff. They ran. The party ate well that night. All told, it didn't take long, maybe a half hour at most? None of them got far. I caught Debra as she tried to hide up in a tree. Fair play to her, almost made it up there despite being in her fifties. Mira tripped over a rabbit hole in the darkness, I think she tried to beg, but I couldn't make out the words. The only one who gave me any real trouble was Boris. He was a big guy, nearly six five, and that's a hell of a size difference, even with my training. But it wasn't enough. I had killed before, and he hadn't. He hesitated, and that was that. As I was packing up, the woman shook my hand and complimented me. Then the butler handed me a thick brown envelope. It was full of cash and a note written in elegant cursive with just one word: "Run". And I did. Can't stay anywhere too long, can't stop moving. I keep hearing dogs barking and I don't know if it's just some pet or... I thought about handing myself in to the police, but that just feels like trapping myself in a dead end. So I'm getting out of the country. First the channel tunnel and then keep going until I've gone far enough that she can'tWait... Beat 
+
+#### CATERER CONT.
+
+(hushed) Oh no... The car window shatters inwards from a sudden loud gunshot. The CATERER is wetly silenced. Someone approaches, reloading an enormous rifle with growling dogs in tow. They stop then yank open the care door. 
+
+#### LADY MOWBRAY
+
+Well run dearie. Well run... The line goes dead. 3. INT. O.I.A.R. OFFICE -- NIGHT, CLEAR (COMPUTER) CELIA takes a steady breath. 
 
 #### CELIA
 
-Oh yeah? 
+(disturbed) Well, that was... 
 
-#### ALICE
+#### LADY MOWBRAY
 
-So... how was it? 
+(too close) Fascinating. CELIA jumps up with a cry and turns to find Lady Mowbray and her dogs standing right behind her. The dogs growl threateningly. 
 
-#### CELIA
+#### LADY MOWBRAY CONT.
 
-It was... good. 
-
-#### ALICE
-
-Ah. 
+Sit. 
 
 #### CELIA
 
-No, no it was good it's just... well... 
+Excuse me? 
 
-#### ALICE
+#### LADY MOWBRAY
 
-Just...? 
-
-#### CELIA
-
-We mostly talked about work. 
-
-#### ALICE
-
-(pitying) Oh Sam. 
+I was talking to the boys. The dogs sit. They are not fur babies, they are what turns up when someone says "release the hounds". 
 
 #### CELIA
 
-You know what he's like, he's a sweet guy but he can just be a bit... 
+Can I uh- can I help you? 
 
-#### ALICE
+#### LADY MOWBRAY
 
-Infuriating? 
+I rather think you might... MOWBRAY sniffs her as though she were a particularly odd vintage. 
 
-#### CELIA
+#### LADY MOWBRAY CONT.
 
-(laughing) -intense sometimes. 
-
-#### ALICE
-
-Yeah. What were you actually talking about? He's been kinda worked up about the job ever since you two went out. It's like watching a dog with a toffee -- funny at first, but it's hard not to worry... 
+(stalking) What did you say your name was dear? 
 
 #### CELIA
 
-(smiling) We were just speculating on what the actual deal is. You know, the big 'why'. 
+I didn't. LADY Mowbray chuckles slightly as her dogs begin to growl. 
 
-#### ALICE
+#### LADY MOWBRAY CONT.
 
-Sure, I went through the same thing when I started. 
+My, we are an odd one, aren't we? She sniffs again. 
 
-#### CELIA
+#### LADY MOWBRAY CONT.
 
-I mean, it wasn't all work. 
-
-#### ALICE
-
-Let me guess, discount roses, twofor-one sushi and a split cab home before nine, that sort of thing? 
+And braver than we look. 
 
 #### CELIA
 
-I'm more of a lilies gal. 
+You're not allowed to be in here. 
 
-#### ALICE
+#### LADY MOWBRAY
 
-(smiling) A woman after my own heart. Well don't be too hard on him. He tries his best, he's just a bit... naff sometimes. 
+I was invited. The dogs growling intensifies. 
 
-#### CELIA
+#### LADY MOWBRAY CONT.
 
-I'm sure he'll do better next time. 
+A fine specimen... strong and... different... What is that...? She sniffs yet again. GWEN enters. 
 
-#### ALICE
+#### GWEN
 
-Ha! Yeah. (realising she's serious) Oh! Cool. Beat. They finish their biscuits. 
+(cautiously) Lady Mowbray? Beat. The tension holds for a moment then breaks; the dogs suddenly sound smaller, more docile. 
 
-#### CELIA
+#### LADY MOWBRAY
 
-Listen Alice[5] 
+That's me yes. I presume you're Gwendolyn Bouchard? 
 
-#### ALICE
+#### GWEN
 
-(sighing) Here we go... 
+Er yes. Thank you for coming in. If you'd like to follow me? LADY MOWBRAY hesitates just for a moment. 
 
-#### CELIA
+#### GWEN CONT.
 
-Is this going to be a problem? 
+Lady Mowbray? 
 
-#### ALICE
+#### LADY MOWBRAY
 
-Golly gosh I hope not! 
-
-#### CELIA
-
-I'm serious. you need to tell me if you're going to have an issue with us. I don't know what the deal was between you, but I'm not interested in getting tangled up in workplace drama. 
-
-#### ALICE
-
-(dripping with sarcasm) The only drama is the dilemma of how I could possibly get by without you all to myself! Beat. 
+Of course. (To Celia) Catch you next time, dearie. 
 
 #### CELIA
 
-(uncertain) Alice, I... 
+No, you won't. LADY MOWBRAY chuckles then falls in behind Gwen with her dogs. 
+
+#### GWEN
+
+(departing) Can I get you any refreshments Lady Mowbray? 
+
+#### LADY MOWBRAY
+
+(departing) No thank you dear. I recently ate. 
+
+#### GWEN
+
+(suspecting) Ah, um. Of course. CELIA watches them depart. 
+
+#### LADY MOWBRAY CONT.
+
+(distant) Bouchard... You wouldn't be of the Cheshire Bouchard's would you? 
+
+#### GWEN
+
+(distant) Oh, uh well actuallyA door closes cutting off their conversation. Beat. CELIA exhales shakily before turning back to the computer. 
+
+#### 4. INT. CLUB -- EVENING, CLEAR (ALICE'S PHONE).
+
+The club is busy but not packed. A final guitar chord rings out as the applause ends. After a few moment of, canned dance music comes in over the speakers as people filter away from the stage. Alice finishes off her drink as Luke approaches. 
+
+#### LUKE
+
+There she is! 
 
 #### ALICE
 
-...am too intimidated by your genius intellect and desperately hot bod and think we should just stay friends? I couldn't agree more. She stands to leave. 
+(sardonic) Oh my god it's the guy from the band, gosh, I'm giddy. 
+
+#### LUKE
+
+Not surprised, the way you were flailing about. 
+
+#### ALICE
+
+How dare you. I am pushing the boundaries of what it means to dance! 
+
+#### LUKE
+
+I won't argue with that. (to barman) Pint of water please mate. With ice. (To Alice) Thanks for coming Alice, you didn't have toALICE (gesturing) Clearly! I thought this was meant to be a little chill side gig thing? 
+
+#### LUKE
+
+So did I! Turns out though that things are really picking up. 
+
+#### ALICE
+
+(sardonic) Hello? Yes? Is that Glastonbury? Why yes, we DO have a minute... 
+
+#### LUKE
+
+You joke but the managers already added seven more cities to the Dredgerman tour. 
+
+#### ALICE
+
+Oh wow, fair play! The barman hands Luke his drink. 
+
+#### LUKE
+
+Cheers mate! LUKE almost downs the lot. 
+
+#### LUKE CONT.
+
+How's Sam by the way? It's been years since I saw the weedy git. 
+
+#### ALICE
+
+Same as ever. 
+
+#### LUKE
+
+Shame he couldn't make it tonight. 
+
+#### ALICE
+
+Yeah. Still, sometimes it's nice hang out and have a drink, just to two of us. 
+
+#### LUKE
+
+I'm flattered. 
+
+#### ALICE
+
+You should be. And since the show's over... 
+
+#### LUKE
+
+(to the barman) Two pints of Doombar, cheers. 
+
+#### ALICE
+
+(smiling and genuinely happy) There we go. 
+
+#### 5. EXT. CLUB ALLEY -- EVENING, CLEAR (TAPE RECORDER).
+
+A tape recorder CLICKS, distantly a body shuffles in an alley off the main road. 
+
+#### VICTIM
+
+- the second time is up I try to grasp the air and fill my lungs that burn and rattle full. I can't, there's so much air but none inside as I go down again the cold surrounds and drags me down, the blue the black the weight of all the sodden fates awaiting me below the line of sea and sky. The VICTIM gasps for air. I kick, I lunge I flail towards the brightened blue and break above the third and final time. ALICE turns into the alleyway, heading home and still buzzing from the show. She removes her headphones as she sees a figure muttering. 
 
 #### ALICE CONT.
 
-And on that note I'm going to head off before I make you any more in love with me. Just try to restrain yourself yeah? Sam's masculinity is already hanging by a thread. 
 
-#### CELIA
 
-(mustering a laugh) Sure. ALICE exits. CELIA blows through her cheeks a bit overwhelmed. 2. INT. O.I.A.R. OFFICE, NIGHT, CLEAR (CCTV) SAM is working at the computer slowly but steadily. LENA approaches. 
+#### VICTIM CONT.
 
-#### LENA
+I know I'm spent there is no more within me save the saltspun death that reaches down my throat Hello? The VICTIM shuffles towards Alice, stumbling, seemingly oblivious to her but nonetheless still threatening. 
 
-Good evening, Sam. How are you getting on? 
+#### VICTIM CONT.
 
-#### SAM
 
-Oh, er, Yeah, good, great thank you. Getting into the groove. 
 
-#### LENA
+#### ALICE
 
-I'm glad to hear it. Beat. 
+(cautious) and spasms in my chest that cannot breathe inside me Uh Hi? Hello? The VICTIM shuffles towards Alice, stumbling, seemingly oblivious to her but nonetheless still threatening. 
 
-#### SAM
+#### VICTIM CONT.
 
-Was there... something else? 
+coughs and sputters and tries to push it out but more comes in 
 
-#### LENA
+#### ALICE CONT.
 
-Have you seen Gwen tonight? 
+Listen I er- I don't have any spare... The VICTIM stumbles then falls to the ground, hard. They begin to writhe, clutching at their throat. 
 
-#### SAM
+#### VICTIM CONT.
 
-I've not I'm afraid. But if I do, I'll send her your way. 
 
-#### LENA
 
-See that you do. Thank you, Sam. 
+#### ALICE CONT.
 
-#### SAM
+and down I go the third and final time I know it's done Jesus! Are uh... are you alright? ALICE cautiously approaches, suddenly THE VICTIM grabs her in panic. 
 
-Sure. Beat. LENA heads off. 
+#### ALICE CONT.
 
-#### SAM
 
-Okay... Sam gets back to work and triggers another case. 
 
-#### 3. CYBERSPACE
+#### VICTIM CONT.
 
+i'm done the water is... is... dark Oh shit! Get off! Get off me! Let go! ALICE manages to throw the Victim off then stands back watching them writhe. 
 
+#### ALICE CONT.
 
-#### CHESTER
+Oh shit, oh shit, oh shit, shit, shit! The VICTIM begins to choke. ALICE approaches again cautiously 
 
-Treatment Report. Elima Pest Ltd. Attending Technician: Alyssa Beck Date: 01.08.1995. Job No. 8146 Client Contact: Anthony Walker. Property Type: Commercial. Address: Resounding Reptile Emporium, Hartshill, NewcastleUnder-Lyme Follow up Required: Yes Report Type: Call Out Note: Follow up postponed until location of attending technician determined. Initial Assessment -- 15:30 Call out received from dispatch at 15:05 to attend the property. Client reported that a rat had been spotted in the shop's break room. Upon arrival I met with the proprietor. Shopkeeper was concerned about the potential of fleas or ticks brought in by the rodent. He had clear red/sore patches around his neck from itching. I assured him that unless he had come into close contact, it was unlikely that he had been bitten or suffered from parasite transference. Most likely psychosomatic phantom bites as an effect of the current heatwave. Worth noting however, that the strong odour of the shop indicates that the IAQ of the Reptile Emporium is likely below recommendations. Follow-up probably required. I suspect that due to the heat and humidity of the shop, mosquitoes may be present, which might also be the source of the shopkeeper's skin irritation. The Resounding Reptile Emporium backs onto a marshy nature reserve, which increases this risk, although none spotted during initial inspection. Requested shop to be cleared of customers for full inspection. Client's agitation increased, presumably due business worries, resulting in a brief altercation. Kept mentioning "his burden" and grabbing at my sleeve. Received slight scratch by accident, but no escalation or violence, so no need for a full incident report, although anyone following up should be advised there may be a mental health problem. Inspection -- 15:41 Break room situated in an annex separated from the main shop by a formerly external door (adequate barrier between main shop and affected area). Customers vacated from premises by client. Multiple uncovered food sources present in break room:  open bin containing various unfinished food items and empty frozen mice packets (snake food, presumably).  Discarded crisp and sweet wrappers on countertops. Even with window open, there is a strong smell of spoiled food. Recommended consideration: sealed waste disposal and food storage. Ants spotted in and around cabinets, follow-up required for treatment if full infestation identified. Further Inspection -- 15:50 Found Cylindrical droppings with sheared ends, indicating squirrel. Minimal volume: likely just the one. Woodland area and trees directly outside breakroom window. Recommended prevention: mesh grate over window to prevent further ingress. Squirrel discovered on overhead cabinets. Window left fully opened to aid exit. Area sealed. Treatment -- 16:10 Retrieved live capture trap from van. Customers granted re-entry to shop floor. During room preparation small hole discovered between wall of breakroom and adjacent room. Used by squirrel as point of egress. Adjacent room locked, key requested and signed out with client. Hole sealed. Summary -- 16:30 Squirrel found among storage boxes and captured alive with trap. Will seal ingress hole after removal. Captured squirrel appears lethargic, likely injured or poisoned. Remov****** 
+#### ALICE CONT.
 
-#### ******
+Can you hear me? I'm- I'm calling for help okay just- just hold on yeah? ALICE dials 999 whilst the victim continues to choke and gasp for air. 
 
+#### ALICE CONT.
 
+(on Phone) Ambulance. Just round the back of the Gladstone Arms near uh... Lant Street. Yeah there's someone I don't know if they've OD'd but they're going into a fit or something. Uh Alice, yeah and wait... hang on... oh shit, shit she's stopped breathing, yeah, yeah just hurry! The VICTIM dies, impossible amounts of water chocking up out of her lungs. 
 
-#### ******
+#### ALICE CONT.
 
-Police aren't here yet. They say any minute but I don't think it'll matter. I can still hear the operator on the phone, but it's just noise. Snakes, thousands of them. How could he keep so many in there? Dad, this is for you. For everything you taught me, everything you shared. I need you to know what happened and I know you'll believe me.. Don't blame yourself for not answering the phone. It's not your fault. It's not your fault. The other room, the one the squirrel escaped to, the one I'm in now, it's a sort of makeshift CCTV office. Just a storage closet, really. All the cameras show the shop interior. Just after I caught the damn thing, when I was about to head out, something caught my eye. On the screen. I wasn't being nosy, I promise, it was just there. I couldn't help but notice. The client, the guy who owns the shop, he was reaching over the counter, grabbing at a customer, while their daughter stood crying nearby. I recognised the girl, or at least the toy gosling she was holding, remembered how she looked at her Dad when I told the two of them to wait outside. It reminded me of us. It's selfish how I wish you were here now dad. When I unsealed the shop floor the shopkeeper seemed obsessed with continuing his sales pitch to the pair. He was adamant that they purchase a snake, and pretty much ignored me entirely. It made me a bit uneasy, so I hung back to watch. Thinking back... I should have noticed he was off. As I watched the monitor the shopkeeper suddenly lunged forward, clearing the desk, smashing the glass on his way with a crash I heard even through the closed door, leaving him sprawling among the crickets previously boxed on the shelf behind him. They were jumping, flowing, twitching. Thousands of them, just juddering pixels on the monitor, but the noise was palpable, punching through the wall like a fist. I grabbed my phone and called the police. I should've gone out there and helped but- but I was scared. I just couldn't. I started to explain over the phone and they said something back but I wasn't listening. On the screen I could see the customer had scrambled to his feet and he and his daughter were nearly out of the entrance. The shopkeeper lunged one last time and that's when I noticed he'd... started to change. He was bloated. Swollen around the neck. The door slammed in his face and as he stumbled backwards something fell from his mouth. I couldn't make it out though. The screen was so fuzzy, and it was just a blur. Moments passed with no noise except the screaming crickets and my own thudding heartbeat. The shopkeeper lay completely prone, he hadn't moved at all, and I wondered if the fall had knocked him out, cracked his skull or something. Then there was movement near his head, and he began to twitch and spasm. I thought it might be a seizure but then, his mouth began to open, wider and wider, impossibly wide, his jaw bones snapping with the strain. And then a horde of slender shapes slithered out. Snakes, Dad. Thousands of them. All from inside him, pushing up through his deflating throat. The floor was lost beneath the heaving, writhing mass of them. I could hear the scrape of their scales on the linoleum, but they made no other sound. Then the owner's body began to slide across the floor towards the closed door between us. It took me a moment to realise his body was being pulled over the broken glass and debris, carried on the creatures' backs. Towards me. I got the door locked just in time. This room, it's a mess. Printouts, delivery notes, a bunch of rejection letters from some institute he pinned to the wall with a kitchen knife. And it's hot in here, dad. Too hot. Oh god. I can feel it. My throat is swelling. And it itches. I can still hear all the snakes brushing up against the door and... in the walls, I think. Christ, they're in the walls... Oh god. I forgot about the hole. I love you Da- 4. INT. OIAR OFFICE. NIGHT. CLEAR (COMPUTER) The case ends and Sam sits quietly viewing the monitor. Sam exhales slowly having unknowingly been holding his breath. Beat. 
+Oh shit... oh shit... Alice hesitantly begins chest compressions, singing to keep time 
 
-#### SAM
+#### ALICE CONT.
 
-(quietly) No. No. Could be any institute. 
+(Rhythmic, under breath) Nellie the elephant packed her trunk, and said goodbye to the cir-cus, Off she went with a trumpety trump, Trump trump trump. Nellie the elephant packed her trunk, and said goodbye to theShit, shit, shit, shit! She is panicking. She sees the tape recorder next to the body and picks it up. 
 
-#### GWEN
+#### ALICE CONT.
 
-The letters, you mean? 
+What is-? The victim starts to speak again, quietly, bubbling up through the water and out of dead lips. 
 
-#### SAM
+#### ALICE CONT.
 
-Jesus! Don't sneak up on people like that! 
 
-#### GWEN
 
-(putting bags down) I didn't "sneak up". It's not my fault if you're distracted. 
+#### VICTIM CONT.
 
-#### SAM
-
-When did you get here? 
-
-#### GWEN
-
-Just now. Seems pretty straightforward to me. Snakes, not sure what the collective noun is, horde maybe? Cross link with infection too probably. I wouldn't have thought the letters have any bearing on the classification. 
-
-#### SAM
-
-Uh, right. Yeah. Thanks. 
-
-#### GWEN
-
-You can check the binder yourself though, I've got other stuff to do. 
-
-#### SAM
-
-Yeah. Oh, hey, speaking of, Lena was after you. 
-
-#### GWEN
-
-When? 
-
-#### SAM
-
-Dunno. Few minutes ago. She seemed uh... not happy. 
-
-#### GWEN
-
-Is she ever? 
-
-#### SAM
-
-Hah. 
-
-#### GWEN
-
-What did you tell her? 
-
-#### SAM
-
-Hmmm? Nothing. Just that I hadn't seen you. Something wrong? 
-
-#### GWEN
-
-Nothing you can help with. Beat. 
-
-#### SAM
-
-Listen, GwenGWEN Just leave it alright. Focus on your cases. You wouldn't understand. 
-
-#### SAM
-
-(cold) Of course not. 
-
-#### GWEN
-
-That's not(heading off) I don't have time for this. GWEN exits. 
-
-#### SAM
-
-(muttering to himself) No-one ever does. The recording cuts off. 
+(whispered) Deeper... Deeper... Down among the dead and swollen flesh so pale within this lightless place where eyes are open cloudy white and all the water pushes down upon a lifeless form that sinks and sinks down to the bottom that is not there no sandy grave below the swell no rest among the coral and the depths I feared so much but reached up and over land to claim me still Oh shit... You... But... I-I'm sorry. I can't- I... ALICE drops the tape recorder and flees. The dead woman's voice trails off. 
 
 ##### [Music]
 
@@ -322,8 +478,8 @@ That's not(heading off) I don't have time for this. GWEN exits.
 
 #### ANNOUNCER
 
-The Magnus Protocol is a podcast distributed by Rusty Quill and licensed under a Creative Commons Attribution Non-Commercial Sharealike 4.0 International License. The series is created by Jonathan Sims and Alexander J Newall, and directed by Alexander J Newall. This episode was written by Shaun Pellington and edited with additional materials by Jonathan Sims and Alexander J Newall, with vocal edits by Lowri Ann Davies, soundscaping by Tessa Vroom, and mastering by Catherine Rinella with music by Sam Jones. It featured Billie Hindle as Alice Dyer, Shahan Hamza as Samama Khalid, Anusia Battersby as Gwen Bouchard, Lowri Ann Davies as Celia Ripley, Sarah Lambie as Lena Kelley with additional voices from Jonathan Sims. The Magnus Protocol is produced by April Sumner, with executive producers Alexander J Newall, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton, and Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice. To subscribe, view associated materials, or join our Patreon, visit rustyquill.com. Rate and review us online, tweet us @therustyquill, visit us on facebook or email us at mail@rustyquill.com Thanks for listening. The Magnus Protocol 14 -- Pet Project 
+The Magnus Protocol is a podcast distributed by Rusty Quill and licensed under a Creative Commons Attribution Non-Commercial Share-alike 4.0 International License. The series is created by Jonathan Sims and Alexander J Newall, and directed by Alexander J Newall. This episode was written by Alexander J Newall and edited with additional materials by Jonathan Sims, with vocal edits by Nico Vettese, soundscaping by Meg McKellar, and mastering by Catherine Rinella with music by Sam Jones. It featured Billie Hindle as Alice Dyer, Shahan Hamza as Samama Khalid, Anusia Battersby as Gwen Bouchard, Lowri Ann Davies as Celia Ripley. The Magnus Protocol is produced by April Sumner, with executive producers Alexander J Newall, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton, and Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice. To subscribe, view associated materials, or join our Patreon, visit rustyquill.com. Rate and review us online, tweet us @therustyquill, visit us on facebook or email us at mail@rustyquill.com Thanks for listening. The Magnus Protocol 15 -- Well Run 
 
-#### CAT1RB4426-01081995-15032024
+#### CAT1RB-6451-22062023-22032024
 
-Transformation (snake) --/-horde Incident Elements: - Body Horror - Snakes - Implied Harrassment - Mentions of: rodents, insects, dead animals Transcripts: https://shorturl.at/gzF15 This episode is dedicated to Sari-Anna Ballard, thank you for your generous support! You can a complete list of our Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/ Created by Jonathan Sims and Alexander J Newall Directed by Alexander J Newall Written by Shaun Pellington Script Edited with additional material by Alexander J Newall and Jonathan Sims Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice Produced by April Sumner Featuring (in order of appearance) Billie Hindle as Alice Dyer Lowri Ann Davies as Celia Ripley Sarah Lambie as Lena Kelley Shahan Hamza as Samama Khalid Jonathan Sims as Chester Anusia Battersby as Gwendolyn Bouchard Dialogue Editor -- Lowri Ann Davies Sound Designer -- Tessa Vroom Mastering Editor -- Catherine Rinella Music by Sam Jones (orchestral mix by Jake Jackson) Art by April Sumner SFX from Soundly and previously credited artists Support us on Patreon at https://patreon.com/rustyquill Check out our merchandise available at https://www.redbubble.com/people/RustyQuill/shop and https://www.teepublic.com/stores/rusty-quill Join our community: WEBSITE: rustyquill.com FACEBOOK: facebook.com/therustyquill TWITTER: @therustyquill REDDIT: reddit.com/r/RustyQuill EMAIL: mail@rustyquill.com The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty Quill Ltd. and licensed under a Creative Commons Attribution Non-Commercial Share alike 4.0 International Licence. 
+Hunt (aristocratic) --/- compulsion Incident Elements: - Graphic Violence/Murder - Futility - Being Hunted - Classism - Dehumanisation - Hostile work environment - drowning - Mentions of: blades, guns, military service - SFX: Gunfire, loud music, suffocation Transcripts: https://shorturl.at/gzF15 This episode is dedicated to Liesl Frank, thank you for your generous support! You can a complete list of our Kickstarter backers https://rustyquill.com/the-magnus-protocol-supporter-wall/ Created by Jonathan Sims and Alexander J Newall Directed by Alexander J Newall Written by Alexander J Newall Script Edited with additional material by Jonathan Sims Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice Produced by April Sumner Featuring (in order of appearance) Lowri Ann Davies as Celia Ripley Shahan Hamza as Samama Khalid Billie Hindle as Alice Dyer Jesse Hawke as Voicemail Danny Scarre as Caterer Ellie Dickens as Lady Mowbray Yanick Ghanty as Luke Dyer Lara Sawalha as Drowning Victim Dialogue Editor -- Nico Vettese Sound Designer -- Meg McKellar Mastering Editor -- Catherine Rinella Music by Sam Jones (orchestral mix by Jake Jackson) Art by April Sumner SFX from Soundly, Freesound: waveplaySFX, BaDoink, jackaTTackeditor, Seth_Makes_Sounds, josefpres, GRD-music, kyles, 14GPanska_Kaminkova, buzzatsea, lyd4tuna, SpliceSounds, Yuval, and previously credited artists Support us on Patreon at https://patreon.com/rustyquill Check out our merchandise available at https://www.redbubble.com/people/RustyQuill/shop and https://www.teepublic.com/stores/rusty-quill Join our community: WEBSITE: rustyquill.com FACEBOOK: facebook.com/therustyquill TWITTER: @therustyquill REDDIT: reddit.com/r/RustyQuill EMAIL: mail@rustyquill.com The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty Quill Ltd. and licensed under a Creative Commons Attribution Non-Commercial Share alike 4.0 International Licence. 
