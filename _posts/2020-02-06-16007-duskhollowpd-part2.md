@@ -1117,7 +1117,7 @@ Yes, of course, of course.
 
 #### CARL
 
-_[overlapping]_ Well, it's not really appropriate
+_[overlapping]_ Well, it's not really appropriate --
 
 #### GABRIELLE
 
