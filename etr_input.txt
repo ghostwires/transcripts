@@ -1,592 +1,770 @@
 ©Rusty Quill 2023
 
 The Magnus Protocol
-Episode 16
-"Anti-Social"
+Episode 17
+"Saved Copy"
 Written by Alexander J Newall
 Edited by Jonathan Sims
 
-02-11-2023
+01-11-2023
 Draft 2
 [1]
 
 ©Rusty Quill 2023
 
 ANNOUNCER
-This episode is dedicated to Thierry
-Deuble. "Hello Thierry, Apologies for
-the deception, but I wanted to make
-sure you started reading, so I
-thought it best not to announce
-myself."
+This episode is dedicated to Saiorse
+Killigrew open square brackets, ad
+lib, close square brackers, fullstop.
+The “ad lib” was that they didn’t
+write a fullstop.
 [Intro Theme]
 ANNOUNCER
 Rusty Quill Presents: The Magnus
 Protocol.
-Episode Sixteen – Anti-Social
+Episode Seventeen – Saved Copy
 [Music]
 
-1. INT. O.I.A.R. OFFICE - NIGHT, CLEAR (COMPUTER)
-ALICE is sat at her desk with Celia beside her.
-SAM returns from the breakroom with a hot drink.
-SAM
-(approaching)
-There was a peppermint teabag in
-the back of the cupboard. Thought it
-might be better than coffee
-considering… well.
-He puts it on the desk next to Alice
-ALICE
-(quietly)
-Thanks.
-Beat.
-
+1. EXT. TRAIN TRACKS – AFTERNOON, CLEAR (CELIA’S
+PHONE).
+An overland train is powering down the tracks towards CELIA.
+The horn wails.
+CELIA
+(groggy)
+Hmm? Wha?
+The train thunders closer and the horn sounds again.
+CELIA CONT.
+JESUS CHRIST!
+CELIA scrambles to her feet and dashes away from the tracks
+moments before the train speeds past her.
+CELIA CONT.
+(panting)
+For gods sake! Not again. Not today!
+She pulls out her phone and tries to call someone whilst
+hurrying away from the tracks.
 [2]
 
 ©Rusty Quill 2023
 
-CELIA
-Do you want to talk about it?
-ALICE
-I… Christ I still shake when I think
-about it.
+2. INT. O.I.A.R. BREAKROOM– NIGHT, CLEAR (CCTV)
+SAM is making coffee, CELIA is beside him. They are clearly mid
+conversation.
 SAM
-It’s okay.
+(not okay)
+It’s fine.
 CELIA
-C’mere.
-CELIA holds ALICE.
-Comforting stillness.
-ALICE
-(sniffing)
-Thanks. Yeah I’m… I’m all right. Just
-a lot y’know? I haven’t seen
-someone die since…
+No honestly, I am so sorry! It was so
+sudden, and by the time I sorted a
+sitter…
 SAM
-Yeah.
-ALICE
-I went back afterwards. Couldn’t just
-leave her. Tape player was gone and
-she’d stopped speaking, and when
-the paramedics turned up and they
-just called it straight away. Said
-she’d been dead for ages.
-Beat.
+I said it’s fine. I just would have
+appreciated it if you could have
+called.
 CELIA
-But…
-ALICE
-But I heard her talking… about
-drowning. Paramedics just wanted to
-treat me for shock. They kept telling
+I know…
+SAM
+I mean, you didn’t even let me know
+you weren’t coming until the trailers
+had started…
+CELIA
+I know, I know. I promise I didn’t
+mean to miss it. I tried to get back in
+time but there weren’t any trains and
+I didn’t have any signal.
+SAM
+It's okay. I do understand just…
+Don’t make a habit of it yeah?
+CELIA
+Of course. Tell you what, next time
+we go out, it’s my treat.
+
 [3]
 
 ©Rusty Quill 2023
 
-me there was no way she could have
-been walking with that much water in
-her lungs.
-Beat.
 SAM
-What are you saying?
-ALICE
-I don’t know. Maybe that I’m finally
-losing it?
-Beat.
-CELIA
-I believe you.
-ALICE
-No you don’t.
-CELIA
-I’m serious. Don’t get me wrong, I’m
-not saying I know exactly what
-happened, but I don’t think you just
-saw a body and freaked out. That’s
-not the Alice I know.
+You don’t have toCELIA
+I want to.
+Beat. The mood is lighter.
 SAM
-Same. And it’s not like it’s any
-weirder than half the stuff we read
-here.
-Beat.
-ALICE
-(touched)
-Thanks guys. Maybe… Eurgh.
-(sighing)
-I know it’s selfish but, I kind of
-hoped I’d paid my horror dues
-working here, y’know?
+So where did you have to run off to?
+CELIA
+(reluctantly)
+Oxford.
+SAM
+Sounds nice.
+CELIA
+It really wasn’t. I’d have much rather
+been at the cinema with you.
+SAM
+Next time I guess.
+CELIA
+Yeah. Speaking of, what did you
+think of the film in the end?
+SAM
+Oh I actually really enjoyed it!
+CELIA
+Yeah?
+SAM
+I’m not a big horror fan, but it was all
+right! Not sure how romantic it would
+have been though.
+
 [4]
 
 ©Rusty Quill 2023
 
 CELIA
-I think there’s plenty of it to go
-around at the moment.
-Beat.
-ALICE
-Whelp cheers for the pep talk and all
-but we should probably get on. The
-last thing I need is Lena getting on
-my case on top of everything else.
+(flirty)
+I’m sure we’d have found a way to
+make it work.
+SAM finishes making coffee.
 SAM
-You’re sure you're ok to work?
-ALICE
-Yeah. I already wasted most of
-Sunday crying about it. Anyway,
-odds are Freddie will spit out a
-transcript of the whole thing. Least I
-can do is make sure it’s filed
-properly, right?
+[chuckles awkwardly-flirty] We’ll
+have to find out next time won’t we?
+CELIA
+Absolutely.
 SAM
-So would that be Z for zombie or…?
-Beat.
-SAM
-I’m just going to… um… yeah…
-SAM double clicks and the case begins.
-2. CYBERSPACE – N/A, N/A (COMPUTER)
+(heading off)
+I’ll see you in there.
+CELIA
+Sure thing.
+SAM exits.
+CELIA lingers or a moment and takes a deep steadying breath.
+CELIA
+(to herself)
+You’re okay. It’s ok.
+
+3. CYBERSPACE – N/A,N/A (COMPUTER).
 CHESTER
-https://www.vidklik.com/@MadamEle
-ctrum
-150 Following
-137.4K Followers
-1.67M Likes
+Statement and Research assessment
+for candidate PD553
+Magnus Institute – Oxford Outreach
+Centre.
+Private and confidential.
+Viability as subject – low
 [5]
 
 ©Rusty Quill 2023
 
-The Madam will see you now!
-#Gothgirl #lifestyle #beauty
-#alternative #aesthetic
-MadamElectrum.wordpress.com
-Videos:
-Madam E/Ink5oul - Tattoo Reveal!
-30-10-2023
-MADAM E
-Hey guys! It’s the one you've been
-waiting for, I know. I've had so many
-messages: when's it happening,
-when's it gonna be? Well, here we
-are! Madam Electrum coming to you
-live with the tattoo terror themselves,
-the one, the only, Ink5oul!
-INK5OUL
-(aloof)
-Hey.
-MADAM E
-So for any of you sweetums who
-have been sleeping on this, Ink5oul
-is the tattoo CEO Period. No cap,
-their designs are in-credible and only
-for the true ubergoth. Ain’t that
-right?
-INK5OUL
-That’s what they tell me.
-MADAM E
-And let me say, they are the absolute
-GOAT so I'm here for my very own,
-completely personalized, absolutely
-aesthetic, totally vegan, boujee ink,
-for free!
+Viability as agent – low
+Viability as catalyst – low
+Recommend continued incarceration
+as part of Welling Mutare Materia
+research program.
+Statement follows:
+I know how this looks but it wasn’t
+me. Well, it was me but it wasn’t me
+you understand?
+Of course you don’t, how could you?
+Okay, so I’m just going to tell you
+everything that happened,
+everything I know. What you do with
+it after that is none of my business,
+all I ask is that you don’t hold me
+responsible for what he did.
+Right. Where to start? Anger
+Management I guess.
+Now let me explain before you go
+jumping to any conclusions. I’d been
+going to therapy for a while, ever
+since the arrest, so coming on
+sixteen months, and I was making
+real progress. It sounds like rubbish
+at first but all that counting to ten,
+gratefulness and compassion work,
+they do work. From the look of you,
+you’d probably benefit from it.
+Anyway, it was my last session. I’d
+met all the terms of the court order
 [6]
 
 ©Rusty Quill 2023
 
-INK5OUL
-That’s right.
-MADAM
-This is seriously… I’m going in
-straight blind and trusting the
-process, I am that full on Ink5oul
-stan. So, as I finna get marked, make
-sure you’re following on socials,
-subbed to my Youtube and OnlyFans
-(if you know, you know) and sending
-those like, like, likes!
-INK5OUL
-You ready for your heart’s desire?
-MADAM E
-(laughing, nervous)
-I’m literally shaking! But… What’s
-the worst that can happen?
-INK5OUL
-Let’s find out.
-[DUN DUN DUN]
-INK5OUL starts to tattoo and MADAM E gasps in extreme pain.
-CUT TO:
-INK5oul drops the used needle into a metal container with
-MADAM E still gasping for breath.
-MADAM E
-(hurting)
-Is… is it over?
-INK5OUL
-Take a look.
-MADAM E sits up wincing and looks at herself in the mirror.
-
+and I was due the rubber stamp,
+upstanding member of the
+community and all that. So that’s
+what led me to my normal seat in Dr
+Dumfries’s waiting room.
+It was a terrace townhouse and I’d
+always found it uncomfortable, like
+the walls were so thin you could
+almost hear what people were saying
+on the other side. I never did though.
+At some point I’d chalked it up to
+just being antsy waiting for therapy.
+Anyway, there was a new
+receptionist behind the old front
+desk, some big, soft looking guy
+who stumbled over every word. A
+year ago, it would have probably
+wound me right up but what can I
+say? Therapy works.
+There was another patient too, some
+bookish-looking guy with serious
+city miles. I used to play the game
+“what are you in for” where I would
+pass the time guessing… well, you
+know. In my head he was definitely
+some kind of weird pervert, really
+into stroking orchids or something.
+Thinking back, I almost wonder if the
+same thing happened to them… Do
+you know? Would you even tell me if
+you did?
+So my turn comes up and in I go. Dr
+Dumfries said hello in that cheery
+way that always used to set me on
+edge and we get down to it. Now his
+office was pretty much the most
 [7]
 
 ©Rusty Quill 2023
 
-INK5OUL CONT.
-What do you think?
-MADAM E
-Oh… Oh wow…
-INK5OUL
-Now get out.
-Beat.
-CHESTER
-Videos: Recent Ink5oul rumours!
-19-12-2023
-
-MADAM E
-Hey guys! So, you've all been
-asking, and yeah, ya fave thick and
-perky kindergoth is finally finna spill
-on the whole Ink5oul drama.
-Now y’all know I’m not one to sip
-when there’s tea, even when they’re
-mutuals but this is super hard for me
-cos, like, y’all know I’m kinda in a
-situationship with them ever since I
-got that heart tat and I don’t wanna
-throw shade. But I gotta be savage,
-cos I got something been living rent
-free and… I gotta talk about it, ya get
-me?
-So like, since getting that ink I been
-feeling AMAZING and I admit I
-mighta got a bit extra, simping on
-Ink5oul. So you knows ya girl was
-slidin’ into their DMs- Holla to all
-them other thirsty girls!- and got into
-a bit of a Kiki.
+boring room in the world. No
+pictures, no clock, not even a
+window. Just the front door, the
+office door, the desk and some
+chairs. It must have been deliberate.
+It drove me up the wall.
+I’d been trying meditation in the last
+few sessions and it had always been
+a struggle but this time, when I
+closed my eyes and went into
+myself… It was different. I remember
+sitting there that last time and
+realizing that this was what she had
+been on about. Just sort of… having
+a sit… going away for a while… just
+being…
+Pause
+CHESTER CONT.
+I don’t really know what happened
+then. I felt like maybe I was
+dreaming, but I don't really
+remember. I wasn't asleep, though.
+You can't feel pain like that in a
+dream. It was the migraine that
+brought me back. All at once this
+deep throbbing pain, and my eyes
+were so dry I couldn't open them. My
+neck was stiff and I was dizzy, cold
+and trembling. Finally, I tried to
+stand up and fell forward onto my
+knees.
+I could barely move, couldn't focus
+over the pain, I just knew I needed to
+get out of that room, into the fresh
+air. It was dark now, with no sign of
+Dr. Dumfries, and I had to make my
+way up a flight of stairs and through
 [8]
 
 ©Rusty Quill 2023
 
-We was chattin’ ‘bout their work,
-how much I love it and that, and ya
-girl got to asking where they got
-their ideas cos like, obviously I'm no
-cap jelly of their skills. So they was
-all like “secrets” and, sure, but that
-got me sus cos like, we was high key
-vibing then suddenly they’re just
-dead y’know?
-Anyway, after that we both hustlin’
-as we do an’ don’t talk for a while.
-Then from nowhere they’re like “so
-are you a real goth or not?” And I’m
-like
-She makes a scoffing noise.
-MADAM E
-“I’m more goth than y’all can
-handle”, and they just send me
-”from.vision.ruled, Thursday, two
-thirty AM”. Takes a tick for me to
-clock that it’s a threewords but when
-I look it up, turns out it’s this patch
-up in Highgate Cemetery.
-Natch, I was in. Sure it’s a bit sus but
-also like. that’s, Gothdam central, No
-way I’d pass up the chance to vibe
-with Ink5oul there, even if it was a bit
-of an afterparty ya feel me?
-So I sneaked in, allegedly, and there
-they were just chillin in the dark with
-a big-ass spade over their shoulder,
-big mood amirite? I figure ya girl is
-in for a spooky treat, bit of roleplay
-but theyre still straight dead with me,
+an office space I didn't recognise
+before I saw daylight. I collapsed
+again, but I remember two things
+before I lost consciousness: I was in
+some kind of shopping centre. And a
+sign reading “Magnus Institute
+Outreach Centre”. I assume that's
+how I first came to your attention.
+I came to for a bit in the ambulance.
+They seemed really worried, kept
+asking me what had happened. I
+tried to tell them I’d felt fine earlier…
+then I saw my arms. They were
+withered with paper thin skin
+hanging from my emaciated wrists.
+My aching eyes traced their way up
+to my sunken chest then down past
+my protruding ribs to the swollen
+belly below. I passed out again.
+The next few days are a blur. I know
+they kept me in for “malnutrition with
+complications” but when I told them
+I didn’t know how it happened they
+didn’t believe me. I reckon they had
+me pegged as bulimic or something
+but they seemed satisfied once they
+got me on solids and I scoffed
+everything I could get my hands on.
+I had plenty of time to think about
+what had happened but I just
+couldn’t wrap my head around it. All
+I knew was that I needed some time
+away from the quarry to get my head
+on straight. I couldn’t afford another
+“incident” there.
 [9]
 
 ©Rusty Quill 2023
 
-just tell me to follow, so I do.
-We head on through the graves and
-then they point to one of ‘em and
-just give me a look. I was no cap
-shook and then they just said “dig”. I
-laughed, ‘cause, like, the ‘hell? But
-they were serious. “I thought you
-were goth?” they said. Now ya girl is
-hella goth, but this, this was just
-nasty so I told them they were outta
-pocket and they just give me the
-look again and whisper “don’t make
-me break your heart.”
-And I’m telling you, I could feel the
-words in my chest y’know? Brutal.
-That does me and so I am out of
-there like that.
-(snaps fingers)
-Now I ain’t no fool and I know crazy
-when I peep it. So I bail.
-But that ain’t the whole story, oh no.
-Cos i know some of you seen on the
-news next day there’s this whole
-thing about someone breaking into
-Highgate and no-cap robbing graves.
-Now I know what y’all are thinking
-and hell no I ain’t gonna call it in but,
-like… Y'all gotta know what's up.
-And, like, where does Ink5oul get all
-their ideas huh? Are they really all
-that or maybe, maybe they’re just
-bitin’ stuff from some mouldy old
-bodies? Nasty. Ya girl is a goth, not
-a ghoul and I am done with Ink5oul.
-That’s all I got time for right now. I’ll
-be back with another vid next week
+I tried to phone in sick but the call
+wouldn’t go through. The hospital
+asked for an emergency contact but
+obviously that was a non-starter.
+Finally, they just looked my address
+up on my NHS records and bundled
+me into a drop-off bus. Honestly, I
+think they were just keen to get shot
+of me since I wasn’t infected or
+anything and I’ve never been exactly
+the easiest to get along with.
+At first, I thought the driver had
+managed to get himself lost. I
+certainly didn’t recognize the route
+and eventually instead of heading to
+Balfor Road he tried to drop me at
+some ridiculous place off Banbury.
+They'd obviously given him the
+wrong address. I admit there may
+have been some harsh words
+between us once I realized but even
+so I was still feeling pretty hard done
+by when he drove off into the
+darkness swearing at me.
+So that’s how, with no money, no
+bags and just the shirt on my back, I
+ended up knocking on the door of
+Harcourt House. Well, technically I
+rang the bell, some huge, overdone
+brass ring pull like you’d see in
+Downton Abbey. I felt like a right
+prick, but I figured at this point what
+was the harm? I should warn
+whoever lived there about the mix-up
+if someone came checking on me
+and you never know, they might
+even help me get home, god knows
+they could afford it. Besides, it was
 [10]
 
 ©Rusty Quill 2023
 
-but till then Darklove to all my creepy
-sweeties, and laters-haters! Peace!
-CHESTER
-Videos: Madam E – OMG That callout
-video!
-19-12-2023
-MADAM E is still in studio but she is deeply upset, crying with
-cracks in her persona.
-MADAM E
-Hey guys, M&M here with another
-update.
-She sighs, tearful.
-MADAM E CONT.
-Y’all probably heard by now that
-Ink5oul dragged me on their
-channels. It was… it was vicious
-pick-me trash and everyone bought
-it and their stans are seriously extra
-cos… yeah there’s been proper hate
-at me and y’know I try to rise
-above… but it’s hard.
-I’m a good person. I’m such a good
-person but… I’ve been getting
-callouts, death threats, they even
-doxxed me and then the cops turned
-up trying to pin all that grave robbing
-BS on me! It was total bull, I didn’t
-do jack but Ink5oul did me dirty and
-so now I guess we're opps. They are
-a psycho but no one believes me!
-I’ve wanted to talk about this stuff for
-time but I knew if I did they’d turn on
-me and give y’all totally the wrong
+cold.
+It took a while for someone to
+answer, long enough for me to start
+seriously considering how I was
+going to make it home in my current
+state. I had just decided to call it
+when they pulled open the door,
+spilling golden light out into the
+cavernous porch and that was when
+I first met myself. The other myself.
+I don’t recommend it.
+We both yelled, then we both
+laughed, then we just stared. He took
+it better than I did. He even invited
+me inside once he realized how bad
+a state I was in. He sat me down and
+made me a tea, four sugars, just how
+I like it. I was so grateful, anything to
+stop that feeling that I was somehow
+falling through the cracks.
+He was my height obviously and had
+my eyes but I actually noticed the
+differences more than the
+similarities. He wore glasses, no
+grey in his hair and had white,
+almost glowing teeth and no beer
+gut. I realized that whatever this was,
+I was definitely the worse version
+and that is not a good feeling.
+Thankfully, he didn’t say anything. In
+fact, he looked thrilled, kept telling
+me how “amazing” this was, in his
+fancy house and designer clothes.
+We talked and after a bit we figured
+we must have been half-brothers, as
 [11]
 
 ©Rusty Quill 2023
 
-idea and now everyone is taking
-their side and it's not… it’s not…
-She gasps and clasps her chest.
-MADAM E CONT.
-It hurts. All that hate, all those
-people wanting me dead or worse… I
-can feel it. No cap, it hits right here.
-It’s like y’all are bees stinging me
-over and over right in the heart. I
-dunno if the camera’s picking it up
-but you can even see it…
-She positions herself in front of the camera.
-MADAM E CONT.
-That’s not okay. I’m not okay. I just, I
-just wanted y’all to listen but
-instead…
-I’m gonna be taking some time away
-from socials. Big thanks to all of you
-who’ve been stepping up for me, but
-I can’t… I just can’t.
-Beat.
-CHESTER
-Videos:
-Madam E – Help (Unposted)
-03-01-2024
-A hospital bed. Madam E is in a terrible state,
-breathless and struggling to speak through the
-pain.
-MADAM E
-Hey everyone. I’ve been getting a lot
-of, um, worried comments… on my
-last vid… so I wanted to update. I’ve
-got to… be quiet. Not meant to have
+we definitely had the same piece-ofshit dad. I'd grown up with a mum,
+though, so I guess I got the lucky
+side of that particular coin-flip. Didn't
+feel it at the time, though.
+I’d always hated my old man, the
+vicious bastard had put me through
+hell and now here was proof that he
+had a whole second life, a better,
+richer life without me and mum. He
+even called this son Darrien too.
+That hit hard.
+But the other Darrien was good
+about it, changed the subject, asked
+me what brought me here. I started
+explaining my side of things. The
+hospital, the ambulance, the
+weirdness in the waiting room. He
+was a good listener and I ended up
+telling him way more than I meant to.
+Even about therapy and the arrest,
+all of it… The only time he
+interrupted was to check the little
+details: dates, times, that sort of
+thing.
+That was when things got really
+weird because if the other Darien
+was right, that meant at some point
+Dad had been at his own funeral at
+the same time that he was in surgery
+for the tumor that killed him.
+We talked for hours without coming
+to any conclusions but I was still in a
+pretty bad way and I was nearing my
+limits. Darrien noticed and insisted I
+stayed, after all “we’re sort of
+family.” I was too exhausted to argue
 [12]
 
 ©Rusty Quill 2023
 
-my phone.
-So since that last vid, things got
-worse… started getting dodgy mail…
-then someone set my door on fire…
-The cats are okay but… had to move
-back in with mum and dad and
-now…
-She coughs weakly. It sounds awful.
-MADAM E
-I’m… in the hospital… there’s
-something wrong with my heart…
-but they’re not sure…
-She gasps again.
-MADAM E
-It hurts… It hurts so much… mum
-says its stress but doctor says its an
-infection from the tattoo. but… I
-know it’s more than that…
-She coughs painfully again and begins crying.
-MADAM E
-I just wanted to be noticed… I just… I
-don’t deserve this… please, please
-just stop… the views are cutting
-me... the comments hurt… I’m
-done… I’m done and… and…
-She struggles to breathe, an alarm starts beeping. There is the
-sound of tearing skin and a gurgled sound, as though
-something were tearing itself free of her flesh. The recoding
-ends
-
+so I kipped in the spare bedroom. It
+was bigger than my whole flat.
+The next day I was properly sick. I’d
+definitely overdone it and I felt
+horrendous. Darrien was really great
+about it though, insisted I stay
+longer; he had the space and the
+housekeeper was used to cooking
+for guests. Besides, we still had so
+much to talk about. I didn’t argue. It
+was a comfy bed.
+Darrien came by later with some
+spicy leek soup and we talked again.
+He was just so eager, he kept telling
+me how amazing it was, how he
+might finally have someone to talk to
+who would “get it” how happy he
+was to have me around. I’ll admit it
+did feel good to talk and he was
+right, he did get it. When I talked
+about the anger and what it had
+caused, he immediately understood
+with no judgement. He just smiled
+and said he knew just how to help.
+I stayed another couple of days
+getting my strength back. We spent
+the time talking, eating and just
+generally hanging out. He was really
+good company, and incredibly
+generous, letting me have the full
+run of the place.
+The only thing that made me pause
+was how the housekeeper, Sharon,
+was around us. It wasn’t that she
+was judgmental or anything, she was
+afraid, maybe even terrified… I
 [13]
 
 ©Rusty Quill 2023
 
-3. INT. O.I.A.R. OFFICE – NIGHT, CLEAR (COMPUTER)
-SAM
-Alice? Are you…
-ALICE
-(sharply)
-I’m fine.
-Beat.
-ALICE
-Dammit! I’m getting a coffee.
-Alice abruptly stands and stomps over to the break room.
-SAM
-We should probably…
-CELIA
-Yeah...
-They both stand and follow her in.
-Extended pause.
-Gwen enters and approaches.
-GWEN
-For god’s sake! The second I’m not
-around…
-She leans over starts reading Sam’s case.
-Lena angrily knocks on the glass of her office.
-GWEN CONT.
-(muttering)
-Christ, what now?
-
+assumed she was just weirded out
+and tried to get to know her, talk to
+her when Darrien wasn’t around but
+the whole time it was like she was
+ready to run, like she was waiting for
+me to suddenly turn on her.
+Eventually, I had to just give up and
+let her hurry off. I didn’t want to
+upset her or anything but it worried
+me. The last time I’d seen people
+look at me like that was after the
+fight and I hated it. I had sworn I
+would never give someone reason to
+look at me like that again.
+That evening Darrien and I were sat
+smoking in his massive study.
+Sharon had left an hour before
+having cleaned up after dinner and
+Darrien was telling me all about his
+time at university. I’d never been but
+it seems like he had done the whole
+Eton and Oxford thing and even
+done some competitive boxing while
+he was there. I saw my moment and
+asked him if that was how he
+managed to stay so chill? Venting
+the anger, that kind of thing?
+He gave me a look then. A very
+direct, very calm look over the tops
+of his expensive horn-rimmed
+glasses. “I was waiting for you to
+ask” he said in a tone I hadn't heard
+from him before. Then he smiled,
+stubbed out his cigar and walked off
+without another word.
+I followed, still a little unsteady on
 [14]
 
 ©Rusty Quill 2023
 
-4. INT. MANAGER’S OFFICE - NIGHT, CLEAR (LANDLINE).
-GWEN opens the door unceremoniously to find LENA waiting for
-her.
-GWEN
-What now?
-LENA
-Sit.
-GWEN
-Look maybe you didn’t notice but no
-one is at their desks and the case
-load tonight isLENA
-(Quietly furious)
-Sit. Down.
-Beat. Gwen reads the room, heads over to her seat and sits.
-LENA CONT.
-Are you stupid?
-GWEN
-(bristling)
-Excuse me?
-LENA
-(louder)
-I said Are. You. Stupid?
-GWEN
-I don’tLENA
-Because that’s the only possible
-explanation I can find for why you
-would think it was appropriate to
-bring an External into our offices.
-
+my feet, but he wasn’t hurrying. He
+walked through the house without a
+word, winding his way down to the
+basement. I had been there before,
+seen the gym and the home cinema
+and all that but we walked past all of
+it to a locked door at the end. I had
+assumed it was a cupboard or utility
+room, something unexciting but
+necessary, and when I looked closer
+I could see the hinges were heavy,
+reinforced, the edges of the door had
+a thick rubber seal and the lock was
+excessive for such a generic-looking
+door.
+Darrien placed a key in the lock and
+turned to me with a smile. “It’s so
+nice to finally share this with
+someone” he murmured before
+turning the key, opening the door
+and gesturing for me to enter.
+I looked inside, seeing a spotless
+sharp-edged steel staircase leading
+downwards into a harshly lit,
+stainless steel space. Most of the
+room was out of view from the
+doorway but I could hear something,
+right on the edge of my hearing, in
+the quiet, past Darrien’s measured
+breath and the distant hum of the
+boiler. There was another breath, a
+slow and ragged rattle creeping up
+from below. And a smell: the tang of
+disinfectant over a faint, coppery
+undertone. That was when I noticed
+a single spot of color on the
+otherwise pristine stairs. A single,
+crimson spot.
 [15]
 
 ©Rusty Quill 2023
 
-GWEN
-I just thought it might be safer if they
-were in a controlled environment.
-LENA
-Safer? You marched a dangerous
-asset right through the office without
-taking any precautions! For
-goodness sake, you gave her a tour!
-You introduced her to your
-colleagues! That poses a completely
-unacceptable risk to personnel.
-GWEN
-I was with her almost the whole time.
-Besides, Lady Mowbray is a lady, an
-actual, married into the house of
-lords, Lady. It’s not like I was holding
-doors open for Mr. Bonzo or
-anything.
-LENA
-You have no idea how dangerous
-she is.
-GWEN
-No, I don’t, because you don’t tell me
-anything!
-LENA
-And I will keep it that way until you
-have proven to me that you can be
-trusted to think before you act.
-GWEN
-Or I die right? Because I can’t help
-noticing that you’re happy to send
-me out alone to meet all these
-dangerous Externals that you are too
-afraid to even let into the building!
-Beat.
+I didn't need to take a single step
+down to know exactly what this
+place was. Darrien leaned in close to
+my ear to whisper “Trust me, you’ll
+enjoy it” as another rattle clawed its
+way up the stairs towards me, asking
+weakly for mercy. For death..
+I tensed, I couldn’t help it. Darrien’s
+secret, his solution to the anger that
+had been burning my own life to the
+ground for as long as I could
+remember was down there. And if he
+really was the same as me, if he
+really had all that rage trapped inside
+him then whatever he had done to
+the man who was down there... I
+didn't want to see it. I couldn't.
+Darrien frowned at me then. I could
+see the disappointment bleed across
+his face like a stain, souring that
+boyish eagerness and replacing it
+with an anger I recognized
+immediately. We were so similar and
+yet… I couldn’t join him down there
+with our father in that horrible
+halogen light.
+He hesitated. I shoved him, more
+instinct than anything else. He
+grabbed for me as he overbalanced,
+his face contorted in rage but he was
+snatching at air. He never broke eye
+contact as he fell. Even as his arm
+broke on the first impact, even as his
+knee wrenched as he tumbled, even
+as his temple cracked into the
+bottom step and he slumped onto
 [16]
 
 ©Rusty Quill 2023
 
-LENA
-Gwen, if the O.I.A.R. is to function it
-is imperative that the Externals
-respect us and the boundaries we
-impose upon them. OtherwiseGWEN
-Fine! No Externals on site,
-understood. Happy?
-Beat.
-LENA
-It’s becoming clear to me that you
-are struggling with your new
-position and so I think it might best if
-youGWEN
-Give me another assignment.
-LENA
-Gwen…
-GWEN
-You can’t take this away just
-because I did something you never
-bothered to tell me not to. You’re
-always going on about how difficult
-it is to find reliable staff. Then why
-don’t you try actually training me for
-once?
-LENA
-Would you even listen?
-GWEN
-There’s one way to find out.
-LENA sighs.
+the stainless steel floor. He just
+stared at me with pure venom in his
+eyes whilst I looked back sadly.
+He wasn’t dead. Not at that point.
+Maybe it would have been merciful to
+finish him off. Maybe if I had done, I
+could have saved whatever tortured
+soul he'd kept down there. But the
+idea of walking down those steps
+was too much. I just couldn't do it.
+The door was solid, soundproof and
+had a firm lock on the outside. I
+haven't opened it since.
+Pause
+CHESTER CONT.
+I’ve lived Darien’s life for four years
+now. It wasn’t as hard as you’d think,
+turns out your world and mine are
+pretty similar. Then I sent Sharon on
+an expensive package holiday and
+lied to her about my “half-brother”
+having to leave in a hurry. She knew
+what I had done, I'm certain of that.
+She never called the police or
+anything, but she never came back
+after that holiday either. I think she
+just wanted done with the whole
+mess. I don’t blame her.
+Oh. I bet she’s the one who tipped
+you off, isn't she?
+Yeah, I thought so.
 
 [17]
 
 ©Rusty Quill 2023
 
-LENA
-I will … consider it. You may go.
-Gwen furiously stands and leaves.
-Lena sighs again.
+So where does that leave us? I
+suppose you could call the police
+but I don't see that that would do
+anyone any good. And I've had
+enough practice living this life now
+that I could make it pretty unpleasant
+for you. Besides, all I’m really guilty
+of is killing a killer and not helping
+someone who was likely dead either
+way. Is that really so bad, in the
+scheme of things?
+We could just call it quits? I’m really
+not a bad person. I give to charity, I
+pay my- his taxes. In a lot of ways
+I’m a better Darrien than he ever was.
+So let's call this a happy ending.
+
+4. INT. O.I.A.R. OFFICE - NIGHT, CLEAR (COMPUTER).
+The Case finishes and CELIA considers it for a moment. ALICE
+is sat nearby working with headphones on.
+CELIA
+(to computer)
+Thanks, I guess. Not exactly the
+same is it?
+ALICE
+(removing earbuds)
+What's up? Got a good one?
+CELIA
+Nothing useful.
+ALICE
+(returning earbuds)
+I mean when are they ever?
+[18]
+
+©Rusty Quill 2023
+
+CELIA
+True.
+Beat.
+She sighs.
+CELIA CONT.
+(to herself)
+True.
+
+5. INT. O.I.A.R. OFFICE - NIGHT, CLEAR (COMPUTER).
+GWEN is working on Alice’s computer, she is slightly hesitant
+and it is clear that she doesn’t have Colin’s skills.
+She clicks something, and a rather nasty error sound answers
+her.
+ALICE
+See? Not my fault.
+GWEN
+It would help if your keyboard didn’t
+have an entire pack of digestive
+crumbs wedged between the keys.
+ALICE
+It’s shortbread.
+GWEN
+It’s disgusting is what it is. It’s no
+wonder you’re having PC issues.
+ALICE
+Are you seriously suggesting that a
+“jmj error” is actually an issue with
+the... cookies?
+Beat.
+[19]
+
+©Rusty Quill 2023
+
+GWEN
+Shut up.
+ALICE
+You set ‘em up, I knock ‘em down.
+GWEN
+I bet you don’t even know what
+cookies actually are…
+ALICE
+Oh and you do? Look forget it. Celia
+said she’s seen Colin about. Maybe I
+can grab him so he can kick it into
+submission again.
+GWEN
+Then Celia’s wrong. He hasn’t been
+in for weeks so unless you’ve
+secretly been learning ethernet
+protocolsALICE
+Now you’re just making stuff upGWEN
+I’m the best you’ve got right now.
+Beat.
+ALICE
+Jesus that’s depressing.
+GWEN
+Trust me, I hate it just as much as
+you do.
+Beat. GWEN continues to work on the PC as it keeps throwing
+up errors.
+
+[20]
+
+©Rusty Quill 2023
+
+ALICE
+If we had a real HR department,
+they'd probably tell us that we all
+need to sit down and talk things out.
+Work through everything that’s
+happening to us in a “safe
+environment.”
+GWEN
+Look, Alice, if there’s something you
+want to talk about…
+ALICE
+Me? No. …Unless there’s something
+you need to share?
+Gwen considers.
+GWEN
+No.
+ALICE
+Oh thank Christ, me neither.
+The PC gives a begrudging tone and seems to be working again.
+GWEN CONT.
+Right, that’s the best you’re going to
+get until Colin gets back.
+ALICE
+Any word on when that might be?
+GWEN
+(packing up)
+I wouldn’t hold your breath.
+ALICE
+Great.
+Pause.
+
+[21]
+
+©Rusty Quill 2023
+
+ALICE CONT.
+What?
+GWEN
+(pointedly)
+You’re welcome.
+ALICE
+Am I? Oh good.
+GWEN gives a frustrated grunt then walks off.
+Alice sits, stretches then gets back to work.
 [Music]
 ANNOUNCER
 The Magnus Protocol is a podcast
@@ -599,29 +777,29 @@ directed by Alexander J Newall.
 This episode was written by
 Alexander J Newall and edited with
 additional materials by Jonathan
-Sims, with vocal edits by Lowri Ann
-Davies, soundscaping by Tessa
-Vroom, and mastering by Catherine
-Rinella with music by Sam Jones.
+Sims, with vocal edits by Nico
+Vettese, soundscaping by Meg
+McKellar, and mastering by
+Catherine Rinella with music by Sam
+Jones.
 It featured Billie Hindle as Alice Dyer,
 Shahan Hamza as Samama Khalid,
 Anusia Battersby as Gwen
 Bouchard, Lowri Ann Davies as Celia
-Ripley, Sarah Lambie as Lena Kelley,
-with additional voices from Jonathan
-Sims.
+Ripley, with additional voices from
+Jonathan Sims.
 The Magnus Protocol is produced by
 April Sumner, with executive
 producers Alexander J Newall, Dani
+[22]
+
+©Rusty Quill 2023
+
 McDonough, Linn Ci, and Samantha
 F.G. Hamilton, and Associate
 Producers Jordan L. Hawk, Taylor
 Michaels, Nicole Perlman, Cetius
 d’Raven, and Megan Nice.
-[18]
-
-©Rusty Quill 2023
-
 To subscribe, view associated
 materials, or join our Patreon, visit
 rustyquill.com. Rate and review us
@@ -630,75 +808,81 @@ us on facebook or email us at
 mail@rustyquill.com
 Thanks for listening.
 
-[19]
+[23]
 
 ©Rusty Quill 2023
 
-The Magnus Protocol 16 – Anti-Social
-CAT1RB1565-30102023-25032024
-Tattoo(influencer)-/- Cardiac
+The Magnus Protocol 17 – Saved Copy
+CAT2RC1147-30111997-04042024
+Doppleganger (interdimensional) -/- murder
+
 Incident Elements:
-- Cyber Bullying
-- Intimidation
-- Harassment
-- Mentions of: heart problems, hospitalization, tattoos, needles,
-exhumation
-- SFX: Tattoo gun, screaming, coughing
+- Murder
+- Existential Horror
+- Temporal Distortion
+- Identity Crisis
+- Graphic Injury
+- Captivity/Torture
+- Mentions of: Therapy (Anger Management), arrest, malnutrition
+
 Transcripts: https://shorturl.at/gzF15
-This episode is dedicated to Thierry Deuble, thank you for your
-generous support! You can a complete list of our Kickstarter
-backers https://rustyquill.com/the-magnus-protocol-supporterwall/
+
+This episode is dedicated to Saiorse Killigrew, thank you for
+your generous support! You can a complete list of our
+Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/
+
 Created by Jonathan Sims and Alexander J Newall
 Directed by Alexander J Newall
 Written by Alexander J Newall
 Script Edited with additional material by Jonathan Sims
+[24]
+
+©Rusty Quill 2023
+
 Executive Producers April Sumner, Alexander J Newall,
 Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G.
 Hamilton
 Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole
 Perlman, Cetius d’Raven, and Megan Nice
 Produced by April Sumner
+
 Featuring (in order of appearance)
+Lowri Ann Davies as Celia Ripley
 Shahan Hamza as Samama Khalid
 Billie Hindle as Alice Dyer
-Lowri Ann Davies as Celia Ripley
-Sarah Lambie as Lena Kelley
 Anusia Battersby as Gwendolyn Bouchard
-Vera Chok as Ink5oul
+Jonathan Sims as Chester
 
-[20]
+Dialogue Editor – Nico Vettese
+Sound Designer – Meg McKellar
+Mastering Editor - Catherine Rinella
+
+Music by Sam Jones (orchestral mix by Jake Jackson)
+Art by April Sumner
+
+SFX from Soundly and previously credited artists
+
+Support us on Patreon at https://patreon.com/rustyquill
+[25]
 
 ©Rusty Quill 2023
 
-Ki Griffin as Madam E
-Jonathan Sims as Chester
-Dialogue Editor – Lowri Ann Davies
-Sound Designer – Tessa Vroom
-Mastering Editor - Catherine Rinella
-Music by Sam Jones (orchestral mix by Jake Jackson)
-Art by April Sumner
-SFX from Soundly, Freesound:Jamitch2, Nightflame, E0las
-Exchanger, Kinoton, blaukreuz, zevcuk, Dude_Law, fotoshop,
-JonasTisell, batman666 and previously credited artists
-"Tyrant" Kevin MacLeod (incompetech.com)
-Licensed under Creative Commons: By Attribution 4.0 License
-http://creativecommons.org/licenses/by/4.0/
-"Dun dun duuuun" sfx from https://www.fesliyanstudios.com
-Support us on Patreon at https://patreon.com/rustyquill
 Check out our merchandise available at
 https://www.redbubble.com/people/RustyQuill/shop and
 https://www.teepublic.com/stores/rusty-quill
+
 Join our community:
 WEBSITE: rustyquill.com
 FACEBOOK: facebook.com/therustyquill
 TWITTER: @therustyquill
 REDDIT: reddit.com/r/RustyQuill
 EMAIL: mail@rustyquill.com
+
 The Magnus Protocol is a derivative product of the Magnus
 Archives, created by Rusty Quill Ltd. and licensed under a
 Creative Commons Attribution Non-Commercial Share alike 4.0
 International Licence.
 
-[21]
+[26]
 
 
