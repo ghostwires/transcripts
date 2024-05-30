@@ -1,12 +1,12 @@
-©Rusty Quill 2023 The Magnus Protocol Episode 17 "Saved Copy" Written by Alexander J Newall Edited by Jonathan Sims 
+©Rusty Quill 2023 The Magnus Protocol Episode 18 "Solo Work" Written by Jonathan Sims Edited by Alexander J Newall 
 
-#### 01-11-2023
+#### 02-08-2023
 
-Draft 2 
+Draft 1.2 
 
 #### ANNOUNCER
 
-This episode is dedicated to Saiorse Killigrew open square brackets, ad lib, close square brackers, fullstop. The "ad lib" was that they didn't write a fullstop. 
+This episode is dedicated to John C. Worsley in honor of his daughter, Vivienne C. Worsley, she of the beloved carrot, the hungry sandwich, & the secret twelve. 
 
 ##### [Intro Theme]
 
@@ -14,279 +14,667 @@ This episode is dedicated to Saiorse Killigrew open square brackets, ad lib, clo
 
 #### ANNOUNCER
 
-Rusty Quill Presents: The Magnus Protocol. Episode Seventeen -- Saved Copy 
+Rusty Quill Presents: The Magnus Protocol. Episode Eighteen -- Solo Work 
 
 ##### [Music]
 
 
 
-#### 1. EXT. TRAIN TRACKS -- AFTERNOON, CLEAR (CELIA'S
+#### 1. EXT. OUTSIDE THE OIAR -- EVENING, CLEAR (ALICE'S
 
-
-
-#### PHONE).
-
-An overland train is powering down the tracks towards CELIA. The horn wails. 
-
-#### CELIA
-
-(groggy) Hmm? Wha? The train thunders closer and the horn sounds again. 
-
-#### CELIA CONT.
-
-
-
-#### JESUS CHRIST!
-
-CELIA scrambles to her feet and dashes away from the tracks moments before the train speeds past her. 
-
-#### CELIA CONT.
-
-(panting) For gods sake! Not again. Not today! She pulls out her phone and tries to call someone whilst hurrying away from the tracks. 2. INT. O.I.A.R. BREAKROOM- NIGHT, CLEAR (CCTV) SAM is making coffee, CELIA is beside him. They are clearly mid conversation. 
-
-#### SAM
-
-(not okay) It's fine. 
-
-#### CELIA
-
-No honestly, I am so sorry! It was so sudden, and by the time I sorted a sitter... 
-
-#### SAM
-
-I said it's fine. I just would have appreciated it if you could have called. 
-
-#### CELIA
-
-I know... 
-
-#### SAM
-
-I mean, you didn't even let me know you weren't coming until the trailers had started... 
-
-#### CELIA
-
-I know, I know. I promise I didn't mean to miss it. I tried to get back in time but there weren't any trains and I didn't have any signal. 
-
-#### SAM
-
-It's okay. I do understand just... Don't make a habit of it yeah? 
-
-#### CELIA
-
-Of course. Tell you what, next time we go out, it's my treat. 
-
-#### SAM
-
-You don't have toCELIA I want to. Beat. The mood is lighter. 
-
-#### SAM
-
-So where did you have to run off to? 
-
-#### CELIA
-
-(reluctantly) Oxford. 
-
-#### SAM
-
-Sounds nice. 
-
-#### CELIA
-
-It really wasn't. I'd have much rather been at the cinema with you. 
-
-#### SAM
-
-Next time I guess. 
-
-#### CELIA
-
-Yeah. Speaking of, what did you think of the film in the end? 
-
-#### SAM
-
-Oh I actually really enjoyed it! 
-
-#### CELIA
-
-Yeah? 
-
-#### SAM
-
-I'm not a big horror fan, but it was all right! Not sure how romantic it would have been though. 
-
-#### CELIA
-
-(flirty) I'm sure we'd have found a way to make it work. SAM finishes making coffee. 
-
-#### SAM
-
-
-
-##### [chuckles awkwardly-flirty] We'll
-
-have to find out next time won't we? 
-
-#### CELIA
-
-Absolutely. 
-
-#### SAM
-
-(heading off) I'll see you in there. 
-
-#### CELIA
-
-Sure thing. SAM exits. CELIA lingers or a moment and takes a deep steadying breath. 
-
-#### CELIA
-
-(to herself) You're okay. It's ok. 
-
-#### 3. CYBERSPACE -- N/A,N/A (COMPUTER).
-
-
-
-#### CHESTER
-
-Statement and Research assessment for candidate PD553 Magnus Institute -- Oxford Outreach Centre. Private and confidential. Viability as subject -- low Viability as agent -- low Viability as catalyst -- low Recommend continued incarceration as part of Welling Mutare Materia research program. Statement follows: I know how this looks but it wasn't me. Well, it was me but it wasn't me you understand? Of course you don't, how could you? Okay, so I'm just going to tell you everything that happened, everything I know. What you do with it after that is none of my business, all I ask is that you don't hold me responsible for what he did. Right. Where to start? Anger Management I guess. Now let me explain before you go jumping to any conclusions. I'd been going to therapy for a while, ever since the arrest, so coming on sixteen months, and I was making real progress. It sounds like rubbish at first but all that counting to ten, gratefulness and compassion work, they do work. From the look of you, you'd probably benefit from it. Anyway, it was my last session. I'd met all the terms of the court order and I was due the rubber stamp, upstanding member of the community and all that. So that's what led me to my normal seat in Dr Dumfries's waiting room. It was a terrace townhouse and I'd always found it uncomfortable, like the walls were so thin you could almost hear what people were saying on the other side. I never did though. At some point I'd chalked it up to just being antsy waiting for therapy. Anyway, there was a new receptionist behind the old front desk, some big, soft looking guy who stumbled over every word. A year ago, it would have probably wound me right up but what can I say? Therapy works. There was another patient too, some bookish-looking guy with serious city miles. I used to play the game "what are you in for" where I would pass the time guessing... well, you know. In my head he was definitely some kind of weird pervert, really into stroking orchids or something. Thinking back, I almost wonder if the same thing happened to them... Do you know? Would you even tell me if you did? So my turn comes up and in I go. Dr Dumfries said hello in that cheery way that always used to set me on edge and we get down to it. Now his office was pretty much the most boring room in the world. No pictures, no clock, not even a window. Just the front door, the office door, the desk and some chairs. It must have been deliberate. It drove me up the wall. I'd been trying meditation in the last few sessions and it had always been a struggle but this time, when I closed my eyes and went into myself... It was different. I remember sitting there that last time and realizing that this was what she had been on about. Just sort of... having a sit... going away for a while... just being... Pause 
-
-#### CHESTER CONT.
-
-I don't really know what happened then. I felt like maybe I was dreaming, but I don't really remember. I wasn't asleep, though. You can't feel pain like that in a dream. It was the migraine that brought me back. All at once this deep throbbing pain, and my eyes were so dry I couldn't open them. My neck was stiff and I was dizzy, cold and trembling. Finally, I tried to stand up and fell forward onto my knees. I could barely move, couldn't focus over the pain, I just knew I needed to get out of that room, into the fresh air. It was dark now, with no sign of Dr. Dumfries, and I had to make my way up a flight of stairs and through an office space I didn't recognise before I saw daylight. I collapsed again, but I remember two things before I lost consciousness: I was in some kind of shopping centre. And a sign reading "Magnus Institute Outreach Centre". I assume that's how I first came to your attention. I came to for a bit in the ambulance. They seemed really worried, kept asking me what had happened. I tried to tell them I'd felt fine earlier... then I saw my arms. They were withered with paper thin skin hanging from my emaciated wrists. My aching eyes traced their way up to my sunken chest then down past my protruding ribs to the swollen belly below. I passed out again. The next few days are a blur. I know they kept me in for "malnutrition with complications" but when I told them I didn't know how it happened they didn't believe me. I reckon they had me pegged as bulimic or something but they seemed satisfied once they got me on solids and I scoffed everything I could get my hands on. I had plenty of time to think about what had happened but I just couldn't wrap my head around it. All I knew was that I needed some time away from the quarry to get my head on straight. I couldn't afford another "incident" there. I tried to phone in sick but the call wouldn't go through. The hospital asked for an emergency contact but obviously that was a non-starter. Finally, they just looked my address up on my NHS records and bundled me into a drop-off bus. Honestly, I think they were just keen to get shot of me since I wasn't infected or anything and I've never been exactly the easiest to get along with. At first, I thought the driver had managed to get himself lost. I certainly didn't recognize the route and eventually instead of heading to Balfor Road he tried to drop me at some ridiculous place off Banbury. They'd obviously given him the wrong address. I admit there may have been some harsh words between us once I realized but even so I was still feeling pretty hard done by when he drove off into the darkness swearing at me. So that's how, with no money, no bags and just the shirt on my back, I ended up knocking on the door of Harcourt House. Well, technically I rang the bell, some huge, overdone brass ring pull like you'd see in Downton Abbey. I felt like a right prick, but I figured at this point what was the harm? I should warn whoever lived there about the mix-up if someone came checking on me and you never know, they might even help me get home, god knows they could afford it. Besides, it was cold. It took a while for someone to answer, long enough for me to start seriously considering how I was going to make it home in my current state. I had just decided to call it when they pulled open the door, spilling golden light out into the cavernous porch and that was when I first met myself. The other myself. I don't recommend it. We both yelled, then we both laughed, then we just stared. He took it better than I did. He even invited me inside once he realized how bad a state I was in. He sat me down and made me a tea, four sugars, just how I like it. I was so grateful, anything to stop that feeling that I was somehow falling through the cracks. He was my height obviously and had my eyes but I actually noticed the differences more than the similarities. He wore glasses, no grey in his hair and had white, almost glowing teeth and no beer gut. I realized that whatever this was, I was definitely the worse version and that is not a good feeling. Thankfully, he didn't say anything. In fact, he looked thrilled, kept telling me how "amazing" this was, in his fancy house and designer clothes. We talked and after a bit we figured we must have been half-brothers, as we definitely had the same piece-ofshit dad. I'd grown up with a mum, though, so I guess I got the lucky side of that particular coin-flip. Didn't feel it at the time, though. I'd always hated my old man, the vicious bastard had put me through hell and now here was proof that he had a whole second life, a better, richer life without me and mum. He even called this son Darrien too. That hit hard. But the other Darrien was good about it, changed the subject, asked me what brought me here. I started explaining my side of things. The hospital, the ambulance, the weirdness in the waiting room. He was a good listener and I ended up telling him way more than I meant to. Even about therapy and the arrest, all of it... The only time he interrupted was to check the little details: dates, times, that sort of thing. That was when things got really weird because if the other Darien was right, that meant at some point Dad had been at his own funeral at the same time that he was in surgery for the tumor that killed him. We talked for hours without coming to any conclusions but I was still in a pretty bad way and I was nearing my limits. Darrien noticed and insisted I stayed, after all "we're sort of family." I was too exhausted to argue so I kipped in the spare bedroom. It was bigger than my whole flat. The next day I was properly sick. I'd definitely overdone it and I felt horrendous. Darrien was really great about it though, insisted I stay longer; he had the space and the housekeeper was used to cooking for guests. Besides, we still had so much to talk about. I didn't argue. It was a comfy bed. Darrien came by later with some spicy leek soup and we talked again. He was just so eager, he kept telling me how amazing it was, how he might finally have someone to talk to who would "get it" how happy he was to have me around. I'll admit it did feel good to talk and he was right, he did get it. When I talked about the anger and what it had caused, he immediately understood with no judgement. He just smiled and said he knew just how to help. I stayed another couple of days getting my strength back. We spent the time talking, eating and just generally hanging out. He was really good company, and incredibly generous, letting me have the full run of the place. The only thing that made me pause was how the housekeeper, Sharon, was around us. It wasn't that she was judgmental or anything, she was afraid, maybe even terrified... I assumed she was just weirded out and tried to get to know her, talk to her when Darrien wasn't around but the whole time it was like she was ready to run, like she was waiting for me to suddenly turn on her. Eventually, I had to just give up and let her hurry off. I didn't want to upset her or anything but it worried me. The last time I'd seen people look at me like that was after the fight and I hated it. I had sworn I would never give someone reason to look at me like that again. That evening Darrien and I were sat smoking in his massive study. Sharon had left an hour before having cleaned up after dinner and Darrien was telling me all about his time at university. I'd never been but it seems like he had done the whole Eton and Oxford thing and even done some competitive boxing while he was there. I saw my moment and asked him if that was how he managed to stay so chill? Venting the anger, that kind of thing? He gave me a look then. A very direct, very calm look over the tops of his expensive horn-rimmed glasses. "I was waiting for you to ask" he said in a tone I hadn't heard from him before. Then he smiled, stubbed out his cigar and walked off without another word. I followed, still a little unsteady on my feet, but he wasn't hurrying. He walked through the house without a word, winding his way down to the basement. I had been there before, seen the gym and the home cinema and all that but we walked past all of it to a locked door at the end. I had assumed it was a cupboard or utility room, something unexciting but necessary, and when I looked closer I could see the hinges were heavy, reinforced, the edges of the door had a thick rubber seal and the lock was excessive for such a generic-looking door. Darrien placed a key in the lock and turned to me with a smile. "It's so nice to finally share this with someone" he murmured before turning the key, opening the door and gesturing for me to enter. I looked inside, seeing a spotless sharp-edged steel staircase leading downwards into a harshly lit, stainless steel space. Most of the room was out of view from the doorway but I could hear something, right on the edge of my hearing, in the quiet, past Darrien's measured breath and the distant hum of the boiler. There was another breath, a slow and ragged rattle creeping up from below. And a smell: the tang of disinfectant over a faint, coppery undertone. That was when I noticed a single spot of color on the otherwise pristine stairs. A single, crimson spot. I didn't need to take a single step down to know exactly what this place was. Darrien leaned in close to my ear to whisper "Trust me, you'll enjoy it" as another rattle clawed its way up the stairs towards me, asking weakly for mercy. For death.. I tensed, I couldn't help it. Darrien's secret, his solution to the anger that had been burning my own life to the ground for as long as I could remember was down there. And if he really was the same as me, if he really had all that rage trapped inside him then whatever he had done to the man who was down there... I didn't want to see it. I couldn't. Darrien frowned at me then. I could see the disappointment bleed across his face like a stain, souring that boyish eagerness and replacing it with an anger I recognized immediately. We were so similar and yet... I couldn't join him down there with our father in that horrible halogen light. He hesitated. I shoved him, more instinct than anything else. He grabbed for me as he overbalanced, his face contorted in rage but he was snatching at air. He never broke eye contact as he fell. Even as his arm broke on the first impact, even as his knee wrenched as he tumbled, even as his temple cracked into the bottom step and he slumped onto the stainless steel floor. He just stared at me with pure venom in his eyes whilst I looked back sadly. He wasn't dead. Not at that point. Maybe it would have been merciful to finish him off. Maybe if I had done, I could have saved whatever tortured soul he'd kept down there. But the idea of walking down those steps was too much. I just couldn't do it. The door was solid, soundproof and had a firm lock on the outside. I haven't opened it since. Pause 
-
-#### CHESTER CONT.
-
-I've lived Darien's life for four years now. It wasn't as hard as you'd think, turns out your world and mine are pretty similar. Then I sent Sharon on an expensive package holiday and lied to her about my "half-brother" having to leave in a hurry. She knew what I had done, I'm certain of that. She never called the police or anything, but she never came back after that holiday either. I think she just wanted done with the whole mess. I don't blame her. Oh. I bet she's the one who tipped you off, isn't she? Yeah, I thought so. So where does that leave us? I suppose you could call the police but I don't see that that would do anyone any good. And I've had enough practice living this life now that I could make it pretty unpleasant for you. Besides, all I'm really guilty of is killing a killer and not helping someone who was likely dead either way. Is that really so bad, in the scheme of things? We could just call it quits? I'm really not a bad person. I give to charity, I pay my- his taxes. In a lot of ways I'm a better Darrien than he ever was. So let's call this a happy ending. 
-
-#### 4. INT. O.I.A.R. OFFICE -- NIGHT, CLEAR (COMPUTER).
-
-The Case finishes and CELIA considers it for a moment. ALICE is sat nearby working with headphones on. 
-
-#### CELIA
-
-(to computer) Thanks, I guess. Not exactly the same is it? 
+PHONE) Alice is walking outside along the road half-singing along with her headphones. Looking up, she sees TEDDY leaving the courtyard. 
 
 #### ALICE
 
-(removing earbuds) What's up? Got a good one? 
+Teddy? Hey! Teddy! Teddy looks over and sees her. He does his best to seem pleased to see her. ALICE comes over and takes her earphones out. 
 
-#### CELIA
+#### TEDDY
 
-Nothing useful. 
-
-#### ALICE
-
-(returning earbuds) I mean when are they ever? 
-
-#### CELIA
-
-True. Beat. She sighs. 
-
-#### CELIA CONT.
-
-(to herself) True. 
-
-#### 5. INT. O.I.A.R. OFFICE -- NIGHT, CLEAR (COMPUTER).
-
-GWEN is working on Alice's computer, she is slightly hesitant and it is clear that she doesn't have Colin's skills. She clicks something, and a rather nasty error sound answers her. 
+Hey Alice! Hi. I er, didn't recognize you. 
 
 #### ALICE
 
-See? Not my fault. 
+(punching him in the arm) Way to make a girl feel wanted! 
 
-#### GWEN
+#### TEDDY
 
-It would help if your keyboard didn't have an entire pack of digestive crumbs wedged between the keys. 
-
-#### ALICE
-
-It's shortbread. 
-
-#### GWEN
-
-It's disgusting is what it is. It's no wonder you're having PC issues. 
+Ow! Sorry, not what I meant. 
 
 #### ALICE
 
-Are you seriously suggesting that a "jmj error" is actually an issue with the... cookies? Beat. 
-
-#### GWEN
-
-Shut up. 
+It's fine. Kind of assumed you were coming to see me, though. Given you're lingering where I work. I'm flattered butTEDDY Heh Yeah, well- uhALICE I mean I suppose it's possible you're not here to see me but if it was Gwen she would already have devoured you during mating, soTEDDY You do know thatALICE It's Sam, isn't it? You played it all cool during the leaving party but you're actually stalking him all hot and heavy with whips and chains andTEDDY I'll just let you go ahead and finish, shall I? 
 
 #### ALICE
 
-You set 'em up, I knock 'em down. 
+Best not, I might be a few minutes. 
 
-#### GWEN
+#### TEDDY
 
-I bet you don't even know what cookies actually are... 
-
-#### ALICE
-
-Oh and you do? Look forget it. Celia said she's seen Colin about. Maybe I can grab him so he can kick it into submission again. 
-
-#### GWEN
-
-Then Celia's wrong. He hasn't been in for weeks so unless you've secretly been learning ethernet protocolsALICE Now you're just making stuff upGWEN I'm the best you've got right now. Beat. 
+God, I'd forgotten what it's like being talked at by you. 
 
 #### ALICE
 
-Jesus that's depressing. 
+That's my brand, baby -- irritating, yet faintly erotic. So anyway, why are you here? Beat. 
 
-#### GWEN
+#### TEDDY
 
-Trust me, I hate it just as much as you do. Beat. GWEN continues to work on the PC as it keeps throwing up errors. 
-
-#### ALICE
-
-If we had a real HR department, they'd probably tell us that we all need to sit down and talk things out. Work through everything that's happening to us in a "safe environment." 
-
-#### GWEN
-
-Look, Alice, if there's something you want to talk about... 
+Oh, I can speak now? 
 
 #### ALICE
 
-Me? No. ...Unless there's something you need to share? Gwen considers. 
+I'll allow it. 
 
-#### GWEN
+#### TEDDY
+
+If you must know I had an interview. 
+
+#### ALICE
+
+I knew you couldn't make it without my delicious charms. 
+
+#### TEDDY
+
+You do realize there are other businesses in Royal Mint Court? It's not just the creepy basement nightmare factory. 
+
+#### ALICE
+
+(genuinely surprised) Huh. I never considered that. 
+
+#### TEDDY
+
+Well, there you go. 
+
+#### ALICE
+
+How are you doing? 
+
+#### TEDDY
+
+I've been better. I have some savings, though -- I'll get by. 
+
+#### ALICE
+
+Be cool if you got this job, right? You working here by day, and me lurking in the night... Hey we could even go for drinks! A little snifter to start your day off right! 
+
+#### TEDDY
+
+Sure, maybe. I'll have to keep you posted about the interview. 
+
+#### ALICE
+
+You have to keep me posted about everything -- I never see you anymore! 
+
+#### TEDDY
+
+Yeah, sorry... 
+
+#### ALICE
+
+We'll go out for drinks. You, me, Sam and Celia. 
+
+#### TEDDY
+
+Celia? 
+
+#### ALICE
+
+Oh, you'll love her mate. She's really weird, but like, in a hot way. She'll make you forget about all about your embarrassing obsession with Sam. 
+
+#### TEDDY
+
+But how could I ever forget my one and only Alice-assigned true love? 
+
+#### ALICE
+
+Because I'll order you to. 
+
+#### TEDDY
+
+I have missed you. 
+
+#### ALICE
+
+Then text me back, you loser. 
+
+#### TEDDY
+
+I will. 
+
+#### ALICE
+
+Liar. That last line hits harder than intended, and the air suddenly goes out of the conversation. 
+
+#### TEDDY
+
+Anyway, I should get going. Don't want to hold you up. Especially if Lena's in. 
+
+#### ALICE
+
+Yeah. Some things never change. Teddy starts to hurry off. 
+
+#### TEDDY
+
+I'll see you around Alice. 
+
+#### ALICE
+
+Not if I stalk you first! (quieter, to herself) Look after yourself Teddy. 2. INT. OIAR BREAKROOM -- NIGHT, CLEAR (CCTV) SAM is pouring himself a coffee. He takes a sip and winces. He needs the caffeine, but the taste is awful. LENA enters. 
+
+#### SAM
+
+Hey Lena. 
+
+#### LENA
+
+Hello. She walks over to the kettle, fills it, then flicks it on. Sam sips his coffee again as she waits for it to start boiling. There is an awkward silence. 
+
+#### SAM
+
+Don't see you in here often. 
+
+#### LENA
+
+I forgot to fill my thermos this evening. 
+
+#### SAM
+
+Right. Beat. 
+
+#### LENA
+
+You seem unsettled. Have you had a difficult case? 
+
+#### SAM
+
+No. I mean, yeah, but no more than normal. 
+
+#### LENA
+
+Yet you seem quite nervous. 
+
+#### SAM
+
+Oh, well, I mean, if I'm being honest, you're my boss, but I've hardly ever actually spoken to you still. 
+
+#### LENA
+
+Why would I need to talk to you? Your work is satisfactory. Unless you have a work-related issue I could assist you with? 
+
+#### SAM
+
+Um no, nothing like that. 
+
+#### LENA
+
+Then Consider my silence a compliment, if you like. 
+
+#### SAM
+
+Right. Extended pause. The kettle boils, and Lena pours out her tea. 
+
+#### SAM
+
+Oh, I meant to ask -- is Celia going to be in today? 
+
+#### LENA
+
+No. 
+
+#### SAM
+
+Oh. Beat. 
+
+#### SAM
+
+Can I ask why? 
+
+#### LENA
+
+You may. Beat. 
+
+#### SAM
+
+Uh. 
+
+#### LENA
+
+(taking slight pity) She called in with a "childcare emergency". 
+
+#### SAM
+
+God, I hope Jack's ok. 
+
+#### LENA
+
+Who's that? 
+
+#### SAM
+
+Uh, Celia's kid? 
+
+#### LENA
+
+Oh, is that its name? 
+
+#### SAM
+
+Uh Yeah. 
+
+#### LENA
+
+Hm. 
+
+#### SAM
+
+No kids of your own? 
+
+#### LENA
+
+No. 
+
+#### SAM
+
+No. That makes sense. LENA finishes making her tea, dropping the teabag in the bin. 
+
+#### LENA
+
+I hope you enjoyed our talk. Let me know if you have any problems. She leaves. Sam blows air through his cheeks before taking a sip and heading into work. 
+
+#### 3. CYBERSPACE -- N/A, N/A
+
+
+
+#### AUGUSTUS
+
+Report of medical examiner's investigation for inquest into the death of Violet Parker. Autopsy and examination performed by Dr. S. Rashid. Decedent: Violet Abigail Parker Sex: Female Age: 41 Ethnicity: White British Occupation: Teacher Home Address: 74 Willowtree Close, Ickenham, Greater London Type of death: Found at scene Notification by: London Metropolitan Police Investigating agency: As above Situation of body: Clothed, in the middle of Milton Court Open Space Estimated time of death: 0300 
+
+#### 20.03.2024
+
+Rigor: Yes Eyes: Grey Hair: Brown Height: 172 centimetres Weight: 31 kilograms Marks and wounds: Extreme malnutrition. Tissue damage on both feet and stress fracture on left ankle. Probable cause of death: Starvation, dehydration, exposure. Manner of death: Unknown. Examiner's comments: Hopefully noone will ever read this. God, I hope she stays silent, and if she does then I will burn these notes so they can't be used as evidence to strip me of my position. But if she starts again and others can confirm it, then I think it is important to have kept these notes. Shortly before finishing my autopsy, the deceased, Violet Abigail Parker, began to talk. I can confirm absolutely that she was dead when this happened and I was at that moment examining her heart and lungs, and neither of them was active. How she could speak with an open thorax is beyond me. She seemed to be reciting some sort of story, almost as an involuntary reflex. I believe it may have some relevance to her death. I managed to transcribe some and have included it in my notes. After a few minutes the cadaver ceased to speak, and has not resumed since. Unless the morgue technicians or funeral directors report something similar prior to cremation, I will probably keep this record private. I want to ask the next of kin about it but unfortunately noone has come forward to claim the body. Besides, I doubt they would appreciate finding out she gave her last words after her death. Transcript as follows: AUGUSTUS (CONT.) "-and of course mother always said not to. It was an old house, and an empty house, and mother said that that made it a dangerous house. There will be spiders, she said, rotten wood to fall through and oh so many rusty nails. And most importantly, too many rooms. So many turning passageways to confuse you, so many locked doors that even if you didn't hurt yourself, you might never find your way out again. And then you'd walk till your feet broke and you starved to death. She wouldn't come for us, if we went in there. She'd leave us to wander all alone. That's what mother said. And we never did go in that house on Church Street. But it's strange, even though we never went inside, I've been in the house on Church Street my entire life. I try to escape it. If my mother says she needs money, I give it. If Tom needs me to put together more lesson plans, I will. If Hannah needs her clothes washed I'll do it. Because if I don't, if I don't listen and I don't do what I'm told then they won't come for me. I'll be alone in the house. I'll be alone. And it's always there, waiting for me. I've dreamt of it my whole life and I still am dreaming. When I was fifteen, we were told that we had to study Wordsworth in school: "I Wandered Lonely as a Cloud". Everyone laughed: soppy, stupid poetry. But in my imagination the clouds rolled silent and thick through the old house on Church Street, choking and hiding, so that even if anyone had thought to look they would never have seen me. The daffodils pushed and strained and tore through the old wood of the house, a rotted mass of yellow that would be my only company. From that day forward the empty grey of the house was laced with fog and moldering yellow. The house itself is long gone, of course. They tore it down when I was ten. Reduced to splinters and stones. But it was already too late. With my mother's help I had built the house anew, not on Church Street, but inside me. Where no-one would find me or ever think to look. And here I am. The corridors stretch onwards with the doors all blank and strange. Even the daffodils are here, stinking of mildew. Someone has brought me here but who? Some figure reaching asking questions in an alley? It does not matter. They are not here now. No-one is here now, and no-one ever will be. Because I broke my promise. I went in the house on Church Street and I'm still here. Now all I can do is walk. Walk and hope and ignore the burning in my throat and the aching in my belly. Keep screaming hoping someone might hear me through all that cloying fog. But no-one is coming to help me. So I must be careful on the stairs or they will break and I will fall. I must be careful on the floor or I will step upon an upturned nail. I must be careful with the doors or the handles will give me splinters. And the fall will break my legs. And the nails will give me tetanus. And the splinters will turn to gangrene. And all the while the daffodils will watch and wilt and laugh. I wander lonely. I wander lonely. I will die in this place. And no-one will miss me." 4. OIAR OFFICE -- NIGHT, CLEAR (COMPUTER) SAM finishes listening to the statement. He files it with a ping, then sits pensively, as though considering something. 
+
+#### SAM
+
+Alice? Alice looks up from her terminal taking her earphones out. 
+
+#### ALICE
+
+Hm? 
+
+#### SAM
+
+Were you listening to that one? 
+
+#### ALICE
+
+Sorry, no. Was reading about some guy with an inverted face sitting on the ceiling and watching a guy while he sleeps. Pretty gnarly stuff. Why? 
+
+#### SAM
+
+Well, it was... This dead woman was speaking to the medical examinerALICE G for Ghost comma recent. Easy. 
+
+#### SAM
+
+No, it was the corpse itself that was speaking. Alice is suddenly a little bit wary. 
+
+#### ALICE
+
+Speaking as in...? 
+
+#### SAM
+
+As in telling the story of its death. Sounds like she was trapped in her greatest fear which then actually killed her. 
+
+#### ALICE
+
+Look I see where you're going with this. You think it's something to do with- With what I saw? 
+
+#### SAM
+
+Yeah. I think maybe there's something out there that killed both of them. 
+
+#### ALICE
+
+(growing sarcastic) Hmmmm. I see. So you reckon I should have a look at this case? Maybe note down some connections? Pin it up on my corkboard, circle some key dates in bright red, connect them all with string and stare at them while moodily sipping bourbon? 
+
+#### SAM
+
+I mean, maybe? 
+
+#### ALICE
+
+That's dumb. 
+
+#### SAM
+
+You can't just ignore this. 
+
+#### ALICE
+
+Why not? Ok, let's assume you're right. These cases are connected and there's a weird murderer who can kill you with your deepest fear and then make your corpse narrate it. Let's take that insane premise as a truth. 
+
+#### SAM
+
+Fine. 
+
+#### ALICE
+
+Did your case give you any clue as to how to avoid this killer? 
+
+#### SAM
+
+Uh... no, not really? 
+
+#### ALICE
+
+Okay. Did it give any hint as to where they were going to be in the future so that I can avoid also being there? 
+
+#### SAM
+
+Well no butALICE Did it, in fact, give any details as to how it works, what it looks like, what it wants, why it's here, anything like that? 
+
+#### SAM
 
 No. 
 
 #### ALICE
 
-Oh thank Christ, me neither. The PC gives a begrudging tone and seems to be working again. 
+Then with the greatest respect, your idea is bad and you should feel bad. 
 
-#### GWEN CONT.
+#### SAM
 
-Right, that's the best you're going to get until Colin gets back. 
+But now we know something's out thereALICE And? If even one percent of these cases has even a grain of truth to them, then there are hundreds of somethings out there, thousands! This is just the latest flavour of awful. 
+
+#### SAM
+
+But you might have actually met this one. In person 
 
 #### ALICE
 
-Any word on when that might be? 
+And in case you didn't notice, it messed me up! So why the hell would I want to know more about it!? 
+
+#### SAM
+
+I mean, it might help you come to terms with it, or... 
+
+#### ALICE
+
+No, Sam. Absolute best case scenario it does nothing and just wastes my time. Most likely scenario it makes me too scared to walk down the street without freaking out. Worst case scenario it gets me curious. Because if there's one thing I've noticed with all these cases over the years it's that it's curiosity that actually gets you killed. So, thanks but no thanks. Sam sighs. 
+
+#### SAM
+
+Sorry I brought it up. 
+
+#### ALICE
+
+It's ok. I know you're just trying to help butA door slams from the other end of the office. 
+
+#### ALICE
+
+(cont'd) Ooooooh, trouble in paradise. 
+
+#### SAM
+
+Lena's on Gwen's case again? 
+
+#### ALICE
+
+I dunno, she looks(TO GWEN) Hey! Here comes trouble! As the barman said to the bull: "oh god, oh god no, please don't kill anyone, we don't have insurance!" 
 
 #### GWEN
 
-(packing up) I wouldn't hold your breath. 
+Don't tempt me. 
 
 #### ALICE
 
-Great. Pause. 
+Wouldn't dream of it. Sam on the other hand looks pretty iffy to me... 
 
-#### ALICE CONT.
+#### SAM
 
-What? 
+What's up? 
 
 #### GWEN
 
-(pointedly) You're welcome. 
+Nothing. It's fine. 
 
 #### ALICE
 
-Am I? Oh good. GWEN gives a frustrated grunt then walks off. Alice sits, stretches then gets back to work. 
+Oh good, glad that's sorted. Sam? Coffee? Beat. 
+
+#### SAM
+
+Uh... 
+
+#### ALICE
+
+You know, since everything is fine. Gwen sighs. 
+
+#### SAM
+
+Gwen? 
+
+#### GWEN
+
+It's just another Externals assignment from Lena. 
+
+#### SAM
+
+And that's a problem because... 
+
+#### GWEN
+
+Because... they're not... fun. 
+
+#### ALICE
+
+Oh well no wonder you're throwing a massive strop. Lena can't possibly expect you to do work that isn't a complete hoot every second, that would be completely unreasonable! 
+
+#### SAM
+
+Sorry did I miss the part where "Externals" is meant to mean anything? 
+
+#### ALICE
+
+(explaining) Grumpy contractors from outside the office getting government grants for doing f-all. 
+
+#### GWEN
+
+No it's not... it's more complicated than that. 
+
+#### SAM
+
+Complicated how? 
+
+#### GWEN
+
+(hesitant) They're not... I don't think they're people. Not all of them, anyway. Not fully. 
+
+#### ALICE
+
+I mean are any of us lowly worms "people" to you? 
+
+#### SAM
+
+Not now Alice. ALICE is affronted but shuts up. 
+
+#### SAM CONT.
+
+What do you mean "not people" Gwen? 
+
+#### GWEN
+
+In the cases, you know how there are often things or places or people or whatever who... aren't right? Who seem to be causing all the awful things to happen. 
+
+#### SAM
+
+Like... the monsters? 
+
+#### GWEN
+
+I guess? Well, it seems some of them... I have to meet some of them. To uh... pass them work. 
+
+#### ALICE
+
+(incredulous) Riiiiiiiiight. Beat. 
+
+#### SAM
+
+(dubious but supportive) Okay... So like can you give us an example? 
+
+#### GWEN
+
+I... Yeah, I guess. Tense Beat. 
+
+#### GWEN
+
+(cont'd, working up to it) So... Do- Do you remember from TV... Mr. Bonzo? Pregnant pause. Sam suddenly bursts out laughing. 
+
+#### SAM
+
+You absolute asshole, Gwen! You absolute- You totally had me going there! I was- ha! Christ, could you imagine though? You're turn up to the tv studio all all like (sinister voice) "I have a job for you, Mr. Bonzo" (normal voice) And he's all like (Bonzo voice) 
+
+#### "BONZO BONZO BONZ-"
+
+
+
+#### GWEN
+
+(absolutely losing it) 
+
+#### SHUT UP! SHUT UP! SHUT THE
+
+
+
+#### FUCK UP!
+
+Stunned silence. 
+
+#### GWEN
+
+(cont'd) You don'tShe exits. Beat. 
+
+#### SAM
+
+So... that was weird. 
+
+#### ALICE
+
+Told you. Curiosity will get you killed. Best try and ignore it. ALICE starts putting her earbuds in. 
+
+#### SAM
+
+Alice, she's really messed up, you can't just keep ignoringALICE (loudly) Can't hear you! Headphones! 
+
+#### SAM
+
+For god's sake... 5. CELIA'S FLAT -- NIGHT, CLEAR (BABY MONITOR) GEORGIE is playing with JACK in his crib. 
+
+#### GEORGIE
+
+(covering her face) Where's Georgie? (revealing her face) There she is! JACK makes delighted baby noises. 
+
+#### GEORGIE
+
+(covering her face) Oh no! Where's Georgie gone! (revealing her face) There she is! More cooing from Jack. 
+
+#### GEORGIE
+
+(covering her face) Oh no! Who keeps taking Georgie's face? The door opens and CELIA comes in, holding a carrier bag of baby food jars. 
+
+#### CELIA
+
+Having fun? 
+
+#### GEORGIE
+
+(revealing her face) Always. He's a great kid. 
+
+#### CELIA
+
+He's a hungry gremlin. I've been all over town to find somewhere in stock. Thanks for stopping over to watch him. 
+
+#### GEORGIE
+
+Of course. It's not like it's a big journey and I've always got editing work that I can do just as easily from here as at home. 
+
+#### CELIA
+
+Well, I really appreciate it. 
+
+#### GEORGIE
+
+You know you can call me beforehand. You don't need to wait until you've already gone to let me know. 
+
+#### CELIA
+
+It's... not always that simple. I'd run out baby food andGEORGIE Celia, I'm saying you don't need to lie to me. 
+
+#### CELIA
+
+I'm not! 
+
+#### GEORGIE
+
+He woke up hungry after I got here so I grabbed one of the many, many food jars you have in the cupboard. 
+
+#### CELIA
+
+Ah. 
+
+#### GEORGIE
+
+Celia, I like you. And I love little Jack. Yes I do! He's so cute! So I'm not going to ask about all these "emergencies" that you have to run off to, or your "civil service" job that happens to last all night. But if I'm going to be helping out I need you to be straight with me on something. 
+
+#### CELIA
+
+(resigned) Okay. 
+
+#### GEORGIE
+
+Are you spying on me for the government? Beat. 
+
+#### CELIA
+
+I promise I am not spying on you for the government. 
+
+#### GEORGIE
+
+Illuminati? Masons? Well, no, you wouldn't be spying for the masons but you know what I mean. I can't risk getting silenced. 
+
+#### CELIA
+
+Wait, are you serious? 
+
+#### GEORGIE
+
+Look I know it's daft but I need you to promise. 
+
+#### CELIA
+
+Fine. I promise I'm not spying on you for any government, secret society, or other organization. 
+
+#### GEORGIE
+
+Or aliens. 
+
+#### CELIA
+
+Or aliens. Good enough? 
+
+#### GEORGIE
+
+(relieved) Yeah. Yeah, I believe you. Ok. Thanks. Right, then, I should get going -- see if I can catch some sleep. Beat. 
+
+#### GEORGIE
+
+(cont'd) Speaking of... have you been out all night in your Pajamas? 
+
+#### CELIA
+
+Yes. Yes, I have. Beat. 
+
+#### GEORGIE
+
+Okay. 
 
 ##### [Music]
 
@@ -294,8 +682,8 @@ Am I? Oh good. GWEN gives a frustrated grunt then walks off. Alice sits, stretch
 
 #### ANNOUNCER
 
-The Magnus Protocol is a podcast distributed by Rusty Quill and licensed under a Creative Commons Attribution Non-Commercial Sharealike 4.0 International License. The series is created by Jonathan Sims and Alexander J Newall, and directed by Alexander J Newall. This episode was written by Alexander J Newall and edited with additional materials by Jonathan Sims, with vocal edits by Nico Vettese, soundscaping by Meg McKellar, and mastering by Catherine Rinella with music by Sam Jones. It featured Billie Hindle as Alice Dyer, Shahan Hamza as Samama Khalid, Anusia Battersby as Gwen Bouchard, Lowri Ann Davies as Celia Ripley, with additional voices from Jonathan Sims. The Magnus Protocol is produced by April Sumner, with executive producers Alexander J Newall, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton, and Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice. To subscribe, view associated materials, or join our Patreon, visit rustyquill.com. Rate and review us online, tweet us @therustyquill, visit us on facebook or email us at mail@rustyquill.com Thanks for listening. The Magnus Protocol 17 -- Saved Copy 
+The Magnus Protocol is a podcast distributed by Rusty Quill and licensed under a Creative Commons Attribution Non-Commercial Sharealike 4.0 International License. The series is created by Jonathan Sims and Alexander J Newall, and directed by Alexander J Newall. This episode was written by Jonathan Sims and edited with additional materials by Alexander J Newall, with vocal edits by Lowri Ann Davies, soundscaping by Tessa Vroom, and mastering by Catherine Rinella with music by Sam Jones. It featured Billie Hindle as Alice Dyer, Shahan Hamza as Samama Khalid, Anusia Battersby as Gwen Bouchard, Lowri Ann Davies as Celia Ripley, Kazeem Tosin Amore as Teddy Vaughn, Sarah Lambie as Lena Kelley, with additional voices from Tim Fearon. The Magnus Protocol is produced by April Sumner, with executive producers Alexander J Newall, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton, and Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice. To subscribe, view associated materials, or join our Patreon, visit rustyquill.com. Rate and review us online, tweet us @therustyquill, visit us on facebook or email us at mail@rustyquill.com Thanks for listening. The Magnus Protocol 18 -- Solo Work 
 
-#### CAT2RC1147-30111997-04042024
+#### CAT1RC2374-20032024-10042024
 
-Doppleganger (interdimensional) --/- murder Incident Elements: - Murder - Existential Horror - Temporal Distortion - Identity Crisis - Graphic Injury - Captivity/Torture - Mentions of: Therapy (Anger Management), arrest, malnutrition Transcripts: https://shorturl.at/gzF15 This episode is dedicated to Saiorse Killigrew, thank you for your generous support! You can a complete list of our Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/ Created by Jonathan Sims and Alexander J Newall Directed by Alexander J Newall Written by Alexander J Newall Script Edited with additional material by Jonathan Sims Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice Produced by April Sumner Featuring (in order of appearance) Lowri Ann Davies as Celia Ripley Shahan Hamza as Samama Khalid Billie Hindle as Alice Dyer Anusia Battersby as Gwendolyn Bouchard Jonathan Sims as Chester Dialogue Editor -- Nico Vettese Sound Designer -- Meg McKellar Mastering Editor -- Catherine Rinella Music by Sam Jones (orchestral mix by Jake Jackson) Art by April Sumner SFX from Soundly and previously credited artists Support us on Patreon at https://patreon.com/rustyquill Check out our merchandise available at https://www.redbubble.com/people/RustyQuill/shop and https://www.teepublic.com/stores/rusty-quill Join our community: WEBSITE: rustyquill.com FACEBOOK: facebook.com/therustyquill TWITTER: @therustyquill REDDIT: reddit.com/r/RustyQuill EMAIL: mail@rustyquill.com The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty Quill Ltd. and licensed under a Creative Commons Attribution Non-Commercial Share alike 4.0 International Licence. 
+Memory (derelict) --/- compulsion Incident Elements: - Isolation - Strong Language - Arguments - Trauma Triggers - Mentions of: corpses, autopsy, starvation Transcripts: https://shorturl.at/gzF15 This episode is dedicated to John C. Worsley, thank you for your generous support! You can a complete list of our Kickstarter backers https://rustyquill.com/the-magnus-protocol-supporterwall/ Created by Jonathan Sims and Alexander J Newall Directed by Alexander J Newall Written by Jonathan Sims Script Edited with additional material by Jonathan Sims Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice Produced by April Sumner Featuring (in order of appearance) Billie Hindle as Alice Dyer Kazeem Tosin Amore as Teddy Vaughn Shahan Hamza as Samama Khalid Sarah Lambie as Lena Kelley Anusia Battersby as Gwendolyn Bouchard Sasha Sienna as Georgie Barker Tim Fearon as Augustus Dialogue Editor -- Lowri Ann Davies Sound Designer -- Tessa Vroom Mastering Editor -- Catherine Rinella Music by Sam Jones (orchestral mix by Jake Jackson) Art by April Sumner SFX from Soundly, Freesound: kyles, ianaces, Carlvus, TheSupremeMuffinPooter, elonen, and previously credited artists Support us on Patreon at https://patreon.com/rustyquill Check out our merchandise available at https://www.redbubble.com/people/RustyQuill/shop and https://www.teepublic.com/stores/rusty-quill Join our community: WEBSITE: rustyquill.com FACEBOOK: facebook.com/therustyquill TWITTER: @therustyquill REDDIT: reddit.com/r/RustyQuill EMAIL: mail@rustyquill.com The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty Quill Ltd. and licensed under a Creative Commons Attribution Non-Commercial Share alike 4.0 International Licence. 
