@@ -485,7 +485,7 @@ I've fixed the budget crisis, guys!
 
 #### JONNY
 
-Also your expertises can potentially serve as hints in terms of.. if you're trying to think of ways to advance the investigation, just have a look at your expertises and see what options might be there. Lastly, you have damage dice, which are how much damage you do unarmed or armed, if you somehow get into a fight. You have a stress dice, called a sanity dice in the Cthulhu hack but I prefer to contextualise these things as stress, because within the context of Duskhollow, it's much more... very intense periods of horrific things occurring in short order, which can, let's say, lead to some extreme reactions. Rather than _[dramatic voice]_ you're gradually going mad!
+Also your expertises can potentially serve as hints in terms of... if you're trying to think of ways to advance the investigation, just have a look at your expertises and see what options might be there. Lastly, you have damage dice, which are how much damage you do unarmed or armed, if you somehow get into a fight. You have a stress dice, called a sanity dice in the Cthulhu hack but I prefer to contextualise these things as stress, because within the context of Duskhollow, it's much more... very intense periods of horrific things occurring in short order, which can, let's say, lead to some extreme reactions. Rather than _[dramatic voice]_ you're gradually going mad!
 
 #### ALEX
 
