@@ -1,755 +1,651 @@
 ©Rusty Quill 2023
 The Magnus Protocol
-Episode 18
-"Solo Work"
-Written by Jonathan Sims
-Edited by Alexander J Newall
-#### 02-08-2023
-Draft 1.2
+Episode 19
+"Hard Reset"
+Written by Alexander J Newall
+Edited by Jonathan Sims
+#### 23-11-2023
 #### ANNOUNCER
-This episode is dedicated to John C.
-Worsley in honor of his daughter,
-Vivienne C. Worsley, she of the
-beloved carrot, the hungry sandwich,
-& the secret twelve.
+This episode is dedicated to Dove
+Halber -- Ceassless Watcher dedicate
+this now to my dearest sister. A true
+disciple of the eye. Haunting my
+waking nightmares even now. And
+the best sister a girl could ask for!
 ##### [Intro Theme]
 #### ANNOUNCER
 Rusty Quill Presents: The Magnus
 Protocol.
-Episode Eighteen -- Solo Work
+Episode Nineteen -- Hard Reset
 ##### [Music]
-#### 1. EXT. OUTSIDE THE OIAR -- EVENING, CLEAR (ALICE'S
-PHONE)
-Alice is walking outside along the road half-singing along with
-her headphones.
-Looking up, she sees TEDDY leaving the courtyard.
-#### ALICE
-Teddy? Hey! Teddy!
-Teddy looks over and sees her. He does his best to seem
-pleased to see her. ALICE comes over and takes her earphones
-out.
-#### TEDDY
-Hey Alice! Hi. I er, didn't recognize
-you.
-#### ALICE
-(punching him in the arm)
-Way to make a girl feel wanted!
-#### TEDDY
-Ow! Sorry, not what I meant.
-#### ALICE
-It's fine. Kind of assumed you were
-coming to see me, though. Given
-you're lingering where I work. I'm
-flattered butTEDDY
-Heh Yeah, well- uhALICE
-I mean I suppose it's possible you're
-not here to see me but if it was Gwen
-she would already have devoured
-you during mating, soTEDDY
-You do know thatALICE
-It's Sam, isn't it? You played it all
-cool during the leaving party but
-you're actually stalking him all hot
-and heavy with whips and chains
-andTEDDY
-I'll just let you go ahead and finish,
-shall I?
-#### ALICE
-Best not, I might be a few minutes.
-#### TEDDY
-God, I'd forgotten what it's like being
-talked at by you.
-#### ALICE
-That's my brand, baby -- irritating,
-yet faintly erotic. So anyway, why are
-you here?
-Beat.
-#### TEDDY
-Oh, I can speak now?
-#### ALICE
-I'll allow it.
-#### TEDDY
-If you must know I had an interview.
-#### ALICE
-I knew you couldn't make it without
-my delicious charms.
-#### TEDDY
-You do realize there are other
-businesses in Royal Mint Court? It's
-not just the creepy basement
-nightmare factory.
-#### ALICE
-(genuinely surprised)
-Huh. I never considered that.
-#### TEDDY
-Well, there you go.
-#### ALICE
-How are you doing?
-#### TEDDY
-I've been better. I have some
-savings, though -- I'll get by.
-#### ALICE
-Be cool if you got this job, right?
-You working here by day, and me
-lurking in the night... Hey we could
-even go for drinks! A little snifter to
-start your day off right!
-#### TEDDY
-Sure, maybe. I'll have to keep you
-posted about the interview.
-#### ALICE
-You have to keep me posted about
-everything -- I never see you
-anymore!
-#### TEDDY
-Yeah, sorry...
-#### ALICE
-We'll go out for drinks. You, me, Sam
-and Celia.
-#### TEDDY
-Celia?
-#### ALICE
-Oh, you'll love her mate. She's really
-weird, but like, in a hot way. She'll
-make you forget about all about your
-embarrassing obsession with Sam.
-#### TEDDY
-But how could I ever forget my one
-and only Alice-assigned true love?
-#### ALICE
-Because I'll order you to.
-#### TEDDY
-I have missed you.
-#### ALICE
-Then text me back, you loser.
-#### TEDDY
-I will.
-#### ALICE
-Liar.
-That last line hits harder than intended, and the air suddenly
-goes out of the conversation.
-#### TEDDY
-Anyway, I should get going. Don't
-want to hold you up. Especially if
-Lena's in.
-#### ALICE
-Yeah. Some things never change.
-Teddy starts to hurry off.
-#### TEDDY
-I'll see you around Alice.
-#### ALICE
-Not if I stalk you first!
-(quieter, to herself)
-Look after yourself Teddy.
-2. INT. OIAR BREAKROOM -- NIGHT, CLEAR (CCTV)
-SAM is pouring himself a coffee. He takes a sip and winces. He
-needs the caffeine, but the taste is awful. LENA enters.
+1. INT. OIAR BREAKROOM -- NIGHT, RAINING (CCTV)
+SAM enters and pours bad coffee for himself.
 #### SAM
-Hey Lena.
-#### LENA
-Hello.
-She walks over to the kettle, fills it, then flicks it on. Sam sips his
-coffee again as she waits for it to start boiling. There is an
-awkward silence.
+You need topping up or...
+#### CELIA
+(shuffling papers
+distracted)
+No, I'm good thanks.
 #### SAM
-Don't see you in here often.
-#### LENA
-I forgot to fill my thermos this
-evening.
+(walking over)
+Looks like you raided every
+photocopier in the building this time.
+#### CELIA
+Hmmmm?
 #### SAM
-Right.
-Beat.
-#### LENA
-You seem unsettled. Have you had a
-difficult case?
+(sitting)
+The papers? There seems to be more
+of them every time I come in here.
+You're lucky Lena hasn't noticed,
+she's pretty uptight about how much
+stuff we print.
+He catches sight of what she is working on.
 #### SAM
-No. I mean, yeah, but no more than
-normal.
-#### LENA
-Yet you seem quite nervous.
+(cont.)
+Celia, what is all this?
+#### CELIA
+(still shuffling papers)
+Just research.
 #### SAM
-Oh, well, I mean, if I'm being honest,
-you're my boss, but I've hardly ever
-actually spoken to you still.
-#### LENA
-Why would I need to talk to you?
-Your work is satisfactory. Unless
-you have a work-related issue I could
-assist you with?
+Is that... alchemy?
+#### CELIA
+(suddenly paying
+attention)
+You recognize it?
 #### SAM
-Um no, nothing like that.
-#### LENA
-Then Consider my silence a
-compliment, if you like.
+Some of it.
+He starts leafing through some of the papers.
 #### SAM
-Right.
-Extended pause. The kettle boils, and Lena pours out her tea.
+(cont.)
+This one's something to do with
+transference and this one... yeah, it's
+all about spiritual substitution of
+elements although looks like its
+incomplete.
+#### CELIA
+(incredulous)
+You're what, an alchemist now?
 #### SAM
-Oh, I meant to ask -- is Celia going to
-be in today?
-#### LENA
-No.
+Hardly. I ran into a bunch of this
+when I was looking into The Magnus
+Institute. Turns out they were pretty
+deep into all this stuff. What's got
+you looking into it?
+#### CELIA
+Just curious. Speaking of, how's the
+research into the Institute going?
 #### SAM
-Oh.
-Beat.
+I dunno. I think I'm going to drop it.
+#### CELIA
+Really?
 #### SAM
-Can I ask why?
-#### LENA
-You may.
-Beat.
+Yeah, Alice keeps saying I'm getting
+obsessed and- don't tell her I said
+this- but I think she might have a
+point. I've never been good with
+loose ends.
+#### CELIA
+If you're sure. Seemed like you were
+handling it ok to me...
 #### SAM
-Uh.
-#### LENA
-(taking slight pity)
-She called in with a “childcare
-emergency”.
+You think? Well either way, I've got
+enough cases piling up I doubt I'd
+have the time anyway.
+#### CELIA
+Tell me about it.
 #### SAM
-God, I hope Jack's ok.
-#### LENA
-Who's that?
+(standing)
+Speaking of, I should probably get
+back to it. Enjoy... whatever this is.
+#### CELIA
+Will do. And if I find anything to do
+with the Institute, I just keep it to
+myself yeah?
 #### SAM
-Uh, Celia's kid?
-#### LENA
-Oh, is that its name?
-#### SAM
-Uh Yeah.
-#### LENA
-Hm.
-#### SAM
-No kids of your own?
-#### LENA
-No.
-#### SAM
-No. That makes sense.
-LENA finishes making her tea, dropping the teabag in the bin.
-#### LENA
-I hope you enjoyed our talk. Let me
-know if you have any problems.
-She leaves. Sam blows air through his cheeks before taking a
-sip and heading into work.
-#### 3. CYBERSPACE -- N/A, N/A
-#### AUGUSTUS
-Report of medical examiner's
-investigation for inquest into the
-death of Violet Parker.
-Autopsy and examination performed
-by Dr. S. Rashid.
-Decedent: Violet Abigail Parker
-Sex: Female
-Age: 41
-Ethnicity: White British
-Occupation: Teacher
-Home Address: 74 Willowtree Close,
-Ickenham, Greater London
-Type of death: Found at scene
-Notification by: London Metropolitan
-Police
-Investigating agency: As above
-Situation of body: Clothed, in the
-middle of Milton Court Open Space
-Estimated time of death: 0300
-#### 20.03.2024
-Rigor: Yes
-Eyes: Grey
-Hair: Brown
-Height: 172 centimetres
-Weight: 31 kilograms
-Marks and wounds: Extreme
-malnutrition. Tissue damage on both
-feet and stress fracture on left ankle.
-Probable cause of death: Starvation,
-dehydration, exposure.
-Manner of death: Unknown.
-Examiner's comments: Hopefully noone will ever read this. God, I hope
-she stays silent, and if she does then
-I will burn these notes so they can't
-be used as evidence to strip me of
-my position. But if she starts again
-and others can confirm it, then I
-think it is important to have kept
-these notes. Shortly before finishing
-my autopsy, the deceased, Violet
-Abigail Parker, began to talk. I can
-confirm absolutely that she was
-dead when this happened and I was
-at that moment examining her heart
-and lungs, and neither of them was
-active. How she could speak with an
-open thorax is beyond me.
-She seemed to be reciting some sort
-of story, almost as an involuntary
-reflex. I believe it may have some
-relevance to her death. I managed to
-transcribe some and have included it
-in my notes.
-After a few minutes the cadaver
-ceased to speak, and has not
-resumed since. Unless the morgue
-technicians or funeral directors
-report something similar prior to
-cremation, I will probably keep this
-record private. I want to ask the next
-of kin about it but unfortunately noone has come forward to claim the
-body. Besides, I doubt they would
-appreciate finding out she gave her
-last words after her death.
-Transcript as follows:
-AUGUSTUS (CONT.)
-“-and of course mother always said
-not to. It was an old house, and an
-empty house, and mother said that
-that made it a dangerous house.
-There will be spiders, she said,
-rotten wood to fall through and oh so
-many rusty nails. And most
-importantly, too many rooms. So
-many turning passageways to
-confuse you, so many locked doors
-that even if you didn't hurt yourself,
-you might never find your way out
-again. And then you'd walk till your
-feet broke and you starved to death.
-She wouldn't come for us, if we went
-in there. She'd leave us to wander all
-alone. That's what mother said. And
-we never did go in that house on
-Church Street.
-But it's strange, even though we
-never went inside, I've been in the
-house on Church Street my entire
-life. I try to escape it. If my mother
-says she needs money, I give it. If
-Tom needs me to put together more
-lesson plans, I will. If Hannah needs
-her clothes washed I'll do it. Because
-if I don't, if I don't listen and I don't
-do what I'm told then they won't
-come for me. I'll be alone in the
-house. I'll be alone.
-And it's always there, waiting for me.
-I've dreamt of it my whole life and I
-still am dreaming.
-When I was fifteen, we were told that
-we had to study Wordsworth in
-school: “I Wandered Lonely as a
-Cloud”. Everyone laughed: soppy,
-stupid poetry. But in my imagination
-the clouds rolled silent and thick
-through the old house on Church
-Street, choking and hiding, so that
-even if anyone had thought to look
-they would never have seen me. The
-daffodils pushed and strained and
-tore through the old wood of the
-house, a rotted mass of yellow that
-would be my only company. From
-that day forward the empty grey of
-the house was laced with fog and
-moldering yellow.
-The house itself is long gone, of
-course. They tore it down when I was
-ten. Reduced to splinters and
-stones. But it was already too late.
-With my mother's help I had built the
-house anew, not on Church Street,
-but inside me. Where no-one would
-find me or ever think to look.
-And here I am. The corridors stretch
-onwards with the doors all blank and
-strange. Even the daffodils are here,
-stinking of mildew. Someone has
-brought me here but who? Some
-figure reaching asking questions in
-an alley? It does not matter. They are
-not here now. No-one is here now,
-and no-one ever will be.
-Because I broke my promise. I went
-in the house on Church Street and
-I'm still here. Now all I can do is
-walk. Walk and hope and ignore the
-burning in my throat and the aching
-in my belly. Keep screaming hoping
-someone might hear me through all
-that cloying fog.
-But no-one is coming to help me. So
-I must be careful on the stairs or
-they will break and I will fall. I must
-be careful on the floor or I will step
-upon an upturned nail. I must be
-careful with the doors or the handles
-will give me splinters. And the fall
-will break my legs. And the nails will
-give me tetanus. And the splinters
-will turn to gangrene. And all the
-while the daffodils will watch and wilt
-and laugh.
-I wander lonely. I wander lonely. I will
-die in this place. And no-one will
-miss me.”
-4. OIAR OFFICE -- NIGHT, CLEAR (COMPUTER)
-SAM finishes listening to the statement. He files it with a ping,
-then sits pensively, as though considering something.
+Oh, well, I mean... I wouldn't go that
+far...
+#### 2. CYBERSPACE -- N/A, N/A
+#### CHESTER
+To my esteemed Colleague and
+friend, the honorable Fellow of the
+Royal Society Robert Boyle, from the
+bureau of Robert Hooke, Curator of
+Experiments of the same, regarding
+enactment of that most regrettable
+protocol in the service of God, King
+and Country against the Fellow Isaac
+Newton, penned in the year of our
+lord 1684.
+I write to you now with intelligence of
+the gravest nature and a proposal
+most severe. I pray that my words
+do not further estrange you from me
+and that you believe me when I
+assure you that the suggested action
+is profoundly necessary for the
+continuation and preservation of
+Good Science.
+We have much discussed the great
+divide between Isaac's
+experimentations and your own
+essential works and so I have oft
+found myself at odds with you for,
+though much of his work is dubious
+in its moral principle, his studies
+have always proven most
+illuminative and have many times
+assisted my own researches. I fear
+however, his most recent works have
+disturbed this precarious
+equilibrium, turning instead to most
+improper, perhaps blasphemous,
+ends and I find myself left with no
+recourse other than to make it
+known to you in the hope that I might
+reawaken our previously close
+concord, which has lain dormant
+these long years, in service of a
+wholesale rejection of his creation
+which, I am of the firm opinion has
+finally erred towards the abominable
+and must be halted.
+I recall with much shame that it was
+myself who pressed you so
+vociferously for restraint the last
+time this Protocol was enacted. It
+was I who begged patience, certain
+as I was that my work on
+Micrographia might have rendered a
+remedy for that most awful plague. It
+was I who warned that to enact a
+Protocol against the great city of
+London itself was a step beyond the
+rights of our position, but you were,
+as is so oft the case, correct in your
+steadfastness and I confess
+purgation of all that most dangerous
+and unfit knowledge was both
+necessary and good. It was only
+through the Protocol that we were
+spared from that Dread emission and
+I fear that such an act is once again
+required, though it is my fervent
+hope that on this occasion there is
+still sufficient time to limit the
+breadth of the poisonous act.
+As well you know, despite Isaac's
+standing as a Fellow within the
+estimable Society, his experiments
+persist in prying into such
+knowledge as we both know to be
+anathema to Good Science. His work
+on the vegetative propagation of
+metals has proceeded unabated
+these recent years and I am now
+most certain that the fruits of his
+labor will lead to tragedy, death and
+damnation if they are left to mature
+unchecked.
+I have of late been a somewhat more
+frequent visitor to Isaac than you
+may have suspected and I fear that
+of the many sins I have committed in
+my time upon this earth, this may be
+one of those I come most to regret.
+I had, of course, no knowledge of the
+perilous extent of his experiments
+and had I known such I would never
+have deigned to further associate
+myself with him, but his most recent
+letters promised work of a quite
+astonishing nature and, may god
+forgive me, my curiosity could not be
+assuaged without witness.
+Upon his insistence I visited his
+laboratory in Trinity in a sanguine
+mood, though this was immediately
+disturbed by the damnable presence
+of that stunted dog he keeps,
+worrying my coat tails as I
+approached the threshold. As is his
+wont, Isaac failed to notice my
+approach, preoccupied as he was
+with his work, and it was only by
+declaring myself most forcefully that
+he could be sufficiently distracted to
+acknowledge my presence.
+Forgoing the customary
+pleasantries, he instead proceeded
+straight to his laboratory wherein I
+saw he had a glass flask of great
+proportions, at least thirty gallons or
+thereabouts, within which there was
+an element of such overwhelming
+radiance that to look upon it directly
+was to dazzle the eyes and throw the
+mind into confusion.
+Composing myself, I queried Isaac
+on the nature of this creation,
+whereupon he explained with
+customary disinterest that he had
+finally perfected the work of Wilhelm
+Homberg to produce what he termed
+the Arbor Philosophorum Perfecta.
+I was naturally most intrigued but
+despite my questioning he refused to
+elaborate, instead passing me a
+smoked glass that I might gaze upon
+his creation with greater clarity and
+when I did so I came to understand
+that what I was looking at was a
+small tree ensconced in a clear
+solution.
+At first I presumed it to be merely
+another work of dendritic silver as
+we have seen before, albeit one of
+surpassing quality and finesse.
+However, I soon came to realize this
+was something altogether grander
+and profoundly abhorrent.
+It's branches were exquisite and
+delicate, swaying slightly from small
+eddies in the liquid and they shone
+with every spectra. I must confess
+that to look upon it, one was filled
+with profound wonder at its exquisite
+elegance. I professed as much to
+Isaac and he replied quite solemnly
+“as are all of the Lord's living
+works.”
+This struck me as somewhat
+incongruous and gave me moment
+to pause for, though impressive, the
+tree was quite clearly mineral in
+nature and as such must be lacking
+in that essential vitality that only the
+Lord God can bestow.
+I presumed his words an unfortunate
+jest, but he then asked me if I would
+taste of its fruit. I refused, of course,
+assuming the offer another of his
+odd japes but his face was grave. He
+then opened the flask and reached
+inside muttering as he did so: “de
+ligno autem scientiae boni et mali ne
+comedas in quocumque enim die
+comederis ex eo morte morieris”.
+Even I, steeped in worldly matters as
+I am, recognized The Lord's words to
+Adam and was much dismayed at
+the implication. Isaac then plucked
+the delicate fruit with ungloved
+hands and held it before me.
+I began to not only doubt Isaac in
+that moment but even fear him, for I
+knew he had finally transgressed the
+limits of anything within the bounds
+of mortal philosophy.
+Until that moment, our encounter
+had been if not typical, at least
+explicable. Mayhap Isaac had made a
+legitimate discovery and was merely
+indulging in some grand
+performance before providing some
+less grotesque explanation. But such
+was not to be, for no sooner had I
+seen the fruit upon his palm before
+he tipped it into the waiting mouth of
+that cursed dog I had failed to see
+skulking at my feet.
+Isaac's eyes never left mine but I
+could not help but watch as the
+wretched canine swallowed it. There
+was a moment's stillness within
+which Isaac watched me closely, for
+my reaction was seemingly of more
+interest to him at that moment than
+the fate of the animal. And my
+reaction was terror.
+The dog remained motionless, at
+first seemingly unaffected by its
+unnatural feast but as the moments
+passed I espied a growing torpor in
+its manner, with slowed breathing,
+sagging posture and drooping jowls.
+It lay down as if to sleep whereupon
+it grew ever more peaceful and still. I
+almost believed it dead, poisoned by
+my companion, but then I saw
+something far more distressing. The
+creature was taking root. Strands of
+its mottled brown hair were
+extruding downwards between the
+floor, seeking the dark earth below.
+Then, too, its back began to sprout,
+radiant branches unfurling and
+thickening before me, reaching
+upwards towards the sunlight with a
+seemingly insatiable desire.
+The dog then opened one eye and
+stared at me and this was the most
+disturbing thing of all, for that orb
+was also shimmering with that
+unnatural light, but more than that, it
+looked upon me and it knew me not
+as a beast knows its master but as
+one man knows another and though
+such a creature must by all natural
+law lack that essential and
+ephemeral anima that is required for
+such awful knowledge I tell you here
+Robert, it saw me and it knew me.
+I felt myself grow insensible at that
+violation and before I could restrain
+myself I had grasped a heavy
+instrument with which I might dash
+its skull upon the floor! Isaac
+however, intervened and for the first
+time since feeding the animal that
+accursed fruit he spoke and bade me
+to remain calm. He then reached
+back to the flask with a smaller cup
+and decanted a portion of the
+solution into it. Then, seemingly
+without concern, he poured it upon
+the rapidly growing monstrosity.
+There was a brief hiss and a release
+of steam which occluded my vision
+entirely, quickly followed by a slight
+tugging at my trouser legs from
+which I recoiled in horror, fearing the
+creature had reached out to claim me
+in its insidious grip, but when the
+vapor cleared I found myself
+cowering from nothing more than
+that mange-ridden dog, no longer
+sprouting and burdened with
+knowledge, it was reduced to a mere
+beast once again.
+Isaac laughed at this ignominious
+display and suggested I step away to
+recover so that I might “better
+appreciate that which had been
+revealed to me” I instead took my
+leave and hurried out of not just his
+chambers but the entire college as
+fast as I was able.
+Thus it is that I find myself writing
+this account for you that you might
+better understand my concerns. No
+doubt you agree with me that I have
+witnessed something which is far
+outside that which we could, in good
+conscience and understanding,
+describe as Good Science, for if
+such a transmutation can be elicited
+from a lower creature devoid of soul
+or reason I tremble to consider how
+it might affect the children of Adam,
+blessed as we are with greater
+faculty and insight for both good and
+evil.
+Though it pains me to speak so
+poorly of one so well regarded as
+Isaac I fear this latest excess is
+beyond what can be called
+conscionable. His work must be
+curtailed for the safety of all. I
+remain opposed however, to any
+notion of violence against his
+person. He is a prominent figure and
+his work, though misguided, is not
+wantonly evil.
+I propose that we enact the Protocol
+but limit it only to his laboratory,
+destroying his research and
+correspondence for, if we can end
+this digression from Good Science
+and divert him with more virtuous
+work, we might yet take possession
+of a newly ardent ally in our vigils.
+This is of course on condition that
+he never discovers our intervention
+nor is left to work in such solitude
+again.
+Robert, my dear compatriot, I
+implore you to consider my plea
+despite our recent disagreements,
+for if you fail to act I will instead be
+forced to intervene alone and by
+god's grace I know not if I hold the
+fortitude to do what would need to
+be done.
+Pray reply with all celerity for I fear
+that time is short in this matter.
+Yours with the utmost respect and
+gratitude, for the sake of London,
+England, and for all of Christendom,
+Robert
+#### 3. INT. OIAR OFFICE INT. -- NIGHT, RAINING (COMPUTER).
+SAM approaches Alice's desk slightly harried.
 #### SAM
 Alice?
-Alice looks up from her terminal taking her earphones out.
 #### ALICE
-Hm?
+Yeah?
 #### SAM
-Were you listening to that one?
+Do you have a moment?
+There is an obnoxious error noise from the computer.
 #### ALICE
-Sorry, no. Was reading about some
-guy with an inverted face sitting on
-the ceiling and watching a guy while
-he sleeps. Pretty gnarly stuff. Why?
+(Irritated)
+Apparently. What's up?
 #### SAM
-Well, it was... This dead woman was
-speaking to the medical examinerALICE
-G for Ghost comma recent. Easy.
-#### SAM
-No, it was the corpse itself that was
-speaking.
-Alice is suddenly a little bit wary.
+Can we talk in the break room?
 #### ALICE
-Speaking as in...?
+Look, Sam, I really don't have time to
+mess around tonight.
 #### SAM
-As in telling the story of its death.
-Sounds like she was trapped in her
-greatest fear which then actually
-killed her.
+It'll only take a sec.
 #### ALICE
-Look I see where you're going with
-this. You think it's something to do
-with- With what I saw?
+What's wrong? You're doing your
+twitchy eye, you only do that when
+something's up?
+Beat. SAM fidgets awkwardly.
 #### SAM
-Yeah. I think maybe there's
-something out there that killed both
-of them.
+(quietly)
+Are the computers listening to us?
 #### ALICE
-(growing sarcastic)
-Hmmmm. I see. So you reckon I
-should have a look at this case?
-Maybe note down some
-connections? Pin it up on my
-corkboard, circle some key dates in
-bright red, connect them all with
-string and stare at them while
-moodily sipping bourbon?
+(Amused despite herself)
+What?
 #### SAM
-I mean, maybe?
+(quietly)
+As in, are they monitoring our
+conversations or something?
 #### ALICE
-That's dumb.
+Freddie can barely boot up without
+throwing an error, so I seriously
+doubt it's monitoring your loo
+breaks. Typical Colin to have a
+complete breakdown just to get out
+of fixing the damn thing.
 #### SAM
-You can't just ignore this.
+Alice.
 #### ALICE
-Why not? Ok, let's assume you're
-right. These cases are connected
-and there's a weird murderer who
-can kill you with your deepest fear
-and then make your corpse narrate
-it. Let's take that insane premise as a
-truth.
+I know, I'm just frustrated. Look,
+what's brought this on all of a
+sudden Sam?
 #### SAM
-Fine.
+I- I know it sounds crazy but well, it's
+starting to feel like I'm deliberately
+being given cases that point to The
+Magnus Institute.
 #### ALICE
-Did your case give you any clue as
-to how to avoid this killer?
+You're right.
 #### SAM
-Uh... no, not really?
+I am?
 #### ALICE
-Okay. Did it give any hint as to where
-they were going to be in the future
-so that I can avoid also being there?
+Yeah, that does sound crazy.
 #### SAM
-Well no butALICE
-Did it, in fact, give any details as to
-how it works, what it looks like, what
-it wants, why it's here, anything like
-that?
+I'm not making this up! These days
+it's like every other case links back
+to it in some way.
+#### ALICE
+Sam enough! Can you even hear
+yourself? Look... This place can
+really get to you if you're not careful.
+And I really don't want you to go the
+same way as Colin.
+Pause.
 #### SAM
+Have you heard anything from him?
+#### ALICE
 No.
-#### ALICE
-Then with the greatest respect, your
-idea is bad and you should feel bad.
-#### SAM
-But now we know something's out
-thereALICE
-And? If even one percent of these
-cases has even a grain of truth to
-them, then there are hundreds of
-somethings out there, thousands!
-This is just the latest flavour of
-awful.
-#### SAM
-But you might have actually met this
-one. In person
-#### ALICE
-And in case you didn't notice, it
-messed me up! So why the hell
-would I want to know more about it!?
-#### SAM
-I mean, it might help you come to
-terms with it, or...
-#### ALICE
-No, Sam. Absolute best case
-scenario it does nothing and just
-wastes my time. Most likely scenario
-it makes me too scared to walk down
-the street without freaking out. Worst
-case scenario it gets me curious.
-Because if there's one thing I've
-noticed with all these cases over the
-years it's that it's curiosity that
-actually gets you killed. So, thanks
-but no thanks.
-Sam sighs.
-#### SAM
-Sorry I brought it up.
-#### ALICE
-It's ok. I know you're just trying to
-help butA door slams from the other end of the office.
-#### ALICE
-(cont'd)
-Ooooooh, trouble in paradise.
-#### SAM
-Lena's on Gwen's case again?
-#### ALICE
-I dunno, she looks(TO GWEN)
-Hey! Here comes trouble! As the
-barman said to the bull: “oh god, oh
-god no, please don't kill anyone, we
-don't have insurance!”
-#### GWEN
-Don't tempt me.
-#### ALICE
-Wouldn't dream of it. Sam on the
-other hand looks pretty iffy to me...
-#### SAM
-What's up?
-#### GWEN
-Nothing. It's fine.
-#### ALICE
-Oh good, glad that's sorted. Sam?
-Coffee?
 Beat.
-#### SAM
-Uh...
 #### ALICE
-You know, since everything is fine.
-Gwen sighs.
+(cont.)
+Was that all? Because like I said, I'm
+up to my eyes over here.
 #### SAM
-Gwen?
-#### GWEN
-It's just another Externals
-assignment from Lena.
-#### SAM
-And that's a problem because...
-#### GWEN
-Because... they're not... fun.
+Yeah. Forget I said anything.
 #### ALICE
-Oh well no wonder you're throwing a
-massive strop. Lena can't possibly
-expect you to do work that isn't a
-complete hoot every second, that
-would be completely unreasonable!
-#### SAM
-Sorry did I miss the part where
-“Externals” is meant to mean
-anything?
+Great.
+Sam walks back to his desk.
+Alice tries to work again.
+There is another obnoxious error sound.
 #### ALICE
-(explaining)
-Grumpy contractors from outside the
-office getting government grants for
-doing f-all.
+(cont.)
+For gods' sake!
+#### 4. INT. MANAGER'S OFFICE -- NIGHT, RAINING (MANAGERS
+#### LANDLINE).
+GWEN is in the middle of a heated argument with Lena. Or she
+would be, if Lena wasn't so ice cold.
 #### GWEN
-No it's not... it's more complicated
-than that.
-#### SAM
-Complicated how?
+(raised voice.)
+So just to be crystal clear, you want
+me to go out, alone, to an isolated
+location, to meet a dangerous
+external you wouldn't allow in this
+building, and you won't even
+consider the possibility of giving me
+some kind of security?
+#### LENA
+Correct. I regret that there aren't
+more resources available to support
+you, but that is the reality of the
+situation.
 #### GWEN
-(hesitant)
-They're not... I don't think they're
-people. Not all of them, anyway. Not
-fully.
-#### ALICE
-I mean are any of us lowly worms
-“people” to you?
-#### SAM
-Not now Alice.
-ALICE is affronted but shuts up.
-#### SAM CONT.
-What do you mean “not people”
-Gwen?
-#### GWEN
-In the cases, you know how there are
-often things or places or people or
-whatever who... aren't right? Who
-seem to be causing all the awful
-things to happen.
-#### SAM
-Like... the monsters?
-#### GWEN
-I guess? Well, it seems some of
-them... I have to meet some of them.
-To uh... pass them work.
-#### ALICE
-(incredulous)
-Riiiiiiiiight.
+This is ridiculous! You're the one
+who was laying into me for bringing
+Lady Mowbray here! What happened
+to “unacceptable risks to
+personnel”!?
 Beat.
-#### SAM
-(dubious but supportive)
-Okay... So like can you give us an
-example?
-#### GWEN
-I... Yeah, I guess.
-Tense Beat.
-#### GWEN
-(cont'd, working up to it)
-So... Do- Do you remember from
-TV... Mr. Bonzo?
-Pregnant pause.
-Sam suddenly bursts out laughing.
-#### SAM
-You absolute asshole, Gwen! You
-absolute- You totally had me going
-there! I was- ha! Christ, could you
-imagine though? You're turn up to
-the tv studio all all like
-(sinister voice)
-“I have a job for you, Mr. Bonzo”
-(normal voice)
-And he's all like
-(Bonzo voice)
-#### “BONZO BONZO BONZ-“
-#### GWEN
-(absolutely losing it)
-#### SHUT UP! SHUT UP! SHUT THE
-#### FUCK UP!
-Stunned silence.
-#### GWEN
-(cont'd)
-You don'tShe exits.
+#### LENA
+I'd like to remind you that you are the
+one resorted to blackmail to secure
+this position. I have completed such
+assignments myself on many
+occasions, and this is an essential
+part of the role. If, however, on
+reflection, you have come to realize
+you are unfit for the job, you are, as
+always, welcome to resign. I'm sure
+your family will be able to find you
+an easier position elsewhere.
 Beat.
-#### SAM
-So... that was weird.
+#### GWEN
+(restrained)
+I know that the O.I.A.R. has used
+Starkwall to provide security in the
+past. I don't think it's unreasonable
+to ask for some basic support.
+#### LENA
+Starkwall, as with any security force,
+have an unfortunate habit of
+escalating situations they become
+involved in. It's my professional
+opinion that you will be safer without
+their presence.
+#### GWEN
+So, I'm on my own.
+#### LENA
+Correct.
+Beat.
+#### LENA
+(cont.)
+Good luck.
+#### 5. INT. COLIN'S FLAT -- MORNING, RAINING (ALICE'S
+#### PHONE).
+We are in the corridor outside Colin's flat. ALICE is stood
+dripping on the doorstep, banging on the door. There is the
+sound of a fishtank beside the door on the other side.
 #### ALICE
-Told you. Curiosity will get you
-killed. Best try and ignore it.
-ALICE starts putting her earbuds in.
-#### SAM
-Alice, she's really messed up, you
-can't just keep ignoringALICE
-(loudly)
-Can't hear you! Headphones!
-#### SAM
-For god's sake...
-5. CELIA'S FLAT -- NIGHT, CLEAR (BABY MONITOR)
-GEORGIE is playing with JACK in his crib.
-#### GEORGIE
-(covering her face)
-Where's Georgie?
-(revealing her face)
-There she is!
-JACK makes delighted baby noises.
-#### GEORGIE
-(covering her face)
-Oh no! Where's Georgie gone!
-(revealing her face)
-There she is!
-More cooing from Jack.
-#### GEORGIE
-(covering her face)
-Oh no! Who keeps taking Georgie's
-face?
-The door opens and CELIA comes in, holding a carrier bag of
-baby food jars.
-#### CELIA
-Having fun?
-#### GEORGIE
-(revealing her face)
-Always. He's a great kid.
-#### CELIA
-He's a hungry gremlin. I've been all
-over town to find somewhere in
-stock. Thanks for stopping over to
-watch him.
-#### GEORGIE
-Of course. It's not like it's a big
-journey and I've always got editing
-work that I can do just as easily from
-here as at home.
-#### CELIA
-Well, I really appreciate it.
-#### GEORGIE
-You know you can call me
-beforehand. You don't need to wait
-until you've already gone to let me
+Come on Colin. We both know you're
+in there.
+#### COLIN
+(behind the door)
+Alice? What are you doing here?
+#### ALICE
+I'm trying to check up on you, you
+idiot. You know, like a friend.
+#### COLIN
+(behind the door)
+I'm fine.
+#### ALICE
+Just open the door Colin. I'm not
+talking to you through an inch of excouncil chipboard.
+COLIN opens the door. ALICE reacts to his appearance.
+#### ALICE
+(cont.)
+Hey mate. You're looking... here.
+#### COLIN
+Give me your phone.
+#### ALICE
+What?
+#### COLIN
+You want inside? Then give me your
+phone.
+#### ALICE
+Why?
+Beat.
+#### ALICE
+(cont.)
+You're going to throw it in the
+fishtank aren't you?
+#### COLIN
+I have to. It's the only way to be sure.
+We can't let him know how much we
 know.
-#### CELIA
-It's... not always that simple. I'd run
-out baby food andGEORGIE
-Celia, I'm saying you don't need to
-lie to me.
-#### CELIA
-I'm not!
-#### GEORGIE
-He woke up hungry after I got here
-so I grabbed one of the many, many
-food jars you have in the cupboard.
-#### CELIA
-Ah.
-#### GEORGIE
-Celia, I like you. And I love little Jack.
-Yes I do! He's so cute! So I'm not
-going to ask about all these
-“emergencies” that you have to run
-off to, or your “civil service” job that
-happens to last all night. But if I'm
-going to be helping out I need you to
-be straight with me on something.
-#### CELIA
-(resigned)
-Okay.
-#### GEORGIE
-Are you spying on me for the
-government?
-Beat.
-#### CELIA
-I promise I am not spying on you for
-the government.
-#### GEORGIE
-Illuminati? Masons? Well, no, you
-wouldn't be spying for the masons
-but you know what I mean. I can't
-risk getting silenced.
-#### CELIA
-Wait, are you serious?
-#### GEORGIE
-Look I know it's daft but I need you
-to promise.
-#### CELIA
-Fine. I promise I'm not spying on you
-for any government, secret society,
-or other organization.
-#### GEORGIE
-Or aliens.
-#### CELIA
-Or aliens. Good enough?
-#### GEORGIE
-(relieved)
-Yeah. Yeah, I believe you. Ok.
-Thanks. Right, then, I should get
-going -- see if I can catch some
-sleep.
-Beat.
-#### GEORGIE
-(cont'd)
-Speaking of... have you been out all
-night in your Pajamas?
-#### CELIA
-Yes. Yes, I have.
-Beat.
-#### GEORGIE
-Okay.
+#### ALICE
+Right. Listen Colin we're all worried
+about you.
+#### COLIN
+You should be worried for
+yourselves.
+#### ALICE
+I know Lena told you to get some
+counselling, and I just thought I'd
+check... Are you? Seeing anyone?
+Professionally, I mean.
+#### COLIN
+No, what I need is to not be seen. He
+sees too much already. Doing
+mummy and daddy Stasi proud, I'm
+sure. Not that anyone cares as long
+as it all balances, right? Not too
+much mercury or the world ends, not
+too much sulfur or we all go mad...
+#### ALICE
+Colin calm down mate your starting
+to soundCOLIN
+Give me your phone.
+#### ALICE
+I'm not giving you myCOLIN slams the door in her face.
+#### ALICE CONT.
+Colin? Colin!
+She bangs on the door a couple of times. There is no response.
+#### ALICE
+Idiots. Idiots all the way down.
+ALICE marches off down the corridor.
 ##### [Music]
 #### ANNOUNCER
 The Magnus Protocol is a podcast
@@ -789,22 +685,21 @@ online, tweet us @therustyquill, visit
 us on facebook or email us at
 mail@rustyquill.com
 Thanks for listening.
-The Magnus Protocol 18 -- Solo Work
-#### CAT1RC2374-20032024-10042024
-Memory (derelict) --/- compulsion
+The Magnus Protocol 19 -- Hard Reset
+#### CAT13RBC1137-21031684-11042024
+Transformation (canine) --/- growth (Crystalline)
 Incident Elements:
-- Isolation
-- Strong Language
-- Arguments
-- Trauma Triggers
-- Mentions of: corpses, autopsy, starvation
+- Animal Peril/Threat
+- Metallophobia
+- Body Horror
+- Mentions of: Therapy, Implied Mental Breakdown
 Transcripts: https://shorturl.at/gzF15
-This episode is dedicated to John C. Worsley, thank you for your
+This episode is dedicated to Dove Halber, thank you for your
 generous support! You can a complete list of our Kickstarter
 backers https://rustyquill.com/the-magnus-protocol-supporterwall/
 Created by Jonathan Sims and Alexander J Newall
 Directed by Alexander J Newall
-Written by Jonathan Sims
+Written by Alexander J Newall
 Script Edited with additional material by Jonathan Sims
 Executive Producers April Sumner, Alexander J Newall,
 Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G.
@@ -813,21 +708,20 @@ Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole
 Perlman, Cetius d'Raven, and Megan Nice
 Produced by April Sumner
 Featuring (in order of appearance)
-Billie Hindle as Alice Dyer
-Kazeem Tosin Amore as Teddy Vaughn
 Shahan Hamza as Samama Khalid
-Sarah Lambie as Lena Kelley
+Lowri Ann Davies as Celia Ripley
+Billie Hindle as Alice Dyer
 Anusia Battersby as Gwendolyn Bouchard
-Sasha Sienna as Georgie Barker
-Tim Fearon as Augustus
-Dialogue Editor -- Lowri Ann Davies
+Sarah Lambie as Lena Kelley
+Ryan Hopevere-Anderson as Colin Becher
+Dialogue Editor -- Nico Vettese
 Sound Designer -- Tessa Vroom
 Mastering Editor -- Catherine Rinella
 Music by Sam Jones (orchestral mix by Jake Jackson)
 Art by April Sumner
-SFX from Soundly, Freesound: kyles, ianaces, Carlvus,
-TheSupremeMuffinPooter, elonen, and previously credited
-artists
+SFX from Soundly, Freesound: constructabeat, SpliceSound,
+payattention, TheSupremeMuffinPooter, vckhaze and previously
+credited artists
 Support us on Patreon at https://patreon.com/rustyquill
 Check out our merchandise available at
 https://www.redbubble.com/people/RustyQuill/shop and
