@@ -1,651 +1,777 @@
 ©Rusty Quill 2023
 The Magnus Protocol
-Episode 19
-"Hard Reset"
-Written by Alexander J Newall
-Edited by Jonathan Sims
-#### 23-11-2023
+Episode 20
+"Social Stigma"
+Written by Jonathan Sims
+Edited by Alexander J Newall
+#### 03-08-2023
+Draft 1.1
 #### ANNOUNCER
-This episode is dedicated to Dove
-Halber -- Ceassless Watcher dedicate
-this now to my dearest sister. A true
-disciple of the eye. Haunting my
-waking nightmares even now. And
-the best sister a girl could ask for!
+This episode is dedicated to Blades
+and Chris, two maniacs who by now
+have probably strangled themselves
+with red string trying to figure out
+the plot of this podcast.
 ##### [Intro Theme]
 #### ANNOUNCER
 Rusty Quill Presents: The Magnus
 Protocol.
-Episode Nineteen -- Hard Reset
+Episode Twenty -- Social Stigma
 ##### [Music]
-1. INT. OIAR BREAKROOM -- NIGHT, RAINING (CCTV)
-SAM enters and pours bad coffee for himself.
-#### SAM
-You need topping up or...
+1. INT. OIAR BREAKROOM -- NIGHT, DRIZZLING (CCTV)
+Sam, Alice and Celia enter. Sam is almost vibrating with nervous
+energy.
+#### ALICE
+This had better be worth all these
+theatrics...
 #### CELIA
-(shuffling papers
-distracted)
-No, I'm good thanks.
-#### SAM
-(walking over)
-Looks like you raided every
-photocopier in the building this time.
-#### CELIA
-Hmmmm?
-#### SAM
-(sitting)
-The papers? There seems to be more
-of them every time I come in here.
-You're lucky Lena hasn't noticed,
-she's pretty uptight about how much
-stuff we print.
-He catches sight of what she is working on.
-#### SAM
-(cont.)
-Celia, what is all this?
-#### CELIA
-(still shuffling papers)
-Just research.
-#### SAM
-Is that... alchemy?
-#### CELIA
-(suddenly paying
-attention)
-You recognize it?
-#### SAM
-Some of it.
-He starts leafing through some of the papers.
-#### SAM
-(cont.)
-This one's something to do with
-transference and this one... yeah, it's
-all about spiritual substitution of
-elements although looks like its
-incomplete.
-#### CELIA
-(incredulous)
-You're what, an alchemist now?
-#### SAM
-Hardly. I ran into a bunch of this
-when I was looking into The Magnus
-Institute. Turns out they were pretty
-deep into all this stuff. What's got
-you looking into it?
-#### CELIA
-Just curious. Speaking of, how's the
-research into the Institute going?
-#### SAM
-I dunno. I think I'm going to drop it.
-#### CELIA
-Really?
-#### SAM
-Yeah, Alice keeps saying I'm getting
-obsessed and- don't tell her I said
-this- but I think she might have a
-point. I've never been good with
-loose ends.
-#### CELIA
-If you're sure. Seemed like you were
-handling it ok to me...
-#### SAM
-You think? Well either way, I've got
-enough cases piling up I doubt I'd
-have the time anyway.
-#### CELIA
-Tell me about it.
-#### SAM
-(standing)
-Speaking of, I should probably get
-back to it. Enjoy... whatever this is.
-#### CELIA
-Will do. And if I find anything to do
-with the Institute, I just keep it to
-myself yeah?
-#### SAM
-Oh, well, I mean... I wouldn't go that
-far...
-#### 2. CYBERSPACE -- N/A, N/A
-#### CHESTER
-To my esteemed Colleague and
-friend, the honorable Fellow of the
-Royal Society Robert Boyle, from the
-bureau of Robert Hooke, Curator of
-Experiments of the same, regarding
-enactment of that most regrettable
-protocol in the service of God, King
-and Country against the Fellow Isaac
-Newton, penned in the year of our
-lord 1684.
-I write to you now with intelligence of
-the gravest nature and a proposal
-most severe. I pray that my words
-do not further estrange you from me
-and that you believe me when I
-assure you that the suggested action
-is profoundly necessary for the
-continuation and preservation of
-Good Science.
-We have much discussed the great
-divide between Isaac's
-experimentations and your own
-essential works and so I have oft
-found myself at odds with you for,
-though much of his work is dubious
-in its moral principle, his studies
-have always proven most
-illuminative and have many times
-assisted my own researches. I fear
-however, his most recent works have
-disturbed this precarious
-equilibrium, turning instead to most
-improper, perhaps blasphemous,
-ends and I find myself left with no
-recourse other than to make it
-known to you in the hope that I might
-reawaken our previously close
-concord, which has lain dormant
-these long years, in service of a
-wholesale rejection of his creation
-which, I am of the firm opinion has
-finally erred towards the abominable
-and must be halted.
-I recall with much shame that it was
-myself who pressed you so
-vociferously for restraint the last
-time this Protocol was enacted. It
-was I who begged patience, certain
-as I was that my work on
-Micrographia might have rendered a
-remedy for that most awful plague. It
-was I who warned that to enact a
-Protocol against the great city of
-London itself was a step beyond the
-rights of our position, but you were,
-as is so oft the case, correct in your
-steadfastness and I confess
-purgation of all that most dangerous
-and unfit knowledge was both
-necessary and good. It was only
-through the Protocol that we were
-spared from that Dread emission and
-I fear that such an act is once again
-required, though it is my fervent
-hope that on this occasion there is
-still sufficient time to limit the
-breadth of the poisonous act.
-As well you know, despite Isaac's
-standing as a Fellow within the
-estimable Society, his experiments
-persist in prying into such
-knowledge as we both know to be
-anathema to Good Science. His work
-on the vegetative propagation of
-metals has proceeded unabated
-these recent years and I am now
-most certain that the fruits of his
-labor will lead to tragedy, death and
-damnation if they are left to mature
-unchecked.
-I have of late been a somewhat more
-frequent visitor to Isaac than you
-may have suspected and I fear that
-of the many sins I have committed in
-my time upon this earth, this may be
-one of those I come most to regret.
-I had, of course, no knowledge of the
-perilous extent of his experiments
-and had I known such I would never
-have deigned to further associate
-myself with him, but his most recent
-letters promised work of a quite
-astonishing nature and, may god
-forgive me, my curiosity could not be
-assuaged without witness.
-Upon his insistence I visited his
-laboratory in Trinity in a sanguine
-mood, though this was immediately
-disturbed by the damnable presence
-of that stunted dog he keeps,
-worrying my coat tails as I
-approached the threshold. As is his
-wont, Isaac failed to notice my
-approach, preoccupied as he was
-with his work, and it was only by
-declaring myself most forcefully that
-he could be sufficiently distracted to
-acknowledge my presence.
-Forgoing the customary
-pleasantries, he instead proceeded
-straight to his laboratory wherein I
-saw he had a glass flask of great
-proportions, at least thirty gallons or
-thereabouts, within which there was
-an element of such overwhelming
-radiance that to look upon it directly
-was to dazzle the eyes and throw the
-mind into confusion.
-Composing myself, I queried Isaac
-on the nature of this creation,
-whereupon he explained with
-customary disinterest that he had
-finally perfected the work of Wilhelm
-Homberg to produce what he termed
-the Arbor Philosophorum Perfecta.
-I was naturally most intrigued but
-despite my questioning he refused to
-elaborate, instead passing me a
-smoked glass that I might gaze upon
-his creation with greater clarity and
-when I did so I came to understand
-that what I was looking at was a
-small tree ensconced in a clear
-solution.
-At first I presumed it to be merely
-another work of dendritic silver as
-we have seen before, albeit one of
-surpassing quality and finesse.
-However, I soon came to realize this
-was something altogether grander
-and profoundly abhorrent.
-It's branches were exquisite and
-delicate, swaying slightly from small
-eddies in the liquid and they shone
-with every spectra. I must confess
-that to look upon it, one was filled
-with profound wonder at its exquisite
-elegance. I professed as much to
-Isaac and he replied quite solemnly
-“as are all of the Lord's living
-works.”
-This struck me as somewhat
-incongruous and gave me moment
-to pause for, though impressive, the
-tree was quite clearly mineral in
-nature and as such must be lacking
-in that essential vitality that only the
-Lord God can bestow.
-I presumed his words an unfortunate
-jest, but he then asked me if I would
-taste of its fruit. I refused, of course,
-assuming the offer another of his
-odd japes but his face was grave. He
-then opened the flask and reached
-inside muttering as he did so: “de
-ligno autem scientiae boni et mali ne
-comedas in quocumque enim die
-comederis ex eo morte morieris”.
-Even I, steeped in worldly matters as
-I am, recognized The Lord's words to
-Adam and was much dismayed at
-the implication. Isaac then plucked
-the delicate fruit with ungloved
-hands and held it before me.
-I began to not only doubt Isaac in
-that moment but even fear him, for I
-knew he had finally transgressed the
-limits of anything within the bounds
-of mortal philosophy.
-Until that moment, our encounter
-had been if not typical, at least
-explicable. Mayhap Isaac had made a
-legitimate discovery and was merely
-indulging in some grand
-performance before providing some
-less grotesque explanation. But such
-was not to be, for no sooner had I
-seen the fruit upon his palm before
-he tipped it into the waiting mouth of
-that cursed dog I had failed to see
-skulking at my feet.
-Isaac's eyes never left mine but I
-could not help but watch as the
-wretched canine swallowed it. There
-was a moment's stillness within
-which Isaac watched me closely, for
-my reaction was seemingly of more
-interest to him at that moment than
-the fate of the animal. And my
-reaction was terror.
-The dog remained motionless, at
-first seemingly unaffected by its
-unnatural feast but as the moments
-passed I espied a growing torpor in
-its manner, with slowed breathing,
-sagging posture and drooping jowls.
-It lay down as if to sleep whereupon
-it grew ever more peaceful and still. I
-almost believed it dead, poisoned by
-my companion, but then I saw
-something far more distressing. The
-creature was taking root. Strands of
-its mottled brown hair were
-extruding downwards between the
-floor, seeking the dark earth below.
-Then, too, its back began to sprout,
-radiant branches unfurling and
-thickening before me, reaching
-upwards towards the sunlight with a
-seemingly insatiable desire.
-The dog then opened one eye and
-stared at me and this was the most
-disturbing thing of all, for that orb
-was also shimmering with that
-unnatural light, but more than that, it
-looked upon me and it knew me not
-as a beast knows its master but as
-one man knows another and though
-such a creature must by all natural
-law lack that essential and
-ephemeral anima that is required for
-such awful knowledge I tell you here
-Robert, it saw me and it knew me.
-I felt myself grow insensible at that
-violation and before I could restrain
-myself I had grasped a heavy
-instrument with which I might dash
-its skull upon the floor! Isaac
-however, intervened and for the first
-time since feeding the animal that
-accursed fruit he spoke and bade me
-to remain calm. He then reached
-back to the flask with a smaller cup
-and decanted a portion of the
-solution into it. Then, seemingly
-without concern, he poured it upon
-the rapidly growing monstrosity.
-There was a brief hiss and a release
-of steam which occluded my vision
-entirely, quickly followed by a slight
-tugging at my trouser legs from
-which I recoiled in horror, fearing the
-creature had reached out to claim me
-in its insidious grip, but when the
-vapor cleared I found myself
-cowering from nothing more than
-that mange-ridden dog, no longer
-sprouting and burdened with
-knowledge, it was reduced to a mere
-beast once again.
-Isaac laughed at this ignominious
-display and suggested I step away to
-recover so that I might “better
-appreciate that which had been
-revealed to me” I instead took my
-leave and hurried out of not just his
-chambers but the entire college as
-fast as I was able.
-Thus it is that I find myself writing
-this account for you that you might
-better understand my concerns. No
-doubt you agree with me that I have
-witnessed something which is far
-outside that which we could, in good
-conscience and understanding,
-describe as Good Science, for if
-such a transmutation can be elicited
-from a lower creature devoid of soul
-or reason I tremble to consider how
-it might affect the children of Adam,
-blessed as we are with greater
-faculty and insight for both good and
-evil.
-Though it pains me to speak so
-poorly of one so well regarded as
-Isaac I fear this latest excess is
-beyond what can be called
-conscionable. His work must be
-curtailed for the safety of all. I
-remain opposed however, to any
-notion of violence against his
-person. He is a prominent figure and
-his work, though misguided, is not
-wantonly evil.
-I propose that we enact the Protocol
-but limit it only to his laboratory,
-destroying his research and
-correspondence for, if we can end
-this digression from Good Science
-and divert him with more virtuous
-work, we might yet take possession
-of a newly ardent ally in our vigils.
-This is of course on condition that
-he never discovers our intervention
-nor is left to work in such solitude
-again.
-Robert, my dear compatriot, I
-implore you to consider my plea
-despite our recent disagreements,
-for if you fail to act I will instead be
-forced to intervene alone and by
-god's grace I know not if I hold the
-fortitude to do what would need to
-be done.
-Pray reply with all celerity for I fear
-that time is short in this matter.
-Yours with the utmost respect and
-gratitude, for the sake of London,
-England, and for all of Christendom,
-Robert
-#### 3. INT. OIAR OFFICE INT. -- NIGHT, RAINING (COMPUTER).
-SAM approaches Alice's desk slightly harried.
-#### SAM
-Alice?
+Ok, Sam. We're here. Just us, no
+computers. Go ahead.
+Beat. Sam exhales.
 #### ALICE
-Yeah?
-#### SAM
-Do you have a moment?
-There is an obnoxious error noise from the computer.
-#### ALICE
-(Irritated)
-Apparently. What's up?
-#### SAM
-Can we talk in the break room?
-#### ALICE
-Look, Sam, I really don't have time to
-mess around tonight.
-#### SAM
-It'll only take a sec.
-#### ALICE
-What's wrong? You're doing your
-twitchy eye, you only do that when
-something's up?
-Beat. SAM fidgets awkwardly.
-#### SAM
-(quietly)
-Are the computers listening to us?
-#### ALICE
-(Amused despite herself)
-What?
-#### SAM
-(quietly)
-As in, are they monitoring our
-conversations or something?
-#### ALICE
-Freddie can barely boot up without
-throwing an error, so I seriously
-doubt it's monitoring your loo
-breaks. Typical Colin to have a
-complete breakdown just to get out
-of fixing the damn thing.
-#### SAM
-Alice.
-#### ALICE
-I know, I'm just frustrated. Look,
-what's brought this on all of a
-sudden Sam?
-#### SAM
-I- I know it sounds crazy but well, it's
-starting to feel like I'm deliberately
-being given cases that point to The
-Magnus Institute.
-#### ALICE
-You're right.
-#### SAM
-I am?
-#### ALICE
-Yeah, that does sound crazy.
-#### SAM
-I'm not making this up! These days
-it's like every other case links back
-to it in some way.
-#### ALICE
-Sam enough! Can you even hear
-yourself? Look... This place can
-really get to you if you're not careful.
-And I really don't want you to go the
-same way as Colin.
-Pause.
-#### SAM
-Have you heard anything from him?
-#### ALICE
-No.
+If this is more neurotic conspiracy
+shit about the Magnus bloody
+Institute...
 Beat.
 #### ALICE
 (cont.)
-Was that all? Because like I said, I'm
-up to my eyes over here.
+Goddammit Sam.
 #### SAM
-Yeah. Forget I said anything.
+Alice, it's important. Like, actually
+important, I promise.
 #### ALICE
-Great.
-Sam walks back to his desk.
-Alice tries to work again.
-There is another obnoxious error sound.
+I just had to try and talk a colleague
+out of a full blown paranoid delusion.
+I really don't know if I've got it in me
+to do it twice in two days.
+#### CELIA
+(to Alice)
+He doesn't seem paranoid.
 #### ALICE
-(cont.)
-For gods' sake!
-#### 4. INT. MANAGER'S OFFICE -- NIGHT, RAINING (MANAGERS
-#### LANDLINE).
-GWEN is in the middle of a heated argument with Lena. Or she
-would be, if Lena wasn't so ice cold.
-#### GWEN
-(raised voice.)
-So just to be crystal clear, you want
-me to go out, alone, to an isolated
-location, to meet a dangerous
-external you wouldn't allow in this
-building, and you won't even
-consider the possibility of giving me
-some kind of security?
-#### LENA
-Correct. I regret that there aren't
-more resources available to support
-you, but that is the reality of the
-situation.
-#### GWEN
-This is ridiculous! You're the one
-who was laying into me for bringing
-Lady Mowbray here! What happened
-to “unacceptable risks to
-personnel”!?
+We're whispering. In the breakroom.
+#### CELIA
+Granted.
+#### ALICE
+Fine. Let's roll out the conspiracy
+board again, add some more red
+string. Why not? But this better end
+with the Magnus Institute killing JFK
+or I'm officially done on your pet
+crusade.
+#### SAM
+It's, uh, it's more about who killed
+the Magnus Institute.
+#### CELIA
+(sharply interested)
+Who?
+#### SAM
+We did. Well, I think Starkwall did, on
+behalf of the OIAR.
+#### CELIA
+(doubtful)
+The security company?
+#### ALICE
+(reluctant)
+They're more than a security
+company. They're a PMC,
+Mercenaries. It's not impossible.
+#### SAM
+Burned it to the ground and killed
+everyone who worked there. That's
+what “The Protocol” is.
+#### ALICE
+Not the-goddamn-Protocol again. I
+told you that's not something you
+want to mess around with!
+Government conspiracies are a fun
+hobby, until you piss off the actual
+government by exposing their actual
+conspiracy!
+#### SAM
+But that's the thing, I don't know if
+anyone outside the OIAR itself even
+knows about it. You know that case I
+got yesterday?
+#### ALICE
+I remember it made you weird again.
+#### SAM
+It was a letter from 1684.
+#### ALICE
+Sorry, your latest conspiracy theory
+is based entirely on a Freddy
+throwback from before they invented
+gravity?
+#### SAM
+(losing steam)
+Uh well, it was actually about Isaac
+Newton, so...
+#### ALICE
+For god's sake.
+#### CELIA
+Alice. Please.
+Alice sighs.
+#### SAM
+Okay, so, it talks about “The
+Protocol” right, about how it was
+used to reign in weird stuff Newton
+was working on and it reminded me
+of what happened with the Institute,
+but I mean, it's 300 years, right? No
+way it could be the same thing?
+Right?
+#### ALICE
+Right.
+#### CELIA
+But?
+#### SAM
+But I had an email when I got in
+tonight. It contained a bunch of files
+from 1999. Some... paperwork
+between Starkwall, or GSR Security
+as they were back then, and William
+Price, who used to run the response
+department. The documents were
+very thorough, and what wasn't
+redacted was pretty clear. They
+totalled the Institute.
 Beat.
-#### LENA
-I'd like to remind you that you are the
-one resorted to blackmail to secure
-this position. I have completed such
-assignments myself on many
-occasions, and this is an essential
-part of the role. If, however, on
-reflection, you have come to realize
-you are unfit for the job, you are, as
-always, welcome to resign. I'm sure
-your family will be able to find you
-an easier position elsewhere.
+#### ALICE
+Who sent you the email?
 Beat.
-#### GWEN
+#### SAM
+I don't know. The email address was
+gibberish and when I tried to reply it
+went nowhere.
+#### ALICE
+So you're receiving anonymous info
+that, at best, could get you fired and
+at worst could get you killed?
+#### SAM
+So you believe there might be
+something to it?
+#### ALICE
+Of course I do! That's why I've been
+trying so hard to protect you!
+#### SAM
+Is that what you call it?
+#### ALICE
+Yeah, I do. Because you're working
+to get us fired for unauthorized
+access to classified documents
+about something that happened
+twenty five years ago. I don't know
+what the OIAR looked like in 1999,
+but I know what it looks like now,
+and it's basically the five of us and
+Colin, who, I might remind you, has
+already lost it. I seriously doubt
+we're still doing covert Protocol shit.
+We can't even turn up on time!
+#### CELIA
+In fairness, Lena is secretive and
+GwenALICE
 (restrained)
-I know that the O.I.A.R. has used
-Starkwall to provide security in the
-past. I don't think it's unreasonable
-to ask for some basic support.
-#### LENA
-Starkwall, as with any security force,
-have an unfortunate habit of
-escalating situations they become
-involved in. It's my professional
-opinion that you will be safer without
-their presence.
-#### GWEN
-So, I'm on my own.
-#### LENA
-Correct.
+Okay class. Let's entertain the
+ridiculous notion that that kind of
+stuff is somehow still going on. Now
+do we think that sticking our nose
+right in the middle of that steaming
+mess and taking a big old whiff is a
+good idea or a terminally bad one?
+#### SAM
+You can't seriously be okay working
+for such a shady organization!
+#### ALICE
+Sam, we already know we work in a
+global atrocity factory. It's called the
+British government.
+#### SAM
+This isn't a joke Alice! People died,
+they might still be dying!
+#### ALICE
+(restraining herself)
+Look, of course I'm not happy with
+anything about this. We're trapped in
+a vicious, petty, awful machine that
+rules over a vicious, petty, awful little
+country. I hate that that's how things
+are. I hate it. But that doesn't stop it
+from being true and if I'm going to
+put myself and the people I care
+about in actual, physical danger, it's
+not going to be over a matter of
+principal. It would need to be for
+something that'll actually change
+something. And I'm sorry but going
+to the press with “British
+government did another bad thing in
+the past” doesn't exactly scream
+revolution does it.
+#### SAM
+What about you Celia?
 Beat.
-#### LENA
-(cont.)
-Good luck.
-#### 5. INT. COLIN'S FLAT -- MORNING, RAINING (ALICE'S
-#### PHONE).
-We are in the corridor outside Colin's flat. ALICE is stood
-dripping on the doorstep, banging on the door. There is the
-sound of a fishtank beside the door on the other side.
-#### ALICE
-Come on Colin. We both know you're
-in there.
-#### COLIN
-(behind the door)
-Alice? What are you doing here?
-#### ALICE
-I'm trying to check up on you, you
-idiot. You know, like a friend.
-#### COLIN
-(behind the door)
-I'm fine.
-#### ALICE
-Just open the door Colin. I'm not
-talking to you through an inch of excouncil chipboard.
-COLIN opens the door. ALICE reacts to his appearance.
-#### ALICE
-(cont.)
-Hey mate. You're looking... here.
-#### COLIN
-Give me your phone.
-#### ALICE
+#### CELIA
+Are we sure it was the wrong thing to
+do?
+#### SAM
+(Thrown)
 What?
-#### COLIN
-You want inside? Then give me your
-phone.
+#### CELIA
+Destroying the Institute.
 #### ALICE
-Why?
+Well, that's a take...
+#### SAM
+(shocked)
+Celia, they killed like forty people.
+#### CELIA
+I know. And that's awful. But from
+what I've found the Magnus Institute
+was up to some pretty bad things.
+Like catastrophic, world-endingly
+bad.
+#### ALICE
+Okay, reign it in Nostradamus.
+#### SAM
+What makes you say that?
+#### CELIA
+Never mind. The point is we don't
+really know what happened and as
+horrible as it is to say it, for all we
+know this Protocol thing was a
+necessary evil to stop something
+worse.
+#### SAM
+Maybe. But that still leaves us
+working for evil.
+Beat.
+#### ALICE
+I'm sorry but I'm out. I can't help you
+with this. You're in way too deep and
+I'm... I'm scared for you. And for me!
+For all of us. So if you're dead set on
+shoving your face into this hornet's
+nest... you'll have to leave me out of
+it.
 Beat.
 #### ALICE
 (cont.)
-You're going to throw it in the
-fishtank aren't you?
-#### COLIN
-I have to. It's the only way to be sure.
-We can't let him know how much we
-know.
-#### ALICE
-Right. Listen Colin we're all worried
-about you.
-#### COLIN
-You should be worried for
-yourselves.
-#### ALICE
-I know Lena told you to get some
-counselling, and I just thought I'd
-check... Are you? Seeing anyone?
-Professionally, I mean.
-#### COLIN
-No, what I need is to not be seen. He
-sees too much already. Doing
-mummy and daddy Stasi proud, I'm
-sure. Not that anyone cares as long
-as it all balances, right? Not too
-much mercury or the world ends, not
-too much sulfur or we all go mad...
-#### ALICE
-Colin calm down mate your starting
-to soundCOLIN
-Give me your phone.
-#### ALICE
-I'm not giving you myCOLIN slams the door in her face.
-#### ALICE CONT.
-Colin? Colin!
-She bangs on the door a couple of times. There is no response.
-#### ALICE
-Idiots. Idiots all the way down.
-ALICE marches off down the corridor.
+If you need me I'll be filing cases.
+We're falling behind again.
+Alice leaves.
+Beat.
+#### SAM
+(despondant)
+And you?
+#### CELIA
+Keep me posted.
+#### 2. INT. AN ABANDONED WAREHOUSE -- NIGHT, DRIZZLING
+(GWEN'S PHONE)
+Gwen walks nervously through the cavernous warehouse. She is
+walking towards the distant buzz of a tattoo gun.
+#### GWEN
+H-hello?
+The tattoo gun stops buzzing.
+#### GWEN
+(checking paper)
+Hello? Is that... Grace Wilde, AKA
+“Inksoul”?
+Beat.
+#### INK5OUL
+Police?
+#### GWEN
+No.
+The tattoo needle starts buzzing again as they go back to work.
+#### INK5OUL
+How'd you find me?
+#### GWEN
+We uh have our ways.
+#### INK5OUL
+I don't do walk-ins.
+#### GWEN
+I don't- I'm sorry, are they alright?
+#### INK5OUL
+Hm? Oh. Hang on.
+The tattoo gun stops again and Ink5oul slaps the face of the
+body she was tattooing a few times, with no response.
+#### INK5OUL
+Nope. Still dead.
+The tattoo needle starts buzzing again.
+#### GWEN
+(Swallowing)
+I see. Well Grace, I'm here toINK5OUL
+You got any ink?
+#### GWEN
+Excuse me?
+#### INK5OUL
+Tats. You got any?
+#### GWEN
+Ah no.
+#### INK5OUL
+Shame. You've got lovely skin.
+#### GWEN
+(nervous laugh)
+Yes well, I'm actually here to present
+you with an opportunity.
+#### INK5OUL
+Don't need sponsors.
+#### GWEN
+I really think you should listen to
+what I have to say.
+#### INK5OUL
+Oh yea? Why?
+#### GWEN
+(slightly pompous)
+I'm with the Office of Incident
+Assessment and Response.
+Beat.
+#### INK5OUL
+Don't need insurance.
+#### GWEN
+(snapping)
+We're not(catching herself)
+We're part of the civil service.
+#### INK5OUL
+(snorting)
+Government? Shit, you guys really
+do have it in for the small business
+owner don't you?
+#### GWEN
+(slightly incredulous)
+I'm here to recruit you, actually. If
+you want.
+#### INK5OUL
+(Sardonic)
+You don't say. Need a lot of tattoos
+in the civil service, do you?
+#### GWEN
+Not exactly. We have some use for
+someone of your... type.
+Beat. The buzzing stops.
+#### INK5OUL
+And what's that exactly?
+#### GWEN
+Sorry?
+#### INK5OUL
+What's my type?
+#### GWEN
+I'm sorry I don'tINK5OUL
+(growing intense)
+Tell me what's happening to me.
+#### GWEN
+I don't understandThe buzzing restarts more menacingly.
+#### INK5OUL
+(approaching)
+Tell me what's happening to me.
+Something is happening. I can tell.
+I'm not- There's- I'm changing
+there's all these -- I don't- TELL ME
+#### WHAT I AM!
+#### GWEN
+(panicking)
+I-I don't know! I'm sorry! They
+haven't told me! All I know is we call
+you Externals!
+INK5OUL stops. So does the buzzing.
+#### INK5OUL
+External to what? Your department?
+Society? The world?
+#### GWEN
+I don't know. All of them?
+Beat. INK5OUL returns to their victim and resumes tattooing.
+#### INK5OUL
+Sounds like you know jack-shit to
+me.
+#### GWEN
+I only just got promoted.
+#### INK5OUL
+(bitter)
+Congrats.
+#### GWEN
+Thank you.
+Pause. Silence in the warehouse save the tattooing.
+#### INK5OUL
+I don't want this. I just wanted some
+views, wanted people to like my
+work. How does that turn me into an,
+an “External”?
+#### GWEN
+I honestly have no idea. How did you
+end up here?
+#### INK5OUL
+Here? Just hiding.
+#### GWEN
+From police?
+#### INK5OUL
+From everyone. I just... Have you
+ever had followers? Fans? Ever gone
+viral?
+#### GWEN
+Can't say that I have.
+#### INK5OUL
+It's weird. It... does something to
+you. Some weird hormone thing -- I
+shared an article about it once, but
+can't say I really understood it. It's
+amazing and it's horrible. Like,
+there's these strangers you've never
+even heard of and they insist that
+you've changed their life. And you
+have! They've marked themselves
+because of you, enshrined you onto
+their skin, and yet you don't even
+know who they are. That's so much
+power. Too much and you're an
+addict.
+#### 3. CONT. INT. AN ABANDONED WAREHOUSE -- NIGHT,
+DRIZZLING (GWEN'S PHONE -- CASE)
+#### INK5OUL
+I remember the first time I blew up. It
+was a wolf design I inked over a
+client's heart. I'd never have thought
+of it as my best work, but I took a
+photo of it for the feed anyway. My
+hand had slipped ever so slightly at
+the edge of the mouth. Nothing the
+client would notice but it turned the
+snarl into more of a cheeky little grin.
+Everyone really liked that. It was
+reposted by HellYesTattoos and
+suddenly my 79-follower account
+was getting thousands of favourites,
+hundreds of new followers and so
+many... lovely messages. They were
+trawling through all my old work,
+really amateur stuff, but they still left
+the nicest comments.
+Next came the haters who were sick
+of “smirking wolf.” “Sloppy work”
+they said. They didn't see the appeal,
+didn't understand why everyone was
+sharing it. Those messages hurt.
+They hurt a lot more than the nice
+ones boosted me, but... it was still
+thrilling, you know? Knowing that a
+stranger looked at you and saw
+someone important, someone worth
+getting angry about. I didn't feel
+good, I felt... important.
+Maybe I should have resisted that
+feeling more but why would I? These
+people wanted to hold me up, tell me
+I'm better than them, I'm special.
+Why should it be on me to convince
+them otherwise? Why should I spend
+my life scabbling in the dirt telling
+them “I'm just like you, honest!”
+when I'm not. I'm better than them. I
+must be otherwise they wouldn't all
+spend so much of their time thinking
+about me.
+The next year was hard. First my
+follower-count plateaued, then it
+started to drop. I was churning out
+arty shots of my work but nothing
+was catching any more, nothing was
+making it past my little ring of
+hardcore fans and out into the
+culture. No-one was looking at me!
+At one point I made a bit of mess of
+client's Satan design and it got
+posted on that OopsTattoo blog. It
+got more traction than all my other
+recent posts combined, so for the
+next few months I deliberately
+started having “accidents” with
+client's tattoos. All it got me was a
+black eye and a handful of refunds. I
+was getting desperate. I needed to
+be seen again.
+That's when I found Oscar Jarrett. He
+was a pupil of Sutherland
+Macdonald. Do you know anything
+about him? He was this pioneering
+tattoo artist back in Victorian times --
+real popular, tattooed Prince Alberts
+cock or something, and everyone
+adored him. Anyway, he had a bunch
+of students and one of them was
+Oscar Jarrett. I learned later there
+were all sorts of stories about him,
+rumours of him doing hand-tapped
+tattoos with sharpened human
+bones, mixing strange chemicals
+into his ink, all that sort of stuff. I
+doubt any of that's true myself. Don't
+get me wrong, his work was...
+unique but I know better than anyone
+how important branding is. He
+probably just needed the mystique.
+Either way not many of Jarrett's
+original designs are still around and
+he's not very well remembered. I
+stumbled across an old photo of one
+of his designs in 1930s book. I'd
+taken to hunting down vintage
+inkwork books as people were less
+likely to notice when I lifted a design
+from some old obscure artist. My
+own stuff clearly wasn't cutting it, so
+I had to try something else. Anyway,
+this photo, it stopped me in my
+tracks. The guy was old, clearly in
+his 70s or something, but the skin
+under the ink pristine, smooth as a
+newborn, and the design was so
+crisp it might have been done a week
+before. It was an abstract sun design
+on his shoulder, shaded in this dull,
+muted yellow and there was a black
+dot in the centre that if you really
+squinted, you could see was an
+intricate network of crosshatched
+lines. The round edge of the sun was
+ragged and wavy, and I could almost
+feel the warmth of it. It was labelled
+“Fig.3 One of the few surviving
+examples of Oscar Jarrett” and I
+knew right then that I had found the
+design that was going to save me,
+that would put me back into the
+spotlight.
+He was called Harry, the man who
+would bear my mark. He'd asked for
+a “tarot-inspired sun” on his back,
+and I knew this was my best chance.
+I worked for almost a full week to try
+and properly copy the design from
+the photo. I didn't quite manage but
+it was close enough that it gave me a
+bit of that same sense of heat. Of
+course, Harry didn't like it. I think he
+just wanted a basic riff on the RiderWaite-Smith deck. So I lied and
+showed him a safer tacky magicshop design that he loved to get him
+on the table. After all, once he was
+face-down I could inscribe whatever I
+liked into his skin. Don't forget I'm
+the artist. He was just the canvas.
+Besides, I had slaved over that
+design.
+He started screaming about twenty
+minutes into the session. He said it
+burned, that it felt like his whole
+shoulder was on fire. He didn't move,
+though. It was like he was nailed
+down as my ink spread across his
+skin, the smell of scorched flesh
+filling the room. He stopped
+screaming by the time I finished.
+Just whimpers at the end. I cleaned
+off the blood and took my photos,
+and for all the smell it didn't look like
+there had been any burning at all.
+Harry stumbled out like the drunk he
+was, not even bothering to put his
+shirt back on. At first I was worried
+for when he'd be back to complain
+about the design I had actually given
+him, but I never saw him again. At
+least, not in person. Saw his picture
+on a news site though, he'd been
+killed in a house fire. The story got
+decent exposure actually.
+It didn't matter, though. His part was
+already done, canvas complete.
+What mattered was what people
+thought of the work. And oh, how
+they loved it! Followers, views,
+messages and... sponsorships. It
+wasn't much, really. Almost nothing
+in cash terms but it wasn't about the
+money. I have a small inheritance
+that takes care of that, it was about
+the respect. The adulation. The love.
+They started calling me an
+“influencer”, A “bold new voice in
+skin art”. I started making all these
+connections, hanging out with other
+influences whose follow-counts
+dwarfed even mine. I had arrived.
+My old friends didn't get it, of
+course. They might have even
+believed it when they said they were
+worried for me, that it was out of
+love, but it was just plain jealousy.
+Not great loss to me when they
+dropped away, they were never very
+photogenic.
+But a handful of pictures do not a
+career make, and so after another lull
+where I pushed through some more
+of my own designs I had to admit to
+myself that my skill, my real skill was
+in adapting Oscar Jarrett. If anything,
+I was doing him a favour -- nobody
+remembered him at all but thanks to
+me his designs were fresh and
+relevant. Besides, its not like he was
+around to miss out on anything.
+Finding other pictures of his designs
+was difficult, but not impossible.
+There were a few obscure corners of
+the central European tattooing
+scene, that had some records of him
+and for a while I was able to get
+pictures of ones I hadn't done
+before. But after those dried up...
+Well, I'd managed to source an old
+ledger from his shop that listed most
+of his clients and I had discovered
+an interesting little quirk of his ink:
+none of the skin touched by it
+decayed at all. Even after death, they
+were all flawless. Soon I had quite
+the collection.
+The other problem of course was
+that designs based on Jarrett's
+originals were brilliant for socials but
+not so good for the clients. Those
+old Victorian inks seemed to last
+forever, but my adaptations
+definitely didn't. It was very difficulty
+keeping canvases still on the more
+complex designs and after I was
+done they would usually end up
+having grotesque experiences. That
+didn't matter so much to me once
+the pictures were captured and
+posted online but after a while the
+police did notice a definite, if
+unprovable, connection between my
+tattoos and a series of rather
+disturbing accidents. Eventually it
+was easier to just use some
+chemical cocktails to keep clients
+quiet and become a bit more...
+nomadic when it came to studios.
+Funny thing, all this only seemed to
+add to the mystique. The fans ate it
+up, and all these empty warehouses
+gave me some space to think and
+reflect. Everyone wants a piece of
+you when you're this famous.
+I don't remember when my own
+tattoos began to change. I know it
+was around the same time I started
+craving “the look” more. Not the
+pleasure in a client's eyes when they
+see their new skin, but the one I saw
+just before they went under: terror,
+helplessness, and the certainty that
+they would wake up changed in a
+way they could not understand. It
+filled me up in a way I can't quite
+explain but I have never felt any
+other time. And as it did so, inside
+my skin the ink- There! Do you see
+it?
+They sigh like an addict getting a fix.
+#### INK5OUL CONT.
+Jarrett doesn't matter now. The ink
+flows through me and out of me,
+transforming the lucky into
+something newer and more beautiful
+than their own shallow tastes could
+have conceived. But I... I don't
+understand it. There's something
+inside me that remembers worrying
+about... I'm not sure. Did I always
+want to hurt people? To make them
+afraid? It's so much a part of me
+know that maybe it always was. Have
+I changed, or have I simply
+emerged? What am I? I'm...
+I suppose it's too late for remorse,
+isn't it? And why should I be sorry?
+This is what I deserve. I don't even
+need to wait for clients anymore. I
+can do it to anyone, whenever the
+mood strikes me. But then I wouldn't
+have anything to remind all those
+people that they are right, I am better
+than them. Besides I wouldn't get to
+see “the look”.
+#### 4. INT. AN ABANDONED WAREHOUSE -- NIGHT, DRIZZLING
+(GWEN'S PHONE)
+#### GWEN
+That's... very eloquent.
+#### INK5OUL
+What's that supposed to mean?
+#### GWEN
+Nothing. Just... helps me understand
+you a bit more, that's all.
+#### INK5OUL
+So you understand? You can explain
+to me what all these changes, these
+hungers are?
+#### GWEN
+Well, uh, it sounds like, perhaps
+through your actions you made
+contact with some sort of... power?
+And it's changed you?
+#### INK5OUL
+Really? Wow. Thank god you came.
+There's no way I could have come to
+that massively obvious conclusion
+on my own!
+#### GWEN
+Look, I'm just here to make you an
+offer. That's all.
+#### INK5OUL
+You think I'm so goddamn thick,
+don't you? Just sign on the dotted
+line and become nice little attack dog
+right?
+#### GWEN
+That's not- We're offering you the
+opportunity to continue to do... what
+you do, just in a sanctioned manner.
+#### INK5OUL
+Doing everything on your terms.
+Nah, I never was good at following
+orders.
+#### GWEN
+You've got completely the wrong
+ideaINK5OUL
+Piss off. Maybe send someone a bit
+more senior next time. Someone who
+actually knows what they're talking
+about.
+#### GWEN
+(bristling)
+I know what I'm talking about when I
+say you're being an idiot. It's a good
+deal, and the only way your story
+doesn't end in a “where are they
+now?” article that no-one clicks on.
+So just sign the damn contract while
+you still have a chance. You've got
+plenty of ink, and I'm sure even you
+can manage to write your own name.
+Beat.
+#### INK5OUL
+You want ink?
+#### GWEN
+(realizing)
+No I just- I just meant-
+#### INK5OUL
+You really do have the skin for it...
+#### GWEN
+(scared)
+I'm sorry.
+Beat.
+#### INK5OUL
+This is the part where you start
+running.
 ##### [Music]
 #### ANNOUNCER
 The Magnus Protocol is a podcast
@@ -665,11 +791,7 @@ Rinella with music by Sam Jones.
 It featured Billie Hindle as Alice Dyer,
 Shahan Hamza as Samama Khalid,
 Anusia Battersby as Gwen
-Bouchard, Lowri Ann Davies as Celia
-Ripley, Kazeem Tosin Amore as
-Teddy Vaughn, Sarah Lambie as
-Lena Kelley, with additional voices
-from Tim Fearon.
+Bouchard.
 The Magnus Protocol is produced by
 April Sumner, with executive
 producers Alexander J Newall, Dani
@@ -685,22 +807,25 @@ online, tweet us @therustyquill, visit
 us on facebook or email us at
 mail@rustyquill.com
 Thanks for listening.
-The Magnus Protocol 19 -- Hard Reset
-#### CAT13RBC1137-21031684-11042024
-Transformation (canine) --/- growth (Crystalline)
+The Magnus Protocol 20 -- Social Stigma
+#### CAT1RAB2534-12042024-12042024
+Transformation (tattoo) --/- Social Media (influencer)
 Incident Elements:
-- Animal Peril/Threat
-- Metallophobia
+- Atychiphobia (fear of failure)
+- Desecration of Corpses
 - Body Horror
-- Mentions of: Therapy, Implied Mental Breakdown
+- Non-Consensual body modification
+- Mentions of: exhumation, needles (tattoos), conspiracies,
+burns/fire, drugging
+- SFX: Tattoo buzzing
 Transcripts: https://shorturl.at/gzF15
-This episode is dedicated to Dove Halber, thank you for your
-generous support! You can a complete list of our Kickstarter
-backers https://rustyquill.com/the-magnus-protocol-supporterwall/
+This episode is dedicated to Blades and Chris, thank you for
+your generous support! You can a complete list of our
+Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/
 Created by Jonathan Sims and Alexander J Newall
 Directed by Alexander J Newall
-Written by Alexander J Newall
-Script Edited with additional material by Jonathan Sims
+Written by Jonathan Sims
+Script Edited with additional material by Alexander J Newall
 Executive Producers April Sumner, Alexander J Newall,
 Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G.
 Hamilton
@@ -708,20 +833,17 @@ Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole
 Perlman, Cetius d'Raven, and Megan Nice
 Produced by April Sumner
 Featuring (in order of appearance)
-Shahan Hamza as Samama Khalid
-Lowri Ann Davies as Celia Ripley
 Billie Hindle as Alice Dyer
+Lowri Ann Davies as Celia Ripley
+Shahan Hamza as Samama Khalid
 Anusia Battersby as Gwendolyn Bouchard
-Sarah Lambie as Lena Kelley
-Ryan Hopevere-Anderson as Colin Becher
-Dialogue Editor -- Nico Vettese
+Vera Chok as Ink5oul
+Dialogue Editor -- Lowri Ann Davies
 Sound Designer -- Tessa Vroom
 Mastering Editor -- Catherine Rinella
 Music by Sam Jones (orchestral mix by Jake Jackson)
 Art by April Sumner
-SFX from Soundly, Freesound: constructabeat, SpliceSound,
-payattention, TheSupremeMuffinPooter, vckhaze and previously
-credited artists
+SFX from and previously credited artists
 Support us on Patreon at https://patreon.com/rustyquill
 Check out our merchandise available at
 https://www.redbubble.com/people/RustyQuill/shop and
