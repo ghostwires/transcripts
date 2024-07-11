@@ -3,10 +3,13 @@ _site/
 .jekyll-metadata
 Gemfile.lock
 *.zip
+*.py
 edit_posts.py
 etr_input.txt
 etr_middle.txt
 etr_output.txt
+rqg_raw_txt/
+rqg_unraw_txt/
 .DS_Store
 
 README.html

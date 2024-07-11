@@ -1,12 +1,12 @@
-©Rusty Quill 2023 The Magnus Protocol Episode 20 "Social Stigma" Written by Jonathan Sims Edited by Alexander J Newall 
+©Rusty Quill 2023 The Magnus Protocol Episode 21 "Breaking Ground" Written by Jonathan Sims Edited by Alexander J Newell 
 
-#### 03-08-2023
+#### 02-11-2023
 
-Draft 1.1 
+Draft 1.3 
 
 #### ANNOUNCER
 
-This episode is dedicated to Blades and Chris, two maniacs who by now have probably strangled themselves with red string trying to figure out the plot of this podcast. 
+This episode is dedicated to Elena. Thank you to The Magnus Archives for showing me an asexual character who fell in love and keeping me sane during lockdown. 
 
 ##### [Intro Theme]
 
@@ -14,507 +14,483 @@ This episode is dedicated to Blades and Chris, two maniacs who by now have proba
 
 #### ANNOUNCER
 
-Rusty Quill Presents: The Magnus Protocol. Episode Twenty -- Social Stigma 
+Rusty Quill Presents: The Magnus Protocol. Episode Twenty-One -- Breaking Ground. 
 
 ##### [Music]
 
-1. INT. OIAR BREAKROOM -- NIGHT, DRIZZLING (CCTV) Sam, Alice and Celia enter. Sam is almost vibrating with nervous energy. 
-
-#### ALICE
-
-This had better be worth all these theatrics... 
+1. INT. OIAR BREAKROOM -- NIGHT, DRIZZLING (CCTV) SAM sits staring quietly out the window. Celia enters. 
 
 #### CELIA
 
-Ok, Sam. We're here. Just us, no computers. Go ahead. Beat. Sam exhales. 
-
-#### ALICE
-
-If this is more neurotic conspiracy shit about the Magnus bloody Institute... Beat. 
-
-#### ALICE
-
-(cont.) Goddammit Sam. 
+Enjoying the rain? 
 
 #### SAM
 
-Alice, it's important. Like, actually important, I promise. 
-
-#### ALICE
-
-I just had to try and talk a colleague out of a full blown paranoid delusion. I really don't know if I've got it in me to do it twice in two days. 
+More drizzle, really. 
 
 #### CELIA
 
-(to Alice) He doesn't seem paranoid. 
+Yeah. Coffee? 
 
-#### ALICE
+#### SAM
 
-We're whispering. In the breakroom. 
+Got one thanks. 
 
 #### CELIA
 
-Granted. 
-
-#### ALICE
-
-Fine. Let's roll out the conspiracy board again, add some more red string. Why not? But this better end with the Magnus Institute killing JFK or I'm officially done on your pet crusade. 
+How about a coffee you haven't let get stone cold? 
 
 #### SAM
 
-It's, uh, it's more about who killed the Magnus Institute. 
+(smiling) I'm good thanks. CELIA sits. SAM takes a sip and regrets it. 
 
 #### CELIA
 
-(sharply interested) Who? 
+Look I know what Alice said got to you but it's only because she cares. 
 
 #### SAM
 
-We did. Well, I think Starkwall did, on behalf of the OIAR. 
+I know. 
 
 #### CELIA
 
-(doubtful) The security company? 
-
-#### ALICE
-
-(reluctant) They're more than a security company. They're a PMC, Mercenaries. It's not impossible. 
+I do too, we all do. Well, maybe not Lena... 
 
 #### SAM
 
-Burned it to the ground and killed everyone who worked there. That's what "The Protocol" is. 
-
-#### ALICE
-
-Not the-goddamn-Protocol again. I told you that's not something you want to mess around with! Government conspiracies are a fun hobby, until you piss off the actual government by exposing their actual conspiracy! 
-
-#### SAM
-
-But that's the thing, I don't know if anyone outside the OIAR itself even knows about it. You know that case I got yesterday? 
-
-#### ALICE
-
-I remember it made you weird again. 
-
-#### SAM
-
-It was a letter from 1684. 
-
-#### ALICE
-
-Sorry, your latest conspiracy theory is based entirely on a Freddy throwback from before they invented gravity? 
-
-#### SAM
-
-(losing steam) Uh well, it was actually about Isaac Newton, so... 
-
-#### ALICE
-
-For god's sake. 
+You barely know me. 
 
 #### CELIA
 
-Alice. Please. Alice sighs. 
+Maybe. Then again maybe digging into sinister secrets together boosts you up the old affection track a bit. 
 
 #### SAM
 
-Okay, so, it talks about "The Protocol" right, about how it was used to reign in weird stuff Newton was working on and it reminded me of what happened with the Institute, but I mean, it's 300 years, right? No way it could be the same thing? Right? 
-
-#### ALICE
-
-Right. 
+(smiling) Yeah, maybe. 
 
 #### CELIA
 
-But? 
+But that's not it, is it? 
 
 #### SAM
 
-But I had an email when I got in tonight. It contained a bunch of files from 1999. Some... paperwork between Starkwall, or GSR Security as they were back then, and William Price, who used to run the response department. The documents were very thorough, and what wasn't redacted was pretty clear. They totalled the Institute. Beat. 
-
-#### ALICE
-
-Who sent you the email? Beat. 
-
-#### SAM
-
-I don't know. The email address was gibberish and when I tried to reply it went nowhere. 
-
-#### ALICE
-
-So you're receiving anonymous info that, at best, could get you fired and at worst could get you killed? 
-
-#### SAM
-
-So you believe there might be something to it? 
-
-#### ALICE
-
-Of course I do! That's why I've been trying so hard to protect you! 
-
-#### SAM
-
-Is that what you call it? 
-
-#### ALICE
-
-Yeah, I do. Because you're working to get us fired for unauthorized access to classified documents about something that happened twenty five years ago. I don't know what the OIAR looked like in 1999, but I know what it looks like now, and it's basically the five of us and Colin, who, I might remind you, has already lost it. I seriously doubt we're still doing covert Protocol shit. We can't even turn up on time! 
+Not entirely. It's more... what if she's right? 
 
 #### CELIA
 
-In fairness, Lena is secretive and GwenALICE (restrained) Okay class. Let's entertain the ridiculous notion that that kind of stuff is somehow still going on. Now do we think that sticking our nose right in the middle of that steaming mess and taking a big old whiff is a good idea or a terminally bad one? 
+About stopping with the Institute stuff? 
 
 #### SAM
 
-You can't seriously be okay working for such a shady organization! 
-
-#### ALICE
-
-Sam, we already know we work in a global atrocity factory. It's called the British government. 
-
-#### SAM
-
-This isn't a joke Alice! People died, they might still be dying! 
-
-#### ALICE
-
-(restraining herself) Look, of course I'm not happy with anything about this. We're trapped in a vicious, petty, awful machine that rules over a vicious, petty, awful little country. I hate that that's how things are. I hate it. But that doesn't stop it from being true and if I'm going to put myself and the people I care about in actual, physical danger, it's not going to be over a matter of principal. It would need to be for something that'll actually change something. And I'm sorry but going to the press with "British government did another bad thing in the past" doesn't exactly scream revolution does it. 
-
-#### SAM
-
-What about you Celia? Beat. 
+About working for the OIAR. I know Alice can square it with her whole "everything's-evil-in-late-stage- capitalism" thing, but I don't know if I can. 
 
 #### CELIA
 
-Are we sure it was the wrong thing to do? 
+You thinking of quitting? 
 
 #### SAM
 
-(Thrown) What? 
+Maybe. Whatever weird, creepy stuff is going on I'm really starting to doubt we're on the right side of it. 
 
 #### CELIA
 
-Destroying the Institute. 
-
-#### ALICE
-
-Well, that's a take... 
+I suppose there's plenty of non-evil jobs out there for a smart, charming guy like you. Maybe not law but... 
 
 #### SAM
 
-(shocked) Celia, they killed like forty people. 
+Hah. No I, uh... I couldn't go back. 
 
 #### CELIA
 
-I know. And that's awful. But from what I've found the Magnus Institute was up to some pretty bad things. Like catastrophic, world-endingly bad. 
-
-#### ALICE
-
-Okay, reign it in Nostradamus. 
+If you get desperate there's always the old "beep-beep". 
 
 #### SAM
 
-What makes you say that? 
+Beep-beep? 
 
 #### CELIA
 
-Never mind. The point is we don't really know what happened and as horrible as it is to say it, for all we know this Protocol thing was a necessary evil to stop something worse. 
+Checkout. 
 
 #### SAM
 
-Maybe. But that still leaves us working for evil. Beat. 
-
-#### ALICE
-
-I'm sorry but I'm out. I can't help you with this. You're in way too deep and I'm... I'm scared for you. And for me! For all of us. So if you're dead set on shoving your face into this hornet's nest... you'll have to leave me out of it. Beat. 
-
-#### ALICE
-
-(cont.) If you need me I'll be filing cases. We're falling behind again. Alice leaves. Beat. 
-
-#### SAM
-
-(despondant) And you? 
+Ah, yeah. Well that's the real question isn't it? Does my desire not to actively promote evil outweigh my fear of disappointing my parents? 
 
 #### CELIA
 
-Keep me posted. 
+That's a tough one. Maybe you could stay and try to make things better from the inside? 
 
-#### 2. INT. AN ABANDONED WAREHOUSE -- NIGHT, DRIZZLING
+#### SAM
 
-(GWEN'S PHONE) Gwen walks nervously through the cavernous warehouse. She is walking towards the distant buzz of a tattoo gun. 
+Of course. Because that's such a traditionally surefire way to achieve change. 
 
-#### GWEN
+#### CELIA
 
-H-hello? The tattoo gun stops buzzing. 
+Might still be better than living in London on a retail wage. 
 
-#### GWEN
+#### SAM
 
-(checking paper) Hello? Is that... Grace Wilde, AKA "Inksoul"? Beat. 
+True. (sighing) For now, I'm probably just going to stay and keep digging. No sense quitting until I have a better idea of what's going on and if I get fired for it, well... that works too, I guess. 
+
+#### CELIA
+
+And if it turns out its as dangerous as Alice says? 
+
+#### SAM
+
+Yeah, well, if like a psycho goatmonster or something tries kills me, I'll definitely quit. 
+
+#### CELIA
+
+Good policy. SAM sips his coffee again and remembers why he isn't drinking it. 
+
+#### SAM
+
+And you? 
+
+#### CELIA
+
+I couldn't afford to leave even if I wanted to. 
+
+#### SAM
+
+Sure. But something else is bothering you. Has been ever since we met. 
+
+#### CELIA
+
+Hmmmm. 
+
+#### SAM
+
+You want to talk about it? 
+
+#### CELIA
+
+Not really. 
+
+#### SAM
+
+Fair enough. 
+
+#### CELIA
+
+(hesitant) Let's just say I have a... complicated immigration status. 
+
+#### SAM
+
+Really? Surprised the Civil Service didn't pick that one up. 
+
+#### CELIA
+
+I think the OIAR might be a bit less rigorous than the other branches. Anyway, if I had to go back, I couldn't take Jack with me but staying with him means I have some difficult decisions to make. Beat. 
+
+#### SAM
+
+Look, Celia, if there's anything, anything, I can do to help you and Jack... 
+
+#### CELIA
+
+You really mean that. 
+
+#### SAM
+
+I do. 
+
+#### CELIA
+
+Thanks Sam. I'll keep that in mind. Pause. They embrace. 
+
+#### CELIA
+
+Well, if neither of us is quitting we should probably get back. 
+
+#### SAM
+
+Yeah, institutional evil doesn't just grow on trees right? They chuckle halfheartedly as the joke dies painfully. 2. CYBERSPACE -- N/A, N/A (CASE READING) 
+
+#### CHESTER
+
+From the desk of Mr. Leonardo Kennings ACCA, co-treasurer of the Magnus Institute, Manchester to his esteemed brethren of the same. My most distinguished colleagues, By now, I'm sure you have all read the proposal in detail and made your own personal assessments of the formulae and calculations submitted by Dr Welling and his team. I wouldn't for a moment criticise the fine work they've done, or the compelling case they've made for the potential transmutative properties of the dome, nor do I believe they are mistaken about the potential power we might be able to harness were we to sponsor an exhibit of our own there. I cannot however, in good conscience support the project as it has been laid out, nor do believe it is a useful expenditure of the Institute's significant, but certainly not infinite, financial and political resources. I have spoken before about my concerns over the choice of the millennium as the date for our grand experiment. I do accept, to a certain degree, Dr Welling's proposition that the turning of the millennium is an important psychological focus of transmutation, thanks to the cultural emphasis of change placed upon the shifting of an "age". That said, I still believe that determining the date should be the province of the astrological, not the cultural. The constellations have played a key role in our researches for centuries, and I fully reject the notion that they should be dismissed as irrelevant to the Great Work in such a way as the Christian god has been summarily discarded. It should be kept in mind that the year 2000 has no relevance for cultures that do not use the Gregorian calendar, of which there are many. It means nothing to the Chinese, Indian or Hebrew calendars, and thus excludes vast swathes of the global population from our equations. The stars, by contrast, are eternal and near unchanging thereby providing a far more stable base for a project that has always been conceived of as a universal transmutation. I understand, of course, that this particular debate is one that myself and those who think as I do have long since lost and I do not wish to re-awaken old schisms when a unity of purpose is so profoundly vital to the success of our endeavors at this time. Nonetheless, I believe it is worth raising once again in relation specifically to the Millenium Exhibition proposal, as to go forward with this would tie our intentions even more irrevocably to this conception of Gregorian dates as having true and meaningful significance. Even beyond this, admittedly more abstract consideration, I believe that the Dome project is almost uniquely dangerous to our work as a place of power. The calculations provided by Dr Welling and his team presuppose that any outputs from the site will be broadly balanced; that as a symbol of the future it captures both optimism and despair -- the belief in a better world and the terror that a new millennium will bring nothing except new ways to suffer. It is my belief, however, that the actual balance of energies involved will be profoundly skewed towards the fearful and despairing thus invalidating the majority of the calculations provided by Dr Welling and his team. Public support for the Dome is limited, at best, and the stated plans hardly inspire confidence in its utopian ideals. Even beyond this however, Dr Welling's calculations have failed to account for aspects of stagnation. This modern social and political order, following the fall of the USSR, has taken root in the popular imagination as a natural and final state of society with an emergent and inherent stability. The turning of the millennium is therefore felt as an "end of history" to borrow a term, and in this context the Dome may be seen as a monument to this order. A full stop. Not to mention a desperate cry for relevance from an imperial power locked in a death-spiral of diminishing importance. If my suspicions on these points are correct, these echoes of stagnation, almost entirely antithetical to our transformative ambitions, make the exhibition profoundly unsuitable to be utilized in the work. And this is not to mention the location problem as I believe it may already be in the process of developing into a locus without our intervention. You are familiar with the peninsular on the which the edifice is to be constructed -- Dr Welling et al explained it in the proposal, though not in great detail. Specifically, I would note that they rather glossed over its history as a gas works, and the incredible levels of soil toxicity that still remain in the area, currently the focus of much of the building and land reclamation efforts that will ultimately allow for the Dome's construction. Knowing this proposal was forthcoming, and suspecting that it would elide this particular concern, I myself made the journey down to London some weeks ago to personally inspect the site. I still have connections and clout enough to have a tour arranged on my behalf and what I saw there troubled me deeply. The laborers were in poor shape -- grey faced with blank expressions as they shifted barrows of dirt and shovelled sodden earth with such rhythmic defeat that were it not for the bright yellow of the excavators and the omnipresent fluorescent waistcoats I might have believed it an etching of some grim Victorian salt mine. Their fingernails were cracked and dirty, their voices were hoarse and their words often gave way to ragged bouts of coughing. I had not previously considered that there might be any need of mask or respirator but shortly after my arrival I found myself surreptitiously holding my handkerchief to my mouth and nose, if only to lessen the pervasively acrid smell. The foreman, a spritely young man whose weak moustache gave him the air of an overambitious school prefect, was talking excitedly about the engineering of the building, about struts and sheets and material loads but when I asked him how long he expected the dome to stay up. He went quiet for a moment, then told me he wasn't sure. "Could be there forever!" he said, with an odd manic edge to his voice. "Or it could be gone in a year. You just... never know. Do you? You never know what's coming." Something about the way he articulated this thought, this clearly disordered conception of the future, sat rather ill with me. I began to develop another suspicion, that the contaminants of the place were not simply chemical in nature, but may have contained a more psychical poison. To be clear, had that been the extent of what I observed I would not be so vociferous in my opposition to Dr Welling's proposal. Unfortunately, it very much was not. Following my guide's strange comments, I began to hang back somewhat from the rest of the group, attempting to make my own determinations without the consideration of being watched. I espied a worker operating one of the concrete mixers that arrested my attention. He was of East-Asian descent, Pakistani I believe, and his face was locked on the aperture of the mixer, spinning round and round as though hypnotized by the motion. There was no-one else in sight, and it seemed to me as though the din of industry and construction had faded somewhat, like it were muted as he stood in his senseless reverie. Abruptly, he turned and walked over to a nearby ditch that was in the process of being dug out for the foundations. I could see the tell-tale indications of heavy metals in the earthen edges of it, but he took no precautions as he hopped down into it and began to stare at the wall of the trench as transfixed as he had been at the mixer. Were I writing for a less learned and experienced audience I might take some time here to caveat my reliability and sanity, but given none of us are strangers to the strangeness of our work I will speak plainly of what I saw for the sake of brevity. From the dirt of the wall emerged the same man as was standing before it. He clawed his way out slowly, painfully, as though it were a grave but this second version of the worker was not identical. His hair was white, his skin wrinkled and pitted with age and illness and his every movement slowed with the agony of infirmity. Were I to guess, I would say he was some forty or fifty years older than the man with whom he was twinned. The younger version, for his part, seemed to break out of whatever reverie had overtaken him, with an expression of purest terror crossed his face. He moved to scream, but before he could utter more than the most perfunctory of cries, the older, or perhaps newer version of him depending upon one's perspective, covered the original's mouth with gnarled and twisted fingers. Despite his, or perhaps its, apparent age, this elderly copy was clearly possessed of enormous strength, and was easily able to pull the young construction worker towards the dirt wall from which it had emerged. The struggle was grim and desperate, but not particularly lengthy, and in less than a minute both had vanished into the polluted ground. The last thing I saw of them both being the poor young man's horrified eyes disappearing into the darkness and mud. I rejoined my guide without comment and had no other encounters worth noting here during my visit beyond the general malaise induced by the site of which I have previously spoken. It should be clear enough, then, why I felt compelled to write in opposition to Dr Welling and his team's proposal to become involved with the Millenium Exhibition and the Dome that is to house it. It is my firm belief that not only is this site already on its own journey to become a decidedly hostile locus, but that the future it represents, and that we are being pushed to incorporate into our grand ritual, is unfit being so profoundly and irrevocably poisoned. I thank my brethren for their time considering these letters and wish them insight in their works. 3. INT. OIAR OFFICES -- NIGHT, DRIZZLING (COMPUTER) ALICE sits in front of SAM's computer. 
+
+#### ALICE
+
+You bastard. You wanted him to read this, didn't you? Just slipped it into his caseload, all subtle like and waited for him to hear it. Well not this time. ALICE deletes the case despite the computer's objections. 
+
+#### ALICE
+
+(leaning close) I see what you're doing. Trying to lead him on, feeding his obsessions. Colin was right about you. What do you want? Hmmm? Who's in there? The computer is silent. 
+
+#### LENA
+
+Alice? 
+
+#### ALICE
+
+Ah! 
+
+#### LENA
+
+May I ask why you are investigating Sam's terminal? 
+
+#### ALICE
+
+Oh er, Sam was having an issue with it earlier, same errors as mine and since Colin's still not around I thought I would give it a quick go, see if I couldn't copy Gwen's solution for him. 
+
+#### LENA
+
+I see. And I presume that Sam consented to your intervention? 
+
+#### ALICE
+
+Oh er, yeah. Yes. 
+
+#### LENA
+
+Well regardless he really shouldn't be sharing terminal access like this. It's a security risk. 
+
+#### ALICE
+
+I'll er- let him know when he gets back. 
+
+#### LENA
+
+Please do. In the meantime I would suggest you return to your own terminal. We wouldn't want these technical issues to put you behind your own caseload now would we? 
+
+#### ALICE
+
+(moving seats) Er yeah, sure. Can I er- Can I speak freely for a moment? 
+
+#### LENA
+
+Do you ever not? 
+
+#### ALICE
+
+Fair but look, serious talk a moment, we're going to struggle to keep on top of everything without Colin. Everything keeps breaking and we don't know the first thing about fixing it. 
+
+#### LENA
+
+Interesting. If anything my data seems to indicate the system is actually functioning slightly better without his interferences. 
+
+#### ALICE
+
+Oh well I don't know about that. 
+
+#### LENA
+
+No. You wouldn't. Beat. 
+
+#### ALICE
+
+Well, I should probablyLENA Have you heard from Gwen tonight? 
+
+#### ALICE
+
+What? No. Why, should I have? 
+
+#### LENA
+
+It's nothing. I simply wondered if you had heard from her tonight. She is late returning from her assignment. 
+
+#### ALICE
+
+Somethings up. You look worried. You never look worried. 
+
+#### LENA
+
+Only about your caseload after all these interruptions. 
+
+#### ALICE
+
+(unconvinced) Of course. ALICE gets back to work. 
+
+#### LENA
+
+(departing) Do let me know if Gwen contacts you. 
+
+#### ALICE
+
+Will do. LENA departs. 
+
+#### ALICE CONT.
+
+(to computer) What did you do? Freddy pings obnoxiously in response. 
+
+#### 4. EXT. ALLEY BEHIND ABANDONED WAREHOUSE -- NIGHT,
+
+DRIZZLING (GWEN'S PHONE) Gwen is running hard, her breathing is ragged as she hits the exit door of the warehouse and plunges out into the alley behind. She stops, looking around frantically. 
 
 #### INK5OUL
 
-Police? 
+(pursuing) Come back little canvas... 
 
 #### GWEN
 
-No. The tattoo needle starts buzzing again as they go back to work. 
+Get away from me! 
 
 #### INK5OUL
 
-How'd you find me? 
+What to give you? I'm thinking trash polka, but I'd never want to impose my own taste on a client... Gwen starts running again. She starts to dial into her phone, but fumbles it, and we (listening through the phone) tumble to the floor. Gwen picks it up again and starts trying to dial again. 
 
 #### GWEN
 
-We uh have our ways. 
+Shit. Shit! 
 
 #### INK5OUL
 
-I don't do walk-ins. 
+You sound like someone who might have a family crest. Maybe we could riff on that? Or perhaps a silver spoon done across the face? Gwen is running again. Ink5oul is having a great time. 
+
+#### INK5OUL
+
+Choices, choices... Gwen rounds a corner to see a man in the distance, lighting a cigarette. 
 
 #### GWEN
 
-I don't- I'm sorry, are they alright? 
+Hey! HEY!! 
 
-#### INK5OUL
+#### BYSTANDER
 
-Hm? Oh. Hang on. The tattoo gun stops again and Ink5oul slaps the face of the body she was tattooing a few times, with no response. 
-
-#### INK5OUL
-
-Nope. Still dead. The tattoo needle starts buzzing again. 
+Hm? 
 
 #### GWEN
 
-(Swallowing) I see. Well Grace, I'm here toINK5OUL You got any ink? 
+Help! You've got to help me! The bystander immediately focuses on Gwen. 
+
+#### BYSTANDER
+
+Woah, woah what's up love? Calm down, are you alright? 
 
 #### GWEN
 
-Excuse me? 
+(panting) Trying... to Kill me... Call... Ink5oul rounds the corner. 
+
+#### BYSTANDER
+
+(to Ink5oul) Oi you! Back off. Ink5oul laughs quietly. 
+
+#### BYSTANDER
+
+(cont'd) I'm warning you! 
 
 #### INK5OUL
 
-Tats. You got any? 
+Nice ink. Barbed wire is that? 
+
+#### BYSTANDER
+
+What? 
+
+#### INK5OUL
+
+Boring but not badly done. Looks so sharp you could cut yourself... 
+
+#### BYSTANDER
+
+Wha-AAAAAHHHHH! The tattoo begins to saw through the bystander's arm. His arm drops to the ground. Then so does he, still screaming. 
 
 #### GWEN
 
-Ah no. 
+Oh god! GWEN drops her phone. 
 
 #### INK5OUL
 
-Shame. You've got lovely skin. 
+Don't worry. We'll get you something much more... unique. Gwen takes off running, disappearing into the rain. Ink5oul follows, chuckling. The phone finally gives up the ghost. 5. EXT. A BACK ALLEY -- NIGHT, DRIZZLE (TAPE RECORDER) A tape recorder clicks on in an empty back alley on a miserable night. Eventually running feet approach before GWEN slams into a chainlink fence. 
 
 #### GWEN
 
-(nervous laugh) Yes well, I'm actually here to present you with an opportunity. 
+(panting) No! Nonononono! She looks around desperately for an escape but finds nothing. 
 
 #### INK5OUL
 
-Don't need sponsors. 
+End of the road, Princess Civil Service. 
 
 #### GWEN
 
-I really think you should listen to what I have to say. 
+Please... Please don't... 
 
 #### INK5OUL
 
-Oh yea? Why? 
+You know, when you first walked in, I was just going to give you a bit of ink. Something small to keep you up at night. But now? Now we're going to have to get creative. Tell me, how do you feel about scorpions? They grab Gwen's arm, and she starts to gasp in pain as ink begins to seep onto it to the distinct sound of scorpions. Ink5oul laughs but then Gwen begins monologuing, the words pouring out of her unstoppably like a river. She is alarmed but cannot stop. 
 
 #### GWEN
 
-(slightly pompous) I'm with the Office of Incident Assessment and Response. Beat. 
-
-#### INK5OUL
-
-Don't need insurance. 
+(Compelled) When I was a little girl there was a shed at the bottom of the garden that I was always told never to go inside. There were tools and sharp and deadly things- Ink5oul What- What are you talking about? What are you doing? -that were not right, too dangerous for a little girl. But then one year we lost the gardener to another house and the new one brought everything they needed in the van so the shed was locked up tight- Alright stop! Stop it! Enough I said. Shut up! -and sealed against any nosy children who would think that something in there might be rusty toys for Shut! Stop Talking! playing without the fear they needed- A Figure emerges, shrouded in a cloak of whispers. 
 
 #### GWEN
 
-(snapping) We're not(catching herself) We're part of the civil service. 
+(Compelled) -at what damage such sharp metal can inflict on uncareful flesh- 
 
 #### INK5OUL
 
-(snorting) Government? Shit, you guys really do have it in for the small business owner don't you? 
+You did this. Well stop it, she's mine. The Figure continues to emerge, a nightmarish specter of an older world, slowly enveloping Ink5oul's brash bravado. 
 
 #### GWEN
 
-(slightly incredulous) I'm here to recruit you, actually. If you want. 
-
-#### INK5OUL
-
-(Sardonic) You don't say. Need a lot of tattoos in the civil service, do you? 
+(Compelled) -it took no more than the smallest push to break it open and inside spilled out teeming swarms of writhing bonewhite maggots 
 
 #### GWEN
 
-Not exactly. We have some use for someone of your... type. Beat. The buzzing stops. 
+(Compelled) flesh poured forth from the rotted fox that must have come in through the window seeking warmth not death 
 
 #### INK5OUL
 
-And what's that exactly? 
+No I found this one. 
+
+##### [ERROR]
+
+
+
+#### MINE.
+
+
+
+##### [ERROR]
+
+
+
+#### ALL OF THEM, MINE.
+
+
+
+#### INK5OUL
+
+Dammit fine! Ink5oul reluctantly releases GWEN. She sprints away still gabbling as she flees. 
 
 #### GWEN
 
-Sorry? 
-
-#### INK5OUL
-
-What's my type? 
-
-#### GWEN
-
-I'm sorry I don'tINK5OUL (growing intense) Tell me what's happening to me. 
-
-#### GWEN
-
-I don't understandThe buzzing restarts more menacingly. 
-
-#### INK5OUL
-
-(approaching) Tell me what's happening to me. Something is happening. I can tell. I'm not- There's- I'm changing there's all these -- I don't- TELL ME 
-
-#### WHAT I AM!
-
-
-
-#### GWEN
-
-(panicking) I-I don't know! I'm sorry! They haven't told me! All I know is we call you Externals! INK5OUL stops. So does the buzzing. 
-
-#### INK5OUL
-
-External to what? Your department? Society? The world? 
-
-#### GWEN
-
-I don't know. All of them? Beat. INK5OUL returns to their victim and resumes tattooing. 
-
-#### INK5OUL
-
-Sounds like you know jack-shit to me. 
-
-#### GWEN
-
-I only just got promoted. 
-
-#### INK5OUL
-
-(bitter) Congrats. 
-
-#### GWEN
-
-Thank you. Pause. Silence in the warehouse save the tattooing. 
-
-#### INK5OUL
-
-I don't want this. I just wanted some views, wanted people to like my work. How does that turn me into an, an "External"? 
-
-#### GWEN
-
-I honestly have no idea. How did you end up here? 
-
-#### INK5OUL
-
-Here? Just hiding. 
-
-#### GWEN
-
-From police? 
-
-#### INK5OUL
-
-From everyone. I just... Have you ever had followers? Fans? Ever gone viral? 
-
-#### GWEN
-
-Can't say that I have. 
-
-#### INK5OUL
-
-It's weird. It... does something to you. Some weird hormone thing -- I shared an article about it once, but can't say I really understood it. It's amazing and it's horrible. Like, there's these strangers you've never even heard of and they insist that you've changed their life. And you have! They've marked themselves because of you, enshrined you onto their skin, and yet you don't even know who they are. That's so much power. Too much and you're an addict. 
-
-#### 3. CONT. INT. AN ABANDONED WAREHOUSE -- NIGHT,
-
-DRIZZLING (GWEN'S PHONE -- CASE) 
-
-#### INK5OUL
-
-I remember the first time I blew up. It was a wolf design I inked over a client's heart. I'd never have thought of it as my best work, but I took a photo of it for the feed anyway. My hand had slipped ever so slightly at the edge of the mouth. Nothing the client would notice but it turned the snarl into more of a cheeky little grin. Everyone really liked that. It was reposted by HellYesTattoos and suddenly my 79-follower account was getting thousands of favourites, hundreds of new followers and so many... lovely messages. They were trawling through all my old work, really amateur stuff, but they still left the nicest comments. Next came the haters who were sick of "smirking wolf." "Sloppy work" they said. They didn't see the appeal, didn't understand why everyone was sharing it. Those messages hurt. They hurt a lot more than the nice ones boosted me, but... it was still thrilling, you know? Knowing that a stranger looked at you and saw someone important, someone worth getting angry about. I didn't feel good, I felt... important. Maybe I should have resisted that feeling more but why would I? These people wanted to hold me up, tell me I'm better than them, I'm special. Why should it be on me to convince them otherwise? Why should I spend my life scabbling in the dirt telling them "I'm just like you, honest!" when I'm not. I'm better than them. I must be otherwise they wouldn't all spend so much of their time thinking about me. The next year was hard. First my follower-count plateaued, then it started to drop. I was churning out arty shots of my work but nothing was catching any more, nothing was making it past my little ring of hardcore fans and out into the culture. No-one was looking at me! At one point I made a bit of mess of client's Satan design and it got posted on that OopsTattoo blog. It got more traction than all my other recent posts combined, so for the next few months I deliberately started having "accidents" with client's tattoos. All it got me was a black eye and a handful of refunds. I was getting desperate. I needed to be seen again. That's when I found Oscar Jarrett. He was a pupil of Sutherland Macdonald. Do you know anything about him? He was this pioneering tattoo artist back in Victorian times -- real popular, tattooed Prince Alberts cock or something, and everyone adored him. Anyway, he had a bunch of students and one of them was Oscar Jarrett. I learned later there were all sorts of stories about him, rumours of him doing hand-tapped tattoos with sharpened human bones, mixing strange chemicals into his ink, all that sort of stuff. I doubt any of that's true myself. Don't get me wrong, his work was... unique but I know better than anyone how important branding is. He probably just needed the mystique. Either way not many of Jarrett's original designs are still around and he's not very well remembered. I stumbled across an old photo of one of his designs in 1930s book. I'd taken to hunting down vintage inkwork books as people were less likely to notice when I lifted a design from some old obscure artist. My own stuff clearly wasn't cutting it, so I had to try something else. Anyway, this photo, it stopped me in my tracks. The guy was old, clearly in his 70s or something, but the skin under the ink pristine, smooth as a newborn, and the design was so crisp it might have been done a week before. It was an abstract sun design on his shoulder, shaded in this dull, muted yellow and there was a black dot in the centre that if you really squinted, you could see was an intricate network of crosshatched lines. The round edge of the sun was ragged and wavy, and I could almost feel the warmth of it. It was labelled "Fig.3 One of the few surviving examples of Oscar Jarrett" and I knew right then that I had found the design that was going to save me, that would put me back into the spotlight. He was called Harry, the man who would bear my mark. He'd asked for a "tarot-inspired sun" on his back, and I knew this was my best chance. I worked for almost a full week to try and properly copy the design from the photo. I didn't quite manage but it was close enough that it gave me a bit of that same sense of heat. Of course, Harry didn't like it. I think he just wanted a basic riff on the RiderWaite-Smith deck. So I lied and showed him a safer tacky magicshop design that he loved to get him on the table. After all, once he was face-down I could inscribe whatever I liked into his skin. Don't forget I'm the artist. He was just the canvas. Besides, I had slaved over that design. He started screaming about twenty minutes into the session. He said it burned, that it felt like his whole shoulder was on fire. He didn't move, though. It was like he was nailed down as my ink spread across his skin, the smell of scorched flesh filling the room. He stopped screaming by the time I finished. Just whimpers at the end. I cleaned off the blood and took my photos, and for all the smell it didn't look like there had been any burning at all. Harry stumbled out like the drunk he was, not even bothering to put his shirt back on. At first I was worried for when he'd be back to complain about the design I had actually given him, but I never saw him again. At least, not in person. Saw his picture on a news site though, he'd been killed in a house fire. The story got decent exposure actually. It didn't matter, though. His part was already done, canvas complete. What mattered was what people thought of the work. And oh, how they loved it! Followers, views, messages and... sponsorships. It wasn't much, really. Almost nothing in cash terms but it wasn't about the money. I have a small inheritance that takes care of that, it was about the respect. The adulation. The love. They started calling me an "influencer", A "bold new voice in skin art". I started making all these connections, hanging out with other influences whose follow-counts dwarfed even mine. I had arrived. My old friends didn't get it, of course. They might have even believed it when they said they were worried for me, that it was out of love, but it was just plain jealousy. Not great loss to me when they dropped away, they were never very photogenic. But a handful of pictures do not a career make, and so after another lull where I pushed through some more of my own designs I had to admit to myself that my skill, my real skill was in adapting Oscar Jarrett. If anything, I was doing him a favour -- nobody remembered him at all but thanks to me his designs were fresh and relevant. Besides, its not like he was around to miss out on anything. Finding other pictures of his designs was difficult, but not impossible. There were a few obscure corners of the central European tattooing scene, that had some records of him and for a while I was able to get pictures of ones I hadn't done before. But after those dried up... Well, I'd managed to source an old ledger from his shop that listed most of his clients and I had discovered an interesting little quirk of his ink: none of the skin touched by it decayed at all. Even after death, they were all flawless. Soon I had quite the collection. The other problem of course was that designs based on Jarrett's originals were brilliant for socials but not so good for the clients. Those old Victorian inks seemed to last forever, but my adaptations definitely didn't. It was very difficulty keeping canvases still on the more complex designs and after I was done they would usually end up having grotesque experiences. That didn't matter so much to me once the pictures were captured and posted online but after a while the police did notice a definite, if unprovable, connection between my tattoos and a series of rather disturbing accidents. Eventually it was easier to just use some chemical cocktails to keep clients quiet and become a bit more... nomadic when it came to studios. Funny thing, all this only seemed to add to the mystique. The fans ate it up, and all these empty warehouses gave me some space to think and reflect. Everyone wants a piece of you when you're this famous. I don't remember when my own tattoos began to change. I know it was around the same time I started craving "the look" more. Not the pleasure in a client's eyes when they see their new skin, but the one I saw just before they went under: terror, helplessness, and the certainty that they would wake up changed in a way they could not understand. It filled me up in a way I can't quite explain but I have never felt any other time. And as it did so, inside my skin the ink- There! Do you see it? They sigh like an addict getting a fix. 
+(Compelled) -instead finding only putrescence seeping squirming reaching for me as I- INK5oul Go get her then. The Figure does not move. 
 
 #### INK5OUL CONT.
 
-Jarrett doesn't matter now. The ink flows through me and out of me, transforming the lucky into something newer and more beautiful than their own shallow tastes could have conceived. But I... I don't understand it. There's something inside me that remembers worrying about... I'm not sure. Did I always want to hurt people? To make them afraid? It's so much a part of me know that maybe it always was. Have I changed, or have I simply emerged? What am I? I'm... I suppose it's too late for remorse, isn't it? And why should I be sorry? This is what I deserve. I don't even need to wait for clients anymore. I can do it to anyone, whenever the mood strikes me. But then I wouldn't have anything to remind all those people that they are right, I am better than them. Besides I wouldn't get to see "the look". 
+Didn't you hear me freak? She's all yours. Beat. The Figure turns to Ink5oul. 
 
-#### 4. INT. AN ABANDONED WAREHOUSE -- NIGHT, DRIZZLING
+##### [ERROR]
 
-(GWEN'S PHONE) 
 
-#### GWEN
 
-That's... very eloquent. 
+#### THERE IS MORE.
 
-#### INK5OUL
 
-What's that supposed to mean? 
-
-#### GWEN
-
-Nothing. Just... helps me understand you a bit more, that's all. 
 
 #### INK5OUL
 
-So you understand? You can explain to me what all these changes, these hungers are? 
+Not here there isn't. The Figure breathes deeply, a strange and disconcerting sound, enveloped in pained whispers. 
 
-#### GWEN
+##### [ERROR]
 
-Well, uh, it sounds like, perhaps through your actions you made contact with some sort of... power? And it's changed you? 
 
-#### INK5OUL
 
-Really? Wow. Thank god you came. There's no way I could have come to that massively obvious conclusion on my own! 
+#### NO. NOT HERE. ELSWHERE...
 
-#### GWEN
-
-Look, I'm just here to make you an offer. That's all. 
+The Figure recedes. 
 
 #### INK5OUL
 
-You think I'm so goddamn thick, don't you? Just sign on the dotted line and become nice little attack dog right? 
-
-#### GWEN
-
-That's not- We're offering you the opportunity to continue to do... what you do, just in a sanctioned manner. 
+Yeah, whatever. Manky old git. Beat. 
 
 #### INK5OUL
 
-Doing everything on your terms. Nah, I never was good at following orders. 
-
-#### GWEN
-
-You've got completely the wrong ideaINK5OUL Piss off. Maybe send someone a bit more senior next time. Someone who actually knows what they're talking about. 
-
-#### GWEN
-
-(bristling) I know what I'm talking about when I say you're being an idiot. It's a good deal, and the only way your story doesn't end in a "where are they now?" article that no-one clicks on. So just sign the damn contract while you still have a chance. You've got plenty of ink, and I'm sure even you can manage to write your own name. Beat. 
-
-#### INK5OUL
-
-You want ink? 
-
-#### GWEN
-
-(realizing) No I just- I just meant- 
-
-#### INK5OUL
-
-You really do have the skin for it... 
-
-#### GWEN
-
-(scared) I'm sorry. Beat. 
-
-#### INK5OUL
-
-This is the part where you start running. 
+(reaching to the tape recorder) Oi, you left your- Argh! Mother FuThe tape recorder bites Ink5oul before clicking off. 
 
 ##### [Music]
 
@@ -522,8 +498,8 @@ This is the part where you start running.
 
 #### ANNOUNCER
 
-The Magnus Protocol is a podcast distributed by Rusty Quill and licensed under a Creative Commons Attribution Non-Commercial Sharealike 4.0 International License. The series is created by Jonathan Sims and Alexander J Newall, and directed by Alexander J Newall. This episode was written by Jonathan Sims and edited with additional materials by Alexander J Newall, with vocal edits by Lowri Ann Davies, soundscaping by Tessa Vroom, and mastering by Catherine Rinella with music by Sam Jones. It featured Billie Hindle as Alice Dyer, Shahan Hamza as Samama Khalid, Anusia Battersby as Gwen Bouchard. The Magnus Protocol is produced by April Sumner, with executive producers Alexander J Newall, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton, and Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice. To subscribe, view associated materials, or join our Patreon, visit rustyquill.com. Rate and review us online, tweet us @therustyquill, visit us on facebook or email us at mail@rustyquill.com Thanks for listening. The Magnus Protocol 20 -- Social Stigma 
+The Magnus Protocol is a podcast distributed by Rusty Quill and licensed under a Creative Commons Attribution Non-Commercial Sharealike 4.0 International License. The series is created by Jonathan Sims and Alexander J Newall, and directed by Alexander J Newall. This episode was written by Jonathan Sims and edited with additional materials by Alexander J Newall, with vocal edits by Nico Vettese, soundscaping by Meg McKellar, and mastering by Catherine Rinella with music by Sam Jones. It featured Billie Hindle as Alice Dyer, Shahan Hamza as Samama Khalid, Anusia Battersby as Gwen Bouchard Lowri Ann Davies as Celia Ripley, Sarah Lambie as Lena Kelley, with additional voices from Jonathan Sims and Beth Eyre The Magnus Protocol is produced by April Sumner, with executive producers Alexander J Newall, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton, and Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice. To subscribe, view associated materials, or join our Patreon, visit rustyquill.com. Rate and review us online, tweet us @therustyquill, visit us on facebook or email us at mail@rustyquill.com Thanks for listening. The Magnus Protocol 21 -- Breaking Ground 
 
-#### CAT1RAB2534-12042024-12042024
+#### CAT2RBC4254-04011998-12042024
 
-Transformation (tattoo) --/- Social Media (influencer) Incident Elements: - Atychiphobia (fear of failure) - Desecration of Corpses - Body Horror - Non-Consensual body modification - Mentions of: exhumation, needles (tattoos), conspiracies, burns/fire, drugging - SFX: Tattoo buzzing Transcripts: https://shorturl.at/gzF15 This episode is dedicated to Blades and Chris, thank you for your generous support! You can a complete list of our Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/ Created by Jonathan Sims and Alexander J Newall Directed by Alexander J Newall Written by Jonathan Sims Script Edited with additional material by Alexander J Newall Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice Produced by April Sumner Featuring (in order of appearance) Billie Hindle as Alice Dyer Lowri Ann Davies as Celia Ripley Shahan Hamza as Samama Khalid Anusia Battersby as Gwendolyn Bouchard Vera Chok as Ink5oul Dialogue Editor -- Lowri Ann Davies Sound Designer -- Tessa Vroom Mastering Editor -- Catherine Rinella Music by Sam Jones (orchestral mix by Jake Jackson) Art by April Sumner SFX from and previously credited artists Support us on Patreon at https://patreon.com/rustyquill Check out our merchandise available at https://www.redbubble.com/people/RustyQuill/shop and https://www.teepublic.com/stores/rusty-quill Join our community: WEBSITE: rustyquill.com FACEBOOK: facebook.com/therustyquill TWITTER: @therustyquill REDDIT: reddit.com/r/RustyQuill EMAIL: mail@rustyquill.com The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty Quill Ltd. and licensed under a Creative Commons Attribution Non-Commercial Share alike 4.0 International Licence. 
+Architecture (landmark) --/- corruption (entropy) Incident Elements: - Live Burial - Rapid Aging - Doppelgangers - Compulsions (supernatural) - Mentions of: strangulation - SFX: tattoo buzzing, screaming Transcripts: https://shorturl.at/gzF15 This episode is dedicated to Elena, thank you for your generous support! You can a complete list of our Kickstarter backers https://rustyquill.com/the-magnus-protocol-supporter-wall/ Created by Jonathan Sims and Alexander J Newall Directed by Alexander J Newall Written by Jonathan Sims Script Edited with additional material by Alexander J Newall Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice Produced by April Sumner Featuring (in order of appearance) Lowri Ann Davies as Celia Ripley Shahan Hamza as Samama Khalid Billie Hindle as Alice Dyer Sarah Lambie as Lena Kelley Anusia Battersby as Gwendolyn Bouchard Vera Chok as Ink5oul Callum Dougherty as Bystander Beth Eyre as [ERROR] Jonathan Sims as Chester Dialogue Editor -- Lowri Ann Davies Sound Designer -- Tessa Vroom Mastering Editor -- Catherine Rinella Music by Sam Jones (orchestral mix by Jake Jackson) Art by April Sumner SFX from ecfike, khenshom, NuclearTape and previously credited artists Support us on Patreon at https://patreon.com/rustyquill Check out our merchandise available at https://www.redbubble.com/people/RustyQuill/shop and https://www.teepublic.com/stores/rusty-quill Another way to support Rusty Quill is by purchasing from one of our Affiliates: Phantom Peak -- London-based interactive event -- 15% discount with the link DriveThruRPG -- DriveThruRPG.com Join our community: WEBSITE: rustyquill.com FACEBOOK: facebook.com/therustyquill X: @therustyquill EMAIL: mail@rustyquill.com The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty Quill Ltd. and licensed under a Creative Commons Attribution Non-Commercial Share alike 4.0 International Licence. 
