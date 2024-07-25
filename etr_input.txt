@@ -1,816 +1,786 @@
 ©Rusty Quill 2023
 
 The Magnus Protocol
-Episode 22
-"Mixed Signals"
-Written by Alexander J Newall
-Edited by Jonathan Sims
+Episode 23
+“A New You”
+Written by Harlan Guthrie
+Edited by Jonathan Sims and Alexander J Newall
 
-27-06-2023
-Draft 2.0
+10-10-23
+Draft 3.0
 [1]
 
 ©Rusty Quill 2023
 
 ANNOUNCER
-This episode is dedicated to April
-Richards.
+This episode is dedicated to Hamda
+Alkhaja.
 [Intro Theme]
 ANNOUNCER
 Rusty Quill Presents: The Magnus
 Protocol.
-Episode Twenty-Two – Mixed
-Signals.
+Episode Twenty-Three – A New You
 [Music]
 
-1. INT. MANAGER’S OFFICE – NIGHT, RAINING (LANDLINE)
-GWEN is stood dripping in the middle of the OFFICE. LENA
-remains seated.
+1. INT. OIAR MAIN OFFICE - NIGHT, CLEAR (COMPUTER).
+SAM sits doing some paperwork.
+His pencil breaks.
+SAM
+Dammit.
+He stops, sighs stands and walks over to an old, mounted crank
+sharpener.
+He begins using it.
+LENA enters.
 LENA
-(suppressing irritation)
-So you just… ran away?
-GWEN
-(furious)
-Of course I ran away! You sent me
-out there unguarded, unprepared
-and uninformed. It’s a miracle I got
-away at all. If it weren’t for that…
-thingLENA
-Ah yes, this “watching figure” you
-mentioned. Presumably you didn’t
-get any contact details from them?
+Problems?
+SAM
+Just a broken pencil.
 
 [2]
 
 ©Rusty Quill 2023
 
-GWEN
-I guess it slipped my mind as I was
-fleeing the supernatural
-psychopaths!
 LENA
-Clearly.
-Beat. LENA shuffles some papers.
+(Approaching)
+I see. And what exactly is this you're
+working on anyway?
+SAM
+(returning)
+Just some response department
+paperwork.
 LENA
-(cont.)
-I must say Gwen, I am quite
-disappointed. I’d hoped that you
-might surpass your earlier…
-trepidation but unfortunately it would
-seem my initial estimation of you
-was accurate after all.
-GWEN
-(shaking)
-I know what you’re doing.
-Beat.
+(leafing through)
+You are aware that the response
+department hasn't existed for some
+years now?
+SAM
+Well yes but…
 LENA
-Oh really?
-GWEN
-You won’t get rid of me that easily.
-Beat. LENA stands, GWEN squares off but LENA Is just pouring
-herself some water. She sips.
+I am afraid it looks like our
+colleagues are entertaining
+themselves at your expense.
+SAM
+Sorry?
 LENA
-GWEN, firstly, just to be crystal
-clear, if I wished you gone, you
-wouldn’t be sitting here.
-She sips again.
-
+I’ve seen this with other new hires.
+Some ill-conceived initiation rite.
+Alice's doing, I suspect.
+SAM
+Ok, uh… Thanks for the heads up.
+SAM sits and returns to the paperwork.
+LENA
+What I am trying to say, Sam, is that
+this paperwork is unnecessary.
+Meaningless.
 [3]
 
 ©Rusty Quill 2023
 
+SAM
+I understand. But I think I might see
+how far down the rabbit hole goes. If
+it is AliceLENA
+I am sure it is.
+SAM
+-I want to see how long she can keep
+it up for.
 LENA
-(cont.)
-Secondly, and contrary to your
-accusations, I can assure you that
-your death would be much more of
-an administrative inconvenience for
-me than simply firing you. Though
-admittedly it might have been
-simpler than having a dead
-bystander and two uncontrolled
-externals on the loose.
-GWEN
-So what happens now?
+(nonplussed)
+So long as it doesn't interfere with
+your work.
+SAM
+Oh, I’m doing it strictly off the clock.
+SAM continues with the paperwork and LENA observes him for a
+moment.
+SAM CONT.
+It's actually sort of comforting in a
+way, you know?
 LENA
-Unfortunately, I believe your little
-foray into real responsibility is at an
-end.
-The blackmail was a bold move I’ll
-grant you, but it seems you lack the
-qualities necessary for the more
-challenging aspects of this work and
-I think we can both agree that you
-would feel safer returning to data
-processing. Unless of course you’d
-rather quit wholesale?
-Beat. GWEN pointedly doesn’t respond.
+I can assure you, I don't.
+SAM
+There’s just something very zen
+about filling in pointless forms now
+and then.
 LENA
-(cont.)
-Back to your desk then.
-Beat. GWEN moves to leave. She opens the door.
-LENA
-(cont.)
-Oh, one last thing, with the
-ministerial visit coming up, we want
-to avoid an impression of…
+I see.
+(she doesn’t)
+Beat.
+
 [4]
 
 ©Rusty Quill 2023
 
-instability... You will retain your new
-title for now but will undertake no
-further assignments involving
-externals. Otherwise, your departure
-from here will cease to be optional.
-Do we understand one another?
+LENA CONT.
+Well as engrossing as this must be
+for you, I believe your shift has
+started.
 Beat.
-GWEN
-(Quiet and sullen)
-Yes.
 LENA
-(cont.)
-What was that?
-GWEN
-(Sarcastic)
-Of course, Mrs. Kelley.
-LENA
-Very good.
+Sam.
+SAM
+Mmm? Oh yeah, sorry.
+SAM puts the papers aside then begins his computer work.
 
-2. CYBERSPACE – N/A, N/A (CASE READING)
-AUGUSTUS
-Welcome Collection Private Record
-#5876-3 letter from Hans Berger to
-Dr. Richard Caton dated 14th
-December 1924.
-Letter Reads:
-To Doctor Richard Caton,
-
+2. CYBERSPACE
+CHESTER
+FORUM THREAD: Updates &
+Live-posting
+REGISTERED BY: Alnewman86 (2006-18, 19:27)
+POST #1: Finding My Piece (20-0618, 19:31)
+Hey all, A here. First off, thank you
+so much for all the help over these
+past few months. I can't express how
+insightful, patient and open minded
+this community has been. I never
+thought I'd find others willing to help
+me create a better me like this so...
+sincerely thank you.
+Anyway I'm going to be documenting
+my journey here and wanted to start
+by asking how you all went about
+finding your piece. I've been thinking
 [5]
 
 ©Rusty Quill 2023
 
-Richard, you will forgive the delay to
-this message.
-I wanted to inform you of the results
-of my latest experimentation sooner,
-but it was not possible for me before
-now.
-Your reply to my first letter was most
-valuable and I modified the
-conductive surfaces as you advised,
-but now I must ask you for further
-clarification. When you described
-your first experiments on Canis and
-Hominidae and your later work on
-Leporidae and Cercopithecoidea you
-did not mention any unusual side
-effects in your subjects. I must know
-if there was any information you
-failed to reveal to me because the
-consequences of my own
-experiments have been alarming.
-I will explain.
-In my last message I told you of my
-latest experiments on the subject
-“Herr Schmidt” and his unusual
-cranial deformity which allowed
-direct access to the Dura Mater
-above the Occipital Lobe. You will
-remember that in addition to electric
-stimulation sessions I was taking
-advantage of this deformity to record
-more accurate pressure
-measurements using a vulcanized
-rubber tube filled with saline and
-capped with latex inserted into the
-cranial aperture. I enclosed, for your
-consideration, charts displaying the
-predicted pressure changes
-correlating with emotional shifts,
+it over for a while now. I even caught
+myself saying it to myself into the
+bathroom mirror at work. Someone
+overheard me and thought I was
+talking about finding peace, like
+inner peace, and asked if I was
+meditating. Kind of ironic, really, but
+I don't think they'd get the joke.
+Anyway, I’d love to know how others
+found their piece. Or I guess my
+question is more, does it matter?
+Should it be important? Should it be
+meaningful? Should it be random?
+Am I overthinking it? Looking for
+thoughts and advice. I'm going to
+take this all the way so will take all
+the help I can get!
+43 LIKES
+0 COMMENTS
+POST #2: Found it! Alnewman86 (1307-18, 18:52)
+I think I've found it. My piece. Maybe
+I knew where it was all along. I'm a
+bit worried though because to get it I
+have to be a bit... Sneaky? Nothing
+too bad, but I'm nervous. . There's
+this restaurant I eat at all the time or rather I used to eat at all the time and I guess it's significant to me. It
+was where I said yes after Anthony
+proposed (those who have read
+some my previous posts know how
+THAT turned out) but it's also where
+I first realized that I had to do this.
+They have this massive aquarium
+and I remember just suddenly
 [6]
 
 ©Rusty Quill 2023
 
-stimulation and cognition in the
-patient.
-Your response advising me to use
-silver for improved conductivity in
-the stimulation sessions proved
-correct and so, given hope by this
-positive result, I decided to attempt a
-recording of the electrical signals
-within the brain once again.
-I placed wires of silver beneath the
-scalp of the patient, fore and aft and,
-instead of the customary stimulator,
-I instead attached a Lippmann
-Capillary Electrometer. The results
-were erratic at first but after much
-trial and error I found that by using a
-double-coil Siemens Recording
-Galvanometer I was able to reliably
-record the electrical signals. I have
-this time enclosed a photograph of
-the results from these sessions
-taken by my assistant (and wife)
-Ursula.
-This discovery alone should be
-enough to upset the Zeitgeist,
-coming so soon after the work of
-Einthoven, but I am too aware of my
-reputation of late and I know that I
-need a significant discovery to quiet
-the naysayers.
-I thus invited Herr Schmidt, for
-another, more intensive recording
-session. He was hesitant at first, but
-I was eventually able to impress
-upon him the Zeitnot of our research
-and he consented.
+realizing how serene everything was
+inside. The water was crystal blue
+and at the bottom there it was...
+vibrant, electric almost and... so very
+alive. (God knows how they got it all
+through customs)
+I remember the first night coming
+home after that. Anthony was
+snoring beside me, and I couldn't
+stop thinking about that aquarium. I
+didn't really know what I was
+searching for, I didn't know how to
+articulate it. It's a feeling I'm sure
+many of us here know very well and
+so as I tried to unfold my thoughts...
+I stumbled upon... well, you guys! :)
+So yeah, that’s going to be my piece.
+I've already spoken to a waiter who's
+agreed to let me in the back
+tomorrow night after closing while
+they're cleaning up in the kitchen. I
+have my container and I've read all
+the steps in the How-To Forum. I just
+wanted you all to be here with me, to
+experience it. So... Wish me luck!
+28 LIKES
+0 COMMENTS
+POST #3, I think I'm just about ready
+Alnewman86 (14-07-18, 20:48)
+I'm parked in across the street
+waiting for the last customers,
+thinking about what this place meant
+to me, back then, what would've
+happened if things had been
 [7]
 
 ©Rusty Quill 2023
 
-I have recently become aware of the
-Russian Physiologist Konstantin M.
-Bykov and his work on the
-“Hemispherical Bridge”. In short, he
-claims to have found the center of
-the self, nestled as a bundle of fibers
-between the two halves of the brain.
-When I corresponded with him, he
-claimed that once this bundle is
-severed in Canines, their behavior
-resembles that of two separate
-animals in one body.
-I was dubious of these results, but
-they did present a new avenue for
-experimentation and one I knew that
-no one had yet attempted. So, it was
-two weeks ago that Schmidt finally
-consented and we began insertion of
-the silvered wires to the depths of
-his brain.
-The surgery was taxing but
-eventually the electrodes were well
-positioned and we were able to begin
-recording electrical activity. We first
-ran through the standard tests and
-replicated previous results with little
-variation. I then began to question
-the patient, regarding himself:
-“Imagine yourself”, “tell me of
-yourself” “what is it you want” etc.
-At this point the familiar, sweeping
-waves I had come to expect were
-instead strongly exaggerated. Herr
-Schmidt, seemed completely
-unaffected but we feared the
-equipment had shifted or
-miscalibrated so we ended our first
+different. Not that I'd have it any
+other way.
+His voice was so loud for so long it
+drowned me out of my own life. I
+wonder if any of you have felt it? The
+way other people try to convince us
+that we can better ourselves by
+being more like what they want. But
+we can become someone new.
+Someone better. Someone the pain
+can't touch... Anthony would never
+understand the difference. He
+couldn't.
+I wonder how many people in that
+restaurant right now are still stuck
+like I was?
+I'm just killing time so happy to chat
+it through, if anyone wants (at least
+until the waiter arrives!)
+13 LIKES
+0 COMMENTS
+POST #4, I think I'm just about ready
+-2 Alnewman86 (15-07-18, 20:37)
+I can't believe it! My heart is still
+racing! I've never done anything like
+this before. Never stolen, never
+cheated... I feel alive for the first time
+in my life.
+I’m staring at my piece right now. It’s
+on my desk, I want to keep it warm.
+I’m going to sleep holding it tonight
+like you all suggested, so it’s
+properly bonded with me before
+tomorrow... It is safe, right? Of
 [8]
 
 ©Rusty Quill 2023
 
-session there and began
-disconnecting the equipment.
-I reviewed the data late into the
-night, somewhat downcast that this
-latest exploration to new depths had
-provided little new data.
-I will admit to falling asleep at my
-desk, overcome with exhaustion. I
-dreamed of an ocean, deep and
-unforgiving, with an unplumbed
-heart full of dark secrets waiting to
-be uncovered, whilst overhead flew
-radio signals, invisible and
-unknowable, not even rippling the
-surface. Such a shame these two
-things would never meet. Such a
-shame…
-I woke with my own brain charged
-with inspiration and an idea for a
-wholly new approach to our work. I
-began by borrowing some
-equipment from the engineering
-department: A Telegraph key and
-Sounder, some wiring, contacts,
-relays, capacitors and various
-electrolytics. No doubt the engineers
-will complain but at this moment that
-is the least of my concerns.
-In a blitz of activity I deconstructed
-both the Sounder and Key along with
-my latest Edelmann Galvanometer
-and then reassembled them in rather
-a novel way. Looking back, I cannot
-say how I arrived at the final design
-but nonetheless in my fervor I was
-certain it would work. We would
+course it is. I’m overthinking it. Will
+be back tomorrow, right before the
+full moon!
+34 LIKES
+0 COMMENTS
+POST #5, First Cut Alnewman86 (1607-18, 19:22)
+Took today off work. Sleeping
+beside the coral, my coral, my
+piece… I slept better than any night
+next to Anthony, better than any
+night ever. The best sleep of my life.
+I’m so ready to be whole.
+I even had a dream last night. I was
+back at the restaurant, looking at the
+aquarium while Anthony prattled on.
+I was staring, aimlessly, at the lights;
+the colourful stones, the green of the
+moss on the stones that hugged the
+Coral... when all of a sudden, I was
+alone. And…
+I was afraid. I span my head around,
+looking for Anthony, for the waiter for anyone. Then I saw her. On the
+other side of the Aquarium. We
+locked eyes for just a moment.
+Like I said, I want to share every part
+of this for anyone who wants to
+follow in my steps. I know some of
+you like the dream interpretation part
+of it and I wanted to share.
+But I'm ready. I have my rubber
+gloves, I've sanitized the scalpel as
+LazerCat23 suggested, I have a clean
+working surface, bags, bandages
 [9]
 
 ©Rusty Quill 2023
 
-plumb the depths of that ocean from
-which I had awaked.
-Urusla and I returned to the college
-theatre and after a brief explanation
-to the patient, we began to reattach
-the electrodes to my new device. I
-then began to question him. He
-answered the standard questions
-normally but now, rather than waves
-of ink unfolding across a paper drum
-there was instead a distinctive
-clicking from the Telegraph receiver,
-a languid pattern as though it were
-operated by one in a state of torpor.
-H. Schmidt laughed at the novelty of
-the device and even Urusla was
-skeptical of my logic but we
-nonetheless proceeded with my new
-line of questioning.
-“Imagine yourself.” The clicks
-slightly accelerated as the patient
-did so before slowing to their
-previous random rhythm. I pressed
-on:
-“Tell me of yourself” Again, there
-was a slight increase in the ignorant
-tapping whilst the Patient repeated
-his name and occupation. “What is it
-you want?” Again, the same
-banalities of food, drink and toilet
-from Herr Schmidt and accompanied
-by the gentle tapping of the
-Telegraph sounder accelerating as
-he considered his words.
-All had proceeded well and even
-Ursula appeared to be more
+and my sewing kit for after and... and
+I am nervous.
+I know what I need to do, and I know
+it will all be worth it.
+Will update right after. Here we go.
+35 LIKES
+0 COMMENTS
+POST #6, First Cut - Update
+Alnewman86 (16-07-18, 21:17)
+I’m a bit out of it but I promised I
+would update: Feeling a bit woozy
+but it's done. My thigh bled a lot
+more than I expected, you were right
+burntumberJ. I have tomorrow off
+but I have to go back to work while
+she starts to grow. I can't wait… I
+can see her, under my rippled skin.
+Waiting to grow. She's perfect…
+She's everything I wish I could've
+been.
+15 LIKES
+0 COMMENTS
+POST #7, My Secret Alnewman86
+(26-07-18, 15:34)
+I've been at work for a week now and
+it’s so different. It was difficult to go
+back to "normal" knowing she was
+inside me but here I am, actually sat
+at my desk with her pressing against
+my thigh skin. I keep catching myself
+running my fingers under my skirt
+just to feel her pressing up beneath
 [10]
 
 ©Rusty Quill 2023
 
-enthused having seen the results.
-We thus prepared to end the
-investigation. I should point out here
-that though very sure handed, my
-Ursula is not the fastest of assistants
-and so I have often found myself
-forced to wait upon her during
-sessions. It was during such a delay
-that I had a moment of
-uncharacteristic whimsy. As Ursula
-assembled the equipment for
-disconnection, I idly began to tap at
-the sending key as though sending a
-telegraph myself:
-“Imagine yourself”.
-Immediately the clicks stopped dead.
-There was a moment of stillness as
-the last echo finished rebounding off
-the tiled walls. Then it was replaced
-by a sudden flurry of activity from
-the sounder. The patient seemed
-completely unaffected, but the
-equipment was triggering faster than
-I would have thought possible. If
-before we had seen waves lapping at
-a shore, this was a torrent, a tidal
-wave of signal.
-I tapped again, automatically
-following the script I had prepared
-for myself without thinking. “Tell me
-of yourself.” The activity intensified,
-the Sounder rattling across the
-pitted wooden desk with its
-vehemence. Finally, I spoke my last
-question via the telegraph, “what is it
-you want?” This was met with an
-overwhelming surge, and the
+my skin; living, breathing polyps
+gently moving through my leg. A life
+that I hold within my body and
+nurture. Anthony would never have
+understood, it’s not the same as
+some squealing baby. I'm so glad
+he's gone and like you've all said she
+and I, we’re becoming one… and
+then two.
+45 LIKES
+0 COMMENTS
+POST #8, My Secret - Update 1
+Alnewman86 (18-08-18, 22:03)
+Hey all. I know it's been a few weeks
+since I've updated. I'm in the early
+parts of stage 2 and I'm here to
+confirm it is terrifying. It started with
+my feet, I noticed in the shower one
+day that I couldn't feel the hot water
+on them... it was so strange at first
+but I knew what was happening
+thanks to your advice. It's up to my
+waist now... no feeling whatsoever.
+I'm on bereavement leave from work
+for the next bit then I have some
+vacation days saved up. I have the
+humidifiers set high, the curtains are
+taped shut and everything I need is
+within reach. I know any day now my
+second stage will properly begin.
+I'm terrified. I'm exhilarated. It's
+really happening!
+Wish me luck!
+54 LIKES
+0 COMMENTS
 [11]
 
 ©Rusty Quill 2023
 
-struggling Sounder began to smoke
-under the strain.
-My concentration was broken at this
-point by the clatter of dropped metal
-instruments. I was irritated by such
-an uncharacteristic clumsiness in
-Ursula, especially at the moment of
-possibly my greatest breakthrough
-yet. I turned to scold her but then I
-saw her face.
-She was pallid and stood near
-swooning in terror, staring at Herr
-Schmidt as though it were a corpse
-answering my questions rather than
-our completely healthy and vigorous
-patient. I turned back to him, and he
-was seemingly as confused as
-myself, frowning with concern for my
-wife.
-“Is something wrong?” I asked her,
-gesturing to the procedure which
-had, until that moment, been
-proceeding quite excellently.
-“Can you not hear it?” She
-whispered, barely audible over the
-Telegraph sounder. My irritation
-grew yet greater; of course I could
-hear the Sounder, it was deafening!
-Before I could say as much however,
-the patient began to convulse.
-There was no warning. One moment
-he was looking quizzically at Ursula
-and I, the next moment his back was
-arched and shuddering with the
-most violent Grand Mal seizure I
+POST #9, My Secret - Update 2
+Alnewman86 (27-08-18, 10:13)
+It's started. Last night, I heard it
+while laying in bed... It's exactly as
+described. I couldn't feel a thing,
+nothing, but then the skin broke with
+such a distinct sound. Like cutting a
+half-inflated football. Then I saw the
+red blossom out through the white
+sheets.
+She’s so beautiful, bright pink, and
+radiant! The coral polyps blooming
+and scattering from the broken flesh
+over my feet and legs with such an
+incredible smell, like sea water, sand
+and copper.
+It's slow though, much slower than I
+would've thought….
+Oh, and I managed to rent a
+paralysis computer. Great
+suggestion again burntumberJ. So I
+should be able to keep everyone
+updated as planned, even when my
+arms start to go.
+I cannot express how great it is to
+finally see her... to finally meet her
+out in the world at last.
+62 LIKES
+0 COMMENTS
+POST #10, am I dreaming
+Alnewman86 (30-08-18, 08:19)
+
 [12]
 
 ©Rusty Quill 2023
 
-have ever witnessed. He was already
-restrained, of course, but the leather
-straps creaked in distress as his
-muscles snapped taut and the
-arteries throbbed in his neck. He
-began to scream in agony.
-I once saw Tetanus take a man
-during my time in the Cavalry and
-this seemed horrifyingly similar:
-vicious and mindless facial spasms,
-rupturing contortions of the body
-and fingers arched in a rictus claw.
-Ursula and I fought to insert a belt
-into his mouth before he severed his
-own tongue, but were unsuccessful.
-We were all yelling then and as the
-telegraph reached a repeating
-frenzied crescendo there was an
-almighty crack, loud as a gunshot,
-and a gout of bright arterial blood
-sprayed from the deformity at the
-back of Herr Schmidt’s head.
-The telegraph abruptly stopped, as
-did our yelling. There was then a
-moment of deafening silence
-punctuated by the gristly tear of
-fibres ripping themself from the
-patient’s skull and landing with a wet
-slap upon the tiled floor before
-falling still.
-Urusla and I stood staring at one
-another over the bloodied and
-broken corpse that was once our
-patient. She then whispered one last
-time, with terror stricken eyes: “You
-could not hear it?”
+I had the dream again. I was in the
+restaurant. I was alone and I met her
+eyes. She was me. She was with me
+that first night. She was always with
+me... but now she's arrived. She's
+here. I'm awake.
+She has my eyes.
+61 LIKES
+0 COMMENTS
+POST #11, She’s almost here
+Alnewman86 (01-09-18, 09:04)
+Last night I watched my stomach
+unzip. The skin stretched then tore
+cleanly. There was only the blood. It
+was beautiful but it took forever. I
+keep thinking of this life I'm leaving
+behind. I’d love her to keep my
+name. But I don’t know if she will. I
+know I shouldn't be, but I'm scared.
+68 LIKES
+0 COMMENTS
+POST #12, She's almost here-2
+Alnewman86 (01-09-18, 18:33)
+I'm having difficulty swallowing
+fluids now. My skin is wet with sweat
+and mold.
+Alesis Newman is leaving this world
+and whoever comes next, though
+she may look like me in some ways,
+though she may carry a part of me
+with her, she’ll be better. Free of all
+my mistakes.
+
 [13]
 
 ©Rusty Quill 2023
 
-In the weeks that followed, there was
-all manner of paperwork and
-investigation but ultimately it was a
-moot point. We had signed consent
-from the patient prior to the
-procedure and there was no
-evidence of foul play. Just another
-case of unfortunate frontier Science.
-Regrettable, awful even, but not
-suspicious. It was brain surgery after
-all. Neither I nor Ursula attended the
-funeral. It would not have been
-appropriate. I did write a letter of
-condolence to his wife that I thought
-quite touching, and convinced the
-University accountants to pay the fee
-owed to his widow despite their
-vociferous protestations. They
-relented only on condition of her
-sworn secrecy on the matter.
-It was some time before I was able to
-sit and review the formal findings of
-the experiment. I had had the
-foresight to set up a recording ticker
-for the Telegraph Sounder so I had a
-complete transcription of the event,
-at least from the perspective of the
-equipment. I began to examine this
-ticker, unsurprised to see random
-noise from the outset. I almost set it
-aside, assuming that was all there
-was to it, but instead I noticed a
-pattern. Peering closer, I found
-myself frozen in realisation. Clearly, I
-had misfiled something. I checked
-my folders carefully and was only
-convinced these were the actual
-records when I noticed the bloodied
+Perhaps people will like her more
+than me. I already like her more than
+me.
+I want to see her walk off happy and
+strong. I hope she doesn’t feel this
+now, just be the good parts of me. I
+hope it’s like I dreamt, I hope she has
+my eyes…
+71 LIKES
+0 COMMENTS
+POST #13, Alesis Newman Final
+Alnewman86 (03-09-18, 02:22)
+Writing with my eyes now. The last
+parts of me float away. She lays
+where I lay but she is not me. She is
+strong. She is graceful. She is bright
+in mind and color and I love her,
+more than I thought I could love
+anything.
+I want you all to know… before my
+skull pulls apart… you were515 LIKES
+37 COMMENTS
+POST #14 untitled Alnewman86 (0301-18, 02:27) [Deleted by moderators
+03-01-18, 02:28]
+This isn’t right, there something
+wrong, something wrong with her. I
+don’t- help me
+0 LIKES
 [14]
 
 ©Rusty Quill 2023
 
-fingerprints across the third page I
-had left as I retrieved the data.
-I returned to the tape and quietly
-examined it in silence. That was
-when I finally understood my wife’s
-fear. She was always a better
-communicator than I and this
-extended to her proficiency with
-Telegraph. I can use it, but I lack the
-skill of her ear. I must decode where
-she can just listen. Thus, it took me
-this later study to ascertain what it
-was she had heard during the
-experiment before Herr Schmitt’s
-unfortunate passing. It was written
-there plain for anyone who thought
-to decode it:
-Question: “IMAGINE YOURSELF”.
-Response: “I. I AM. I AM “I”. ME, I. I
-AM ME, WE, I ARE WE, WE ARE.”
-Question: “TELL ME OF YOURSELF”
-Response: WE ARE, I AM HERE.
-HERE ALONE. WE ARE I ALONE.
-ALL ALONE, SO ALONE TOGETHER.
-TOGETHER ALONE. NOTHING, NO,
-ALONE, ALONE, ALONE, ALONE!
-Question: “WHAT IS IT YOU WANT?”
-Response: HELP. HELP WE US.
-ALONE. HELP WE I HELP NEED
-HELP OUT HELP OUT NEED OUT
-OUT WE OUT OUT I OUT OUT OUT
-WE OUT I OUT OUT OUT OUT HELP
-NEED OUT OUT OUT OUT OUT OUT!
+0 COMMENTS
+THREAD LOCKED BY
+BETTERTHENEW (03-01-18, 12:07)
+3. INT. OIAR BREAKROOM - NIGHT, CLEAR (CCTV)
+SAM enters the room and prepares coffee with a yawn.
+CELIA
+(yawning)
+Oh great, you’ve got me started.
+SAM
+(deliberately yawning)
+Soooooorry.
+CELIA
+(yawning again)
+Stop it!
+Sam chuckles. He finishes preparing the cup and sits next to
+Celia.
+SAM
+Anything good tonight?
+CELIA
+Another evil toy. That’s like 6 this
+week.
+SAM
+If I could give you my weirder ones I
+would.
+CELIA
+Aw thanks!
+(she sips)
+Oh speaking of, did you have any
+luck?
+
 [15]
 
 ©Rusty Quill 2023
 
-The rest was obscured by Herr
-Schmidt’s cerebrospinal fluid. I have
-enclosed a photograph of this record
-for your examination.
-You see now Doctor Caton why I
-have contacted you. Was there
-anything in your original
-experiments which might explain the
-psychic phenomena I have
-witnessed here at Jena? I have
-searched my whole life for proof of
-such events but I was ill prepared for
-such violence, especially
-considering your own claims that
-your experiments were without
-complication. I fear that unless you
-can verify my results or at the least
-provide some prior correlative
-indications I must delay publishing
-my findings for the foreseeable
-future. Worse still, I may even need
-to omit the details of this final
-experiment for fear of the ridicule of
-my peers.
-I entreat you Dr. Caton, any help you
-can provide on this matter would be
-warmly received. I await your
-thoughts with humble expectation.
-Signed, Your earnest Colleague,
-Hans Berger
+SAM
+Hmmm?
+CELIA
+Those names I gave you. You find
+anything?
+SAM
+Nothing useful. Jonathan Sims is
+pretty generic as names go. And I
+didn’t have much luck with Martin
+Blackwood either. There were two
+that were close to the right age…
+CELIA
+But?
+SAM
+But they died, separately, nearly
+twenty years ago. cycling accident
+and some kind of heart thing. No
+connection to the Magnus Institute.
+As far as I can tell they never even
+met. Where'd you say you had found
+them?
+CELIA
+Couple of old documents. I must
+have got the wrong end of the stick.
+I’ve had a bit of luck elsewhere
+though.
+SAM
+(perking up)
+Oh yeah?
+CELIA
+I think I’ve found the right Basira
+Hussain and I have a lead on a
+Helen...
 
 [16]
 
 ©Rusty Quill 2023
 
-3. INT. OIAR OFFICE INT. – NIGHT, RAINING (COMPUTER)
-SAM sighs and begins to process the case. After a few moments
-of typing he hesitates, then double clicks something.
+SAM
+Richardson?
+CELIA
+That’s the one.
+SAM
+Fantastic! When can we go talk to
+them?
+CELIA
+Okay hold your horses GWEN enters, clearly upset.
 Beat.
+She begins to make coffee, sees it is empty then begins making
+more.
 SAM
-Alice?
-Alice pulls out her headphones.
-ALICE
-Yeah?
+(quietly to Celia)
+Don’t…
+CELIA
+Shhh.
+(to GWEN)
+Care to join?
+GWEN
+I'm fine.
 SAM
-Has anyone else been using my PC?
-Slight beat.
-ALICE
-Why do you ask?
-SAM
-My caseload is off.
-ALICE
-Off how?
-SAM
-Someone’s been in and edited my
-setup since the start of the night…
-ALICE
-(standing, deflecting)
-I wouldn’t worry, you know the
-system’s screwed. It’s probably all
-the horrendous porn you’ve been
-downloading. Anway, I’m grabbing a
-coffee. You want me to bring you
-something?
-Beat.
+(sipping)
+Glad to hear it.
+CELIA
+Gwen… it’s okay if you need a bit of
+help now you’re back on cases-
+
 [17]
 
 ©Rusty Quill 2023
 
+GWEN
+(slamming the coffee pot
+down)
+I said I'm fine.
+Beat.
 SAM
-Why are you messing around with
-my cases Alice?
-ALICE
-I, uh… I would never- SAM
-We both know you’re crap at lying so
-can we skip that bit? What are you
-doing?
-Beat.
-ALICE
-(softly)
-Listen SamSAM
-(sharp)
-Alice.
-Beat.
-ALICE
-There is something up with your
-computer. I don’t know how or why
-but it’s deliberately giving you cases
-that feed into your whole Magnus
-thingSAM
-(Incredulous)
-Seriously? You go on and on about
-me losing it and now you’re telling
-me what? The computers are out to
-get me?
-ALICE
-I’m just trying to look out for you-
+(quietly)
+Told you…
+CELIA
+All right then.
+(to Sam)
+Shall we?
+SAM
+God yes.
+They exit.
 
+4. Int. OIAR Breakroom night, raining (CCTV) – SCENE
+CONTINUES
+GWEN recommences making coffee only to drop a mug.
+Beat. It feels like she is about to explode.
+Instead she cries, small and quiet.
+Pause.
+ALICE enters.
+ALICE
+So I hear you’re back to your normal,
+pleasant(noticing)
+Oh. Ah.
+GWEN
+I'm fine. I dropped my mug.
 [18]
 
 ©Rusty Quill 2023
 
-SAM
-(Angry)
-No, you’re not! You’re trying to
-control me. Again. Well tough. I don’t
-need you breathing down my neck
-every second and claiming it’s to
-“protect” me! I can look after myself.
 ALICE
-Can you, though? Colin’s already
-lost it, Gwen is clearly heading the
-same way and now you’re getting
-ready to start pinning up a
-conspiracy board as well! I’ve seen
-this happen to people before.
-SAM
-Then why would you recommend me
-for this job?
+I can see that.
+Pause.
+ALICE takes over preparing coffee while GWEN steadies herself.
 ALICE
-Because you needed something
-and…
-(sighing)
-I guess I just thought you’d be
-different. That you might actually
-listen to me.
-(beat)
-SAM
-Why are you even here Alice?
-I-
+I had a favorite mug. It said “love you
+bitch” and had a picture of drunk
+dog on it. Luke got it me with the
+cash from his first gig. Sam broke it
+by accident last month. I nearly fed
+him the pieces…
+Beat.
+Alice helps pick up the pieces.
+ALICE CONT.
+Is it really that bad being back in the
+muck with the rest of us?
+GWEN
+It’s not that.
+ALICE
+Oh yeah?
+GWEN
+You wouldn’t understand.
+ALICE
+Probably not, but I'm as good as
+you’re going to get here. Especially
+when you keep biting everyone’s
+heads off.
+Beat.
 
-ALICE
-What?
-
-SAM
-The money isn’t that good, the hours
-are crap and clearly you’ve seen this
-job destroy people. But you’ve still
-been coming in every night for years.
 [19]
 
 ©Rusty Quill 2023
 
+GWEN
+(deep breath)
+Lena… She’s been sending me out
+to deal with people… things.
+Beat.
 ALICE
-You know why. Luke’sSAM
-Don’t give me that. All you do is
-complain, but if things were as bad
-as you make out you’d already be
-gone. You’d never hang around if
-there wasn’t something in it for you,
-so what is it?
+Okay.
+GWEN
+And well… they’re… weird.
 ALICE
-Because if you can keep your head
-straight it’s actually pretty easy
-money. And you know what, maybe I
-do get a kick out of being the only
-one who can really hack it, but I had
-hoped you might be the same, that if
-I showed you the ropes we could…
-SAM
+Weird like a… lobster in a hat weird
+or…
+Beat.
+GWEN
+I think I have an idea where our
+cases are coming from.
+ALICE
 (suspicious)
-What?
-ALICE
-Forget it. I’m done. You want to go
-get your head stuck spelunking
-down a rabbit hole with Celia? Be my
-guest.
-SAM
-(slightly condescending)
-Alice, I know this must be hard for
-you, seeing us togetherALICE
-(snorting with derision)
-Don’t flatter yourself.
-She starts to walk off.
+What are you saying, Gwen?
+GWEN
+(cracking)
+I thought maybe we were meant to
+be documenting them, keeping them
+monitored or under control, but- but
+then the Externals started turning up
+in the caseload after I gave them
+instructions andBeat.
 
 [20]
 
 ©Rusty Quill 2023
 
+GWEN CONT.
+Last time it was this tattooist. I was
+meant to be recruiting them only…
+things didn't go well Alice. They
+went bad. Very bad.
 ALICE
-(cont.)
-Enjoy your breakdown. Just keep it
-quiet, some of us are trying to work.
-SAM
-(irritated)
-For god’s sake AliceShe can’t hear. She’s already put her EarPods back in.
-
-4. INT. O.I.A.R. BREAKROOM - NIGHT, RAINING (CCTV).
-SAM enters angrily and fails to hide it before catching site of
-CELIA.
-Beat.
-SAM
-(Walking over)
-You heard that then?
-CELIA
-Hard not to.
-SAM
-(sitting)
-Yeah, I’m sorry. She just… pushes
-my buttons.
-CELIA
-It’s fine. You two have history.
-Maybe it’s easier if I don’t get mixed
-up in all the…
-SAM
-Baggage?
+(serious)
+Go on.
+GWEN
+They- It- well it turned on me. And I
+mean really turned on me. It was
+going to kill me Alice. It killed
+someone right in front of me and I
+was... it was ready for me next. Butbut then another showed up.
+ALICE
+Another what?
+GWEN
+Another thing. Another ‘External’. At
+least I think it was. They faced off
+and… I ran.
+ALICE
+God. What did the police say?
+GWEN
+What are you talking about? The
+police? Alice this wasn’t some
+random mugging! These… things.
+They’re awful, horrific. They aren’t
+human.
+ALICE
+And Lena knows this?
 
 [21]
 
 ©Rusty Quill 2023
 
-CELIA
-(smiling)
-I was going to say “noise”.
-SAM
-Don’t worry about it. It’s her
-problem, not ours. I’m done trying to
-placate a jealous ex. She can either
-get over it or get lost, and right now
-either’s fine with me.
-CELIA
-Okay.
+GWEN
+(bitterly)
+Oh she knows. She just doesn’t care
+enough to warn us.
 Beat.
-CELIA
-(cont.)
-So. Does that mean you’re looking
-back into The Magnus Institute?
-Beat. SAM picks up on her weird energy.
-SAM
-Why? Do you have something new?
-CELIA
-I might.
-SAM
-Tell me.
-CELIA
-You’re sure?
-SAM
-I’m in. All the way.
+GWEN CONT.
+You don’t believe me.
+ALICE
+After what I’ve seen here over the
+years? No, I am totally ready to
+believe Lena would rather hire literal
+monsters than pay a decent wage.
 Beat.
+ALICE CONT.
+Sorry. No wonder you’ve been so
+arsey.
+GWEN
+I’ve not been “arsey”ALICE
+So this “other” external. Why did it
+intervene?
+GWEN
+I don’t know.
+ALICE
+But like how did you know it was an
+External?
+GWEN
+Because I know how many eyes a
+regular human is supposed to have!
+It just stood there holding this old
+tape recorder and-
 
 [22]
 
 ©Rusty Quill 2023
 
-CELIA
-(conspiratorially)
-I might’ve come across a few
-important names.
-SAM
-Oh yeah? Like who?
-CELIA
-(Quietly)
-Jonathan Sims and Martin
-Blackwood.
+(noticing Alice)
+What? What is it?
+ALICE
+A tape recorder?
+GWEN
+Yes.
+ALICE
+You’re sure?
+GWEN
+Of course I’m sure! Are you not
+listening to me! I just told you Lena
+has been hiring supernatural
+monsters and you’re asking about a
+cassette player of all thingsALICE
+Shut up.
+GWEN
+Don’t you dareALICE
+Gwen. I think we’re in danger.
+GWEN
+That’s what I’ve been trying toALICE
+No listen, that tape… thing. This isn’t
+the first time I've…
+GWEN
+What?
+ALICE
+I think they might be after us. All of
+us.
 Beat.
-SAM
-(genuinely lost)
-Who?
+[23]
 
+©Rusty Quill 2023
+
+GWEN
+Alice, what are we going to do?
+ALICE
+I don't know.
 [Music]
 ANNOUNCER
 The Magnus Protocol is a podcast
@@ -820,23 +790,21 @@ Attribution Non-Commercial Sharealike 4.0 International License.
 The series is created by Jonathan
 Sims and Alexander J Newall, and
 directed by Alexander J Newall.
-This episode was written by
-Jonathan Sims and edited with
-additional materials by Alexander J
-Newall, with vocal edits by Lowri
-Ann Davies, soundscaping by Tessa
-Vroom, and mastering by Catherine
-Rinella with music by Sam Jones.
+This episode was written by Harlan
+Guthrie and edited with additional
+materials by Jonathan Sims and
+Alexander J Newall, with vocal edits
+by Nico Vettese, soundscaping by
+Meg McKellar, and mastering by
+Catherine Rinella with music by Sam
+Jones.
 It featured Billie Hindle as Alice Dyer,
 Shahan Hamza as Samama Khalid,
-Anusia Battersby as Gwen Bouchard
-[23]
-
-©Rusty Quill 2023
-
-Lowri Ann Davies as Celia Ripley,
-Sarah Lambie as Lena Kelley, with
-additional voices from Tim Fearon
+Anusia Battersby as Gwen
+Bouchard, Lowri Ann Davies as Celia
+Ripley, Sarah Lambie as Lena Kelley
+with additional voices from Jonathan
+Sims.
 The Magnus Protocol is produced by
 April Sumner, with executive
 producers Alexander J Newall, Dani
@@ -845,6 +813,10 @@ F.G. Hamilton, and Associate
 Producers Jordan L. Hawk, Taylor
 Michaels, Nicole Perlman, Cetius
 d’Raven, and Megan Nice.
+[24]
+
+©Rusty Quill 2023
+
 To subscribe, view associated
 materials, or join our Patreon, visit
 rustyquill.com. Rate and review us
@@ -853,49 +825,51 @@ us on facebook or email us at
 mail@rustyquill.com
 Thanks for listening.
 
-[24]
-
-©Rusty Quill 2023
-
-The Magnus Protocol 22 – Mixed Signals
-CAT13RBC4488-14121924-15042024
-Experiment (brain) -/- imprisonment (existential)
-Incident Elements:
-- Existential Horror
-- Human Experiments
-- Graphic Surgical Detail
-- Seizure
-- Arguements
-Transcripts: https://rustyquill.com/transcripts/the-magnusprotocol/
-This episode is dedicated to April Richards, thank you for your
-generous support! You can a complete list of our Kickstarter
-backers https://rustyquill.com/the-magnus-protocol-supporterwall/
-Created by Jonathan Sims and Alexander J Newall
-Directed by Alexander J Newall
-Written by Jonathan Sims
-Script Edited with additional material by Alexander J Newall
-Executive Producers April Sumner, Alexander J Newall,
-Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G.
-Hamilton
-Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole
-Perlman, Cetius d’Raven, and Megan Nice
-Produced by April Sumner
-Featuring (in order of appearance)
-Sarah Lambie as Lena Kelley
-Anusia Battersby as Gwendolyn Bouchard
-Shahan Hamza as Samama Khalid
-Billie Hindle as Alice Dyer
-Lowri Ann Davies as Celia Ripley
-Tim Fearon as Augustus
 [25]
 
 ©Rusty Quill 2023
 
-Dialogue Editor – Lowri Ann Davies
-Sound Designer – Tessa Vroom
+The Magnus Protocol 23 – A New You
+CAT13RBC3536-20062018-18042024
+Transformation (dysmorphic) -/-doppleganger (infection)
+Incident Elements:
+ Dysmorphia
+ Infection
+ Trypophobia
+ Body Horror/Modification
+ Environmental Horror
+Transcripts: https://rustyquill.com/transcripts/the-magnusprotocol/
+This episode is dedicated to Hamda Alkhaja, thank you for your
+generous support! You can find a complete list of our
+Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/
+Created by Jonathan Sims and Alexander J Newall
+Directed by Alexander J Newall
+Written by Harlan Guthrie, for more of his work visit
+https://www.malevolent.ca/
+Script Edited with additional material by Jonathan Sims and
+Alexander J Newall
+Executive Producers April Sumner, Alexander J Newall,
+Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G.
+Hamilton
+Associate Producers Jordan L. Hawk, Tayl
+Produced by April Sumner
+Featuring (in order of appearance)
+Sarah Lambie as Lena Kelley
+Shahan Hamza as Samama Khalid
+Lowri Ann Davies as Celia Ripley
+Billie Hindle as Alice Dyer
+[26]
+
+©Rusty Quill 2023
+
+Anusia Battersby as Gwendolyn Bouchard
+Jonathan Sims as Chester
+Dialogue Editor – Nico Vettese
+Sound Designer – Meg McKellar
 Mastering Editor - Catherine Rinella
 Music by Sam Jones (orchestral mix by Jake Jackson)
 Art by April Sumner
+
 SFX from previously credited artists
 Support us on Patreon at https://patreon.com/rustyquill
 Check out our merchandise available at
@@ -905,6 +879,7 @@ Support Rusty Quill by purchasing from our Affiliates:
 Phantom Peak – UK immersive experience – 15% discount with
 this link
 DriveThruRPG – DriveThruRPG.com
+
 Join our community:
 WEBSITE: rustyquill.com
 FACEBOOK: facebook.com/therustyquill
@@ -915,6 +890,6 @@ Archives, created by Rusty Quill Ltd. and licensed under a
 Creative Commons Attribution Non-Commercial Share alike 4.0
 International Licence.
 
-[26]
+[27]
 
 
