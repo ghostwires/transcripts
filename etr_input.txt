@@ -1,810 +1,814 @@
 ©Rusty Quill 2023
 
 The Magnus Protocol
-Episode 23
-“A New You”
-Written by Harlan Guthrie
+“Raising Issues”
+Written By
+Alex C. Telander
 Edited by Jonathan Sims and Alexander J Newall
 
-10-10-23
-Draft 3.0
+12-10-23
+V 3.0
+
 [1]
 
 ©Rusty Quill 2023
 
 ANNOUNCER
-This episode is dedicated to Hamda
-Alkhaja.
+This episode is dedicated to
+I_need_cookies - May you reach for
+your dreams and catch them.
 [Intro Theme]
 ANNOUNCER
 Rusty Quill Presents: The Magnus
 Protocol.
-Episode Twenty-Three – A New You
+Episode Twenty-Four – Raising
+Issues
 [Music]
-
-1. INT. OIAR MAIN OFFICE - NIGHT, CLEAR (COMPUTER).
-SAM sits doing some paperwork.
-His pencil breaks.
-SAM
-Dammit.
-He stops, sighs stands and walks over to an old, mounted crank
-sharpener.
-He begins using it.
-LENA enters.
+1. INT. OIAR MANAGER’S OFFICE - NIGHT, CLEAR (LANDLINE)
+LENA is typing at her desk.
+There is a firm but polite knock at the door.
 LENA
-Problems?
-SAM
-Just a broken pencil.
-
+Come in.
+GWEN enters.
+LENA CONT.
+Good evening Gwen. Take a seat.
+GWEN does so.
+LENA CONT.
+You wanted to see me?
+GWEN takes a deep breath.
+GWEN
+I’m ready.
+LENA
+Excuse me?
 [2]
 
 ©Rusty Quill 2023
 
+GWEN
+I’m ready for my next assignment.
+Beat.
 LENA
-(Approaching)
-I see. And what exactly is this you're
-working on anyway?
-SAM
-(returning)
-Just some response department
-paperwork.
+I believe I was quite clear when I
+explained that you no longer hold
+the Externals Liaison position.
+GWEN
+You were.
 LENA
-(leafing through)
-You are aware that the response
-department hasn't existed for some
-years now?
-SAM
-Well yes but…
+Yet here you are, once again making
+demands.
+Beat. GWEN swallows her pride.
+GWEN
+I understand now that I may have…
+mishandled myself previously and…
+I may have more to learn than I
+thought.
 LENA
-I am afraid it looks like our
-colleagues are entertaining
-themselves at your expense.
-SAM
-Sorry?
+Go on.
+GWEN
+But I’ve had some time to reflect
+and… I can do this. I know I can.
 LENA
-I’ve seen this with other new hires.
-Some ill-conceived initiation rite.
-Alice's doing, I suspect.
-SAM
-Ok, uh… Thanks for the heads up.
-SAM sits and returns to the paperwork.
-LENA
-What I am trying to say, Sam, is that
-this paperwork is unnecessary.
-Meaningless.
+That doesn't change the fact that I
+cannot in good conscience give you
+your former role given everything
+that has happened. It would be…
+irresponsible.
+
 [3]
 
 ©Rusty Quill 2023
 
-SAM
-I understand. But I think I might see
-how far down the rabbit hole goes. If
-it is AliceLENA
-I am sure it is.
-SAM
--I want to see how long she can keep
-it up for.
+GWEN
+I’m not asking you to give it me. I’m
+asking for the chance to work for it.
+To earn it.
 LENA
-(nonplussed)
-So long as it doesn't interfere with
-your work.
-SAM
-Oh, I’m doing it strictly off the clock.
-SAM continues with the paperwork and LENA observes him for a
-moment.
-SAM CONT.
-It's actually sort of comforting in a
-way, you know?
-LENA
-I can assure you, I don't.
-SAM
-There’s just something very zen
-about filling in pointless forms now
-and then.
-LENA
-I see.
-(she doesn’t)
+I see. Then I will require you to be
+honest. You have been deeply
+troubled by your interactions with
+our Externals thus far. What has
+changed?
 Beat.
+GWEN
+I… have had some time to consider
+the situation, and I've decided I'd
+rather be on the inside.
+LENA
+You believe working in this role
+would be less dangerous than
+simply quitting? That it could afford
+you some protection?
+GWEN
+Am I wrong?
+Pause.
+LENA
+There is an upcoming visit from the
+new Minister. Regrettably, he
+believes himself to be a “hands-on”
+leader. You will assist me in…
+humoring him and expediting his
+departure. If you are able to do this
+without further complications, we can
+discuss your future position here. Do
+I make myself clear?
 
 [4]
 
 ©Rusty Quill 2023
 
-LENA CONT.
-Well as engrossing as this must be
-for you, I believe your shift has
-started.
+GWEN
+Crystal.
+LENA
+Good. Then get back to work. And
+close the door properly on your way
+out.
+Beat. Gwen restrains her instincts. She stands and heads to the
+exit, opens the door then hesitates.
+GWEN
+(dangerously calm)
+Thank you Lena.
+She closes the door.
 Beat.
 LENA
-Sam.
-SAM
-Mmm? Oh yeah, sorry.
-SAM puts the papers aside then begins his computer work.
+(wary)
+Hmmm.
 
-2. CYBERSPACE
-CHESTER
-FORUM THREAD: Updates &
-Live-posting
-REGISTERED BY: Alnewman86 (2006-18, 19:27)
-POST #1: Finding My Piece (20-0618, 19:31)
-Hey all, A here. First off, thank you
-so much for all the help over these
-past few months. I can't express how
-insightful, patient and open minded
-this community has been. I never
-thought I'd find others willing to help
-me create a better me like this so...
-sincerely thank you.
-Anyway I'm going to be documenting
-my journey here and wanted to start
-by asking how you all went about
-finding your piece. I've been thinking
+2. CYBERSPACE – N/A – N/A
+NORRIS
+NapSafe nannycam
+Registration 977470
+User: Patricia Spaulding
+Recording: 29.02.2024
+Soft sound of a rocking chair as mother rocks her baby in her
+arms.
+MOTHER
+There we go. Recording. The health
+visitor said it wasn't a good idea, but
+I want to remember everything that
+happens with Rupert. Especially
 [5]
 
 ©Rusty Quill 2023
 
-it over for a while now. I even caught
-myself saying it to myself into the
-bathroom mirror at work. Someone
-overheard me and thought I was
-talking about finding peace, like
-inner peace, and asked if I was
-meditating. Kind of ironic, really, but
-I don't think they'd get the joke.
-Anyway, I’d love to know how others
-found their piece. Or I guess my
-question is more, does it matter?
-Should it be important? Should it be
-meaningful? Should it be random?
-Am I overthinking it? Looking for
-thoughts and advice. I'm going to
-take this all the way so will take all
-the help I can get!
-43 LIKES
-0 COMMENTS
-POST #2: Found it! Alnewman86 (1307-18, 18:52)
-I think I've found it. My piece. Maybe
-I knew where it was all along. I'm a
-bit worried though because to get it I
-have to be a bit... Sneaky? Nothing
-too bad, but I'm nervous. . There's
-this restaurant I eat at all the time or rather I used to eat at all the time and I guess it's significant to me. It
-was where I said yes after Anthony
-proposed (those who have read
-some my previous posts know how
-THAT turned out) but it's also where
-I first realized that I had to do this.
-They have this massive aquarium
-and I remember just suddenly
+given how little I remember of the
+birth. Or the pregnancy. The health
+visitor says that's normal.
+I’m already completely smitten with
+him. He’s perfect. His perfectly little
+round head. His chubby cheeks. His
+little plum-shaped chin. And his
+eyes. I read the eye color doesn’t
+really settle until they’re older, but
+the way he looks at me with these
+big black orbs staring right back at
+me . . . it makes my heart just burst
+with joy every time.
+He hasn’t been giving me much
+sleep of course, the little bugger. But
+that’s to be expected. The health
+visitor said it was going to be like
+that for a while. According to her, he
+needs to eat every four hours, so I
+need to try and sleep when he’s
+sleeping. Hasn’t been easy though. I
+need to do a better job of keeping
+time, but I’m pretty sure he’s eating
+more often than that.
+A mum needs to be there for her little
+one. No matter what hour of the day
+it is. No matter what it takes. I’m
+there for Rupey twenty-four-seven,
+even if I’m not getting much sleep
+during those twenty-four.
+Little Rupert did this darling thing
+earlier where he stuck out his cute
+little tongue at me. It was long and
+thin and curl and just adorable. Made
+my heart burst with love all over
+again for this wonderful little thing.
 [6]
 
 ©Rusty Quill 2023
 
-realizing how serene everything was
-inside. The water was crystal blue
-and at the bottom there it was...
-vibrant, electric almost and... so very
-alive. (God knows how they got it all
-through customs)
-I remember the first night coming
-home after that. Anthony was
-snoring beside me, and I couldn't
-stop thinking about that aquarium. I
-didn't really know what I was
-searching for, I didn't know how to
-articulate it. It's a feeling I'm sure
-many of us here know very well and
-so as I tried to unfold my thoughts...
-I stumbled upon... well, you guys! :)
-So yeah, that’s going to be my piece.
-I've already spoken to a waiter who's
-agreed to let me in the back
-tomorrow night after closing while
-they're cleaning up in the kitchen. I
-have my container and I've read all
-the steps in the How-To Forum. I just
-wanted you all to be here with me, to
-experience it. So... Wish me luck!
-28 LIKES
-0 COMMENTS
-POST #3, I think I'm just about ready
-Alnewman86 (14-07-18, 20:48)
-I'm parked in across the street
-waiting for the last customers,
-thinking about what this place meant
-to me, back then, what would've
-happened if things had been
+NORRIS
+First recording ends.
+Second Recording.
+MOTHER
+I think there’s something wrong. I
+don’t know what it is. It’s possible
+it’s me, or it might be something
+else. I feel weird saying it out loud.
+I’ve started hearing things. Strange
+sounds. There’s only me and Rupert
+here in the house. I'm sure of that.
+The sounds haven’t been the same
+either. Sometimes they’re moans,
+sometimes they’re barks, like a dog
+that’s far away... definitely not
+sounds another person would make.
+I’ve only heard them on those rare
+times when Rupert will stay by
+himself a little bit, dozing. I feel like
+I'm going crazy.
+Oh, I shouldn’t say that word! That’s
+one of the lessons from the mum’s
+support group. You never use that
+word to describe yourself. The
+instructor had a long chat about
+postpartum depression, and what to
+watch for. But it's not that. It - I just
+need some sleep.
+Rupert keeps feeding like he doesn't
+know where he’s going to get his
+next meal from.
+I've been trying to follow their
+advice- The support group- There’s
+this lovely girl there, Celia. Really
+helpful. And Rupert just loves her –
 [7]
 
 ©Rusty Quill 2023
 
-different. Not that I'd have it any
-other way.
-His voice was so loud for so long it
-drowned me out of my own life. I
-wonder if any of you have felt it? The
-way other people try to convince us
-that we can better ourselves by
-being more like what they want. But
-we can become someone new.
-Someone better. Someone the pain
-can't touch... Anthony would never
-understand the difference. He
-couldn't.
-I wonder how many people in that
-restaurant right now are still stuck
-like I was?
-I'm just killing time so happy to chat
-it through, if anyone wants (at least
-until the waiter arrives!)
-13 LIKES
-0 COMMENTS
-POST #4, I think I'm just about ready
--2 Alnewman86 (15-07-18, 20:37)
-I can't believe it! My heart is still
-racing! I've never done anything like
-this before. Never stolen, never
-cheated... I feel alive for the first time
-in my life.
-I’m staring at my piece right now. It’s
-on my desk, I want to keep it warm.
-I’m going to sleep holding it tonight
-like you all suggested, so it’s
-properly bonded with me before
-tomorrow... It is safe, right? Of
+always wants her to hold him. He's
+so good at the group. Always puts
+on his best face on. Never cries or
+snaps at them with those sharp little
+teeth. I feel a bit self-conscious,
+though, when I see one of the other
+mums staring at my bandage. They
+don't seem to need one. Still, the
+health visitor says every baby is
+different. I tried using a dummy but
+he just let it fall out of his mouth. He
+looked at me with such hunger in his
+eyes. I tried formula after that. But he
+still wasn’t having it. He's right, I
+suppose. He's so clever.
+Beat.
+I’m going to admit something now.
+Just to you. Rupert’s in the other
+room, sleeping for the moment.
+(takes a deep breath)
+Sometimes I think there might be
+something wrong with Rupert…
+Beat.
+MOTHER
+(quickly)
+No.. No, that’s just stupid. Now that
+I’ve said it out loud, it’s just silly.
+I think it says more about me than
+him. Probably because I haven’t
+been getting enough sleep. Maybe I
+do have postnatal problems? I’m
+going to have to remember to
+mention it at our next support
+meeting.
+NORRIS
+Second recording ends.
 [8]
 
 ©Rusty Quill 2023
 
-course it is. I’m overthinking it. Will
-be back tomorrow, right before the
-full moon!
-34 LIKES
-0 COMMENTS
-POST #5, First Cut Alnewman86 (1607-18, 19:22)
-Took today off work. Sleeping
-beside the coral, my coral, my
-piece… I slept better than any night
-next to Anthony, better than any
-night ever. The best sleep of my life.
-I’m so ready to be whole.
-I even had a dream last night. I was
-back at the restaurant, looking at the
-aquarium while Anthony prattled on.
-I was staring, aimlessly, at the lights;
-the colourful stones, the green of the
-moss on the stones that hugged the
-Coral... when all of a sudden, I was
-alone. And…
-I was afraid. I span my head around,
-looking for Anthony, for the waiter for anyone. Then I saw her. On the
-other side of the Aquarium. We
-locked eyes for just a moment.
-Like I said, I want to share every part
-of this for anyone who wants to
-follow in my steps. I know some of
-you like the dream interpretation part
-of it and I wanted to share.
-But I'm ready. I have my rubber
-gloves, I've sanitized the scalpel as
-LazerCat23 suggested, I have a clean
-working surface, bags, bandages
+NORRIS
+Third recording.
+MOTHER
+Things are . . . dark right now. Bleak.
+I know it’s been a while since I did a
+recording…
+I haven’t been feeling that well lately.
+Still making sure to take care of the
+little one and feed him when he’s
+hungry, which feels like all the
+bloody time these days.
+But . . . but things just feel so heavy
+right now. And slow. Moving around
+is painful, and I always need more
+bandages. Thank god for the health
+visitor.
+It’s all about Rupert though. He’s the
+one who needs everything perfect.
+So he can keep growing and become
+a perfect little boy. I don’t matter as
+much. I’ll start taking care of myself
+again when I need to . . . eventually.
+I’ve skipped the last two support
+group meetings. Just haven’t felt up
+to going. It’s such a chore, packing
+up all the things Rupert might need.
+Nappies and wipes and baby powder
+and creams and extra clothes and
+burp cloths and…
+(getting a little angry)
+It’s all so bloody much!
+Much better just to stay here.
+Me and my little Rupert.
 [9]
 
 ©Rusty Quill 2023
 
-and my sewing kit for after and... and
-I am nervous.
-I know what I need to do, and I know
-it will all be worth it.
-Will update right after. Here we go.
-35 LIKES
-0 COMMENTS
-POST #6, First Cut - Update
-Alnewman86 (16-07-18, 21:17)
-I’m a bit out of it but I promised I
-would update: Feeling a bit woozy
-but it's done. My thigh bled a lot
-more than I expected, you were right
-burntumberJ. I have tomorrow off
-but I have to go back to work while
-she starts to grow. I can't wait… I
-can see her, under my rippled skin.
-Waiting to grow. She's perfect…
-She's everything I wish I could've
-been.
-15 LIKES
-0 COMMENTS
-POST #7, My Secret Alnewman86
-(26-07-18, 15:34)
-I've been at work for a week now and
-it’s so different. It was difficult to go
-back to "normal" knowing she was
-inside me but here I am, actually sat
-at my desk with her pressing against
-my thigh skin. I keep catching myself
-running my fingers under my skirt
-just to feel her pressing up beneath
+All we need is each other and that’s
+it...
+Beat.
+The lack of sleep is really getting to
+me though. I do get some at least,
+but I’d like more. Rupert just keeps
+needing to eat. And feed. And feed.
+And eat. At this rate I wonder how
+much of me will be left…
+(she shudders)
+Beat.
+(all happy and positive again)
+I love it when he looks at me when
+he’s feeding and then he gives me
+this big smile. This morning he got a
+smear of blood on his cheek. Like he
+was wearing makeup.
+Just made him look more beautiful…
+Makes it all worth it.
+And he’s made me feel all better.
+Just looking at your cute little face,
+Rupey, brings light to my dark world.
+NORRIS
+Third recording ends.
+Fourth recording.
+MOTHER
+I . . . I really need some sleep. I feel
+so . . . drained. Rupert… Rupert
+keeps getting his feedings, Not
+going to change that. Can’t change
 [10]
 
 ©Rusty Quill 2023
 
-my skin; living, breathing polyps
-gently moving through my leg. A life
-that I hold within my body and
-nurture. Anthony would never have
-understood, it’s not the same as
-some squealing baby. I'm so glad
-he's gone and like you've all said she
-and I, we’re becoming one… and
-then two.
-45 LIKES
-0 COMMENTS
-POST #8, My Secret - Update 1
-Alnewman86 (18-08-18, 22:03)
-Hey all. I know it's been a few weeks
-since I've updated. I'm in the early
-parts of stage 2 and I'm here to
-confirm it is terrifying. It started with
-my feet, I noticed in the shower one
-day that I couldn't feel the hot water
-on them... it was so strange at first
-but I knew what was happening
-thanks to your advice. It's up to my
-waist now... no feeling whatsoever.
-I'm on bereavement leave from work
-for the next bit then I have some
-vacation days saved up. I have the
-humidifiers set high, the curtains are
-taped shut and everything I need is
-within reach. I know any day now my
-second stage will properly begin.
-I'm terrified. I'm exhilarated. It's
-really happening!
-Wish me luck!
-54 LIKES
-0 COMMENTS
+that. Has to eat. I have to eat too. So
+he can eat.
+I…
+(takes a shaky breath)
+I had a… a strange thing happen
+today. Very… Very strange… Rupey
+was in his crib. In the… the room.
+The room where he sleeps.
+Sometimes. And… and when I came
+in…
+(another breath)
+On the wall was this… the shadow
+was wrong… I couldn’t scream,
+though. Couldn’t… couldn’t wake
+him up. I turned on the light. To
+make it go away.
+And when the light came on, it was
+gone. And there… there was Rupey.
+Sitting up in his crib. Looking…
+looking at me… Watching me…
+The health visitor says its normal.
+They're here every day now. Such a
+help.
+Sound of something mewling to be fed. It is not
+a baby.
+You hungry again? Rupey? Come
+on. Come here then. The arm this
+time? Ok...
+NORRIS
+Fourth recording ends.
+Fifth Recording.
+
 [11]
 
 ©Rusty Quill 2023
 
-POST #9, My Secret - Update 2
-Alnewman86 (27-08-18, 10:13)
-It's started. Last night, I heard it
-while laying in bed... It's exactly as
-described. I couldn't feel a thing,
-nothing, but then the skin broke with
-such a distinct sound. Like cutting a
-half-inflated football. Then I saw the
-red blossom out through the white
-sheets.
-She’s so beautiful, bright pink, and
-radiant! The coral polyps blooming
-and scattering from the broken flesh
-over my feet and legs with such an
-incredible smell, like sea water, sand
-and copper.
-It's slow though, much slower than I
-would've thought….
-Oh, and I managed to rent a
-paralysis computer. Great
-suggestion again burntumberJ. So I
-should be able to keep everyone
-updated as planned, even when my
-arms start to go.
-I cannot express how great it is to
-finally see her... to finally meet her
-out in the world at last.
-62 LIKES
-0 COMMENTS
-POST #10, am I dreaming
-Alnewman86 (30-08-18, 08:19)
+MOTHER
+(exhausted, ragged quiet voice,
+almost a whisper)
+I don’t know what’s happening… to
+me… It all feels dark… like it’s black
+clouds… all the time.
+I can’t remember when… when I
+last… had sleep. I think… I think
+days…
+It all feels too heavy… to move. So
+I’m sitting… I’m sitting all the time.
+But…
+But I’ve got Rupert. On my lap. So he
+can eat. When he wants. He can
+have…me. My all. He’s… he’s
+what’s…imp-…imp-…imp-or-tant.
+I don’t…I don’t know
+what’s…going…to…happen. There's
+not much of me left.
+(breathing heavier)
+I’m so scared. But…at
+least…Rupey’s happy…
+Recording ends.
+
+3. INT. OIAR MANAGER’S OFFICE - NIGHT, CLEAR
+(COMPUTER)
+SAM and CELIA are packing up to go.
+CELIA
+All set?
 
 [12]
 
 ©Rusty Quill 2023
 
-I had the dream again. I was in the
-restaurant. I was alone and I met her
-eyes. She was me. She was with me
-that first night. She was always with
-me... but now she's arrived. She's
-here. I'm awake.
-She has my eyes.
-61 LIKES
-0 COMMENTS
-POST #11, She’s almost here
-Alnewman86 (01-09-18, 09:04)
-Last night I watched my stomach
-unzip. The skin stretched then tore
-cleanly. There was only the blood. It
-was beautiful but it took forever. I
-keep thinking of this life I'm leaving
-behind. I’d love her to keep my
-name. But I don’t know if she will. I
-know I shouldn't be, but I'm scared.
-68 LIKES
-0 COMMENTS
-POST #12, She's almost here-2
-Alnewman86 (01-09-18, 18:33)
-I'm having difficulty swallowing
-fluids now. My skin is wet with sweat
-and mold.
-Alesis Newman is leaving this world
-and whoever comes next, though
-she may look like me in some ways,
-though she may carry a part of me
-with her, she’ll be better. Free of all
-my mistakes.
-
+SAM
+Just about.
+CELIA
+You all right? You sound nervous.
+SAM
+I mean, maybe a little, but it’s good
+nervous. I think.
+CELIA
+Good. Let’s go and shake some
+answers out of people.
+SAM
+You are way too excited for this.
+They start to head out but ALICE approaches and they hesitate.
+ALICE
+Heading off?
+CELIA
+We are, yeah.
+SAM
+And before you ask, yes, we’ve
+cleared our cases for the night.
+ALICE
+Cool. Listen SamSAM
+-and no we haven’t asked Lena if we
+can leave early. It’s not like you ever
+doALICE
+(sharply)
+Would you shut up and listen.
+Beat.
 [13]
 
 ©Rusty Quill 2023
 
-Perhaps people will like her more
-than me. I already like her more than
-me.
-I want to see her walk off happy and
-strong. I hope she doesn’t feel this
-now, just be the good parts of me. I
-hope it’s like I dreamt, I hope she has
-my eyes…
-71 LIKES
-0 COMMENTS
-POST #13, Alesis Newman Final
-Alnewman86 (03-09-18, 02:22)
-Writing with my eyes now. The last
-parts of me float away. She lays
-where I lay but she is not me. She is
-strong. She is graceful. She is bright
-in mind and color and I love her,
-more than I thought I could love
-anything.
-I want you all to know… before my
-skull pulls apart… you were515 LIKES
-37 COMMENTS
-POST #14 untitled Alnewman86 (0301-18, 02:27) [Deleted by moderators
-03-01-18, 02:28]
-This isn’t right, there something
-wrong, something wrong with her. I
-don’t- help me
-0 LIKES
+ALICE CONT.
+(serious)
+Look, I need to talk to you both.
+CELIA
+(meeting her tone)
+What’s wrong?
+ALICE
+I don’t- I don’t think you should go.
+SAM
+Really? This again?
+CELIA
+(ignoring Sam)
+Go on.
+ALICE
+It’s Gwen. She’s- not okay.
+SAM
+We noticed. Not really much we can
+do about it, though.
+(curious despite himself)
+And since when do you care?
+ALICE
+Since it became clear that something
+really bad is going on.
+CELIA
+What happened?
+ALICE
+(struggling)
+It’s the, uh, ‘Externals’…
+
 [14]
 
 ©Rusty Quill 2023
 
-0 COMMENTS
-THREAD LOCKED BY
-BETTERTHENEW (03-01-18, 12:07)
-3. INT. OIAR BREAKROOM - NIGHT, CLEAR (CCTV)
-SAM enters the room and prepares coffee with a yawn.
-CELIA
-(yawning)
-Oh great, you’ve got me started.
 SAM
-(deliberately yawning)
-Soooooorry.
-CELIA
-(yawning again)
-Stop it!
-Sam chuckles. He finishes preparing the cup and sits next to
-Celia.
+Those contractors she's been
+working with?
+ALICE
+No. Well yeah, but it’s more than
+that. They… They’re not… Human.
+It’s bad. Bad bad. People have been
+killed and… and I think one of them
+might be… targeting us.
 SAM
-Anything good tonight?
-CELIA
-Another evil toy. That’s like 6 this
-week.
+(incredulous)
+What.
+ALICE
+I’m serious all right! You remember
+that woman I found?
 SAM
-If I could give you my weirder ones I
-would.
+Yeah.
+ALICE
+Well, I think it might have been one of
+these “Externals”. There was the tape
+recorder, and Gwen said she sawSAM
+Tape recorder? What are-? Look,
+Alice, I know you don't like me
+looking into this stuff, but killer tape
+recorders is weird even for you.
 CELIA
-Aw thanks!
-(she sips)
-Oh speaking of, did you have any
-luck?
-
+(to Alice)
+I believe you.
+SAM
+What?
+ALICE
+Really?
 [15]
 
 ©Rusty Quill 2023
 
-SAM
-Hmmm?
 CELIA
-Those names I gave you. You find
-anything?
+Yeah. I mean, you know, after
+everything we’ve been seeing
+coming through the system? It
+makes sense.
 SAM
-Nothing useful. Jonathan Sims is
-pretty generic as names go. And I
-didn’t have much luck with Martin
-Blackwood either. There were two
-that were close to the right age…
+It does?
 CELIA
-But?
+(To Sam)
+Is it really so hard to believe that
+something is hunting us back?
+Beat.
 SAM
-But they died, separately, nearly
-twenty years ago. cycling accident
-and some kind of heart thing. No
-connection to the Magnus Institute.
-As far as I can tell they never even
-met. Where'd you say you had found
-them?
-CELIA
-Couple of old documents. I must
-have got the wrong end of the stick.
-I’ve had a bit of luck elsewhere
-though.
+(reluctant)
+I suppose it’s not impossible. Okay,
+so let’s say, just for the sake of
+argument, that we believe you. What
+are we supposed to do about it?
+Hmm? I don’t know if you noticed
+but we’re not exactly equipped to
+fight off monsters or evil VHS tapes
+or whatever.
+ALICE
+You could stop poking your nose in
+where it doesn’t belong for a start!
 SAM
-(perking up)
-Oh yeah?
-CELIA
-I think I’ve found the right Basira
-Hussain and I have a lead on a
-Helen...
-
+So it is about that. I knew it. Look, if
+you are right about this, and I'm not
+saying you are, surely that only
+makes it more important to figure out
+what’s going on?
+ALICE
+Are you serious right now? None of
+this started until you joined and
+started kicking beehives!
 [16]
 
 ©Rusty Quill 2023
 
-SAM
-Richardson?
 CELIA
-That’s the one.
+Or perhaps you just didn't see it. I’m
+with Sam on this one. I don’t think
+ignorance is going to keep us safe.
 SAM
-Fantastic! When can we go talk to
-them?
-CELIA
-Okay hold your horses GWEN enters, clearly upset.
+And the Magnus Institute is involved.
+I just know it.
+ALICE
+I’m just trying toCELIA
+But that doesn’t mean we can’t be
+careful, take precautions, watch each
+other’s backs. Right?
 Beat.
-She begins to make coffee, sees it is empty then begins making
-more.
+CELIA CONT.
+Right?
 SAM
+…Right.
+ALICE
+I guess that’ll have to do.
+Pause.
+SAM
+Cool. Then I guess we’ve got a tube
+to catch.
+SAM starts walking off.
+ALICE
 (quietly to Celia)
-Don’t…
+Keep an eye on him.
 CELIA
-Shhh.
-(to GWEN)
-Care to join?
-GWEN
-I'm fine.
-SAM
-(sipping)
-Glad to hear it.
-CELIA
-Gwen… it’s okay if you need a bit of
-help now you’re back on cases-
-
+I will.
 [17]
 
 ©Rusty Quill 2023
 
-GWEN
-(slamming the coffee pot
-down)
-I said I'm fine.
-Beat.
+SAM
+(Calling)
+Celia come on, we’re going to be
+late!
+CELIA jogs off to join Sam. They exit.
+Alice stands there concerned.
+ALICE
+(softly)
+Shit.
+4. INT - SCHOOL OFFICE - MORNING, CLEAR (Sam’s Mobile)
+CELIA
+(quietly)
+-Your phone recording?
 SAM
 (quietly)
-Told you…
-CELIA
-All right then.
-(to Sam)
-Shall we?
-SAM
-God yes.
-They exit.
+All good.
+SAM and CELIA are led into the deputy headmistress’s office.
+BASIRA
+Good morning Mr. and Mrs… Fisher
+is it? Good. Please take a seat.
+SAM and CELIA sit.
+BASIRA leafs through various papers.
+BASIRA
+(tired)
+So I understand you’re hoping to
+enrole your son, is that correct?
 
-4. Int. OIAR Breakroom night, raining (CCTV) – SCENE
-CONTINUES
-GWEN recommences making coffee only to drop a mug.
-Beat. It feels like she is about to explode.
-Instead she cries, small and quiet.
-Pause.
-ALICE enters.
-ALICE
-So I hear you’re back to your normal,
-pleasant(noticing)
-Oh. Ah.
-GWEN
-I'm fine. I dropped my mug.
 [18]
 
 ©Rusty Quill 2023
 
-ALICE
-I can see that.
-Pause.
-ALICE takes over preparing coffee while GWEN steadies herself.
-ALICE
-I had a favorite mug. It said “love you
-bitch” and had a picture of drunk
-dog on it. Luke got it me with the
-cash from his first gig. Sam broke it
-by accident last month. I nearly fed
-him the pieces…
-Beat.
-Alice helps pick up the pieces.
-ALICE CONT.
-Is it really that bad being back in the
-muck with the rest of us?
-GWEN
-It’s not that.
-ALICE
-Oh yeah?
-GWEN
-You wouldn’t understand.
-ALICE
-Probably not, but I'm as good as
-you’re going to get here. Especially
-when you keep biting everyone’s
-heads off.
-Beat.
-
+SAM
+Er… yes, that’s right. We’ve heard
+very good things about St. Luke’s.
+BASIRA
+Well that’s what we like to hear. I
+assume you’ve completed an
+application already? Good. Well once
+we’ve got that, you’ll be asked to
+come for a tour with…
+CELIA
+Humphry.
+SAM snorts.
+BASIRA
+…Humphry and you’ll have a chance
+to meet some of our staff.
+SAM
+We’d also like to know a little more
+about you if that’s all right?
+BASIRA
+(Thrown)
+Me?
+CELIA
+We know St. Luke’s is prestigious but
+I think we both know that what really
+makes an exceptional school is the
+person calling the shots right?
+BASIRA
+(Slightly mollified)
+Well you’re not wrong, though I’ll
+remind you I am only deputy head.
+Mr. Donaldson technically runs the
+school, though he is not on site
+today.
 [19]
 
 ©Rusty Quill 2023
 
-GWEN
-(deep breath)
-Lena… She’s been sending me out
-to deal with people… things.
-Beat.
-ALICE
-Okay.
-GWEN
-And well… they’re… weird.
-ALICE
-Weird like a… lobster in a hat weird
-or…
-Beat.
-GWEN
-I think I have an idea where our
-cases are coming from.
-ALICE
-(suspicious)
-What are you saying, Gwen?
-GWEN
-(cracking)
-I thought maybe we were meant to
-be documenting them, keeping them
-monitored or under control, but- but
-then the Externals started turning up
-in the caseload after I gave them
-instructions andBeat.
+SAM
+So, what’s your history?
+BASIRA
+Excuse me?
+CELIA
+You’ll have to excuse my husband’s
+bluntness. He works in finance.
+BASIRA
+Ah.
+CELIA
+What he is trying to ask is if we
+could please know a little more
+about your background before
+coming to St. Luke’s?
+BASIRA
+I see. Well, I’ve been in charge here
+for almost five years. This is my
+fourth educational position and
+second deputy head role. I was also
+nominated for a Pearson Award for
+my previous work at Edgecroft
+Academy.
+CELIA
+That’s very impressive.
+SAM
+And before that you were a teacher?
+Any work or experience at other
+academic institutions?
 
 [20]
 
 ©Rusty Quill 2023
 
-GWEN CONT.
-Last time it was this tattooist. I was
-meant to be recruiting them only…
-things didn't go well Alice. They
-went bad. Very bad.
-ALICE
-(serious)
-Go on.
-GWEN
-They- It- well it turned on me. And I
-mean really turned on me. It was
-going to kill me Alice. It killed
-someone right in front of me and I
-was... it was ready for me next. Butbut then another showed up.
-ALICE
-Another what?
-GWEN
-Another thing. Another ‘External’. At
-least I think it was. They faced off
-and… I ran.
-ALICE
-God. What did the police say?
-GWEN
-What are you talking about? The
-police? Alice this wasn’t some
-random mugging! These… things.
-They’re awful, horrific. They aren’t
-human.
-ALICE
-And Lena knows this?
+BASIRA
+(bristling)
+I do have actual classroom
+experience, if that's what you're
+implying.
+CELIA
+I think my husband is wondering
+what it was that led you to working in
+the school system?
+Beat.
+BASIRA
+(terse)
+I was raised with a respect for
+education by a pair of academics. I
+am told that children like me and I’ve
+always held the opinion that the
+world would be a better place if
+everyone just thought more. Is that
+sufficient for your husband?
+SAM
+Er… yes. Thank you.
+BASIRA
+Are you sure? I may be able to rustle
+up my old school reports, a
+vaccination record perhaps?
+CELIA laughs awkwardly to ease the tension.
+SAM
+Have you ever been involved with the
+Magnus Institute?
+BASIRA
+(caught off guard)
+What? No. I don't- Is that a school?
 
 [21]
 
 ©Rusty Quill 2023
 
-GWEN
-(bitterly)
-Oh she knows. She just doesn’t care
-enough to warn us.
-Beat.
-GWEN CONT.
-You don’t believe me.
-ALICE
-After what I’ve seen here over the
-years? No, I am totally ready to
-believe Lena would rather hire literal
-monsters than pay a decent wage.
-Beat.
-ALICE CONT.
-Sorry. No wonder you’ve been so
-arsey.
-GWEN
-I’ve not been “arsey”ALICE
-So this “other” external. Why did it
-intervene?
-GWEN
-I don’t know.
-ALICE
-But like how did you know it was an
-External?
-GWEN
-Because I know how many eyes a
-regular human is supposed to have!
-It just stood there holding this old
-tape recorder and-
+SAM
+Sort of. Maybe.
+BASIRA
+(impatient)
+Well, I've never even heard of it. What
+is this about?
+CELIA
+How about the police?
+BASIRA
+(angry now)
+I’m sorry, what has that got to do
+with anything?
+SAM
+(thrown)
+Good question.
+CELIA
+I’m just wondering, holding so many
+positions of responsibility, did you
+ever consider becoming a police
+officer?
+BASIRA
+I did not.
+(standing)
+Look, ‘Mr. and Mrs. Fisher’, I suspect
+you may have me confused with
+someone else. Regardless, our time
+is up and I have other places I need
+to be.
+SAM
+No, yeah of course. Sorry.
 
 [22]
 
 ©Rusty Quill 2023
 
-(noticing Alice)
-What? What is it?
-ALICE
-A tape recorder?
-GWEN
-Yes.
-ALICE
-You’re sure?
-GWEN
-Of course I’m sure! Are you not
-listening to me! I just told you Lena
-has been hiring supernatural
-monsters and you’re asking about a
-cassette player of all thingsALICE
-Shut up.
-GWEN
-Don’t you dareALICE
-Gwen. I think we’re in danger.
-GWEN
-That’s what I’ve been trying toALICE
-No listen, that tape… thing. This isn’t
-the first time I've…
-GWEN
-What?
-ALICE
-I think they might be after us. All of
+CELIA
+Thank you so much for meeting with
 us.
+BASIRA
+(ushering them out)
+Mrs. Banks will show to the main
+entrance. Any further enquiries about
+enrollment should be directed to our
+admissions department.
+CELIA
+Of course.
+BASIRA
+Good day to both of you.
+The door is closed brusquely.
 Beat.
-[23]
-
-©Rusty Quill 2023
-
-GWEN
-Alice, what are we going to do?
-ALICE
-I don't know.
+SAM
+Well, that could have gone better.
+What was that police stuff about?
+CELIA
+Thought I remembered something
+from the file. Guess I was wrong.
+Anyway, come on. Humphry’s
+waiting for us.
+SAM
+Who? Oh right, yeah. ‘Humphry’.
 [Music]
 ANNOUNCER
 The Magnus Protocol is a podcast
 distributed by Rusty Quill and
 licensed under a Creative Commons
 Attribution Non-Commercial Sharealike 4.0 International License.
+[23]
+
+©Rusty Quill 2023
+
 The series is created by Jonathan
 Sims and Alexander J Newall, and
 directed by Alexander J Newall.
-This episode was written by Harlan
-Guthrie and edited with additional
+This episode was written by Alex
+Telander and edited with additional
 materials by Jonathan Sims and
 Alexander J Newall, with vocal edits
-by Nico Vettese, soundscaping by
-Meg McKellar, and mastering by
+by Lowri Ann Davies, soundscaping
+by Tessa Vroom, and mastering by
 Catherine Rinella with music by Sam
 Jones.
 It featured Billie Hindle as Alice Dyer,
 Shahan Hamza as Samama Khalid,
-Anusia Battersby as Gwen
-Bouchard, Lowri Ann Davies as Celia
-Ripley, Sarah Lambie as Lena Kelley
-with additional voices from Jonathan
-Sims.
+Anusia Battersby as Gwen Bouchard
+Lowri Ann Davies as Celia Ripley,
+Sarah Lambie as Lena Kelley with
+additional voices from Alexander J
+Newall.
 The Magnus Protocol is produced by
 April Sumner, with executive
 producers Alexander J Newall, Dani
@@ -813,10 +817,6 @@ F.G. Hamilton, and Associate
 Producers Jordan L. Hawk, Taylor
 Michaels, Nicole Perlman, Cetius
 d’Raven, and Megan Nice.
-[24]
-
-©Rusty Quill 2023
-
 To subscribe, view associated
 materials, or join our Patreon, visit
 rustyquill.com. Rate and review us
@@ -825,61 +825,71 @@ us on facebook or email us at
 mail@rustyquill.com
 Thanks for listening.
 
-[25]
+[24]
 
 ©Rusty Quill 2023
 
-The Magnus Protocol 23 – A New You
-CAT13RBC3536-20062018-18042024
-Transformation (dysmorphic) -/-doppleganger (infection)
+The Magnus Protocol 24 – Raising Issues
+CAT1RBC1375-29022024-23042024
+Baby (demonic) -/- Delusion (exhaustion)
 Incident Elements:
- Dysmorphia
- Infection
- Trypophobia
- Body Horror/Modification
- Environmental Horror
-Transcripts: https://rustyquill.com/transcripts/the-magnusprotocol/
-This episode is dedicated to Hamda Alkhaja, thank you for your
+
+
+
+
+
+
+
+Cannibalism
+Demonic Children
+Post-partum Depression
+Self-Sacrifice
+Altered Reality
+Delusion
+
+This episode is dedicated to I_need_cookies, thank you for your
 generous support! You can find a complete list of our
 Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/
 Created by Jonathan Sims and Alexander J Newall
 Directed by Alexander J Newall
-Written by Harlan Guthrie, for more of his work visit
-https://www.malevolent.ca/
+Written by Alex C Telander, for more of his work visit
+https://ostiumnetwork.com/
 Script Edited with additional material by Jonathan Sims and
 Alexander J Newall
 Executive Producers April Sumner, Alexander J Newall,
 Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G.
 Hamilton
-Associate Producers Jordan L. Hawk, Tayl
+Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole
+Perlman, Cetius d’Raven, and Megan Nice
 Produced by April Sumner
+
 Featuring (in order of appearance)
 Sarah Lambie as Lena Kelley
-Shahan Hamza as Samama Khalid
+Anusia Battersby as Gwendolyn Bouchard
+Alexander J Newall as Norris
+Faye Derham as Mother
 Lowri Ann Davies as Celia Ripley
-Billie Hindle as Alice Dyer
-[26]
+[25]
 
 ©Rusty Quill 2023
 
-Anusia Battersby as Gwendolyn Bouchard
-Jonathan Sims as Chester
-Dialogue Editor – Nico Vettese
-Sound Designer – Meg McKellar
+Shahan Hamza as Samama Khalid
+Billie Hindle as Alice Dyer
+Frank Voss as Basira Hussain
+Dialogue Editor – Lowri Ann Davies
+Sound Designer – Tessa Vroom
 Mastering Editor - Catherine Rinella
 Music by Sam Jones (orchestral mix by Jake Jackson)
 Art by April Sumner
-
-SFX from previously credited artists
+SFX by previously credited artists
 Support us on Patreon at https://patreon.com/rustyquill
 Check out our merchandise available at
 https://www.redbubble.com/people/RustyQuill/shop and
 https://www.teepublic.com/stores/rusty-quill
-Support Rusty Quill by purchasing from our Affiliates:
+Support Rusty Quill by purchasing from our Affiliates;
 Phantom Peak – UK immersive experience – 15% discount with
 this link
 DriveThruRPG – DriveThruRPG.com
-
 Join our community:
 WEBSITE: rustyquill.com
 FACEBOOK: facebook.com/therustyquill
@@ -890,6 +900,6 @@ Archives, created by Rusty Quill Ltd. and licensed under a
 Creative Commons Attribution Non-Commercial Share alike 4.0
 International Licence.
 
-[27]
+[26]
 
 
