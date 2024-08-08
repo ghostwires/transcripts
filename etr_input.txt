@@ -1,814 +1,857 @@
 ©Rusty Quill 2023
 
 The Magnus Protocol
-“Raising Issues”
-Written By
-Alex C. Telander
-Edited by Jonathan Sims and Alexander J Newall
+Episode 25
+"Gut Feelings"
+Written by Jonathan Sims
+Edited by Alexander J Newall
 
-12-10-23
-V 3.0
-
+02-01-2023
+Draft 2
 [1]
 
 ©Rusty Quill 2023
 
 ANNOUNCER
-This episode is dedicated to
-I_need_cookies - May you reach for
-your dreams and catch them.
+This episode is dedicated from
+Cassidy: To the friends I’ve met
+thanks to Magnus, to my cat Néron
+who patiently allowed me to listen
+and relisten to episodes instead of
+giving him pets as is his right, and to
+the cup of tea the person listening to
+this likely forgot to drink!
 [Intro Theme]
 ANNOUNCER
 Rusty Quill Presents: The Magnus
 Protocol.
-Episode Twenty-Four – Raising
-Issues
+Episode Twenty-Five – Gut Feelings
 [Music]
-1. INT. OIAR MANAGER’S OFFICE - NIGHT, CLEAR (LANDLINE)
-LENA is typing at her desk.
-There is a firm but polite knock at the door.
-LENA
-Come in.
-GWEN enters.
-LENA CONT.
-Good evening Gwen. Take a seat.
-GWEN does so.
-LENA CONT.
-You wanted to see me?
-GWEN takes a deep breath.
-GWEN
-I’m ready.
-LENA
-Excuse me?
+
+1. INT. OIAR OFFICE INT. – NIGHT, CLEAR (COMPUTER)
+ALICE is working at her desk, clearly tense. SAM enters puts his
+bag down.
+SAM
+Hey.
+ALICE
+(relieved)
+Hey! How was it?
+SAM
+(Setting up)
+Well, no monsters stalked and ate
+me, if that’s what you’re worried
+about.
+A beat. This clearly is what she was worried about.
+
 [2]
 
 ©Rusty Quill 2023
 
-GWEN
-I’m ready for my next assignment.
-Beat.
-LENA
-I believe I was quite clear when I
-explained that you no longer hold
-the Externals Liaison position.
-GWEN
-You were.
-LENA
-Yet here you are, once again making
-demands.
-Beat. GWEN swallows her pride.
-GWEN
-I understand now that I may have…
-mishandled myself previously and…
-I may have more to learn than I
-thought.
-LENA
-Go on.
-GWEN
-But I’ve had some time to reflect
-and… I can do this. I know I can.
-LENA
-That doesn't change the fact that I
-cannot in good conscience give you
-your former role given everything
-that has happened. It would be…
-irresponsible.
+ALICE
+Good. Probably not enough meat on
+you anyway. Barely a snack.
+Another beat.
+ALICE CONT’D
+Have you heard from Celia?
+SAM
+She’s fine, too. Got a text from her a
+few minutes ago. She’s running late
+again.
+ALICE
+Another childcare emergency?
+SAM
+Sounds like it. But she is, and I
+quote, “definitely not dead, please
+reassure Alice”.
+ALICE
+Christ. Am I that bad?
+SAM
+You don’t want me to answer that.
+ALICE
+(A little sheepish)
+Sorry.
+SAM
+I get it. You’re worried. I mean, we
+are too. And that’s why we’re being
+careful, but like… You know when a
+dog gets nervous and starts barking
+at the postman because its worried
+he might secretly be a murderer or
+whatever?
 
 [3]
 
 ©Rusty Quill 2023
 
-GWEN
-I’m not asking you to give it me. I’m
-asking for the chance to work for it.
-To earn it.
-LENA
-I see. Then I will require you to be
-honest. You have been deeply
-troubled by your interactions with
-our Externals thus far. What has
-changed?
-Beat.
-GWEN
-I… have had some time to consider
-the situation, and I've decided I'd
-rather be on the inside.
-LENA
-You believe working in this role
-would be less dangerous than
-simply quitting? That it could afford
-you some protection?
-GWEN
-Am I wrong?
-Pause.
-LENA
-There is an upcoming visit from the
-new Minister. Regrettably, he
-believes himself to be a “hands-on”
-leader. You will assist me in…
-humoring him and expediting his
-departure. If you are able to do this
-without further complications, we can
-discuss your future position here. Do
-I make myself clear?
+ALICE
+Wow. Okay. Well, first of all,
+statistically seventy-three percent of
+all postmen are murderers, and
+second, you better not compare me
+to a dog again or I will start humping
+your leg.
+SAM
+(laughing)
+Noted. Any sign of Gwen, by the
+way? Not that I imagine it would
+devastate you if she got a bit
+monsterised.
+ALICE
+How dare you, I would definitely
+consider being sad about it at some
+point. But no, she’s fine, got in a few
+minutes ago and was immediately
+dragged into some planning session
+with Lena. I assume they’re deciding
+which of the minister’s ass cheeks to
+snog when he visitsNORRIS
+To: Kieran Harte
+(eqwrites@mailpod.com)
+SAM
+Hold that thought…
 
+2. CYBERSPACE – N/A N/A (COMPUTER)
+NORRIS
+From: Tom Connolley
+(editor@museninepublishing.com)
+Date: February 07 2024
 [4]
 
 ©Rusty Quill 2023
 
-GWEN
-Crystal.
-LENA
-Good. Then get back to work. And
-close the door properly on your way
-out.
-Beat. Gwen restrains her instincts. She stands and heads to the
-exit, opens the door then hesitates.
-GWEN
-(dangerously calm)
-Thank you Lena.
-She closes the door.
-Beat.
-LENA
-(wary)
-Hmmm.
-
-2. CYBERSPACE – N/A – N/A
-NORRIS
-NapSafe nannycam
-Registration 977470
-User: Patricia Spaulding
-Recording: 29.02.2024
-Soft sound of a rocking chair as mother rocks her baby in her
-arms.
-MOTHER
-There we go. Recording. The health
-visitor said it wasn't a good idea, but
-I want to remember everything that
-happens with Rupert. Especially
+Subject: Re: Hungry Man Grill review
+Hi Kieran,
+Thanks for sending the review, it was
+a real ride! That said, sorry to be
+blunt as it sounds like you’ve had a
+rough one, but I’m afraid we just
+can’t publish it as is. I know I usually
+only give you a few line edits, but I
+think this one needs a full redraft.
+First up, it’s waaay too anecdotal. I
+know that Dirty Eating is a
+personality-driven series, but it takes
+you over half the review just to get to
+the food. And the whole tone of the
+piece is off in a way that makes it
+kind of hard to take seriously. We’re
+looking for early-2000s Gordon
+Ramsay rage. I don’t know who
+you’re channeling in this one.
+Hieronymus Bosch? Regardless, it
+needs to be more in line with your
+previous reviews. I also don’t
+actually understand what you mean
+when you talk about the diner’s
+location.
+Also, and I hope I’m off base here,
+does that ending mean you’re
+planning to retire? Fingers crossed
+that’s not the case, but if you are
+looking to get out of the game, I
+would have hoped you would
+actually talk it through with me and
+not let me know through some
+surreal faux-review. Are you
+available for a call tomorrow? Would
+love to get on the line and hash all
 [5]
 
 ©Rusty Quill 2023
 
-given how little I remember of the
-birth. Or the pregnancy. The health
-visitor says that's normal.
-I’m already completely smitten with
-him. He’s perfect. His perfectly little
-round head. His chubby cheeks. His
-little plum-shaped chin. And his
-eyes. I read the eye color doesn’t
-really settle until they’re older, but
-the way he looks at me with these
-big black orbs staring right back at
-me . . . it makes my heart just burst
-with joy every time.
-He hasn’t been giving me much
-sleep of course, the little bugger. But
-that’s to be expected. The health
-visitor said it was going to be like
-that for a while. According to her, he
-needs to eat every four hours, so I
-need to try and sleep when he’s
-sleeping. Hasn’t been easy though. I
-need to do a better job of keeping
-time, but I’m pretty sure he’s eating
-more often than that.
-A mum needs to be there for her little
-one. No matter what hour of the day
-it is. No matter what it takes. I’m
-there for Rupey twenty-four-seven,
-even if I’m not getting much sleep
-during those twenty-four.
-Little Rupert did this darling thing
-earlier where he stuck out his cute
-little tongue at me. It was long and
-thin and curl and just adorable. Made
-my heart burst with love all over
-again for this wonderful little thing.
+this out.
+All the best,
+Tom
+Original message:
+To: Tom Connolley
+(editor@museninepublishing.com)
+From: Kieran Harte
+(eqwrites@mailpod.com)
+Date: February 06 2024
+Tom.
+Here’s your review. I hope you choke
+on it.
+Dirty Eating: The Hungry Man Grill,
+Newham.
+It has often been said that there is
+nothing in this world as satisfying to
+read as a truly bad review. The
+writer, unchained at last from the
+need for balance and consideration,
+can unleash the full force of their
+pen, indulging in turns of phrase and
+condemnation as vile and awful as
+the food they have been served and
+it was with full knowledge of this that
+I began the “Dirty Eating” column
+four years ago.
+While I certainly wasn’t lying when I
+told you my aim was to push back on
+health-food puritanism by profiling
+the grimiest and most deep-fried of
 [6]
 
 ©Rusty Quill 2023
 
-NORRIS
-First recording ends.
-Second Recording.
-MOTHER
-I think there’s something wrong. I
-don’t know what it is. It’s possible
-it’s me, or it might be something
-else. I feel weird saying it out loud.
-I’ve started hearing things. Strange
-sounds. There’s only me and Rupert
-here in the house. I'm sure of that.
-The sounds haven’t been the same
-either. Sometimes they’re moans,
-sometimes they’re barks, like a dog
-that’s far away... definitely not
-sounds another person would make.
-I’ve only heard them on those rare
-times when Rupert will stay by
-himself a little bit, dozing. I feel like
-I'm going crazy.
-Oh, I shouldn’t say that word! That’s
-one of the lessons from the mum’s
-support group. You never use that
-word to describe yourself. The
-instructor had a long chat about
-postpartum depression, and what to
-watch for. But it's not that. It - I just
-need some sleep.
-Rupert keeps feeding like he doesn't
-know where he’s going to get his
-next meal from.
-I've been trying to follow their
-advice- The support group- There’s
-this lovely girl there, Celia. Really
-helpful. And Rupert just loves her –
+roadside eateries and greasy
+spoons, I was also quite certain that
+I’d get to write a lot of bad reviews.
+And I did. And no doubt you
+devoured them greedily, reveling in
+my bile and distain. Perhaps The
+Hungry Man Grill is my punishment.
+Perhaps it is all our punishments.
+I found it down a small side road in
+Newham, though should you be in
+line for a seat at its table I have no
+doubt it will move to accommodate
+your booking. I shall not give the
+address as, even if I should be
+wrong and it remains where I found
+it, I would not risk those who
+consider themselves “adventurous
+eaters” going to find it.
+The question of where I first heard
+about the place is one that has
+preoccupied me since my visit. It
+was nestled in the list of reviews I
+was due to write, far enough down
+so as not to draw attention, but when
+I think about those long hours of
+research I spent compiling my
+monthly itinerary of epicurean
+disasters, I cannot recall adding it.
+Nor was there anything written in my
+notes to explain why I might have
+considered it worth visiting. This,
+however, is something I have
+realized only since the end of my
+meal there. At the time, I simply
+accepted it as the next stop on my
+grand tour of London grease, and
+made my way down there on an
+otherwise unremarkable Tuesday
 [7]
 
 ©Rusty Quill 2023
 
-always wants her to hold him. He's
-so good at the group. Always puts
-on his best face on. Never cries or
-snaps at them with those sharp little
-teeth. I feel a bit self-conscious,
-though, when I see one of the other
-mums staring at my bandage. They
-don't seem to need one. Still, the
-health visitor says every baby is
-different. I tried using a dummy but
-he just let it fall out of his mouth. He
-looked at me with such hunger in his
-eyes. I tried formula after that. But he
-still wasn’t having it. He's right, I
-suppose. He's so clever.
-Beat.
-I’m going to admit something now.
-Just to you. Rupert’s in the other
-room, sleeping for the moment.
-(takes a deep breath)
-Sometimes I think there might be
-something wrong with Rupert…
-Beat.
-MOTHER
-(quickly)
-No.. No, that’s just stupid. Now that
-I’ve said it out loud, it’s just silly.
-I think it says more about me than
-him. Probably because I haven’t
-been getting enough sleep. Maybe I
-do have postnatal problems? I’m
-going to have to remember to
-mention it at our next support
-meeting.
-NORRIS
-Second recording ends.
+lunchtime.
+Finding the place was more
+challenging than expected, as the
+address I had (apparently) noted
+down did not correspond precisely
+to the roads I found myself on, and
+my SatNav kept sending me round in
+circles. It was only when I noticed a
+grim little alleyway tucked behind an
+overflowing skip looming in front of
+a closed-down vape shop that I
+finally found my destination. The
+street was narrow, and steeper than I
+would have expected from that part
+of London, and as I made my way
+gingerly down it, I nearly slipped and
+fell twice. The cobbled stones were
+slick and oily, stained by small
+rivulets of old fat that leaked from
+the torn plastic of the bin bags that
+piled up on either side. Small white
+shapes dotted them, and I turned my
+eyes away, reluctant to come face to
+face with the maggoty refuse so
+close to the time and place I would,
+supposedly, be eating my lunch.
+Perhaps this is what the astute
+reader might have pointed out as my
+“first warning”, but to be clear it was
+not. Unpleasant and extreme as the
+place was, it was far from unique in
+my odyssey to the heart of the
+capitol’s least-healthy eatinghouses. Such flyblown paths have
+more than once led me to hidden
+gems serving deep-fried
+masterpieces and symphonies of fat
+and batter. No, my first warning was
 [8]
 
 ©Rusty Quill 2023
 
-NORRIS
-Third recording.
-MOTHER
-Things are . . . dark right now. Bleak.
-I know it’s been a while since I did a
-recording…
-I haven’t been feeling that well lately.
-Still making sure to take care of the
-little one and feed him when he’s
-hungry, which feels like all the
-bloody time these days.
-But . . . but things just feel so heavy
-right now. And slow. Moving around
-is painful, and I always need more
-bandages. Thank god for the health
-visitor.
-It’s all about Rupert though. He’s the
-one who needs everything perfect.
-So he can keep growing and become
-a perfect little boy. I don’t matter as
-much. I’ll start taking care of myself
-again when I need to . . . eventually.
-I’ve skipped the last two support
-group meetings. Just haven’t felt up
-to going. It’s such a chore, packing
-up all the things Rupert might need.
-Nappies and wipes and baby powder
-and creams and extra clothes and
-burp cloths and…
-(getting a little angry)
-It’s all so bloody much!
-Much better just to stay here.
-Me and my little Rupert.
+that, as I approached the filthy sign
+at the bottom of the street, I felt
+hungry.
+No doubt those who regularly
+indulge in my columns will raise an
+eyebrow at this. Lavish prose
+extemporizing the depths of my
+ravenous hunger are a common
+feature of my more ebullient reviews.
+And here is where I must reveal that
+these, all of these, were lies. It has
+been my habit, of a day when I am to
+visit one of these establishments, to
+ensure I have had a full and proper
+lunch beforehand.
+My reasoning is, I should hope,
+obvious: given how vile many of
+these diners can be, I always wish to
+be in complete control of how much
+of their food I wish to eat, and not be
+compelled by hunger to take more
+than a single bite if I do not wish to.
+On this particular day I had fortified
+myself not an hour before with a
+sizable sandwich from The Green
+Pig, a reliable café near
+Embankment. And yet, as I walked
+down that fetid, noxious alleyway
+towards the dimly buzzing sign for
+The Hungry Man Grill, I found
+myself… Well, I found myself a
+hungry man.
+Nor was it the sort of hunger that I
+am accustomed to. It was not the
+creeping, gentle ache of the stomach
+that alerts the mind to a need for
 [9]
 
 ©Rusty Quill 2023
 
-All we need is each other and that’s
-it...
-Beat.
-The lack of sleep is really getting to
-me though. I do get some at least,
-but I’d like more. Rupert just keeps
-needing to eat. And feed. And feed.
-And eat. At this rate I wonder how
-much of me will be left…
-(she shudders)
-Beat.
-(all happy and positive again)
-I love it when he looks at me when
-he’s feeding and then he gives me
-this big smile. This morning he got a
-smear of blood on his cheek. Like he
-was wearing makeup.
-Just made him look more beautiful…
-Makes it all worth it.
-And he’s made me feel all better.
-Just looking at your cute little face,
-Rupey, brings light to my dark world.
-NORRIS
-Third recording ends.
-Fourth recording.
-MOTHER
-I . . . I really need some sleep. I feel
-so . . . drained. Rupert… Rupert
-keeps getting his feedings, Not
-going to change that. Can’t change
+sustenance. Rather, I felt it in my
+whole body, a sudden weakness and
+trembling in my legs, punctuated
+with the most terrible emptiness I
+have ever known in the depths of my
+gut. The feeling was so thorough, so
+profound and unsettling, that part of
+my mind rebelled, desperately telling
+me to turn and leave. But my
+appetite pushed me onwards,
+towards the doorway that seemed to
+hold the most immediate promise of
+food.
+There was the smallest hint of
+resistance when I pushed on the
+door. Perhaps it was a symptom of
+my own reluctance to enter, or
+perhaps another manifestation of
+that sticky, pervasive filth that I soon
+realized coated everything inside. In
+layout and décor it is everything you
+would expect from an aging greasy
+spoon, from the red plastic of the
+chairs to the chipped formica of the
+tables. Faded posters advertising
+illegible meal-deals papered the
+walls, interspersed with picture
+frames containing photos of
+supposed celebrities who had eaten
+there. I recognized none of them and
+they did not look happy to be on the
+wall of The Hungry Man Grill. There
+were other people eating there,
+hunched over tables in silence, but
+when I first entered I took no notice
+of them, so overwhelming was my
+agonized appetite.
+I slumped down at an empty table,
 [10]
 
 ©Rusty Quill 2023
 
-that. Has to eat. I have to eat too. So
-he can eat.
-I…
-(takes a shaky breath)
-I had a… a strange thing happen
-today. Very… Very strange… Rupey
-was in his crib. In the… the room.
-The room where he sleeps.
-Sometimes. And… and when I came
-in…
-(another breath)
-On the wall was this… the shadow
-was wrong… I couldn’t scream,
-though. Couldn’t… couldn’t wake
-him up. I turned on the light. To
-make it go away.
-And when the light came on, it was
-gone. And there… there was Rupey.
-Sitting up in his crib. Looking…
-looking at me… Watching me…
-The health visitor says its normal.
-They're here every day now. Such a
-help.
-Sound of something mewling to be fed. It is not
-a baby.
-You hungry again? Rupey? Come
-on. Come here then. The arm this
-time? Ok...
-NORRIS
-Fourth recording ends.
-Fifth Recording.
-
+noticing but paying no mind to the
+tiny shapes that scurried away into
+the shadows when I did so. There
+was no counter that I could see, or
+any obvious waitstaff to take my
+order, but I did not have the strength
+to stand up again and go looking. All
+I could do was wait. And it was as I
+waited that two things hit me at
+once.
+The first was the smell. I’ve been to
+more than one restaurant where the
+fridge had failed, and the smell
+lingers with you, most notably the
+cloying, vomity smell of spoiled milk
+that nothing seems to shift. There
+were hints of other things in there as
+well, the sweeter notes of rancid
+meat and something acrid and
+chemical, all carried on a base of old
+and overused cooking oil. To say it
+was the worst smell I have ever
+encountered would be redundant.
+And yet, it did nothing to quash my
+hunger. If anything, it seemed to
+make it sharper still.
+The other was my fellow diners.
+Thin, ragged people lost in old suits
+and tattered dresses, all bedecked
+with a gruesome rainbow of ancient
+food stains. They said nothing, but
+many of them seemed to be openly
+weeping as they shoveled forkful
+after forkful of their meal desperately
+into their toothless mouths.
+And that was when I saw the food.
 [11]
 
 ©Rusty Quill 2023
 
-MOTHER
-(exhausted, ragged quiet voice,
-almost a whisper)
-I don’t know what’s happening… to
-me… It all feels dark… like it’s black
-clouds… all the time.
-I can’t remember when… when I
-last… had sleep. I think… I think
-days…
-It all feels too heavy… to move. So
-I’m sitting… I’m sitting all the time.
-But…
-But I’ve got Rupert. On my lap. So he
-can eat. When he wants. He can
-have…me. My all. He’s… he’s
-what’s…imp-…imp-…imp-or-tant.
-I don’t…I don’t know
-what’s…going…to…happen. There's
-not much of me left.
-(breathing heavier)
-I’m so scared. But…at
-least…Rupey’s happy…
-Recording ends.
-
-3. INT. OIAR MANAGER’S OFFICE - NIGHT, CLEAR
-(COMPUTER)
-SAM and CELIA are packing up to go.
-CELIA
-All set?
-
+Even in my weakened state the sight
+of it was almost enough to send me
+running, but I did not have time to
+even get to my feet before the door
+at the back opened and the chef
+walked out.
+He was, underneath it all, a very
+normal looking man. Average height,
+slim build, dark brown hair. But he
+was a normal looking man born of an
+overflowing waste bin and baptized
+in a deep fat frier. Every part of him
+was caked in grime and slick with a
+dozen varieties of viscous ooze. And
+in his hand he carried my plate.
+“Order up,” he said.
+This is what you’re here for, isn’t it?
+This is why you read these reviews:
+the money shot of awful food. The
+lurid, exquisite descriptions of the
+most disgusting food imaginable.
+What did it taste like? What was the
+texture? Did I throw up? How much
+of it did I choke down, feeling the
+writhing lumps sliding slowly down
+my throat?
+Fine.
+The first course was soup. Viscous,
+creamy white with streaks of lurid
+green. Thin pale strands floated in it
+that, were I to try and rationalise, I
+would pretend were noodles. But
+noodles don’t move like that.
+Noodles don’t leap off the spoon and
+crawl eagerly down your throat. The
+soup itself was oily, with a sour
 [12]
 
 ©Rusty Quill 2023
 
-SAM
-Just about.
-CELIA
-You all right? You sound nervous.
-SAM
-I mean, maybe a little, but it’s good
-nervous. I think.
-CELIA
-Good. Let’s go and shake some
-answers out of people.
-SAM
-You are way too excited for this.
-They start to head out but ALICE approaches and they hesitate.
-ALICE
-Heading off?
-CELIA
-We are, yeah.
-SAM
-And before you ask, yes, we’ve
-cleared our cases for the night.
-ALICE
-Cool. Listen SamSAM
--and no we haven’t asked Lena if we
-can leave early. It’s not like you ever
-doALICE
-(sharply)
-Would you shut up and listen.
-Beat.
+metallic tang to it, both too watery
+and too lumpy, with an aftertaste
+reminiscent of a week-old
+unchanged bandage.
+I swallowed every last mouthful, so
+acute and agonizing was my hunger.
+Yet still it grew. So down came the
+second course.
+The contents of the burger might
+have once been meat, but if it were
+beef, lamb or… something else
+entirely, it was impossible to say
+now. It glistened with a putrid
+rainbow sheen, as though it was
+coated in some sort of petrol, and I
+could not tell if the thick pus-like
+substance that dripped from it was
+some awful condiment or an
+emanation of the meat itself. By
+contrast, the bun seemed, at first
+glance, almost edible. A touch stale,
+perhaps, slightly discolored, but no
+obvious signs of mold or rot. It was
+only when the jagged knife of rising
+hunger forced me to bite down into it
+that I felt the thousands of tiny, ricelike weevils that crawled within its
+hollow shell.
+My reviewers’ arsenal of descriptors
+fails me when I try to describe the
+taste of that burger. Fetid, foul,
+noxious, none quite encapsulate the
+experience. Was it sweet? Yes, but
+the sweetness of spoiled milk. Was it
+salty? Yes, but the saltiness of
+infected blood. Was it bitter? Yes.
+Perhaps that is the only word I can
 [13]
 
 ©Rusty Quill 2023
 
-ALICE CONT.
-(serious)
-Look, I need to talk to you both.
-CELIA
-(meeting her tone)
-What’s wrong?
-ALICE
-I don’t- I don’t think you should go.
-SAM
-Really? This again?
-CELIA
-(ignoring Sam)
-Go on.
-ALICE
-It’s Gwen. She’s- not okay.
-SAM
-We noticed. Not really much we can
-do about it, though.
-(curious despite himself)
-And since when do you care?
-ALICE
-Since it became clear that something
-really bad is going on.
-CELIA
-What happened?
-ALICE
-(struggling)
-It’s the, uh, ‘Externals’…
-
+be sure of. Bitter in a way that went
+beyond the tongue and seeped its
+way into my brain. I can still taste it.
+They weevils were the most
+palatable part after they had stopped
+moving and my teeth had ground
+them to a paste. But that took an
+awful lot of chewing.
+I will perhaps skip the detailed
+portrait of desert. Suffice to say it
+was presented as an ice cream cake,
+and no matter how much I willed
+myself to throw it back up, to purge
+myself in a vomitous fury, my evergrowing hunger kept me eating.
+At that moment, there was a feeling
+almost like hope. Starter, main,
+desert. I had finished. Surely that
+was enough? But despite the roiling
+fullness in my stomach, I was still
+ravenous. Far hungrier than when I
+started. And as the chef, if so I might
+call him, walked back into the
+kitchen, I knew that there would be
+more coming. I knew there would
+always be more.
+It took every ounce of strength I had
+to rise from that table. I tapped into
+some core of resolve I never knew I
+possessed, pulling myself away,
+surrounded by diners who would
+never stand up again, and fleeing,
+stumbling blindly out into the sunlit
+London afternoon.
+This will be my last review. Not
+simply because I am afraid to cross
 [14]
 
 ©Rusty Quill 2023
 
-SAM
-Those contractors she's been
-working with?
+the threshold of another restaurant,
+terrified that on the other side I might
+find myself back in that place. But
+because even now, a week after I
+took my last bite at The Hungry Man
+Grill, I can still feel that food inside
+me. It sits in my stomach: pulsating,
+heavy… and growing. I can feel it
+pressing against the inside of my
+flesh even as I write this, see it
+bloating and distending my belly.
+In conclusion, a meal at The Hungry
+Man Grill will stay with you until your
+dying day.
+
+3. INT. OIAR OFFICE INT. – NIGHT, CLEAR (COMPUTER)
 ALICE
-No. Well yeah, but it’s more than
-that. They… They’re not… Human.
-It’s bad. Bad bad. People have been
-killed and… and I think one of them
-might be… targeting us.
+Well that brings back uni memories
+doesn’t it.
 SAM
-(incredulous)
-What.
+Does it?
 ALICE
-I’m serious all right! You remember
-that woman I found?
+The student union caff?
 SAM
-Yeah.
+(remembering amused)
+Oh god, yeah! Eurgh how could I
+forget those “sloppy joes”.
 ALICE
-Well, I think it might have been one of
-these “Externals”. There was the tape
-recorder, and Gwen said she sawSAM
-Tape recorder? What are-? Look,
-Alice, I know you don't like me
-looking into this stuff, but killer tape
-recorders is weird even for you.
-CELIA
-(to Alice)
-I believe you.
-SAM
-What?
-ALICE
-Really?
+Sloppy was definitely the word. I can
+still taste it...
+
 [15]
 
 ©Rusty Quill 2023
 
-CELIA
-Yeah. I mean, you know, after
-everything we’ve been seeing
-coming through the system? It
-makes sense.
 SAM
-It does?
-CELIA
-(To Sam)
-Is it really so hard to believe that
-something is hunting us back?
-Beat.
+Ugh, D’you remember when they
+tried to do a veggie option and it
+justCOLIN enters.
 SAM
-(reluctant)
-I suppose it’s not impossible. Okay,
-so let’s say, just for the sake of
-argument, that we believe you. What
-are we supposed to do about it?
-Hmm? I don’t know if you noticed
-but we’re not exactly equipped to
-fight off monsters or evil VHS tapes
-or whatever.
+(cautious)
+Oh. Uh, hi Colin.
 ALICE
-You could stop poking your nose in
-where it doesn’t belong for a start!
-SAM
-So it is about that. I knew it. Look, if
-you are right about this, and I'm not
-saying you are, surely that only
-makes it more important to figure out
-what’s going on?
+(turning, upbeat)
+Oh hey Colin! I thought you weren’tThey both spot the large hammer he’s holding.
 ALICE
-Are you serious right now? None of
-this started until you joined and
-started kicking beehives!
+(standing concerned)
+Colin, mate… What uh… what’s with
+the hammer?
+COLIN
+Stay out of my way, Alice.
+SAM
+Um Colin, what areColin swings the hammer, demolishing a nearby PC monitor.
+SAM
+Jesus!
+COLIN
+I’m going to the sever room.
+ALICE
+I don’t think that’s a good idea, mate.
+
 [16]
 
 ©Rusty Quill 2023
 
-CELIA
-Or perhaps you just didn't see it. I’m
-with Sam on this one. I don’t think
-ignorance is going to keep us safe.
 SAM
-And the Magnus Institute is involved.
-I just know it.
+I think you should listen to AliceCOLIN
+Shut up! Both of you just shut the
+fuck up! Don’t you get it?! I am trying
+to help, to save us from this
+goddamned fucking nightmare
+machine!
 ALICE
-I’m just trying toCELIA
-But that doesn’t mean we can’t be
-careful, take precautions, watch each
-other’s backs. Right?
-Beat.
-CELIA CONT.
-Right?
+Ok. Ok, Colin, listen to me all right.
+We’ve all seen messed up things
+happening recently. You say the
+computers need to be destroyed. We
+could totally believe that! Right,
+Sam?
 SAM
-…Right.
+I mean, yeah. That actually sounds
+pretty plausible right now.
 ALICE
-I guess that’ll have to do.
-Pause.
+But you can’t just start smashing
+shit without explaining what’s going
+on.
+COLIN
+No. It’s listening.
+ALICE
+But that doesn’t matter if you’re
+going to smash it into bits does it?
+So why don’t you just tell usCOLIN
+That’s only if it lives in the servers. If
+not…
 SAM
-Cool. Then I guess we’ve got a tube
-to catch.
-SAM starts walking off.
-ALICE
-(quietly to Celia)
-Keep an eye on him.
-CELIA
-I will.
+Then let’s go somewhere it can’t
+hear.
 [17]
 
 ©Rusty Quill 2023
 
+COLIN
+There isn’t anywhere, that’s the
+problem!
 SAM
-(Calling)
-Celia come on, we’re going to be
-late!
-CELIA jogs off to join Sam. They exit.
-Alice stands there concerned.
+You’re not making sense ColinCOLIN
+No, you just don’t get it. You don’t
+believe me. You’re just trying to buy
+time, keep me busy until-.
 ALICE
-(softly)
-Shit.
-4. INT - SCHOOL OFFICE - MORNING, CLEAR (Sam’s Mobile)
-CELIA
-(quietly)
--Your phone recording?
+Colin, that’s notCOLIN
+(swinging the hammer)
+Get back!
 SAM
-(quietly)
-All good.
-SAM and CELIA are led into the deputy headmistress’s office.
-BASIRA
-Good morning Mr. and Mrs… Fisher
-is it? Good. Please take a seat.
-SAM and CELIA sit.
-BASIRA leafs through various papers.
-BASIRA
-(tired)
-So I understand you’re hoping to
-enrole your son, is that correct?
+Watch it!
+Sam lunges at Colin, grabbing at the hammer. They struggle
+over it as Alice tries to restrain Colin.
+SAM
+Give me the-!
+COLIN
+Get off!
+In the struggle, the hammer smashes into the recording
+computer.
 
 [18]
 
 ©Rusty Quill 2023
 
-SAM
-Er… yes, that’s right. We’ve heard
-very good things about St. Luke’s.
-BASIRA
-Well that’s what we like to hear. I
-assume you’ve completed an
-application already? Good. Well once
-we’ve got that, you’ll be asked to
-come for a tour with…
-CELIA
-Humphry.
-SAM snorts.
-BASIRA
-…Humphry and you’ll have a chance
-to meet some of our staff.
-SAM
-We’d also like to know a little more
-about you if that’s all right?
-BASIRA
-(Thrown)
-Me?
-CELIA
-We know St. Luke’s is prestigious but
-I think we both know that what really
-makes an exceptional school is the
-person calling the shots right?
-BASIRA
-(Slightly mollified)
-Well you’re not wrong, though I’ll
-remind you I am only deputy head.
-Mr. Donaldson technically runs the
-school, though he is not on site
-today.
+4. MANAGER’S OFFICE – NIGHT, CLEAR (MANAGER’S
+SPEAKERPHONE)
+LENA is debriefing SAM, ALICE and GWEN with customary
+coldness.
+LENA
+So, does anyone care to explain why
+you thought it was a good idea to
+tackle an unstable armed man on
+government property without
+alerting the authorities?
+ALICE
+Is Colin going to be ok?
+LENA
+I doubt it but since he’s in custody
+the matter is out of our hands. The
+OIAR’s mental health policies only
+stretch so far and this became a
+police matter as soon as he attacked
+government property and
+employees.
+GWEN
+It's a miracle no-one was hurt.
+LENA
+A miracle that cost us three
+computer terminals and damaged a
+server rack. So I’ll ask again, what on
+earth were you thinking confronting
+him like that?
+ALICE
+We were trying to talk him down.
+LENA
+Oh really? Because it looked to me
+like Sam attempted to body tackle
+him.
 [19]
 
 ©Rusty Quill 2023
 
 SAM
-So, what’s your history?
-BASIRA
-Excuse me?
-CELIA
-You’ll have to excuse my husband’s
-bluntness. He works in finance.
-BASIRA
-Ah.
-CELIA
-What he is trying to ask is if we
-could please know a little more
-about your background before
-coming to St. Luke’s?
-BASIRA
-I see. Well, I’ve been in charge here
-for almost five years. This is my
-fourth educational position and
-second deputy head role. I was also
-nominated for a Pearson Award for
-my previous work at Edgecroft
-Academy.
-CELIA
-That’s very impressive.
+I thought he might hurt Alice.
+Alice chuckles quietly to herself.
+LENA
+How very chivalrous. And foolish. I
+expect you to review our liability
+waivers before you attack any other
+hammer-wielding maniacs. Is that
+clear?
 SAM
-And before that you were a teacher?
-Any work or experience at other
-academic institutions?
+Crystal.
+LENA
+Good. Now, how’s the system
+looking Gwen?
+GWEN
+It seems fine … As far as I can tell
+the server damage was superficial
+but again, as I keep saying, I’m not
+an I.T. expert. I don’t actually know
+how any of this works so…
+LENA
+I shall have someone take a closer
+look in due course. In the mean time,
+I want you all focusing on cleaning
+everything up ahead of the minister’s
+visit.
+GWEN
+(standing)
+Understood.
+SAM
+No, no, hang on a minute, I think we
+need to discuss if Colin’s right.
 
 [20]
 
 ©Rusty Quill 2023
 
-BASIRA
-(bristling)
-I do have actual classroom
-experience, if that's what you're
-implying.
-CELIA
-I think my husband is wondering
-what it was that led you to working in
-the school system?
+LENA
+Right about what exactly?
+SAM
+About the system listening in on us,
+about there being something
+dangerous in the computers?
+ALICE
+(warning)
+Sam…
+SAM
+No, I’m done playing office intern,
+after everything else that’s been
+going on it would be stupid of us not
+to even consider it.
 Beat.
-BASIRA
-(terse)
-I was raised with a respect for
-education by a pair of academics. I
-am told that children like me and I’ve
-always held the opinion that the
-world would be a better place if
-everyone just thought more. Is that
-sufficient for your husband?
-SAM
-Er… yes. Thank you.
-BASIRA
-Are you sure? I may be able to rustle
-up my old school reports, a
-vaccination record perhaps?
-CELIA laughs awkwardly to ease the tension.
-SAM
-Have you ever been involved with the
-Magnus Institute?
-BASIRA
-(caught off guard)
-What? No. I don't- Is that a school?
-
+LENA
+While I understand your concerns,
+Sam, there’s no way we can
+realistically act on them. Whatever…
+quirks the system might have, it is
+still essential for departmental
+functionality and interfering with
+government equipment is a criminal
+offense. As it is, Colin will be lucky
+to avoid charges of domestic
+terrorism.
+ALICE
+So what do you suggest?
+LENA
+I suggest you do as you are told and
+clean up. Meanwhile I will begin
+looking for a replacement IT
+manager. As if we didn’t have
+enough new hires already…
 [21]
 
 ©Rusty Quill 2023
 
+Speaking of which, does anyone
+know where Celia is?
 SAM
-Sort of. Maybe.
-BASIRA
-(impatient)
-Well, I've never even heard of it. What
-is this about?
+She had an emergency. She’s not
+sure when she’s going to get in.
+LENA
+Let me know as soon as she does.
+Her repeated absences have become
+a problem and I will not hesitate to
+add a second position to the jobs
+page if I have to.
+SAM
+I’ll tell her.
+LENA
+See that you do. Now if that’s
+everything I would appreciate it if
+you would all get to work.
+Everyone begins to shuffle out.
+LENA CONT.
+And please refrain from any further
+attempts at heroism on government
+property. I could do without the
+paperwork.
+5. COACH STATION NEAR OXFORD – NIGHT, CLEAR
+(CELIA’S PHONE)
+CELIA is queuing for the information booth. She is clearly
+disoriented and tired.
 CELIA
-How about the police?
-BASIRA
-(angry now)
-I’m sorry, what has that got to do
-with anything?
-SAM
-(thrown)
-Good question.
-CELIA
-I’m just wondering, holding so many
-positions of responsibility, did you
-ever consider becoming a police
-officer?
-BASIRA
-I did not.
-(standing)
-Look, ‘Mr. and Mrs. Fisher’, I suspect
-you may have me confused with
-someone else. Regardless, our time
-is up and I have other places I need
-to be.
-SAM
-No, yeah of course. Sorry.
+Hi, uh, could you tell me when the
+next coach to London is?
 
 [22]
 
 ©Rusty Quill 2023
 
+ATTENDENT
+You’re in luck, should be any minute.
+If you need a ticket, the machine’s
+over there.
 CELIA
-Thank you so much for meeting with
-us.
-BASIRA
-(ushering them out)
-Mrs. Banks will show to the main
-entrance. Any further enquiries about
-enrollment should be directed to our
-admissions department.
+Right, cheers. Can I pay by phone?
+ATTENDENT
+Yeah, you should be able to.
+Beat. CELIA sighs exhausted.
+ATTENDANT CONT.
+Listen is everything alright? Not to
+be rude but you’re looking like
+you’ve had a bit of a time of it.
 CELIA
-Of course.
-BASIRA
-Good day to both of you.
-The door is closed brusquely.
-Beat.
-SAM
-Well, that could have gone better.
-What was that police stuff about?
+No, yeah, I’m alright. Just a lot of last
+minute travel recently.
+ATTENDENT
+(unconvinced)
+If you’re sure… well best get that
+ticket. Looks like this is your coach.
 CELIA
-Thought I remembered something
-from the file. Guess I was wrong.
-Anyway, come on. Humphry’s
-waiting for us.
-SAM
-Who? Oh right, yeah. ‘Humphry’.
+(Hurrying off, flustered)
+Oh right, thanks!
+ATTENDANT
+(sympathetic)
+Just try and get some rest when you
+get home yeah?
+CELIA
+(bitterly to herself)
+Yeah. Right…
 [Music]
+
+[23]
+
+©Rusty Quill 2023
+
 ANNOUNCER
 The Magnus Protocol is a podcast
 distributed by Rusty Quill and
 licensed under a Creative Commons
 Attribution Non-Commercial Sharealike 4.0 International License.
-[23]
-
-©Rusty Quill 2023
-
 The series is created by Jonathan
 Sims and Alexander J Newall, and
 directed by Alexander J Newall.
-This episode was written by Alex
-Telander and edited with additional
-materials by Jonathan Sims and
-Alexander J Newall, with vocal edits
-by Lowri Ann Davies, soundscaping
-by Tessa Vroom, and mastering by
+This episode was written by
+Jonathan Sims and edited with
+additional materials by Alexander J
+Newall, with vocal edits by Nico
+Vettese, soundscaping by Mg
+McKellar, and mastering by
 Catherine Rinella with music by Sam
 Jones.
 It featured Billie Hindle as Alice Dyer,
 Shahan Hamza as Samama Khalid,
 Anusia Battersby as Gwen Bouchard
 Lowri Ann Davies as Celia Ripley,
-Sarah Lambie as Lena Kelley with
-additional voices from Alexander J
-Newall.
+Sarah Lambie as Lena Kelley, Ryan
+Hopevere-Anderson as Colin Becher
+with additional voices from
+Alexander J Newall.
 The Magnus Protocol is produced by
 April Sumner, with executive
 producers Alexander J Newall, Dani
@@ -823,65 +866,60 @@ rustyquill.com. Rate and review us
 online, tweet us @therustyquill, visit
 us on facebook or email us at
 mail@rustyquill.com
-Thanks for listening.
-
 [24]
 
 ©Rusty Quill 2023
 
-The Magnus Protocol 24 – Raising Issues
-CAT1RBC1375-29022024-23042024
-Baby (demonic) -/- Delusion (exhaustion)
+Thanks for listening.
+The Magnus Protocol 25 – Gut Feelings
+CAT2RB2474-07022024-24042024
+Food (Gorging ) -/- compulsion (disgust)
 Incident Elements:
-
-
-
-
-
-
-
-Cannibalism
-Demonic Children
-Post-partum Depression
-Self-Sacrifice
-Altered Reality
-Delusion
-
-This episode is dedicated to I_need_cookies, thank you for your
-generous support! You can find a complete list of our
+ Disordered Eating
+ Food Hygeine
+ Compulsion
+ Nausea
+ Manipulation (Suprnatural)
+ Hunger
+ Infections/Infestations
+ Maggots
+ Destruction of Property
+ Mental Breakdown, Mania
+Transcripts available at https://rustyquill.com/transcripts/themagnus-protocol/
+This episode is dedicated to Cassidy's Friends, thank you for
+your generous support! You can find a complete list of our
 Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/
 Created by Jonathan Sims and Alexander J Newall
 Directed by Alexander J Newall
-Written by Alex C Telander, for more of his work visit
-https://ostiumnetwork.com/
-Script Edited with additional material by Jonathan Sims and
-Alexander J Newall
+Written by Jonathan Sims
+Script Edited with additional material by Alexander J Newall
 Executive Producers April Sumner, Alexander J Newall,
 Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G.
 Hamilton
 Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole
 Perlman, Cetius d’Raven, and Megan Nice
 Produced by April Sumner
-
-Featuring (in order of appearance)
-Sarah Lambie as Lena Kelley
-Anusia Battersby as Gwendolyn Bouchard
-Alexander J Newall as Norris
-Faye Derham as Mother
-Lowri Ann Davies as Celia Ripley
 [25]
 
 ©Rusty Quill 2023
 
+Featuring (in order of appearance)
 Shahan Hamza as Samama Khalid
 Billie Hindle as Alice Dyer
-Frank Voss as Basira Hussain
-Dialogue Editor – Lowri Ann Davies
-Sound Designer – Tessa Vroom
+Alexander J Newall as Norris
+Ryan Hopevere-Anderson as Colin Becher
+Sarah Lambie as Lena Kelley
+Anusia Battersby as Gwendolyn Bouchard
+Lowri Ann Davies as Celia Ripley
+Mark Nicolson as Ticket Attendant
+Dialogue Editor – Nico Vettese
+Sound Designer – Meg McKellar
 Mastering Editor - Catherine Rinella
 Music by Sam Jones (orchestral mix by Jake Jackson)
 Art by April Sumner
-SFX by previously credited artists
+SFX by Freesound: unfa, JWMalahy, DarkoZL, quboup,
+TROLlox_78, tonsil5, toddcircle, Bexhillcollege, BMacZero,
+Soundsnap & previously credited artists
 Support us on Patreon at https://patreon.com/rustyquill
 Check out our merchandise available at
 https://www.redbubble.com/people/RustyQuill/shop and
@@ -897,9 +935,13 @@ X: @therustyquill
 EMAIL: mail@rustyquill.com
 The Magnus Protocol is a derivative product of the Magnus
 Archives, created by Rusty Quill Ltd. and licensed under a
+[26]
+
+©Rusty Quill 2023
+
 Creative Commons Attribution Non-Commercial Share alike 4.0
 International Licence.
 
-[26]
+[27]
 
 
