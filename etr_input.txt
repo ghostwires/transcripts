@@ -1,947 +1,942 @@
 ©Rusty Quill 2023
 
 The Magnus Protocol
-Episode 25
-"Gut Feelings"
-Written by Jonathan Sims
-Edited by Alexander J Newall
+“Catching Up”
+Written By
+Muna Hussen
+Edited by Jonathan Sims and Alexander J Newall
 
-02-01-2023
-Draft 2
+12-10-23
+v 3.0
+
 [1]
 
 ©Rusty Quill 2023
 
 ANNOUNCER
-This episode is dedicated from
-Cassidy: To the friends I’ve met
-thanks to Magnus, to my cat Néron
-who patiently allowed me to listen
-and relisten to episodes instead of
-giving him pets as is his right, and to
-the cup of tea the person listening to
-this likely forgot to drink!
+This episode is dedicated to Sierra Rush The world is so rich and vast and
+beautiful, and you are here to share your
+beauty with it. There are many small
+moments in life, but they are quilted
+together to be you. You're going to be
+amazing.
 [Intro Theme]
 ANNOUNCER
 Rusty Quill Presents: The Magnus
 Protocol.
-Episode Twenty-Five – Gut Feelings
+Episode Twenty-Six – Catching Up
 [Music]
-
-1. INT. OIAR OFFICE INT. – NIGHT, CLEAR (COMPUTER)
-ALICE is working at her desk, clearly tense. SAM enters puts his
-bag down.
+1. INT. OIAR MAIN OFFICE, NIGHT, CLEAR (computer)
+CELIA and SAM are both working slowly at the end of the shift.
+CELIA
+How we looking?
 SAM
-Hey.
-ALICE
-(relieved)
-Hey! How was it?
-SAM
-(Setting up)
-Well, no monsters stalked and ate
-me, if that’s what you’re worried
-about.
-A beat. This clearly is what she was worried about.
+Pretty much there, you?
+CELIA
+Close enough.
+She quickly rattles off a few keystrokes.
+CELIA CONT.
+(stretching)
+Right. Let’s go, before anything more
+comes in.
 
 [2]
 
 ©Rusty Quill 2023
 
-ALICE
-Good. Probably not enough meat on
-you anyway. Barely a snack.
-Another beat.
-ALICE CONT’D
-Have you heard from Celia?
 SAM
-She’s fine, too. Got a text from her a
-few minutes ago. She’s running late
-again.
-ALICE
-Another childcare emergency?
+(starting to pack)
+Did you just categorize that last one as
+“dog”.
+CELIA
+Got a problem with that?
 SAM
-Sounds like it. But she is, and I
-quote, “definitely not dead, please
-reassure Alice”.
-ALICE
-Christ. Am I that bad?
+No.
+CELIA
+Good.
 SAM
-You don’t want me to answer that.
-ALICE
-(A little sheepish)
-Sorry.
+(stops packing)
+It’s just… “dog”? That’s it?
+CELIA
+(shrugging)
+It was about a dog.
 SAM
-I get it. You’re worried. I mean, we
-are too. And that’s why we’re being
-careful, but like… You know when a
-dog gets nervous and starts barking
-at the postman because its worried
-he might secretly be a murderer or
-whatever?
-
+Not cross-linked with like “teeth” orCELIA
+All dogs have teeth…
+SAM
+I guess, butCELIA
+Look, do you want to go and meet Helen?
+Or do you want to stay here and discuss
+dogs because either way I’m happy.
+SAM
+(packing again)
+Yeah all right, all right.
+Beat.
+SAM stops packing.
 [3]
 
 ©Rusty Quill 2023
 
-ALICE
-Wow. Okay. Well, first of all,
-statistically seventy-three percent of
-all postmen are murderers, and
-second, you better not compare me
-to a dog again or I will start humping
-your leg.
+CELIA
+You ok?
 SAM
-(laughing)
-Noted. Any sign of Gwen, by the
-way? Not that I imagine it would
-devastate you if she got a bit
-monsterised.
-ALICE
-How dare you, I would definitely
-consider being sad about it at some
-point. But no, she’s fine, got in a few
-minutes ago and was immediately
-dragged into some planning session
-with Lena. I assume they’re deciding
-which of the minister’s ass cheeks to
-snog when he visitsNORRIS
-To: Kieran Harte
-(eqwrites@mailpod.com)
+Ah, you know me – this stuff makes me
+nervous.
+CELIA
+Yeah, me too.
 SAM
-Hold that thought…
-
-2. CYBERSPACE – N/A N/A (COMPUTER)
-NORRIS
-From: Tom Connolley
-(editor@museninepublishing.com)
-Date: February 07 2024
+(surprised)
+Really?
+CELIA
+So, anything particular got you worked
+up?
+SAM
+No. Yeah. Not sure. …I just don’t think I
+can face another dead end.
+ALICE approaches.
+CELIA
+Hey Alice.
+Beat.
+ALICE
+Planning another daring heist?
+CELIA
+The Crown Jewels aren't gonna steal
+themselves.
+ALICE
+Oh that’s good to hear. I was worrying for
+a moment that you were Magnussing.
+Beat.
 [4]
 
 ©Rusty Quill 2023
 
-Subject: Re: Hungry Man Grill review
-Hi Kieran,
-Thanks for sending the review, it was
-a real ride! That said, sorry to be
-blunt as it sounds like you’ve had a
-rough one, but I’m afraid we just
-can’t publish it as is. I know I usually
-only give you a few line edits, but I
-think this one needs a full redraft.
-First up, it’s waaay too anecdotal. I
-know that Dirty Eating is a
-personality-driven series, but it takes
-you over half the review just to get to
-the food. And the whole tone of the
-piece is off in a way that makes it
-kind of hard to take seriously. We’re
-looking for early-2000s Gordon
-Ramsay rage. I don’t know who
-you’re channeling in this one.
-Hieronymus Bosch? Regardless, it
-needs to be more in line with your
-previous reviews. I also don’t
-actually understand what you mean
-when you talk about the diner’s
-location.
-Also, and I hope I’m off base here,
-does that ending mean you’re
-planning to retire? Fingers crossed
-that’s not the case, but if you are
-looking to get out of the game, I
-would have hoped you would
-actually talk it through with me and
-not let me know through some
-surreal faux-review. Are you
-available for a call tomorrow? Would
-love to get on the line and hash all
+SAM
+Uh, Magnussing?
+ALICE
+Magnussing, verb: to insist on poking
+around stuff to do with the Magnus
+Institute despite Alice’s continued efforts
+to stop you getting yourselves killed.
+Beat. Sam stops from retorting.
+CELIA
+Alice, we've been over this…
+ALICE
+No, you're right, it’s fine. You know how I
+feel, but you’re both grown adults. You
+can make your own choices. Just make
+sure you take protection okay?
+SAM
+(mortified)
+Jesus Christ…
+ALICE
+Like a big knife or something.
+CELIA
+Don’t worry.
+Celia pulls a knife from her bag.
+ALICE
+Oh, wow, that’ll do it- Ok then. Maybe
+don't get it out at work, though.
+CELIA
+We’ll be careful Alice, I promise.
+Alice sighs.
+ALICE
+Fine. Off you go then, I guess.
 [5]
 
 ©Rusty Quill 2023
 
-this out.
-All the best,
-Tom
-Original message:
-To: Tom Connolley
-(editor@museninepublishing.com)
-From: Kieran Harte
-(eqwrites@mailpod.com)
-Date: February 06 2024
-Tom.
-Here’s your review. I hope you choke
-on it.
-Dirty Eating: The Hungry Man Grill,
-Newham.
-It has often been said that there is
-nothing in this world as satisfying to
-read as a truly bad review. The
-writer, unchained at last from the
-need for balance and consideration,
-can unleash the full force of their
-pen, indulging in turns of phrase and
-condemnation as vile and awful as
-the food they have been served and
-it was with full knowledge of this that
-I began the “Dirty Eating” column
-four years ago.
-While I certainly wasn’t lying when I
-told you my aim was to push back on
-health-food puritanism by profiling
-the grimiest and most deep-fried of
+Beat. They head off.
+CELIA
+See you Tonight.
+SAM
+Yeah, see you later.
+(To Celia, receding)
+Celia, are you sure that thing's legal??
+
+2. CYBERSPACE
+CHESTER
+Witness Statement of Alexander Rumins,
+Date of Birth 10th September 2000,
+Occupation: Accountant
+Address: 17 Gransden Avenue, Hackney
+Dated 14th April 2024
+My name is Alexander Rumins.
+I’ve….I’ve never done one of these. So I’m
+not quite sure what I am meant to say
+here.
+I’m 23. I’m male. I’ve lived in London my
+whole life. I have two sisters, one older
+and one younger.
+My dad died when I was 15, and my
+mother still lives in the house I grew up in.
+And yesterday…
+God…even saying it makes me feel
+horribly nauseous.
 [6]
 
 ©Rusty Quill 2023
 
-roadside eateries and greasy
-spoons, I was also quite certain that
-I’d get to write a lot of bad reviews.
-And I did. And no doubt you
-devoured them greedily, reveling in
-my bile and distain. Perhaps The
-Hungry Man Grill is my punishment.
-Perhaps it is all our punishments.
-I found it down a small side road in
-Newham, though should you be in
-line for a seat at its table I have no
-doubt it will move to accommodate
-your booking. I shall not give the
-address as, even if I should be
-wrong and it remains where I found
-it, I would not risk those who
-consider themselves “adventurous
-eaters” going to find it.
-The question of where I first heard
-about the place is one that has
-preoccupied me since my visit. It
-was nestled in the list of reviews I
-was due to write, far enough down
-so as not to draw attention, but when
-I think about those long hours of
-research I spent compiling my
-monthly itinerary of epicurean
-disasters, I cannot recall adding it.
-Nor was there anything written in my
-notes to explain why I might have
-considered it worth visiting. This,
-however, is something I have
-realized only since the end of my
-meal there. At the time, I simply
-accepted it as the next stop on my
-grand tour of London grease, and
-made my way down there on an
-otherwise unremarkable Tuesday
+I saw someone die.
+I saw someone die, right in front of me,
+and there wasn’t a single thing I could
+have done to help.
+The worst thing is that I know him.
+Knew him.
+How long does it take until I speak of him
+in the past tense? I knew him. And now…I
+don’t anymore?
+The dead person is - was - Jarrod Smith.
+He was an athletics coach who trained
+young runners. I know because I was one
+of them. At a very young age I realised I
+could run faster than anyone. It was like I
+could take a deep breath that spread into
+my chest, my legs and shot through me
+like an arrow.
+By the time I was 10, I could outrun most
+teachers, and all the older boys in the big
+school next to my primary. It became a bit
+of a game for them.
+No one could ever catch me. Except Mr.
+Jarrod. I only knew him as my PE teacher
+then. The new PE teacher, who had started
+in my final year of primary school.
+And that was the first time we had
+athletics rather than football or rugby or
+gymnastics.
+I won, of course. I was faster than anyone,
+no matter how many times he asked me to
+race again and again.
 [7]
 
 ©Rusty Quill 2023
 
-lunchtime.
-Finding the place was more
-challenging than expected, as the
-address I had (apparently) noted
-down did not correspond precisely
-to the roads I found myself on, and
-my SatNav kept sending me round in
-circles. It was only when I noticed a
-grim little alleyway tucked behind an
-overflowing skip looming in front of
-a closed-down vape shop that I
-finally found my destination. The
-street was narrow, and steeper than I
-would have expected from that part
-of London, and as I made my way
-gingerly down it, I nearly slipped and
-fell twice. The cobbled stones were
-slick and oily, stained by small
-rivulets of old fat that leaked from
-the torn plastic of the bin bags that
-piled up on either side. Small white
-shapes dotted them, and I turned my
-eyes away, reluctant to come face to
-face with the maggoty refuse so
-close to the time and place I would,
-supposedly, be eating my lunch.
-Perhaps this is what the astute
-reader might have pointed out as my
-“first warning”, but to be clear it was
-not. Unpleasant and extreme as the
-place was, it was far from unique in
-my odyssey to the heart of the
-capitol’s least-healthy eatinghouses. Such flyblown paths have
-more than once led me to hidden
-gems serving deep-fried
-masterpieces and symphonies of fat
-and batter. No, my first warning was
+Until finally, he placed himself next to me,
+and simply shouted “go!” That shot of
+adrenaline went through my chest, my
+legs pumping faster and faster - until I
+realised Mr. Jarrod had passed me. No
+matter how much faster I tried to push my
+legs… I lost.
+Afterwards, spitting and sputtering, I
+managed to say: “Can you teach me to run
+faster?”
+It wasn’t easy getting permission from my
+parents. They didn’t understand why I
+needed to train after school, and they
+certainly didn’t have any money for
+special clothes or shoes.
+But Mr. Jarrod had a spare pair of training
+shoes, and he promised he would bring
+me home every day after training.
+So, my parents, exhausted by their double
+shifts at Tesco, agreed.
+And that’s how it started. Three times a
+week, Mr. Jarrod would meet me at the
+playground outside the gymnasium, with
+the track already marked, and his
+stopwatch at the ready.
+If it was raining, we moved inside. If it was
+cold, I’d wear an extra layer.
+But we never, ever missed a session. It
+was just a few months later that I ran my
+first race. Only my sisters were there to
+watch me win. That was the first time I
+remember feeling proud of myself.
+Pause.
+It’s not a feeling I’ve had for a long time.
 [8]
 
 ©Rusty Quill 2023
 
-that, as I approached the filthy sign
-at the bottom of the street, I felt
-hungry.
-No doubt those who regularly
-indulge in my columns will raise an
-eyebrow at this. Lavish prose
-extemporizing the depths of my
-ravenous hunger are a common
-feature of my more ebullient reviews.
-And here is where I must reveal that
-these, all of these, were lies. It has
-been my habit, of a day when I am to
-visit one of these establishments, to
-ensure I have had a full and proper
-lunch beforehand.
-My reasoning is, I should hope,
-obvious: given how vile many of
-these diners can be, I always wish to
-be in complete control of how much
-of their food I wish to eat, and not be
-compelled by hunger to take more
-than a single bite if I do not wish to.
-On this particular day I had fortified
-myself not an hour before with a
-sizable sandwich from The Green
-Pig, a reliable café near
-Embankment. And yet, as I walked
-down that fetid, noxious alleyway
-towards the dimly buzzing sign for
-The Hungry Man Grill, I found
-myself… Well, I found myself a
-hungry man.
-Nor was it the sort of hunger that I
-am accustomed to. It was not the
-creeping, gentle ache of the stomach
-that alerts the mind to a need for
+Despite seeing each other almost every
+day, I knew very little of Mr. Jarrod. All I
+knew was that he was there, at the track,
+three times a week and that he knew how
+to make me faster.
+First, I became the fastest in my borough.
+Then I won the London Athletics Meet. I
+was the youngest to ever win the Meet,
+and the sponsors were salivating all over
+themselves but Mr. Jarrod told me to
+ignore all of them and just to focus on
+running.
+The next year, just before I was due to run
+the Meet again, to come back and defend
+my title - my father died.
+I had just completed a personal best at
+the 100m. I turned and saw my older sister
+standing at the edge of the track. I will
+never forget the look on her face.
+Her eyes, always so brown, looked darker
+than ink. And her face was almost entirely
+slack. I’m not sure how she managed to
+say the words, but I heard them
+nonetheless.
+“It’s dad. We have to go home.”
+I ran. The streets were a blur as I barely
+dodged cars and pedestrians. As if by
+running, I could reach my father and he’d
+be alive.
+I…honestly don’t remember the following
+days.
+The funeral came, and went. My sisters
+went back to school, and to college. My
+mother picked up more shifts at Tesco.
 [9]
 
 ©Rusty Quill 2023
 
-sustenance. Rather, I felt it in my
-whole body, a sudden weakness and
-trembling in my legs, punctuated
-with the most terrible emptiness I
-have ever known in the depths of my
-gut. The feeling was so thorough, so
-profound and unsettling, that part of
-my mind rebelled, desperately telling
-me to turn and leave. But my
-appetite pushed me onwards,
-towards the doorway that seemed to
-hold the most immediate promise of
-food.
-There was the smallest hint of
-resistance when I pushed on the
-door. Perhaps it was a symptom of
-my own reluctance to enter, or
-perhaps another manifestation of
-that sticky, pervasive filth that I soon
-realized coated everything inside. In
-layout and décor it is everything you
-would expect from an aging greasy
-spoon, from the red plastic of the
-chairs to the chipped formica of the
-tables. Faded posters advertising
-illegible meal-deals papered the
-walls, interspersed with picture
-frames containing photos of
-supposed celebrities who had eaten
-there. I recognized none of them and
-they did not look happy to be on the
-wall of The Hungry Man Grill. There
-were other people eating there,
-hunched over tables in silence, but
-when I first entered I took no notice
-of them, so overwhelming was my
-agonized appetite.
-I slumped down at an empty table,
+But I stopped running. What was the
+point? Running didn’t do anything to help
+my dad.
+Mr. Jarrod came to visit once, a few weeks
+after the funeral, before I went back to
+school. He knocked only once, and spoke
+to ask if he could come in.
+I didn’t answer the door, and he didn’t
+knock again. That was the last time I saw
+him. Until yesterday morning.
+I… haven’t run for such a long time, you
+see. I’ve been working as an accountant
+since I graduated.
+Don’t get me wrong, it’s an incredibly
+boring job but now my mum doesn’t have
+to work at Tesco - and neither do my
+sisters. I like to take walks in the morning,
+before work. Just stretch my legs a little.
+Not run, though. Never run.
+I went this morning as usual. Nothing
+strange about that. Until I saw him.
+Mr. Jarrod. I recognised him instantly. His
+stride, his dark skin glistening with sweat,
+his pace. I couldn’t believe it. Seven years
+since I saw him, but I still felt that old thrill
+at the idea of racing him.
+“Mr. Jarrod!” I shouted. “Mr. Jarrod, it’s
+me, Alex!” But…he didn’t stop. He didn’t
+so much as slow down. He thundered past
+me, his legs moving smoothly.
+I’ve never been a superstitious person but
+for some reason, when I looked at Mr.
+Jarrod run faster than I had ever seen him,
+a cold and slimy shiver went down my
+back. He seemed to be running for his life.
 [10]
 
 ©Rusty Quill 2023
 
-noticing but paying no mind to the
-tiny shapes that scurried away into
-the shadows when I did so. There
-was no counter that I could see, or
-any obvious waitstaff to take my
-order, but I did not have the strength
-to stand up again and go looking. All
-I could do was wait. And it was as I
-waited that two things hit me at
-once.
-The first was the smell. I’ve been to
-more than one restaurant where the
-fridge had failed, and the smell
-lingers with you, most notably the
-cloying, vomity smell of spoiled milk
-that nothing seems to shift. There
-were hints of other things in there as
-well, the sweeter notes of rancid
-meat and something acrid and
-chemical, all carried on a base of old
-and overused cooking oil. To say it
-was the worst smell I have ever
-encountered would be redundant.
-And yet, it did nothing to quash my
-hunger. If anything, it seemed to
-make it sharper still.
-The other was my fellow diners.
-Thin, ragged people lost in old suits
-and tattered dresses, all bedecked
-with a gruesome rainbow of ancient
-food stains. They said nothing, but
-many of them seemed to be openly
-weeping as they shoveled forkful
-after forkful of their meal desperately
-into their toothless mouths.
-And that was when I saw the food.
+I don’t have any explanation for why I
+think that, but he seemed more frightened
+than anyone I have ever seen.
+You know how dogs can smell fear? I
+don’t know how, but I could smell the fear
+coming off his skin as he thundered past
+me again. His shirt was completely
+soaked, as were his shorts and you could
+see the flecks of sweat fly off his face and
+arms, even at a distance, even at the
+speed his legs were moving.
+He wasn't being chased. I looked around,
+but the entire park was completely
+deserted. It was only moments after 5 in
+the morning. There was no one to ask for
+help, and I had a sudden thought that if I
+took my eyes off him, something truly
+awful would happen.
+I only had one choice.
+I’m nowhere near as fast as I was.
+I was gasping before 20 metres had
+passed, and sweating by 50 metres and I
+just couldn’t keep up.
+“Mr. Jarrod…please, stop!” I begged, as
+my legs started to seize up.
+But in all the years we trained together, I
+could never catch Mr. Jarrod. And today
+was no different.
+I grasped at the air as he pulled further
+away, missing his t-shirt by inches.
+I stopped again. I felt as if I would never
+take in enough air. That’s when I realised
+that he was running laps of the park. I
+didn’t need to catch him. I just needed to
 [11]
 
 ©Rusty Quill 2023
 
-Even in my weakened state the sight
-of it was almost enough to send me
-running, but I did not have time to
-even get to my feet before the door
-at the back opened and the chef
-walked out.
-He was, underneath it all, a very
-normal looking man. Average height,
-slim build, dark brown hair. But he
-was a normal looking man born of an
-overflowing waste bin and baptized
-in a deep fat frier. Every part of him
-was caked in grime and slick with a
-dozen varieties of viscous ooze. And
-in his hand he carried my plate.
-“Order up,” he said.
-This is what you’re here for, isn’t it?
-This is why you read these reviews:
-the money shot of awful food. The
-lurid, exquisite descriptions of the
-most disgusting food imaginable.
-What did it taste like? What was the
-texture? Did I throw up? How much
-of it did I choke down, feeling the
-writhing lumps sliding slowly down
-my throat?
-Fine.
-The first course was soup. Viscous,
-creamy white with streaks of lurid
-green. Thin pale strands floated in it
-that, were I to try and rationalise, I
-would pretend were noodles. But
-noodles don’t move like that.
-Noodles don’t leap off the spoon and
-crawl eagerly down your throat. The
-soup itself was oily, with a sour
+meet him. So I turned and ran the other
+way.
+I drew closer, and closer, and suddenly I
+was knocked completely off my feet.
+Mr Jarrod ran me straight over me. I think
+he ran through me.
+I tried to stand up, but had to sit down
+again, a dizzying rush of pain swooping
+through my body.
+I called to him, but of course he couldn’t
+hear me. I don’t think he could hear
+anyone. A few moments later he ran past
+me again, his breaths gasping and
+heaving, as if it was taking every ounce of
+strength and energy to keep his body
+moving.
+His face was contorted in complete terror,
+and that’s when I could make out what his
+mouth was moving. Words seemed to
+tumble out in a cascade, like he was
+telling some awful story. But they were
+lost under his laboured breathing.
+Our eyes locked for a moment just as he
+stumbled, and fell. Was there recognition?
+I don't know. He hit the ground head first,
+and even at that distance I could hear the
+sickening sound of his skull splitting
+open.
+Every step sent a shard of horrible pain
+through my head, but I ran until I reached
+him.
+Mr. Jarrod’s forehead had a horrible cut,
+with the blood freely flowing into his eyes.
+Even so, he was struggling to get up, to
+continue running and his mouth kept
 [12]
 
 ©Rusty Quill 2023
 
-metallic tang to it, both too watery
-and too lumpy, with an aftertaste
-reminiscent of a week-old
-unchanged bandage.
-I swallowed every last mouthful, so
-acute and agonizing was my hunger.
-Yet still it grew. So down came the
-second course.
-The contents of the burger might
-have once been meat, but if it were
-beef, lamb or… something else
-entirely, it was impossible to say
-now. It glistened with a putrid
-rainbow sheen, as though it was
-coated in some sort of petrol, and I
-could not tell if the thick pus-like
-substance that dripped from it was
-some awful condiment or an
-emanation of the meat itself. By
-contrast, the bun seemed, at first
-glance, almost edible. A touch stale,
-perhaps, slightly discolored, but no
-obvious signs of mold or rot. It was
-only when the jagged knife of rising
-hunger forced me to bite down into it
-that I felt the thousands of tiny, ricelike weevils that crawled within its
-hollow shell.
-My reviewers’ arsenal of descriptors
-fails me when I try to describe the
-taste of that burger. Fetid, foul,
-noxious, none quite encapsulate the
-experience. Was it sweet? Yes, but
-the sweetness of spoiled milk. Was it
-salty? Yes, but the saltiness of
-infected blood. Was it bitter? Yes.
-Perhaps that is the only word I can
+forming words.
+I dropped to my knees, trying to stop him
+from moving. Bloody and shaking, he
+pushed me away, weakly trying to get up
+again. But he barely made it to his knees
+before he fell over again. And all the while,
+he kept muttering.
+I could make out a few of the words now.
+“They're coming now and getting close, so
+very close and when I slow and when I
+stop they will catch me and they will hurt
+me.”
+There was more, but I didn't hear it,
+because I saw that we were no longer
+alone in the park. I don't know how it came
+up so close without me seeing it. A figure.
+Tall and thin and still in shadow even in
+the morning sun. I couldn't make out its
+face, but I felt it… looking at me. Looking
+at me from everywhere.
+It was holding a tape recorder to Mr.
+Jarrod’s mouth, like it was trying to catch
+his dying words.
+“Who are you?” I asked it.
+“An archivist,” it replied.
+I wanted to ask more questions, to
+confront it, to strangle it for what I knew it
+had done.
+But that was when he screamed, his
+mouth tearing wide open. I screamed too. I
+screamed for a very long time.
 [13]
 
 ©Rusty Quill 2023
 
-be sure of. Bitter in a way that went
-beyond the tongue and seeped its
-way into my brain. I can still taste it.
-They weevils were the most
-palatable part after they had stopped
-moving and my teeth had ground
-them to a paste. But that took an
-awful lot of chewing.
-I will perhaps skip the detailed
-portrait of desert. Suffice to say it
-was presented as an ice cream cake,
-and no matter how much I willed
-myself to throw it back up, to purge
-myself in a vomitous fury, my evergrowing hunger kept me eating.
-At that moment, there was a feeling
-almost like hope. Starter, main,
-desert. I had finished. Surely that
-was enough? But despite the roiling
-fullness in my stomach, I was still
-ravenous. Far hungrier than when I
-started. And as the chef, if so I might
-call him, walked back into the
-kitchen, I knew that there would be
-more coming. I knew there would
-always be more.
-It took every ounce of strength I had
-to rise from that table. I tapped into
-some core of resolve I never knew I
-possessed, pulling myself away,
-surrounded by diners who would
-never stand up again, and fleeing,
-stumbling blindly out into the sunlit
-London afternoon.
-This will be my last review. Not
-simply because I am afraid to cross
+And when the paramedics finally brought
+me to my senses, it was gone.
+
+3. INT. OIAR MAIN OFFICE, NIGHT, CLEAR (COMPUTER)
+The recording ends and we return to the O.I.A.R. Gwen working next
+to Alice.
+Alice starts flicking through the book.
+ALICE
+(disturbed)
+Hmmmm…
+GWEN
+Huh. I don’t remember the last time I saw
+you bothered by a case.
+ALICE
+And I suppose you're just cucumber cool
+about yet another visit from your
+murderous tape-recording pal, is that it?
+GWEN
+There are plenty of dangerous monsters
+out there Alice. It’s not worth obsessing
+over one of them.
+ALICE
+(defensive)
+I’m not obsessed. I’m just irritated
+because there isn’t a code for ‘Archivist’.
+GWEN
+So? Collector, librarian, eavesdropper…
+Just pick one of those.
+ALICE
+But it said Archivist.
 [14]
 
 ©Rusty Quill 2023
 
-the threshold of another restaurant,
-terrified that on the other side I might
-find myself back in that place. But
-because even now, a week after I
-took my last bite at The Hungry Man
-Grill, I can still feel that food inside
-me. It sits in my stomach: pulsating,
-heavy… and growing. I can feel it
-pressing against the inside of my
-flesh even as I write this, see it
-bloating and distending my belly.
-In conclusion, a meal at The Hungry
-Man Grill will stay with you until your
-dying day.
+Beat.
+ALICE
+(realization)
+It said ‘Archivist’.
+GWEN
+I heard you Alice I just stopped caring.
+ALICE
+It was us.
+GWEN
+What?
+ALICE
+The Institute the- the archive... That’s why
+it’s so interested in us. We set it loose…
+Beat.
+ALICE
+I need to call Sam.
+She grabs her phone.
 
-3. INT. OIAR OFFICE INT. – NIGHT, CLEAR (COMPUTER)
-ALICE
-Well that brings back uni memories
-doesn’t it.
+4. HELEN’S OFFICE, INT, MORNING, BRIGHT (SAM’S PHONE)
+A fancy real estate office. Swanky and soulless. There is traffic
+outside and murmured phone conversations within.
+CELIA
+How you holding up?
 SAM
-Does it?
-ALICE
-The student union caff?
-SAM
-(remembering amused)
-Oh god, yeah! Eurgh how could I
-forget those “sloppy joes”.
-ALICE
-Sloppy was definitely the word. I can
-still taste it...
+(not okay)
+I’m okay.
 
 [15]
 
 ©Rusty Quill 2023
 
+CELIA
+Yeah? I heard you and Alice on the phone.
+Sounded bad?
 SAM
-Ugh, D’you remember when they
-tried to do a veggie option and it
-justCOLIN enters.
+It is. She thinks one of the Externals, the
+one with the tapes, The “Archivist”, she
+thinks we might have let it out. Or at least
+got its attention, brought it down here. If
+she’s right… that would mean all those
+people… they would still be alive if I hadn't
+insisted on poking around…
+Beat.
+SAM CONT.
+How are you?
+CELIA
+I don't know. Something’s off.
 SAM
-(cautious)
-Oh. Uh, hi Colin.
-ALICE
-(turning, upbeat)
-Oh hey Colin! I thought you weren’tThey both spot the large hammer he’s holding.
-ALICE
-(standing concerned)
-Colin, mate… What uh… what’s with
-the hammer?
-COLIN
-Stay out of my way, Alice.
+You can say that again...
+CELIA
+No, I mean, something isn't right.… The
+External, the Archivist, it’s not acting how
+I would have expected...
 SAM
-Um Colin, what areColin swings the hammer, demolishing a nearby PC monitor.
-SAM
-Jesus!
-COLIN
-I’m going to the sever room.
-ALICE
-I don’t think that’s a good idea, mate.
+Got a lot of experience with killer tapes, do
+you?
+CELIA
+I just meanHELEN enters. CELIA gasps despite herself.
+HELEN
+Hi! Sorry to keep you waiting!
 
 [16]
 
 ©Rusty Quill 2023
 
+CELIA
+Helen…
+HELEN
+That's me! I’m guessing you’re Celia and
+so you must beSAM
+Sam. Hi.
+HELEN
+Pleasure. So, can I get either of you a cup
+of tea? Coffee?
 SAM
-I think you should listen to AliceCOLIN
-Shut up! Both of you just shut the
-fuck up! Don’t you get it?! I am trying
-to help, to save us from this
-goddamned fucking nightmare
-machine!
-ALICE
-Ok. Ok, Colin, listen to me all right.
-We’ve all seen messed up things
-happening recently. You say the
-computers need to be destroyed. We
-could totally believe that! Right,
-Sam?
+No thank you.
+HELEN
+How about you Celia?
+Beat.
 SAM
-I mean, yeah. That actually sounds
-pretty plausible right now.
-ALICE
-But you can’t just start smashing
-shit without explaining what’s going
-on.
-COLIN
-No. It’s listening.
-ALICE
-But that doesn’t matter if you’re
-going to smash it into bits does it?
-So why don’t you just tell usCOLIN
-That’s only if it lives in the servers. If
-not…
+Celia?
+CELIA
+Oh no. I’m fine. Thank you… Helen.
+HELEN
+All right. Well straight to it!
+(faffing with brochures)
+So, there’s a few likely properties that
+have just come to market, and luckily
+there’s some rather nice new builds that
+haven’t been listed yet so your timing is
+excellent.
 SAM
-Then let’s go somewhere it can’t
-hear.
+Oh, er… good?
+HELEN
+Obviously, we’ll need to know a bit more
+about your budget, but before that, are
 [17]
 
 ©Rusty Quill 2023
 
-COLIN
-There isn’t anywhere, that’s the
-problem!
+there any big no-no’s we should know
+about? “Heavy traffic, eco-warrior
+neighbors” that sort of thing?
 SAM
-You’re not making sense ColinCOLIN
-No, you just don’t get it. You don’t
-believe me. You’re just trying to buy
-time, keep me busy until-.
-ALICE
-Colin, that’s notCOLIN
-(swinging the hammer)
-Get back!
+Well, I mean I don’t really have an issue
+withCELIA
+(tense)
+We’re not here for a house.
 SAM
-Watch it!
-Sam lunges at Colin, grabbing at the hammer. They struggle
-over it as Alice tries to restrain Colin.
+We’re not?
+HELEN
+Maisonette?
+CELIA
+No we’re here, because, well, we’re
+looking into the Magnus Institute.
+Beat.
+HELEN
+I’m sorry, I’m… a little confused.
 SAM
-Give me the-!
-COLIN
-Get off!
-In the struggle, the hammer smashes into the recording
-computer.
-
+(defeated)
+You haven’t heard of it?
+HELEN
+Oh no no, I remember it very well, I just
+thought they had closed-up shop years
+ago after the fire. Some sort of academic
+outreach thing wasn’t it - bit of a quango?
+CELIA
+Something like that yeah.
+HELEN
+Yea, I remember I found them a few
+commercial properties back when I was
 [18]
 
 ©Rusty Quill 2023
 
-4. MANAGER’S OFFICE – NIGHT, CLEAR (MANAGER’S
-SPEAKERPHONE)
-LENA is debriefing SAM, ALICE and GWEN with customary
-coldness.
-LENA
-So, does anyone care to explain why
-you thought it was a good idea to
-tackle an unstable armed man on
-government property without
-alerting the authorities?
-ALICE
-Is Colin going to be ok?
-LENA
-I doubt it but since he’s in custody
-the matter is out of our hands. The
-OIAR’s mental health policies only
-stretch so far and this became a
-police matter as soon as he attacked
-government property and
-employees.
-GWEN
-It's a miracle no-one was hurt.
-LENA
-A miracle that cost us three
-computer terminals and damaged a
-server rack. So I’ll ask again, what on
-earth were you thinking confronting
-him like that?
-ALICE
-We were trying to talk him down.
-LENA
-Oh really? Because it looked to me
-like Sam attempted to body tackle
-him.
+first starting out. Surprised anyone is still
+interested though. Can I ask what this is
+about?
+SAM
+We’re uh… making a documentary.
+HELEN
+(intrigued)
+Oh really? A proper one? Who for?
+SAM
+Uh…
+CELIA
+BBC
+HELEN
+Oh marvelous! Why didn’t you just say?
+Do I need to sign anything, or…?
+CELIA
+No, we're just in the early research stage
+at the moment. Might not even go
+anywhere.
+HELEN
+(enthused)
+Oh well, as I recall they did have some odd
+requirements, bloody big basements, lots
+of security options, that sort of thing.
+SAM
+Do you have any kind of contact details
+we could maybe follow up on? Anyone
+specific you used to talk to?
+HELEN
+I’m not really meant to give that kind of
+information out, GDPR rubbish - you now
+how it is.
 [19]
 
 ©Rusty Quill 2023
 
+CELIA
+Of course.
+HELEN
+Best I can do is tell you it’s been a long
+time since we’ve had contact. Twenty-odd
+years at least. Any details we still have are
+all very much out of date so wouldn’t be
+much use to you.
 SAM
-I thought he might hurt Alice.
-Alice chuckles quietly to herself.
-LENA
-How very chivalrous. And foolish. I
-expect you to review our liability
-waivers before you attack any other
-hammer-wielding maniacs. Is that
-clear?
+(downcast)
+Right.
+HELEN
+Tell you what, though, I think I still have
+the old listings filed away somewhere, the
+ones I sent through to them. Would it
+maybe help your research to know what
+sort of properties they were buying?
 SAM
-Crystal.
-LENA
-Good. Now, how’s the system
-looking Gwen?
-GWEN
-It seems fine … As far as I can tell
-the server damage was superficial
-but again, as I keep saying, I’m not
-an I.T. expert. I don’t actually know
-how any of this works so…
-LENA
-I shall have someone take a closer
-look in due course. In the mean time,
-I want you all focusing on cleaning
-everything up ahead of the minister’s
-visit.
-GWEN
-(standing)
-Understood.
+That would be great.
+CELIA
+Didn't you say something about GDPR?
+HELEN
+(conspiratorial)
+Of course, you're right. I have no idea
+where your production team could
+possibly have gotten those files.
 SAM
-No, no, hang on a minute, I think we
-need to discuss if Colin’s right.
-
+You're an absolute gem.
+HELEN
+Just remember that if you need any talking
+heads for the documentary, deal?
+CELIA
+Deal.
 [20]
 
 ©Rusty Quill 2023
 
-LENA
-Right about what exactly?
+HELEN
+And make sure you come to me if you’re
+ever, you know, actually in the market for
+a house, eh?
+She laughs. It’s very reminiscent of The Distortion. Celia is unsettled.
+Sam laughs nervously.
+
+5. CELIA’S FLAT, INT, DAY, BRIGHT (CELIA’S LAPTOP)
+SAM is playing with baby Jack while Celia looks out the window to the
+street below.
 SAM
-About the system listening in on us,
-about there being something
-dangerous in the computers?
-ALICE
-(warning)
-Sam…
+(Imitating HELEN)
+Yes, young Jack, should you ever have
+need of a modest chateau or a cheeky
+little palace do give me a call.
+Jolly good!
+Jack is amused.
 SAM
-No, I’m done playing office intern,
-after everything else that’s been
-going on it would be stupid of us not
-to even consider it.
-Beat.
-LENA
-While I understand your concerns,
-Sam, there’s no way we can
-realistically act on them. Whatever…
-quirks the system might have, it is
-still essential for departmental
-functionality and interfering with
-government equipment is a criminal
-offense. As it is, Colin will be lucky
-to avoid charges of domestic
-terrorism.
-ALICE
-So what do you suggest?
-LENA
-I suggest you do as you are told and
-clean up. Meanwhile I will begin
-looking for a replacement IT
-manager. As if we didn’t have
-enough new hires already…
+Do you like that?
+Jack does.
+SAM CONT.
+Oh dear. Bad news, Celia.
+CELIA
+What?
+SAM
+Your baby's a Tory.
+Beat. SAM notices Celia’s distraction.
+SAM
+Celia?
 [21]
 
 ©Rusty Quill 2023
 
-Speaking of which, does anyone
-know where Celia is?
-SAM
-She had an emergency. She’s not
-sure when she’s going to get in.
-LENA
-Let me know as soon as she does.
-Her repeated absences have become
-a problem and I will not hesitate to
-add a second position to the jobs
-page if I have to.
-SAM
-I’ll tell her.
-LENA
-See that you do. Now if that’s
-everything I would appreciate it if
-you would all get to work.
-Everyone begins to shuffle out.
-LENA CONT.
-And please refrain from any further
-attempts at heroism on government
-property. I could do without the
-paperwork.
-5. COACH STATION NEAR OXFORD – NIGHT, CLEAR
-(CELIA’S PHONE)
-CELIA is queuing for the information booth. She is clearly
-disoriented and tired.
 CELIA
-Hi, uh, could you tell me when the
-next coach to London is?
-
+Hmm?
+SAM
+Everything all right?
+CELIA
+Sorry, yeah it’s fine.
+She comes over and sits beside him.
+CELIA CONT.
+I just- It felt like we were being watched for
+a moment.
+SAM
+We're ok. We were very careful not to be
+followed. It’s just late - well, its early but
+you know what I mean- and we’re both
+tired.
+Beat.
+CELIA
+Yeah. Yeah you’re right. Would, you like a
+drink while I put Jack down for his
+morning nap?
+SAM
+(awkward)
+Is that a good idea… I mean…
+CELIA
+(amused)
+I said a drink Sam, not a piss up.
+SAM
+Right, yeah. A drink sounds great.
+CELIA
+Beer’s in the fridge. I won’t be long.
+(picking up Jack)
+Come on, goblin. Say bye bye to Sam.
 [22]
 
 ©Rusty Quill 2023
 
-ATTENDENT
-You’re in luck, should be any minute.
-If you need a ticket, the machine’s
-over there.
+SAM
+Bye bye Jack! Reexamine your political
+views!
+Jack coos in delight. CELIA chuckles and heads into the bedroom.
+Pause.
+Sam stands, heads over to the fridge and pulls out a beer.
+He opens it and takes a sip.
+He hesitates then heads over to look out the same window Celia was.
+Pause.
 CELIA
-Right, cheers. Can I pay by phone?
-ATTENDENT
-Yeah, you should be able to.
-Beat. CELIA sighs exhausted.
-ATTENDANT CONT.
-Listen is everything alright? Not to
-be rude but you’re looking like
-you’ve had a bit of a time of it.
+(approaching)
+Out like a light.
+SAM
+(Stepping away from the window)
+You’re welcome.
 CELIA
-No, yeah, I’m alright. Just a lot of last
-minute travel recently.
-ATTENDENT
-(unconvinced)
-If you’re sure… well best get that
-ticket. Looks like this is your coach.
+(sitting)
+You’re very good with him.
+SAM
+I’m just the cool new toy.
 CELIA
-(Hurrying off, flustered)
-Oh right, thanks!
-ATTENDANT
-(sympathetic)
-Just try and get some rest when you
-get home yeah?
+Cool’s a strong word…
+SAM
+Ouch.
+He yawns.
 CELIA
-(bitterly to herself)
-Yeah. Right…
-[Music]
-
+Maybe I should be I putting you to bed?
+He laughs then they both realize the connotation.
 [23]
 
 ©Rusty Quill 2023
 
-ANNOUNCER
-The Magnus Protocol is a podcast
-distributed by Rusty Quill and
-licensed under a Creative Commons
-Attribution Non-Commercial Sharealike 4.0 International License.
-The series is created by Jonathan
-Sims and Alexander J Newall, and
-directed by Alexander J Newall.
-This episode was written by
-Jonathan Sims and edited with
-additional materials by Alexander J
-Newall, with vocal edits by Nico
-Vettese, soundscaping by Mg
-McKellar, and mastering by
-Catherine Rinella with music by Sam
-Jones.
-It featured Billie Hindle as Alice Dyer,
-Shahan Hamza as Samama Khalid,
-Anusia Battersby as Gwen Bouchard
-Lowri Ann Davies as Celia Ripley,
-Sarah Lambie as Lena Kelley, Ryan
-Hopevere-Anderson as Colin Becher
-with additional voices from
-Alexander J Newall.
-The Magnus Protocol is produced by
-April Sumner, with executive
-producers Alexander J Newall, Dani
-McDonough, Linn Ci, and Samantha
-F.G. Hamilton, and Associate
-Producers Jordan L. Hawk, Taylor
-Michaels, Nicole Perlman, Cetius
-d’Raven, and Megan Nice.
-To subscribe, view associated
-materials, or join our Patreon, visit
-rustyquill.com. Rate and review us
-online, tweet us @therustyquill, visit
-us on facebook or email us at
-mail@rustyquill.com
+Beat.
+SAM
+Celia, I realize I haven't really said thank
+you.
+CELIA
+You don’t have to.
+SAM
+I do. Even after we knew how dangerous
+this might be, you still stuck around. I
+know you have your own reasons, but…
+CELIA
+I have a few. But you're one of them. I like
+you, Sam.
+SAM
+I, uh, I mean, you know I like you too.
+That's…
+Pause. Sam is awkward. Celia is not.
+SAM
+I should get going.
+CELIA
+You don’t have to.
+SAM
+(uncertain)
+No?
+CELIA
+(close)
+Not if you don't want to.
+SAM
+(close)
+I don't. I think I want to stay.
+
 [24]
 
 ©Rusty Quill 2023
 
-Thanks for listening.
-The Magnus Protocol 25 – Gut Feelings
-CAT2RB2474-07022024-24042024
-Food (Gorging ) -/- compulsion (disgust)
-Incident Elements:
- Disordered Eating
- Food Hygeine
- Compulsion
- Nausea
- Manipulation (Suprnatural)
- Hunger
- Infections/Infestations
- Maggots
- Destruction of Property
- Mental Breakdown, Mania
-Transcripts available at https://rustyquill.com/transcripts/themagnus-protocol/
-This episode is dedicated to Cassidy's Friends, thank you for
-your generous support! You can find a complete list of our
-Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/
-Created by Jonathan Sims and Alexander J Newall
-Directed by Alexander J Newall
-Written by Jonathan Sims
-Script Edited with additional material by Alexander J Newall
-Executive Producers April Sumner, Alexander J Newall,
-Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G.
-Hamilton
-Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole
-Perlman, Cetius d’Raven, and Megan Nice
-Produced by April Sumner
+CELIA
+(close)
+Good.
+They kiss.
+Sam knocks over the beer but neither of them notice.
+[Music]
+ANNOUNCER
+The Magnus Protocol is a podcast
+distributed by Rusty Quill and licensed
+under a Creative Commons Attribution
+Non-Commercial Share-alike 4.0
+International License.
+The series is created by Jonathan Sims
+and Alexander J Newall, and directed by
+Alexander J Newall.
+This episode was written by Muna Hussen
+and edited with additional materials by
+Jonathan Sims and Alexander J Newall,
+with vocal edits by Lowri Ann Davies,
+soundscaping by Tessa Vroom, and
+mastering by Catherine Rinella with music
+by Sam Jones.
+It featured Billie Hindle as Alice Dyer,
+Shahan Hamza as Samama Khalid, Anusia
+Battersby as Gwen Bouchard Lowri Ann
+Davies as Celia Ripley, with additional
+voices from Jonathan Sims.
+The Magnus Protocol is produced by April
+Sumner, with executive producers
+Alexander J Newall, Dani McDonough,
+Linn Ci, and Samantha F.G. Hamilton, and
+Associate Producers Jordan L. Hawk,
+Taylor Michaels, Nicole Perlman, Cetius
+d’Raven, and Megan Nice.
+To subscribe, view associated materials,
+or join our Patreon, visit rustyquill.com.
 [25]
 
 ©Rusty Quill 2023
 
+Rate and review us online, tweet us
+@therustyquill, visit us on facebook or
+email us at mail@rustyquill.com
+Thanks for listening.
+
+[26]
+
+©Rusty Quill 2023
+
+The Magnus Protocol 26 – Catching Up
+CAT1RBC4463-14042024-02052024
+Exhaustion (athletic) -/- compulsion (tape)
+Incident Elements:
+
+
+Masochism
+
+
+
+Compulsion (supernatural)
+
+
+
+Grief
+
+
+
+Parental Death
+
+
+
+Implied sexual situations/innuendo
+
+
+
+SFX: Misophonia (kissing)
+
+This episode is dedicated to Sierra Rush, thank you for your generous
+support! You can find a complete list of our Kickstarter backers
+https://rustyquill.com/the-magnus-protocol-supporter-wall/
+Created by Jonathan Sims and Alexander J Newall
+Directed by Alexander J Newall#
+Written by Muna Hussen, for more of her work visit
+https://www.thesiltverses.com/
+Script Edited with additional material by Jonathan Sims and
+Alexander J Newall
+Executive Producers April Sumner, Alexander J Newall, Jonathan
+Sims, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton
+Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole
+Perlman, Cetius d’Raven, and Megan Nice
+Produced by April Sumner
+
 Featuring (in order of appearance)
-Shahan Hamza as Samama Khalid
-Billie Hindle as Alice Dyer
-Alexander J Newall as Norris
-Ryan Hopevere-Anderson as Colin Becher
-Sarah Lambie as Lena Kelley
-Anusia Battersby as Gwendolyn Bouchard
 Lowri Ann Davies as Celia Ripley
-Mark Nicolson as Ticket Attendant
-Dialogue Editor – Nico Vettese
-Sound Designer – Meg McKellar
+Shahan Hamza as Samam
+Anusia Battersby as Gwendolyn Bouchard
+[27]
+
+©Rusty Quill 2023
+
+Jonathan Sims as Chester
+Imogen Harris as Helen Richardson
+Dialogue Editor – Lowri Ann Davies
+Sound Designer – Tessa Vroom
 Mastering Editor - Catherine Rinella
 Music by Sam Jones (orchestral mix by Jake Jackson)
 Art by April Sumner
-SFX by Freesound: unfa, JWMalahy, DarkoZL, quboup,
-TROLlox_78, tonsil5, toddcircle, Bexhillcollege, BMacZero,
-Soundsnap & previously credited artists
 Support us on Patreon at https://patreon.com/rustyquill
-Check out our merchandise available at
-https://www.redbubble.com/people/RustyQuill/shop and
-https://www.teepublic.com/stores/rusty-quill
-Support Rusty Quill by purchasing from our Affiliates;
-Phantom Peak – UK immersive experience – 15% discount with
-this link
+Support Rusty Quill by purchasing from our Affiliates:
+Phantom Peak – UK immersive experience – 15% discount with this
+link
 DriveThruRPG – DriveThruRPG.com
 Join our community:
 WEBSITE: rustyquill.com
 FACEBOOK: facebook.com/therustyquill
 X: @therustyquill
 EMAIL: mail@rustyquill.com
-The Magnus Protocol is a derivative product of the Magnus
-Archives, created by Rusty Quill Ltd. and licensed under a
-[26]
+The Magnus Protocol is a derivative product of the Magnus Archives,
+created by Rusty Quill Ltd. and licensed under a Creative Commons
+Attribution Non-Commercial Share alike 4.0 International Licence.
 
-©Rusty Quill 2023
-
-Creative Commons Attribution Non-Commercial Share alike 4.0
-International Licence.
-
-[27]
+[28]
 
 
