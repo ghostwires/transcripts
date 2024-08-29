@@ -1,12 +1,12 @@
-©Rusty Quill 2023 The Magnus Protocol Episode 27 "Driven" Written by Jonathan Sims Edited by Alexander J Newell 
+©Rusty Quill 2023 The Magnus Protocol Episode 28 "Interruptions" Written by Jonathan Sims Edited by Alexander J Newall 
 
-#### 06-02-2023
+#### 10-07-2023
 
-Draft 3 
+Draft 2 
 
 #### ANNOUNCER
 
-This episode is dedicated to Alicia. During early lockdown in 2020, Alicia listened to a lot of The Magnus Archives, a source of fantastical scares that gave her temporary reprieve from some very real horror. Among many terrifying episodes, those specifically centering on meat, on the juxtaposition of human and animal bodies, the callous suffering of slaughterhouses, and other fleshy things, resonated with her. She reevaluated her relationship with food. She wondered what the difference was between a family member and a beloved dog, between that dog and a nameless factory cow. She decided to become vegetarian, and hasn't looked back since. Many thanks to the creators of The Magnus Archives for using their art to inspire change in Alicia's life! 
+This episode is dedicated to Nathaniel Shawver -- Fear has shaped my perspective and actions for so long, but the immersive descriptions of the fears in Magnus showed me that I can choose to accept what I Fear as part of myself rather than feeling shame. There is so much in this world to be afraid of, but in examining that Fear we can find wonder. 
 
 ##### [Intro Theme]
 
@@ -14,547 +14,551 @@ This episode is dedicated to Alicia. During early lockdown in 2020, Alicia liste
 
 #### ANNOUNCER
 
-Rusty Quill Presents: The Magnus Protocol. Episode Twenty-Seven -- Driven 
+Rusty Quill Presents: The Magnus Protocol. Episode Twenty-Eight -- Interruptions 
 
 ##### [Music]
 
-1. INT. OIAR OFFICE -- NIGHT, CLEAR (COMPUTER) SAM is sat typing his desk, humming contentedly whilst LENA and GWEN fret around the office. 
+1. INT. OIAR OFFICE -- NIGHT, RAINING (COMPUTER) SAM, CELIA and ALICE are sat typing (or at least, pretending to type). LENA enters, followed by TREVOR HERBERT MP and 
+
+#### GWEN
+
+
 
 #### LENA
 
-Whose is this? 
+And here, minister, is the main office, where the majority of the processing takes place. 
+
+#### TREVOR
+
+So I see. 
 
 #### GWEN
 
-Whose is what? 
+And this is Sam, Alice and Celia our primary processing team. Trevor goes round, they all awkwardly stand and shake his hand. 
+
+#### TREVOR
+
+Good to meet you. 
+
+#### SAM
+
+Uh, thank you, minister. 
+
+#### TREVOR
+
+Fine work. 
+
+#### ALICE
+
+Mmm. Cheers. 
+
+#### TREVOR
+
+Lovely toHe is cut off by a massive yawn. 
+
+#### TREVOR
+
+Pardon me, sorry. I honestly don't know how you manage to get anything done on such late shifts. 
+
+#### CELIA
+
+You get used to it. 
+
+#### TREVOR
+
+Clearly, but it does seem unnecessary... 
 
 #### LENA
 
-This shelf. Whose responsibility is this shelf? Sam? 
+(jumping in) The data processing and amalgamation tools are locked into a 24-hour cycle. The crawlers scrape online sources during the day then once the nationals pre-publish the data is incorporated into the caseloads meaning we're locked into this schedule. We could amend the system, but the required infrastructure overhaul would be very expensive andTREVOR Best leave it as it is I think. If it isn't broken don't fix it eh? 
 
-#### SAM
+#### ALICE
 
-Hm? 
+(muttered) Ha... 
+
+#### TREVOR
+
+Besides I wouldn't want to upset your Team dynamic. And such a diverse team it is too... I wonder if we should get in a photographer, put you all on some civil service promotional material. 
 
 #### LENA
 
-Whose files are those? On the shelving unit behind you? 
+(slightly strained) Oh I doubt that won't be necessary, minister. We're hardly the most interesting department. 
+
+#### TREVOR
+
+Oh well, I don't know about that. So anyway, uhGWEN (quietly) Sam. 
+
+#### TREVOR
+
+Sam! How are the er accidentGWEN (quietly) Incident. 
+
+#### TREVOR
+
+-incident numbers looking? Going down, I hope! 
 
 #### SAM
 
-I don't know. Colin maybe? Why, what's up? 
+Uh... 
 
 #### LENA
 
-It is a cluttered eyesore. 
+Our numbers have been steadily improving ever since you took charge, minister. It's all detailed in my reports. 
 
-#### SAM
+#### TREVOR
 
-I'm sure Colin can sort it when he's feeling better. 
-
-#### LENA
-
-If Colin returns to this department it will be long after the Minister's visit. I want this resolved now. 
-
-#### SAM
-
-It's just some files... 
+Glad to hear it. The ONS has been sniffing around again, same old rubbish about overlapping responsibilities and "synergistic fulfillment objectives" 
 
 #### LENA
 
-It is not "just some files". It is a symptom of a disorganized office and an excuse for the minister to insist upon additional oversight. You will move them into the stationary cupboard at once. 
+Well hopefully our latest metrics should assuage any concerns in that department. 
 
-#### SAM
+#### TREVOR
 
-I mean I could, but then I'd have to stop processing cases and you were pretty clear you wanted the entire caseload dealt with so... 
-
-#### LENA
-
-Gwen? Beat. 
-
-#### GWEN
-
-(restrained sigh) I'll deal with it. 
+Just as long as it keeps GormanSmith off me back... He yawns again. 
 
 #### LENA
 
-Very good. Check in with me once you've finished. 
+Was there anything else you wanted to see, minister? 
+
+#### TREVOR
+
+No, no, no, I think we can move on. 
+
+#### LENA
+
+Excellent. Gwen? 
 
 #### GWEN
 
-(still restrained) Of course. LENA exits to her office. 
+If you'll follow me minister. Trevor, Lena and Gwen leave. There is a moment of silence. 
 
-#### GWEN
+#### CELIA
 
-(cont'd to Sam) Thanks for that. 
-
-#### SAM
-
-Look I honestly wasn't trying toGWEN Oh, don't give me that, you're loving this! you've been sat there grinning all night. 
-
-#### SAM
-
-Have I? 
-
-#### GWEN
-
-Yes. 
-
-#### SAM
-
-Maybe I just woke up on the right side of the bed this evening? 
-
-#### GWEN
-
-Well, whatever it is, it stops now. 
-
-#### SAM
-
-Um, I don't think you can order me to stop being in a good mood... 
-
-#### GWEN
-
-I can, and I am. It's putting me on edge. 
-
-#### SAM
-
-(not sorry) I'm so sorry. In that case, I'll do my best to get bitter and cynical. 
-
-#### GWEN
-
-Good. This should help. Gwen tears a piece of paper out of a notebook. 
-
-#### SAM
-
-What's this? 
-
-#### GWEN
-
-Your extra duties. 
-
-#### SAM
-
-I thought you were sorting it? 
-
-#### GWEN
-
-I am. By delegating them to you. He starts to read, unimpressed 
-
-#### GWEN
-
-How's that good mood doing? 
-
-#### SAM
-
-Struggling. Look, I'll see what I can do but I really do need to clear my caseload first. 
-
-#### GWEN
-
-(mollified) All right then. Now, do you know where Alice is? I've got a special list for her... 
-
-#### SAM
-
-Now who's grinning? Breakroom I think. 
-
-#### GWEN
-
-Excellent. Carry on. GWEN exits. 
-
-#### SAM
-
-(calling sarcastically) You're welcome! Sam looks at the list again, groans slightly and puts it on his desk. He resumes typing and triggers the next case. 2. CYBERSPACE -- N/A, N/A (CASE READING) 
-
-#### AUGUSTUS
-
-February 18th 1845 It is with some trepidation that I am forced to record yet another failure, as despite my certainty that none beside myself will read these words, I must be mindful of my becoming disheartened, and strive against any loss of conviction. While I have no hesitation in accepting N's recommendation, the particulars of the collapse must be confronted directly. We have been undertaking this great work, perhaps the greatest work, for nigh upon three decades and thus far are still unable to effect transmutations beyond those endeavors we each undertook alone. We have some dozen of the finest minds of the age, yet it seems more wont to stagnate our thoughts and progress than to light within them that muses' fire of inspiration. Is it perhaps the need for secrecy? Is the clandestine nature of the researches we attempt in its very nature opposed to the work of both natural and unnatural philosophy we have undertaken. Or is the spiritual aspect of our alchemical undertaking such that only the experiments of an individual can ever bear fruit? No, I must excise such doubts from my mind. Purification is not only to be found in chemical processes, after all. We had all of us reached the limit of what might be achieved alone. If such were not the case, the Institute would not have been founded, nor would my fellows have selected me for its leadership, much less its name. I must hold fast and continue my explorations. February 22nd 1845 A curious thing has caught my attention. It is strange how the work of natural philosophy attunes ones eye to the things that might be termed unusual. I was making my way to our London offices when I heard the din of a crowd approaching from a nearby corner. The shouting of slogans and waving of banners marked it immediately as a Chartist meeting and, not wishing to receive another sermon on the necessity of reform and the urgency of radical constituency changes, I moved to hail down a carriage. At my call, two stopped close by each other: a somewhat worn-looking hansom cab, and one of the newer Clarences, one of those which my housekeeper calls, in her inimitable way, a "growler" due to the sound of its wheels on the cobbled streets. As I was travelling alone, my natural impulse was toward the speed of the hansom, yet the din of the meeting made my reconsider, as I have often found the heavier wood of the fourseater Clarence to make for a quieter journey, as least within the coach. I was certainly in no rush, so I took a step towards the cab with every intention of engaging it, when something stopped me. There was only a single coachman. Not so unusual, perhaps, but something about the manner of his sitting gave me pause. He looked straight forward, paying no heed to myself or anything else in the street that might call his attention and he wore a long oilskin greatcoat which draped over the entirety of his body, despite the dryness and unseasonable warmth of the day. As I slowed my step, my eye began to take in more precise detail of the cab itself. The colour seemed unusual somehow, the glossy black glinting like a bottle-fly, and the joins in the wood seeming smoother and less angular than perhaps they should have been. There was even a sheen on the plush red furnishings, almost as though they had become wet somehow, and I could not shake the oddest sense of disquiet when looking at it. I had no opportunity for further examination, however, as my momentary hesitation had been noticed by another prospective passenger, who promptly stepped ahead of me into the Clarence. It began to move away immediately, and as it did so two things became apparent. The first was that the very instant the door closed, there was no longer any sign of the passenger within the carriage, and it seemed once again empty. The second was that as he pulled away the coachman's greatcoat was caught briefly by a gust of wind, and in that moment I saw without doubt that there was no border, no dividing line, no gap between the coachman and the coach. They were somehow as one. If this is as I suspect, I would be wise to keep an eye open for this vehicle, restrict myself to hansom cabs and try to forget the unnerving sound the "growler" made as it moved away. February 26th 1845 I have found it again. It took far less effort than I suspected it might, as I believe that it relies on the ubiquity and variety of cabs speeding around London for its anonymity, rather than the actual verisimilitude of its disguise. Indeed, the longer one considers it, the clearer it becomes that neither it, nor the coachman, nor the so-called horses that feign to pull it, are at all what they appear to be. I espied it once again upon the exact same street where it had nearly caught me, and I have no wonder as to the reason. It is dense with traffic and few pause their step or make note of the specific comings and goings. I suspect it is a more than adequate hunting ground. Upon sighting the thing, I hailed down a separate cab and bid it wait, pointing at the Clarence and telling the driver to follow it when it should have a passenger. He gave me a look that I might uncharitably describe as insolent, but it took little extra coin to secure his goodwill and thus cooperation. I then watched as a well-mustachioed young gentleman in a brand new frock coat flagged down and entered my quarry. We followed behind for almost an hour, leaving my nerves frayed from the constant rattle of the thing moving over the cobbled streets and my driver's near-constant aggravation. It did not stop, nor slow, nor discharge its passenger, but after some minutes I began to notice a subtle, but unmistakable hint of crimson in the ruts it carved through the muck of the London streets, as though fresh dye were leaking from the joints of the rolling wheels. At length it disappeared into a covered alleyway. By this time evening had fallen, yet the lamplighters had not been about their duties, and my own coachman was adamant that he would take me no further after such a frivolous chase. So it was, I left the safety of the cab and continued on alone, creeping into the darkness with naught to brighten my way. I took what comfort I could in the knowledge that if I could not see, then I could not be seen, though it helped me little as I was now possessed of an unspoken certainty that the growler had no need of eyes. I consider myself fortunate that the coach-thing was not waiting for me. Instead I soon found that the seemingly derelict alley was instead full of small, discarded scraps of clothing, as well as old newspapers and even an umbrella. And of course, the freshest and least decayed of these was a frock coat, though I could not in any sense still describe it as brand new. There is more to learn here. Perhaps my recent frustrations with our progress and the increased scrutiny by Boyle's incessantly meddling inheritors have pressed me to put more significance on this than is warranted, but I cannot help but feel that to understand this thing may be to finally unlock the world as yet unknown to us. And in pursuit of that, there is no cost too great. March 2nd 1845 It is done, and I am surprised to find how little remorse I feel. I have retrieved young Archibald Cameron's notebook, and found it surprisingly legible, if somewhat soiled. It is no great loss to the Institute, though I shall not be too open with the others as to the cause of his disappearance. He was the youngest of our number and certainly the least skilled, which endeared him to several whose hearts are in my estimation too soft for the great work. Even so I was taken aback by how little dissembling it took to convince him to enter the growler and make observations. I naturally made no mention my nigh-certainty that the journey would be fatal, but in almost all other particulars I was honest, even to the point of speaking to him plainly that I could not guarantee his personal well-being. Still, he was eager to assist in the scribing of those notes I had emphasised were potentially vital to the advancement of the Magnus Institute's work. Likely, he was simply overawed by my status as founder, but his excitement at this prospect was clearly genuine. For all his youth, I am impressed at Archibald's conscientiousness, writing as he did so far into the process, albeit with some trouble towards the end. The final few pages are naturally of a more frantic and pained character, but they also contain some of the most useful observations. To his credit, his philosopher's eye was calm and accurate even in his final moments. Well, perhaps not his actual final moments. His analytical faculties begin to desert him shortly after the loss of his skin, and it is clear from the handwriting exactly when his eyes depart his skull. This seems to have occurred some minutes after he finally accepted the doors were truly impossible to open and in turn seems to have prompted his last, but perhaps most important deduction: that the rate of digestion, for lack of a better word, seems to be linked to his own levels of fear. Ironically this discovery itself clearly caused him a great deal of that particular emotion since the rest of his notes were little more than pained scribbles and crude invective. I believe his final lines were cursing me specifically, but his penmanship, already so poor, was rendered truly unintelligible by this point. My surmise that a paper notebook would not be digested or consumed has proven accurate, reinforcing my belief that the consumption process is supernatural, rather than chemical, as there are no biologic stains other than the blood smears. Sufficed to say, if the contents of this notebook prove true, it may indeed prove transformational to our researches. That such beings exist, and not simply as myth beyond the fringes of civilisation, but within the very heart of our great empire, may yet prove as important as any transmutation taking place within an alembic. And if there are things of such horror already in this world, perhaps our great ambitions are not quite so foolish after all. Time will tell, I suppose. 3. OIAR OFFICE -- NIGHT, CLEAR (COMPUTER) ALICE and GWEN are busy at their desks. It is tense and ALICE is clearly in a foul mood. There's a ping as Gwen receives an email. She opens it. 
-
-#### GWEN
-
-Hm. Beat. 
-
-#### GWEN
-
-(cont'd) Alice? Beat. 
-
-#### GWEN
-
-(cont'd, irritated) Alice. 
+Was that it? 
 
 #### ALICE
 
-Sorry, I can't hear you over the sound of me polishing all the break room knives. 
+Oh for f-[ucks sake] The recording stops. 
+
+#### 2. INT. MANAGER'S OFFICE -- NIGHT, RAINING (MANAGER'S
+
+LANDLINE) LENA enters with Gwen and Trevor. She sits behind her desk while Gwen stands awkwardly. 
+
+#### LENA
+
+Thank you very much for joining us this evening, minister. I do hope it met your expectations. 
+
+#### TREVOR
+
+Mmmm. 
+
+#### LENA
+
+Something the matter, minister? He takes a deep breath as if to enter a pre-prepared speech, which it is. 
+
+#### TREVOR
+
+Look, Lena, I've know you've had a lot of leeway running of this department with previous ministers and god knows I prefer a hands-off approach[6] 
+
+#### LENA
+
+Glad to hear it. 
+
+#### TREVOR
+
+But it's reached the point where I am forced to intervene. 
+
+#### LENA
+
+May I ask why? 
+
+#### TREVOR
+
+Because I am hearing from reliable sources that one of your subcontractors has been implicated in a recent death, possibly even as a murder suspect. Beat. 
+
+#### LENA
+
+Gwen can I ask you to wait outside please. Gwen starts moving to the door slowly. 
+
+#### LENA CONT.
+
+Minister, if I may, we both know that the rumor mill surroundingTREVOR Skip it. I went to Eton with Daniel Turner, the Commissioner. He keeps me in the loop. 
 
 #### GWEN
 
-For goodness sake that wasn't even on your task list. 
+(hand on the door handle) Do you know which, uh, subcontractor it was? 
 
-#### ALICE
+#### TREVOR
 
-No, but it's important if I'm going to properly murder-suicide, you, Lena and the useless pain-in-the-ass minister when he arrives. 
+I'm sorry, do you hire a lot of murderers for contract and consultancy work? 
 
-#### GWEN
+#### LENA
 
-You know it's illegal to joke about killing an MP? 
+(intervening) She simply means that outside of their specific work with us we don't keep close track of our external workers and hadn't been made aware of this. 
 
-#### ALICE
+#### TREVOR
 
-You know it's illegal to be a completeShe takes a breath. 
+So you're telling me you know nothing about an OIAR external contract being found with the bodies of two tattood thugs who met rather grisly ends? Gwen and Lena realise he's talking about Ink5oul. Trevor doesn't notice. 
 
-#### ALICE
+#### LENA
 
-(cont'd) What do you want Gwendolyn? 
+I'm afraid not. 
 
-#### GWEN
+#### TREVOR
 
-You ever get any weird emails? 
+Then you're either lying or woefully out of touch. Neither fills me with confidence. 
 
-#### ALICE
+#### LENA
 
-I'm openly trans on the internet. 
+MinisterTREVOR I was able to talk to Danny and keep this quiet for now but I need to know that there's no liability here, either legal or, uh, reputational. 
 
-#### GWEN
+#### LENA
 
-At work, I mean. 
-
-#### ALICE
-
-(interested despite herself) Not really. Why? What've you got? 
+You have my absolute assurances thatTREVOR No. Not good enough. I need someone's head to roll, so if it does come back to bite me I can say that those responsible have been removed from their post. 
 
 #### GWEN
 
-It's just some old files, but the email address looks like gibberish. I'd ask Colin, but he's... y'know... 
+W-who would that be? 
 
-#### ALICE
+#### LENA
 
-Careful. 
+Gwen, outside. GWEN doesn't move. 
 
-#### GWEN
+#### TREVOR
 
-Indisposed? 
-
-#### ALICE
-
-Yeah, well, I don't know what you want from me. I'm hardly a computer whizz myself. 
+If you can find out who that contract came from then fire them otherwise... 
 
 #### GWEN
 
-Hmm. 
+Otherwise? 
+
+#### LENA
+
+Gwen. 
+
+#### TREVOR
+
+Otherwise, I leave it to your discretion. 
+
+#### LENA
+
+(pointed) I'll see what I can do. 
+
+#### TREVOR
+
+Good. Now if you'll excuse me, it's very late. 3. OIAR BREAKROOM -- NIGHT, RAINING (CCTV) SAM, ALICE and CELIA are stood around, drinking coffee and laughing. 
+
+#### CELIA
+
+Good grief. 
 
 #### ALICE
 
-What are the files? A pause as Gwen clicks into some of them. Her demeanor abruptly shifts, becoming secretive. 
+I told you. I told you. 
+
+#### SAM
+
+You did. 
+
+#### ALICE
+
+But you didn't believe me, did you? Oh no! You all thought "oh, Alice is joking, she's exaggerating, she's indulging in touch of comic hyperbole-" 
+
+#### CELIA
+
+I admit I was... skeptical. 
+
+#### ALICE
+
+But I was right wasn't I? I. Was. Right. 
+
+#### CELIA
+
+I was sure he'd at least have a vague idea about what we did. Just, like, the faintest inkling. 
+
+#### SAM
+
+At least this way we don't need to talk to him. 
+
+#### ALICE
+
+Oh, that's not very fair, Sam. Not when he was so keen to spend time chatting with such a diverse group of folks. 
+
+#### SAM
+
+Oh my god, I almost forgot! 
+
+#### ALICE
+
+I personally love to be diverse and think they should absolutely send a photographer down to capture me diversing all over the place. 
+
+#### SAM
+
+(laughing) Ew. 
+
+#### ALICE
+
+What about you, Celia? You feeling a little diverse? 
+
+#### CELIA
+
+Oooooh I dunno. Does being a woman still count? 
+
+#### ALICE
+
+I mean, it's hardly centrefold of Civil Service Weekly. 
+
+#### CELIA
+
+Pan? 
+
+#### ALICE
+
+I mean it's better. Are you from anywhere particularly exciting? That might do it. 
+
+#### CELIA
+
+You have no idea... 
+
+#### ALICE
+
+Ah of course, I forgot your mysterious origins. The good humour fades a little. 
+
+#### ALICE
+
+(cont'd) Anyway, I reckon Gwen and Lena are going to be cleaning up after Mr. "minister" for a while yet, so I'm gonna bounce. 
+
+#### CELIA
+
+Bit early isn't it? 
+
+#### ALICE
+
+(Standing and grabbing her stuff) I've earned it. Besides, I'm grabbing some drinks with Teddy. 
+
+#### SAM
+
+In the morning? 
+
+#### ALICE
+
+Ask not for whom the insomnia tolls, my dear. Cover for me if Lena asks? 
+
+#### SAM
+
+Always. 
+
+#### ALICE
+
+Alright. Peace! Alice leaves. Beat. 
+
+#### CELIA
+
+Well, we should probably be heading back to work. Sam reaches out to her. 
+
+#### SAM
+
+Wait a second. 
+
+#### CELIA
+
+What's up? 
+
+#### SAM
+
+I know you value your privacy and I respect thatCELIA Good. 
+
+#### SAM
+
+But at some point you're going to need to stop deflecting anytime your past comes up. Don't get me wrong, it's your business, you don't need to tell me anything you don't want to but... I can only get so close with you when you keep so... 
+
+#### CELIA
+
+So... 
+
+#### SAM
+
+...locked down. 
+
+#### CELIA
+
+Right. 
+
+#### SAM
+
+All I ask is you think about it. 
+
+#### CELIA
+
+I will. 
+
+#### SAM
+
+Take your time, I'm in no rush and like I said, if you decide you don't want to share then I won't pry. 
+
+#### CELIA
+
+Good to know. 
+
+#### SAM
+
+Now if you'll excuse me, I need to go check what car the right honorable dickhead is picked up in. Alice bet me a tenner it's going to be a Bentley. 
+
+#### CELIA
+
+You're lucky you didn't bet more. 
+
+#### SAM
+
+I know right? See you in there. 
+
+#### CELIA
+
+Sure. SAM exits. Celia remains. 
+
+#### 4. OIAR MAIN ENTRANCE EXT. -- NIGHT THUNDERSTORM
+
+(GWEN'S PHONE) TREVOR HERBERT MP is getting in his Bentley as the storm grows thunderous. GWEN walks up behind him beneath an overwhelmed umbrella. 
+
+#### TREVOR
+
+-complete bloody shambles. Home, Wilson before anyone else-. 
 
 #### GWEN
 
-Just... junk. Old paperwork. Nothing important. 
+Uh, minister? 
 
-#### ALICE
+#### TREVOR
 
-(suspicious) Right. Let's have a look. You know me, I love unimportant old paperwork. 
-
-#### GWEN
-
-Sorry. Already deleted. 
-
-#### ALICE
-
-(dubious) Oh yeah? Fine, whatever, I've got better things to do anyway, like... She checks the list. 
-
-#### ALICE
-
-(cont'd) "Clean all screens with isopropyl wipes"? For god's sake... I'm not doing that. 
+Oh, right, hello, uh... 
 
 #### GWEN
 
-What about the minister? 
+Gwendolyn. Bouchard. 
 
-#### ALICE
+#### TREVOR
 
-Oh for him I'd use bleach and wirewool. Maybe some pure chlorine to finish. 
+Boucha- Not Jeremy's granddaughter? 
 
 #### GWEN
 
-What? No that's not what I(catching herself) No, we're not doing this now. Nice try. Go do the list. 
+That's right. 
 
-#### ALICE
+#### TREVOR
 
-Dammit. 5. INT. OIAR BREAKROOM -- NIGHT, CLEAR (CCTV) CELIA is sat sorting through a pile of papers at one of the tables. SAM enters. 
+Ha! Right, I see the resemblance now. How is the old bastard? 
 
-#### SAM
+#### GWEN
 
-Ms. Ripley, I do hope you've not been using the department printer for personal projects? 
+He's all right, I think. We haven't spoken in a few years. 
 
-#### CELIA
+#### TREVOR
 
-Wouldn't dream of it. 
+(trying to duck into the car) I see. Well, I wouldn't say it's been a pleasure but it's good to know there's at least one person here with some quality. 
 
-#### SAM
+#### GWEN
 
-You should. This place is a goldmine. I take a carton of milk and a roll of toilet paper home every night. CELIA gives a slight chuckle but is clearly distracted. 
+Thank you minister. Actually, I was wondering if I could talk to you for a moment. 
 
-#### SAM CONT.
+#### TREVOR
 
-Are these the ones Helen sent over? 
+(reluctantly) Well you have my office number, so you just call up and the admin girls willGWEN Lena's lying to you. Beat. 
 
-#### CELIA
+#### TREVOR
 
-Yeah, I really didn't think there'd be so many. The institute must have been absolutely loaded. 
+(suddenly focused) About what? This contractor business? 
 
-#### SAM
+#### GWEN
 
-Surely, they didn't actually buy all these? 
+It happened because she made a mistake. And it's not the first time either. Here. She hands him a flash drive. 
 
-#### CELIA
+#### GWEN
 
-Thankfully no. Anything they actually got the deed to goes here. These are the ones where they put in an offer, but didn't close the deal, and this pile is enquiries that didn't go anywhere. 
+I've compiled a dossier of confidential files stretching back almost twenty years detailing Lena's incompetence and malfeasance as head of the OIAR. It's all on this drive. 
 
-#### SAM
+#### TREVOR
 
-Why not? 
+And how exactly did you happen to stumble across these "confidential" files? 
 
-#### CELIA
+#### GWEN
 
-It varies. Sometimes the owners didn't actually want to sell in the end, sometimes the Magnus guy would just send a bunch of weird request then not follow up once they were answered. 
+They were sent to me by a... concerned third party who wishes to remain anonymous. 
 
-#### SAM
+#### TREVOR
 
-Weird how? 
+I see. These are serious accusations. 
 
-#### CELIA
+#### GWEN
 
-See for yourself. Sam reads picks up some notes at random and reads. 
+I'm aware. 
 
-#### SAM
+#### TREVOR
 
-Why would they want "a picture of the constellations as seen from the Front Elevation facing due east," 
+Very well. Thank you for bringing this to my attention Ms. Bouchard. Good to see the apple hasn't fallen far from the tree. 
 
-#### CELIA
+#### GWEN
 
-I mean, astrology is big in alchemy, but you'd think the answer would be obvious based on its location. Doesn't make any sense. Or how about this one? 
+Oh, yes. Thank you. TREVOR gets into the car. 
 
-#### SAM
+#### TREVOR
 
-(reading) "Preference for properties with intact 1st generation (sounding it out) per-perchloro-" 
+This is my direct number. (he hands her a card) Don't bother with the office, I'm never there. You see anything else "malfeasant" you give me a call. He goes to close the car door. 
 
-#### CELIA
+#### GWEN
 
-Perchloroethylene machines. I looked it up. Basically super toxic washing machines. 
+Understood. 
 
-#### SAM
+#### TREVOR
 
-Okay... Were they making a lot of these "queries"? 
-
-#### CELIA
-
-I think so? I get the impression most of them were done by phone. The only ones here were either sent by letter or done through Helen. 
+I'll be in touch. He shuts the door and the car pulls away leaving Gwen standing in the rain. She takes a deep, steadying breath. 5. EXT. OIAR -- NIGHT, THUNDERSTORM (TAPE RECORDER) A tape recorder clicks on in the rain. SAM opens the main door and stands in the doorway. 
 
 #### SAM
 
-Hmm. So how can I help? 
-
-#### CELIA
-
-Well, I reckon we start with the sites they actually owned. I mean, I think they might technically still own some of them -- I haven't been able to get my head round some of the legals. 
+(getting soaked) Oh Christ! Alright, Trevor Herbert MP, what do you drive... He sees the car driving off. 
 
 #### SAM
 
-Let's see if I have any luck. Sam takes some papers and they start to read silently. There is a gentle tension between them. 
+(cont'd) Ah, dammit. He notices Gwen. 
 
 #### SAM
 
-So. 
-
-#### CELIA
-
-So? 
+(cont'd) Gwen? (calling) Gwen! He takes a step forward. The door slams shut behind him. 
 
 #### SAM
 
-Do we talk about it or...? 
-
-#### CELIA
-
-We can if you want to. 
+(cont'd) Dammit! He bangs on the door a couple of times. There is a deep indrawn breath near the recorder which SAM doesn't notice. 
 
 #### SAM
 
-Cool. Beat. 
+(cont'd) Brilliant. Absolutely- The first time I ever heard of the Magnus Institute was from my parents. He stops gasping for breath confused. There is another indrawn breath beside the tape deck. 
 
 #### SAM
 
-So what was that? 
+(compelled) I remember they were beaming, full of pride and satisfaction as they read out the letter: "selected to apply for our gifted child program". He again gasps for breath panicking. THE ARCHIVIST emerges. 
 
-#### CELIA
+#### ARCHIVIST
 
-That was sex, Sam. Pretty decent sex, actually. 
 
-#### SAM
 
-I, uh- Yeah, no, I agree, but...um. Oh, you know what I mean. 
+#### MORE.
 
-#### CELIA
 
-Well that depends. What do you want it to have been? Was it bit of fun, or two scared people trying to comfort one another? That's fine. You want it to have been something more? Well, I'd be ok with that too. 
 
 #### SAM
 
-Even with everything else that's going on? We might be in genuine danger. We might die. 
+(fighting it) I... Was... so happy... that I had pleased them, that I was what they had wanted...ARCHIVIST 
 
-#### CELIA
+#### MORE.
 
-I mean that's true of every relationship really. It's just a bit more... obvious with us. 
 
-#### SAM
-
-What do you want? 
-
-#### CELIA
-
-I mean, Jack's always going to be my first priority, but beyond that... I think I'd like it to happen again, if you'd be ok with it. See where it goes... Beat. 
 
 #### SAM
 
-Yeah. Ok. I think I'd like that too. 
-
-#### CELIA
-
-Great. 
+...that I was... special... The world recedes as Sam's statement is pulled from him leaving only his voice and the Archivist's indulgent breath. 
 
 #### SAM
 
-(smiling) Great. They kiss quickly. 
-
-#### SAM
-
-I can't stop thinking aboutCELIA (quickly) This one is Oxford? Yeah, me neither. 
-
-#### SAM
-
-Oh err... yeah. 
-
-#### CELIA
-
-It was one of their last purchases, in 1997 I think. 
-
-#### SAM
-
-What do we think they mean by "retail unit"? 
-
-#### CELIA
-
-Well, the Hilltop Centre's a small shopping development just off Cowley Road. It was built in the 80s, but it looks like the storefronts didn't exactly get snapped up. 
-
-#### SAM
-
-Huh, I'd have thought you'd need to rent a shopping unit. I didn't realise you could buy one outright. 
-
-#### CELIA
-
-Yeah it's super weird. So is the fact that they never really did anything with it. Apparently, it was set up as an "outreach centre", whatever that means, but it was only occupied for a month or two. Then they just locked it up and left it. 
-
-#### SAM
-
-I mean, they only had a couple of years before- Hang on, is this one of the ones that they still technically own? 
-
-#### CELIA
-
-Yup. And the Hilltop Centre's been effectively shuttered for a while. 
-
-#### SAM
-
-Meaning that no-one's been inside... 
-
-#### CELIA
-
-Since 1997. What do you think? Worth a look? Alice enters and goes to make herself a coffee as bitter as she is feeling right now. 
-
-#### ALICE
-
-I swear, if I hear one more word about Trevor-bloody-Herbert MP I am going to blow up parliament. 
-
-#### SAM
-
-How's your list coming? 
-
-#### ALICE
-
-Don't test me, Sam. I have so many barrels of gunpowder and the blessing of the Pope. 
-
-#### SAM
-
-Is it really that bad? 
-
-#### ALICE
-
-Lena's going mental over dust bunnies, Gwen is so far up Lena's ass she can see daylight and oh let's not forget we're all being stalked by a terrifying monster. 
-
-#### CELIA
-
-It is a lot. 
-
-#### ALICE
-
-It's fine. I'm fine. Just a feeling a bit more... anti-establishment than normal. Anyway, what are you two doing? More Magnussing? 
-
-#### CELIA
-
-Yeah. We're thinking about having a bit of a field trip. 
-
-#### SAM
-
-Don't worry we'll keep it to ourselvesALICE Nah, screw that. 
-
-#### SAM
-
-What? 
-
-#### ALICE
-
-Were you not listening when I told you about this thing? I'm pretty sure we let it out when we went poking around that "Archivist" room at the ruins. I wanted to stop you before you did something stupid. But now we know you already did. So, maybe we can dig up something to protect ourselves. 
-
-#### SAM
-
-Or even stop it for good. 
-
-#### ALICE
-
-I dunno about that, the way Gwen talks about these things, sounds like that might be a quick way to get killed. 
-
-#### CELIA
-
-(quietly) You didn't tell me the room was labelled "Archivist". 
-
-#### ALICE
-
-(offhandedly) Sure we did. 
-
-#### CELIA
-
-No. You said you messed up some sort of ritual design in one of the locked rooms and thought that might have released it. You never said the word "Archivist". 
-
-#### SAM
-
-Does that matter? 
-
-#### CELIA
-
-I don't know. Maybe. 
-
-#### ALICE
-
-So which of these are you planning to start with then? 
-
-#### SAM
-
-The Hilltop Centre. In Oxford. Celia has a feeling about it. 
-
-#### ALICE
-
-Oh does she? And would this be a Good feeling or a bad feeling? 
-
-#### CELIA
-
-I guess we go and find out. 
+I was so excited. It was my first ever train trip alone. Alone apart from Saul and Joy, the two other children invited from my school and Mrs Leng who was supervising us for the trip to Manchester. The journey from London was magical. A whole two days off school with nothing to prepare or study or revise since the Institute wouldn't say what kind of tests we were going to be doing. I talked about Spiderman with Saul on the way and compare pogs, although the train was too bumpy to actually play. Joy wanted to play as well, but she was a girl and that was big deal. I still feel bad for that but it wasn't like we were mean to her or anything. The thrill of the journey vanished the moment we arrived at the Magnus Institute. My school and the estate I grew up on were both built in the sixties, all decaying concrete and decayed optimism, but this, this felt old like I had only seen in movies. I had learned a new word that week. Austere. This felt austere. And as we stepped into the building's shadow, tried to hang back, so Mrs. Leng had to gently pull me by the sleeve to get me to go in. It smelt funny, sort of like my local library but more proper and the tall, barred windows let in little light. The place weighed on me like a heavy winter coat. We were met at the entrance by a man called Gilbert. He was very thin, with mousy brown hair and a youngish face even though he dressed like a headmaster. He spoke with a big fake smile, like a kid's TV presenter and led us into a large room full of big chairs and old sofas, which was packed full of other kids. It seemed so strange to me that such a grand room would be filled with so many screaming, running children and I think all the adults felt the same. Gilbert left as quick as possible after showing us in. I was one of the first to be tested, and I was especially nervous when I met the pair of stern-looking older women. They looked me up and down with thin lips and arched eyebrows, and I felt like I'd already failed without even taking the test. They sat me down on a carved wooden chair that was far too big for me, my feet dangling over the edge uncomfortably. Then they began to ask me questions. But not like I was expecting at all. It wasn't maths or reading or history or science it was more like when I was sent to the school nurse in year two after biting another kid in an argument. "Was I happy at home?", "What do I do when I feel angry or upset?", "When is it okay to lie?" I answered as best I could, but the women looked unhappy and it felt like I was getting it all wrong and I started feel cold and small and stupid. Then I started to cry. I couldn't help it. I knew I shouldn't, that I was messing it up but all the bad feelings that had been growing inside since we arrived just burst out. The women looked even more annoyed and so I leapt out of the chair, still crying and ran out of the room before they could yell at me. I ran and ran through the winding corridors, with no idea where I was going or what I was going to do. I didn't want Mrs. Leng to see me like this and tell my parents I'd been bad, but I didn't want to be on my own in this strange, horrible building. Finally, I stopped in a dark corridor with no windows, no sign of the overcast day outside. I was lost. I was lost and I was alone and I was in so much trouble. I had to find a grownup. So I started trying doors but they all seemed locked. Then I turned a corner and found an open door with the name Dr. F Welling engraved on a brass plaque and bright light spilling out from the inside. I should have known that the colour of the light was wrong. I should have known from the chanting inside that this place wasn't for me. But I was alone and I was afraid and I needed a grownup. There was an old man in a tweed suit stood muttering in front of a table and on the table was a person. I couldn't see their face but they were naked and pale and still. Beside the table was a pile of weird machines and strange shaped beakers bubbling and hissing and whirring. Large chunks of stone and metal hung slowly twisting in the air and the sickly yellow light seemed to come from everywhere. I stepped forward and spoke with my smallest indoor voice: "Hello?" That was all I said. That was all. I couldn't have known. He wasn't expecting any interruption and I could see the surprise run through him, disrupting his concentration and making him stumble over his words for just a moment. It was just a moment, but in that moment the glass exploded the rocks fell and the yellow light vanished, sucked away as though into him. We were thrown from dazzling brightness into deep darkness but I could just make him out as he turned towards me. He looked at me and opened his mouth, and I cowered, waiting for the yelling, for the punishment, but no words came out. He just opened his mouth wider and wider as if to scream, then reached out towards me. But the flesh of his arm, the skin and muscle, it didn't move. It was the bones, the bones that pushed and strained against from inside as though there were a person trapped inside a fleshy suit. His skin strained for a moment, then erupted in a spray of blood that swept across the floor with a single drop landing on my new Velcro shoes. The skeletal arm flailed outwards held together by a few dripping ligaments and leaking that awful yellow light from the joints. Then it bent and reached back and dug its bony fingers through the man's clothes and into his chest, ripping off a gorey chunk and hurling it to the floor. In the silence of the room I heard the wet slap of the meat on the polished wooden floor and looking up I could see in the man's eyes that he could feel everything even though he didn't make a sound. I stood there, frozen in shock and terror, and watched as the other arm thrust itself free from its meat, reached up and tore away his face in a single swift yank to reveal the ecstatic skull within. The last thing I saw was it's dripping red smile before I turned and bolted from the room. The thunderstorm slowly begins to return. I don't remember much after that. The stern ladies found me crying in a corner and pulled me back to the room with the other children. They gripped me too tightly but I didn't say anything. I never told anyone what I saw. My parents just assumed I was upset after being rejected from the program same as them. They were so disappointed, so sad to realize that I wasn't Magnus Material. Just me, nothing special. I couldn't look at them but not just because of the shame, but because whenever I saw their faces I could see the outline of their skulls beneath, still grinning at me. And now, I- I'm going back... to find... find.... The sound of the thunderstorm comes back into focus as Sam is finally overcome and slumps to the floor. The archivist steps forward takes one last breath of Sam's memory then recedes leaving the tape recorder to flounder in the rain and stop. 
 
 ##### [Music]
 
@@ -562,8 +566,8 @@ I guess we go and find out.
 
 #### ANNOUNCER
 
-The Magnus Protocol is a podcast distributed by Rusty Quill and licensed under a Creative Commons Attribution Non-Commercial Sharealike 4.0 International License. The series is created by Jonathan Sims and Alexander J Newall, and directed by Alexander J Newall. This episode was written by Jonathan Sims and edited with additional materials by Alexander J Newall, with vocal edits by Nico Vettese, soundscaping by Mg McKellar, and mastering by Catherine Rinella with music by Sam Jones. It featured Billie Hindle as Alice Dyer, Shahan Hamza as Samama Khalid, Anusia Battersby as Gwen Bouchard Lowri Ann Davies as Celia Ripley, Sarah Lambie as Lena Kelley with additional voices from Tim Fearon. The Magnus Protocol is produced by April Sumner, with executive producers Alexander J Newall, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton, and Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice. To subscribe, view associated materials, or join our Patreon, visit rustyquill.com. Rate and review us online, tweet us @therustyquill, visit us on facebook or email us at mail@rustyquill.com Thanks for listening. The Magnus Protocol 27 -- Driven 
+The Magnus Protocol is a podcast distributed by Rusty Quill and licensed under a Creative Commons Attribution Non-Commercial Sharealike 4.0 International License. The series is created by Jonathan Sims and Alexander J Newall, and directed by Alexander J Newall. This episode was written by Jonathan Sims and edited with additional materials by Alexander J Newall, with vocal edits by Lowri Ann Davies and Nico Vettese, soundscaping by Tessa Vroom, and mastering by Catherine Rinella with music by Sam Jones. It featured Billie Hindle as Alice Dyer, Shahan Hamza as Samama Khalid, Anusia Battersby as Gwen Bouchard Lowri Ann Davies as Celia Ripley, Sarah Lambie as Lena Kelley, with additional voices from Beth Eyre The Magnus Protocol is produced by April Sumner, with executive producers Alexander J Newall, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton, and Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice. To subscribe, view associated materials, or join our Patreon, visit rustyquill.com. Rate and review us online, tweet us @therustyquill, visit us on facebook or email us at mail@rustyquill.com Thanks for listening. The Magnus Protocol 28 -- Interruptions 
 
-#### CAT3RB5535-18021845-10052024
+#### CAT2RB2578-17081998-13052024
 
-Kidnapping (carraige) --/- consumption [letter] Incident Elements:  Kidnapping  Uncanny  Graphic Violence  Manslaughter  Employer Abuse  Mentions of: Sex  SFX: misophonia (kiss) This episode is dedicated to Alicia, thank you for your generous support! You can find a complete list of our Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/ Created by Jonathan Sims and Alexander J Newall Directed by Alexander J Newall Written by Jonathan Sims Script Edited with additional material by Alexander J Newall Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice Produced by April Sumner Featuring (in order of appearance) Sarah Lambie as Lena Kelley Anusia Battersby as Gwendolyn Bouchard Shahan Hamza as Samama Khalid Tim Fearon as Augustus Billie Hindle as Alice Dyer Lowri Ann Davies as Celia Ripley Dialogue Editor -- Nico Vettese Sound Designer -- Meg McKellar Mastering Editor -- Catherine Rinella Music by Sam Jones (orchestral mix by Jake Jackson) Art by April Sumner Support us on Patreon at https://patreon.com/rustyquill Check out our merchandise available at https://www.redbubble.com/people/RustyQuill/s hop and https://www.teepublic.com/stores/rusty-quill Support Rusty Quill by purchasing from our Affiliates; Phantom Peak -- UK immersive experience -- 15% discount with this link DriveThruRPG -- DriveThruRPG.com Join our community: WEBSITE: rustyquill.com FACEBOOK: facebook.com/therustyquill X: @therustyquill EMAIL: mail@rustyquill.com The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty Quill Ltd. and licensed under a Creative Commons Attribution Non-Commercial Share alike 4.0 International Licence. 
+Transmutation (human) --/- ceremony (academic) Incident Elements:  Childhood Trauma  Graphic Injury  Ostectomy  Supernatural Transformation  Body Horror This episode is dedicated to Nathaniel Shawver, thank you for your generous support! You can find a complete list of our Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/ Created by Jonathan Sims and Alexander J Newall Directed by Alexander J Newall Written by Jonathan Sims Script Edited with additional material by Alexander J Newall Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G. Hamilton Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and Megan Nice Produced by April Sumner Featuring (in order of appearance) Sarah Lambie as Lena Kelley Ian Hayles as Trevor Herbert MP Anusia Battersby as Gwendolyn Bouchard Lowri Ann Davies as Celia Ripley Shahan Hamza as Samama Khalid Billie Hindle as Alice Dyer Beth Eyre as Archivist Dialogue Editor -- Lowri Ann Davies and Nico Vettese Sound Designer -- Tessa Vroom Mastering Editor -- Catherine Rinella Music by Sam Jones (orchestral mix by Jake Jackson) Art by April Sumner Support us on Patreon at https://patreon.com/rustyquill Check out our merchandise available at https://www.redbubble.com/people/RustyQuill/shop and https://www.teepublic.com/stores/rusty-quill Support Rusty Quill by purchasing from our Affiliates; Phantom Peak -- UK immersive experience -- 15% discount with this link DriveThruRPG -- DriveThruRPG.com Join our community: WEBSITE: rustyquill.com FACEBOOK: facebook.com/therustyquill X: @therustyquill EMAIL: mail@rustyquill.com The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty Quill Ltd. and licensed under a Creative Commons Attribution Non-Commercial Share alike 4.0 International Licence. 
