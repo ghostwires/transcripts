@@ -1,5 +1,6 @@
 _site/
 .sass-cache/
+.vscode/
 .jekyll-metadata
 Gemfile.lock
 *.zip
