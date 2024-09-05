@@ -1,731 +1,788 @@
 ©Rusty Quill 2023
 The Magnus Protocol
-Episode 28
-"Interruptions"
-Written by Jonathan Sims
-Edited by Alexander J Newall
-#### 10-07-2023
-Draft 2
+Episode 29
+"Locked In"
+Written by Alexander J Newall
+Edited by Jonathan Sims
+#### 08-02-2023
+Draft 3
 #### ANNOUNCER
-This episode is dedicated to
-Nathaniel Shawver -- Fear has shaped
-my perspective and actions for so
-long, but the immersive descriptions
-of the fears in Magnus showed me
-that I can choose to accept what I
-Fear as part of myself rather than
-feeling shame. There is so much in
-this world to be afraid of, but in
-examining that Fear we can find
-wonder.
+This episode is dedicated from
+Skylar Ceros to Aeron: You are so
+incredibly important to us and
+worthy of genuine and gentle love
+and affection. We hope at some point
+you'll be able to see this too. We'll
+always be there for you, no matter
+what. Sincerely, Skylar
 ##### [Intro Theme]
 #### ANNOUNCER
 Rusty Quill Presents: The Magnus
 Protocol.
-Episode Twenty-Eight -- Interruptions
+Episode Twenty-Nine -- Keyed-In
 ##### [Music]
-1. INT. OIAR OFFICE -- NIGHT, RAINING (COMPUTER)
-SAM, CELIA and ALICE are sat typing (or at least, pretending to
-type). LENA enters, followed by TREVOR HERBERT MP and
-#### GWEN
-#### LENA
-And here, minister, is the main
-office, where the majority of the
-processing takes place.
-#### TREVOR
-So I see.
-#### GWEN
-And this is Sam, Alice and Celia our
-primary processing team.
-Trevor goes round, they all awkwardly stand and shake his
-hand.
-#### TREVOR
-Good to meet you.
-#### SAM
-Uh, thank you, minister.
-#### TREVOR
-Fine work.
-#### ALICE
-Mmm. Cheers.
-#### TREVOR
-Lovely toHe is cut off by a massive yawn.
-#### TREVOR
-Pardon me, sorry. I honestly don't
-know how you manage to get
-anything done on such late shifts.
+#### 1. EXT. O.I.A.R. MAIN ENTRANCE -- NIGHT,
+THUNDERSTORM (SAM'S PHONE)
+Rain is hammering down on the exterior paving. It is muffled by
+Sam's body which is partially shielding his phone.
+CELIA opens the main door and steps outside.
 #### CELIA
-You get used to it.
-#### TREVOR
-Clearly, but it does seem
-unnecessary...
-#### LENA
-(jumping in)
-The data processing and
-amalgamation tools are locked into a
-24-hour cycle. The crawlers scrape
-online sources during the day then
-once the nationals pre-publish the
-data is incorporated into the
-caseloads meaning we're locked into
-this schedule. We could amend the
-system, but the required
-infrastructure overhaul would be
-very expensive andTREVOR
-Best leave it as it is I think. If it isn't
-broken don't fix it eh?
-#### ALICE
-(muttered)
-Ha...
-#### TREVOR
-Besides I wouldn't want to upset
-your Team dynamic. And such a
-diverse team it is too... I wonder if
-we should get in a photographer, put
-you all on some civil service
-promotional material.
-#### LENA
-(slightly strained)
-Oh I doubt that won't be necessary,
-minister. We're hardly the most
-interesting department.
-#### TREVOR
-Oh well, I don't know about that.
-So anyway, uhGWEN
-(quietly)
-Sam.
-#### TREVOR
-Sam! How are the er accidentGWEN
-(quietly)
-Incident.
-#### TREVOR
--incident numbers looking? Going
-down, I hope!
-#### SAM
-Uh...
-#### LENA
-Our numbers have been steadily
-improving ever since you took
-charge, minister. It's all detailed in
-my reports.
-#### TREVOR
-Glad to hear it. The ONS has been
-sniffing around again, same old
-rubbish about overlapping
-responsibilities and “synergistic
-fulfillment objectives”
-#### LENA
-Well hopefully our latest metrics
-should assuage any concerns in that
-department.
-#### TREVOR
-Just as long as it keeps GormanSmith off me back...
-He yawns again.
-#### LENA
-Was there anything else you wanted
-to see, minister?
-#### TREVOR
-No, no, no, I think we can move on.
-#### LENA
-Excellent. Gwen?
-#### GWEN
-If you'll follow me minister.
-Trevor, Lena and Gwen leave. There is a moment of silence.
+(muffled)
+Sam? You still out here?
+CELIA almost trips over SAM and notices him.
 #### CELIA
-Was that it?
-#### ALICE
-Oh for f-[ucks sake]
-The recording stops.
-#### 2. INT. MANAGER'S OFFICE -- NIGHT, RAINING (MANAGER'S
-LANDLINE)
-LENA enters with Gwen and Trevor. She sits behind her desk
-while Gwen stands awkwardly.
-#### LENA
-Thank you very much for joining us
-this evening, minister. I do hope it
-met your expectations.
-#### TREVOR
-Mmmm.
-#### LENA
-Something the matter, minister?
-He takes a deep breath as if to enter a pre-prepared speech,
-which it is.
-#### TREVOR
-Look, Lena, I've know you've had a
-lot of leeway running of this
-department with previous ministers
-and god knows I prefer a hands-off
-approach[6]
-#### LENA
-Glad to hear it.
-#### TREVOR
-But it's reached the point where I am
-forced to intervene.
-#### LENA
-May I ask why?
-#### TREVOR
-Because I am hearing from reliable
-sources that one of your
-subcontractors has been implicated
-in a recent death, possibly even as a
-murder suspect.
+(cont. muffled)
+Oh shit! Sam!? Sam are you okay?
+CELIA kneels next to him and rolls him over uncovering the
+phone in the process.
+#### CELIA
+(cont.)
+Sam! Can you hear me? Oh Christ
+Sam no, no, no, no noCELIA checks his breathing etc. SAM stirs.
+#### SAM
+(shivering)
+Urgh.
+#### CELIA
+Sam! Oh thank god!
+#### SAM
+(shivering)
+Wh- whereCELIA
+Shh, let's get you inside.
+#### 2. INT. O.I.A.R. BREAKROOM -- NIGHT, THUNDERSTORM
+(CCTV)
+SAM is shivering and drinking a hot coffee. CELIA is watching
+him warily.
+#### CELIA
+You're sure you don't want me to get
+the others?
+#### SAM
+(still shivering)
+No. Lena will just want me to sign
+some kind of waiver, Gwen wouldn't
+care and Alice...
 Beat.
-#### LENA
-Gwen can I ask you to wait outside
-please.
-Gwen starts moving to the door slowly.
-#### LENA CONT.
-Minister, if I may, we both know that
-the rumor mill surroundingTREVOR
-Skip it. I went to Eton with Daniel
-Turner, the Commissioner. He keeps
-me in the loop.
-#### GWEN
-(hand on the door handle)
-Do you know which, uh,
-subcontractor it was?
-#### TREVOR
-I'm sorry, do you hire a lot of
-murderers for contract and
-consultancy work?
-#### LENA
-(intervening)
-She simply means that outside of
-their specific work with us we don't
-keep close track of our external
-workers and hadn't been made
-aware of this.
-#### TREVOR
-So you're telling me you know
-nothing about an OIAR external
-contract being found with the bodies
-of two tattood thugs who met rather
-grisly ends?
-Gwen and Lena realise he's talking about Ink5oul. Trevor
-doesn't notice.
-#### LENA
-I'm afraid not.
-#### TREVOR
-Then you're either lying or woefully
-out of touch. Neither fills me with
-confidence.
-#### LENA
-MinisterTREVOR
-I was able to talk to Danny and keep
-this quiet for now but I need to know
-that there's no liability here, either
-legal or, uh, reputational.
-#### LENA
-You have my absolute assurances
-thatTREVOR
-No. Not good enough. I need
-someone's head to roll, so if it does
-come back to bite me I can say that
-those responsible have been
-removed from their post.
-#### GWEN
-W-who would that be?
-#### LENA
-Gwen, outside.
-GWEN doesn't move.
-#### TREVOR
-If you can find out who that contract
-came from then fire them
-otherwise...
-#### GWEN
-Otherwise?
-#### LENA
-Gwen.
-#### TREVOR
-Otherwise, I leave it to your
-discretion.
-#### LENA
-(pointed)
-I'll see what I can do.
-#### TREVOR
-Good. Now if you'll excuse me, it's
-very late.
-3. OIAR BREAKROOM -- NIGHT, RAINING (CCTV)
-SAM, ALICE and CELIA are stood around, drinking coffee and
-laughing.
-#### CELIA
-Good grief.
-#### ALICE
-I told you. I told you.
 #### SAM
-You did.
-#### ALICE
-But you didn't believe me, did you?
-Oh no! You all thought “oh, Alice is
-joking, she's exaggerating, she's
-indulging in touch of comic
-hyperbole-”
+I just can't face one of her I-told-youso's right now.
 #### CELIA
-I admit I was... skeptical.
-#### ALICE
-But I was right wasn't I? I. Was.
-Right.
+(unsure)
+All right.
+She sits next to him.
 #### CELIA
-I was sure he'd at least have a vague
-idea about what we did. Just, like,
-the faintest inkling.
+(cont.)
+What happened?
 #### SAM
-At least this way we don't need to
-talk to him.
-#### ALICE
-Oh, that's not very fair, Sam. Not
-when he was so keen to spend time
-chatting with such a diverse group of
-folks.
-#### SAM
-Oh my god, I almost forgot!
-#### ALICE
-I personally love to be diverse and
-think they should absolutely send a
-photographer down to capture me
-diversing all over the place.
-#### SAM
-(laughing)
-Ew.
-#### ALICE
-What about you, Celia? You feeling a
-little diverse?
+I went outside to- to see the car.. It
+was a Bentley. I watched it leave and
+then, it was just... there.
 #### CELIA
-Oooooh I dunno. Does being a
-woman still count?
-#### ALICE
-I mean, it's hardly centrefold of Civil
-Service Weekly.
-#### CELIA
-Pan?
-#### ALICE
-I mean it's better. Are you from
-anywhere particularly exciting? That
-might do it.
-#### CELIA
-You have no idea...
-#### ALICE
-Ah of course, I forgot your
-mysterious origins.
-The good humour fades a little.
-#### ALICE
-(cont'd)
-Anyway, I reckon Gwen and Lena are
-going to be cleaning up after Mr.
-“minister” for a while yet, so I'm
-gonna bounce.
-#### CELIA
-Bit early isn't it?
-#### ALICE
-(Standing and grabbing her
-stuff)
-I've earned it. Besides, I'm grabbing
-some drinks with Teddy.
+You're sure it was the same thing?
 #### SAM
-In the morning?
-#### ALICE
-Ask not for whom the insomnia tolls,
-my dear. Cover for me if Lena asks?
-#### SAM
-Always.
-#### ALICE
-Alright. Peace!
-Alice leaves. Beat.
+I'm sure.
 #### CELIA
-Well, we should probably be heading
-back to work.
-Sam reaches out to her.
-#### SAM
-Wait a second.
-#### CELIA
-What's up?
-#### SAM
-I know you value your privacy and I
-respect thatCELIA
-Good.
-#### SAM
-But at some point you're going to
-need to stop deflecting anytime your
-past comes up. Don't get me wrong,
-it's your business, you don't need to
-tell me anything you don't want to
-but... I can only get so close with
-you when you keep so...
-#### CELIA
-So...
-#### SAM
-...locked down.
-#### CELIA
-Right.
-#### SAM
-All I ask is you think about it.
-#### CELIA
-I will.
-#### SAM
-Take your time, I'm in no rush and
-like I said, if you decide you don't
-want to share then I won't pry.
-#### CELIA
-Good to know.
-#### SAM
-Now if you'll excuse me, I need to go
-check what car the right honorable
-dickhead is picked up in. Alice bet
-me a tenner it's going to be a
-Bentley.
-#### CELIA
-You're lucky you didn't bet more.
-#### SAM
-I know right? See you in there.
-#### CELIA
-Sure.
-SAM exits. Celia remains.
-#### 4. OIAR MAIN ENTRANCE EXT. -- NIGHT THUNDERSTORM
-(GWEN'S PHONE)
-TREVOR HERBERT MP is getting in his Bentley as the storm
-grows thunderous. GWEN walks up behind him beneath an
-overwhelmed umbrella.
-#### TREVOR
--complete bloody shambles. Home,
-Wilson before anyone else-.
-#### GWEN
-Uh, minister?
-#### TREVOR
-Oh, right, hello, uh...
-#### GWEN
-Gwendolyn. Bouchard.
-#### TREVOR
-Boucha- Not Jeremy's
-granddaughter?
-#### GWEN
-That's right.
-#### TREVOR
-Ha! Right, I see the resemblance
-now. How is the old bastard?
-#### GWEN
-He's all right, I think. We haven't
-spoken in a few years.
-#### TREVOR
-(trying to duck into the car)
-I see. Well, I wouldn't say it's been a
-pleasure but it's good to know
-there's at least one person here with
-some quality.
-#### GWEN
-Thank you minister. Actually, I was
-wondering if I could talk to you for a
-moment.
-#### TREVOR
-(reluctantly)
-Well you have my office number, so
-you just call up and the admin girls
-willGWEN
-Lena's lying to you.
+But everyone else it attacked ended
+up... well...
+She catches herself.
 Beat.
-#### TREVOR
-(suddenly focused)
-About what? This contractor
-business?
-#### GWEN
-It happened because she made a
-mistake. And it's not the first time
-either. Here.
-She hands him a flash drive.
-#### GWEN
-I've compiled a dossier of
-confidential files stretching back
-almost twenty years detailing Lena's
-incompetence and malfeasance as
-head of the OIAR. It's all on this
-drive.
-#### TREVOR
-And how exactly did you happen to
-stumble across these “confidential”
-files?
-#### GWEN
-They were sent to me by a...
-concerned third party who wishes to
-remain anonymous.
-#### TREVOR
-I see. These are serious accusations.
-#### GWEN
-I'm aware.
-#### TREVOR
-Very well. Thank you for bringing
-this to my attention Ms. Bouchard.
-Good to see the apple hasn't fallen
-far from the tree.
-#### GWEN
-Oh, yes. Thank you.
-TREVOR gets into the car.
-#### TREVOR
-This is my direct number.
-(he hands her a card)
-Don't bother with the office, I'm
-never there. You see anything else
-“malfeasant” you give me a call.
-He goes to close the car door.
-#### GWEN
-Understood.
-#### TREVOR
-I'll be in touch.
-He shuts the door and the car pulls away leaving Gwen standing
-in the rain. She takes a deep, steadying breath.
-5. EXT. OIAR -- NIGHT, THUNDERSTORM (TAPE RECORDER)
-A tape recorder clicks on in the rain. SAM opens the main door
-and stands in the doorway.
 #### SAM
-(getting soaked)
-Oh Christ! Alright, Trevor Herbert
-MP, what do you drive...
-He sees the car driving off.
+Dead?
+#### CELIA
+Yeah.
 #### SAM
-(cont'd)
-Ah, dammit.
-He notices Gwen.
+I don't know. It didn't feel like it
+wanted to kill me or eat me or
+whatever. It felt -- It felt more like it
+was searching for something, in my
+head. Random memories kept
+popping up and then suddenly I was
+talking and couldn't stop. It was like
+that bit was just an accident.
+#### CELIA
+Do you know what it wanted? What it
+was looking for?
 #### SAM
-(cont'd)
-Gwen?
-(calling)
-Gwen!
-He takes a step forward.
-The door slams shut behind him.
+It kept going after anything it could
+on The Magnus institute. Then my
+mind went to the Hilltop Centre
+and...
+#### CELIA
+And?
 #### SAM
-(cont'd)
+I think we need to go there, now, or
+something terrible is going to
+happen.
+#### CELIA
+Sam, I just found you lying
+unconscious in the rain, you can't
+stop shaking, you're going to be
+lucky not to catch pneumonia, I don't
+thinkSAM
+I'm telling you. Something important
+is about to go down and I need to get
+there.
+#### CELIA
+No.
+#### SAM
+You can't stop me.
+#### CELIA
+Wanna bet?
+#### SAM
+Celia please.
+Beat.
+#### CELIA
+Fine but we're going together. Call
+Alice and let her know what's
+happening, just in case. I'll ask
+Georgie if she can look after Jack
+this morning.
+#### SAM
+Thank you.
+#### CELIA
+Don't thank me. This is a really,
+really bad idea.
+#### 3. INT. OIAR OFFICE -- NIGHT, THUNDERSTORM
+(COMPUTER)
+LENA approaches whilst Gwen sullenly plugs away at her
+keyboard.
+#### LENA
+I'm heading off for the night Gwen.
+Make sure you lock up when you're
+done.
+#### GWEN
+Are you sure I can handle such an
+important responsibility?
+#### LENA
+There's no need for that, Gwen. I
+actually thought you did rather well
+with the minister, all things
+considered. Let's not end things on a
+sour note.
+Beat. GWEN is loudly silent.
+#### LENA
+(smiling)
+Well, I'm afraid, I do have to run. I
+presume I can trust you to close up?
+#### GWEN
+(returning to work)
+If you like.
+#### LENA
+(leaving)
+Excellent. Please don't call me
+unless it's an emergency.
+LENA exits. Beat. GWEN stops typing, stretches and takes a
+deep steadying breath. The office is too quiet. Without warning
+CHESTER begins speaking, GWEN did not set it going.
+#### 4. CYBERSPACE -- N/A, N/A(COMPUTER).
+#### CHESTER
+Cheshire Police Constabulary/
+#### GWEN
+/The hell?
+#### CHESTER
+Case: Homicide
+Date: 30-01-2020 (00:35)
+Collection: Cheshire East CID
+Repository
+Item:
+1x 2019/2020 Travel Diary, Pink with
+flowers, significant blood damage,
+#### UPC 2956723676
+Case: 3692/20
+Serial#: 95283674
+Collector: David Collins (SOCO98549)
+Routing to: North-West Long-Term
+Evidence Storage
+Scanned information reads:
+Travel Diary of: Mrs. Viola Locke
+If found please return to:
+151 Lacey Grn, Wilmslow, England
+#### SK9 4BY
+Or call:
+07873 52 [ text obscured by blood
+stain]
+and get a lovely smile as a reward!
+Tuesday 19th November 2019
+14:30(ish)
+Stanley has really outdone himself
+this time! Woke up 7:45am expecting
+a short walk around the green before
+aerobics and instead he throws a
+new travel diary in my lap (that's
+you!) and tells me to pack a bag for
+somewhere cold this afternoon!
+Spent first half of the morning
+packing then second half, running
+around like a headless chicken
+looking for my passport (thank
+goodness I'd renewed it!). Nearly
+missed the taxi after Stan had to
+rush back inside for the fourth time
+to check the oven was off and even
+then he still managed to forget his
+stick.
+I'll let him off this time though. Feels
+a little ungrateful to get on his case
+when he's gone to all this trouble!
+Besides, I'm fairly certain I left the
+immersion heater on... (must
+remember to turn it off when we get
+back before he sees it or he'll pitch a
+fit!) Apologies for handwriting, diary,
+in back of the taxi on way to Airport.
+#### 15:15
+Prague! The sly devil, I knew he was
+doing something up in the loft!
+Probably digging through the old
+travel box, the soft old thing. Pardon
+the crumbs, I'm just having a spot of
+tea and cake before the plane.
+(Note: call, Sandra when we land, get
+her to turn off the immersion.)
+7:30pm
+He's only gone and booked the
+Archibald, even the same room! And,
+you'll never guess, that dashing
+Tomas who was serving the drinks
+with his funny little jokes? He's the
+manager now. I feel oddly proud of
+that! I'll have to leave it there,
+absolutely shattered and we've got a
+big day tomorrow.
+(Note: must call Sandra first thing)
+Wednesday 20th November 2019
+08:00pm
+This is the first chance I've had to
+write all day! Breakfast by the river,
+then up onto Charles Bridge
+(gorgeous as ever but cold!) Across
+to old town past that wonderfully
+gothic tower and fancy clock.
+Stopped for food, Stan ordered an
+early beer but I let him off as he's
+been on grand form. Stumbled on
+this hilarious sex museum on the
+way back. Stan, was all blushing and
+averted eyes but I insisted we went
+in. Then it was back to the hotel to
+freshen up for a lovely sea-food
+dinner in Kampa.
+He's definitely keeping us away from
+Lover's Bridge. Probably wants to
+reenact his proposal. I doubt he even
+could with his hip but I suppose I'm
+happy to play along. He may be a
+grumpy old fart, but he does love
+me...
+I hope our lock is still there. Could
+you imagine? 50 years locked
+together... Goodness knows it
+stands a better chance than most.
+That must have been the biggest
+padlock they sold, it barely fit around
+the rails!
+Right. Off to nod. I always get
+mawkish when I'm tired.
+(Note: Must, must, must call Sandra
+in the morning.)
+Thursday 21st November 2019
+Odemknout své srdce
+Thursday 24th December 2020
+I miss him. I'm alone on Christmas
+and it's my fault.
+Friday 01st January 2021
+Happy new year Stan..
+Friday 29th January 2021
+I never told you what happened, did
+I, diary? I just agreed with whatever
+they said had happened. But I
+suppose I should write it down
+before I use the key.
+It was raining when we went to Na
+Kampě. It was cold, wet and
+honestly, if Stan wasn't so set on
+going I would have skipped it,
+anniversary or not.
+It turns out they'd cut all the locks
+off the bridge years ago, so there
+was no sign we'd ever been there. I
+could tell Stan was disappointed but
+he still dropped to one knee. Silly git.
+And just as I expected, he got stuck.
+His hip always played up in the
+damp. Thankfully a local lad stepped
+in but I could tell Stan was really
+upset. This was supposed to be his
+grand gesture and instead he was
+filthy, I was shivering and the Café
+wasn't even open yet. But you know
+Stan, when he gets a bee in his
+bonnet, there's no stopping him.
+So he marches over to see when the
+Café opens and starts faffing around,
+checking the doors even though he
+can see the closed sign. A moment
+later he's calling me over. He points
+down some narrow stone stairs that
+lead to the canal and at the bottom
+there's a little sign with a picture of a
+lock surrounded by the words
+“Zamčené muzeum”. My Czech isn't
+what it was, but according to Stan it
+meant “The Lock Museum.”
+Stan got all excited at this, said he
+was going to go buy another lock for
+the bridge “come hell or high water!”
+I tried to talk him out of it, but he was
+on a mission.
+It was only when we reached the
+bottom of the stairs that we noticed
+the squat man outside. He was
+soaking, worse even than us and he
+didn't even seem to care. Instead he
+sat on the museum step playing
+some game with a manky-looking
+deck of cards and somehow
+smoking a pipe despite the
+downpour. Scruffy doesn't begin to
+describe it, his clothes were patched
+all over and the shapeless floppy hat
+he wore barely covered his lank hair.
+Stan was hesitant, we were out of
+sight of the road after all, but he put
+a brave face on and pointed with his
+stick before speaking loudly and
+clearly:
+“Open?”
+The man blinked slowly, then gave a
+lazy nod.
+I wanted to get back to the road but
+off Stan went, ducking underneath
+the heavy wooden lintel. And I
+followed him.
+It was dark and damp-smelling
+inside. Unsurprising really, given it
+was so close to the canal and the
+weak bulbs shed just enough light to
+see the tunnel led to a spiral
+staircase leading downwards.
+I told Stan he was going to break his
+neck, but he just limped on down
+them without a backwards glance.
+At the base of the staircase was a
+colossal wooden door. There was a
+thick white key in place of a knocker
+that had four spikey arrows pointing
+inwards at the handle end. I was
+rather proud of myself for
+recognizing the symbol of the
+Knights of Malta who supposedly
+built the canal.
+Stan tried the door, and it seemed
+locked tight. He turned to me then,
+so crestfallen by this latest defeat
+that I couldn't help but take pity on
+him. He clearly hadn't seen the key,
+so I reached out and grabbed it
+myself.
+It was clearly made from some sort
+of ivory, smooth and cold to the
+touch, colder even than the stone of
+the tunnel itself. I half worried it
+might be frozen in place, but it came
+away from the knocker easily, and I
+swear, when I slid that key into the
+keyhole, I heard the lock grind open
+before I'd even turned it.
+Stan hurried inside with a satisfied
+grin, and I followed. The room
+beyond was large, with damp stone
+walls interlaced with thick oak
+beams and a large millstone in the
+centre.
+Lined around the walls were
+incongruously pristine dark and
+glossy wooden plinths, each with a
+little pillow displaying a different
+lock. There were some simple,
+modern looking, padlocks near the
+entrance but walking around the
+millstone they grew older and
+stranger. Some were elaborate and
+delicate with golden filigree, others
+were oversized gothic affairs of
+worked iron with screaming faces
+and keyhole mouths. As I kept
+circling the room though they grew
+simpler until finally at the far end,
+was a simple wooden bolt with what
+looked like a spiked wooden paddle
+beside it, stained with something old
+and dark.
+I turned to point this out to Stan only
+to find him still by the entrance,
+staring at one of the more modern
+locks. I couldn't see how this had
+caught his eye given all the other
+beautiful and grotesque exhibits but
+as drew nearer, I understood.
+It was our lock. I don't know how it
+got there but I was certain. A closed
+padlock of thick steel with an
+engraving: “For the love of a Locke”
+That was Stanley's little joke I'd
+always teased him about his
+surname, even after it was mine as
+well.
+I gently picked it up. It was ours after
+all, and it felt like the most natural
+thing in the world.
+That was when everything changed.
+First the main door slammed shut
+with an echoing boom. I cried out in
+surprise and Stan gave an angry yell.
+He rushed over and started tugging
+pointlessly at the iron ring handle,
+but it was locked again and there
+was no keyhole on this side.
+Instead there was writing carved
+deep into the back of the door.
+“Odemknout své srdce”. I wrote it
+down at the time, and have since
+looked it up. It means: “Unlock your
+heart.”
+The door didn't shift despite Stan
+carrying on. It was only when he
+finally stopped for breath that I
+noticed a sound in the previously
+silent room: rushing water.
+That was when I really got
+frightened. Sounds silly I know but
+up to then I was still assuming it
+would all work out. It would turn out
+the wind caught the door and we'd
+be let out, that somehow it was all a
+mistake. But the water, that scared
+me.
+Filthy water was already pouring in
+under the door and even as I
+watched it creeped up the edges on
+each side, spurts of the same fetid
+liquid rapidly gushing in with terrible
+force. It was even seeping between
+the wooden boards of the door itself
+which began to groan under the
+strain.
+We hurriedly backed away, our feet
+splashing though the already rising
+water, searching for a way out.
+Looking around I saw more pouring
+in from between the stones on all
+sides, trickles thickening into gouts
+and it wasn't long before it was
+lapping at our knees.
+Stan was yelling again, screaming
+for help but there was no one to hear
+besides me and whatever had locked
+us inside.
+As I was splashing around, my foot
+caught on something heavy
+protruding from the floor, a bolt,
+heavy iron against the floor covering
+what looked like some sort of
+trapdoor.
+In a blind panic I scrabbled with my
+arms for the bolt, straining my neck
+to keep my chin above the surface.
+My searching fingers finally found it
+and without thinking slid it open.
+Suddenly the walls and floor were
+rushing up and away from me as I
+fell, utterly terrified, certain I was
+going to drown down there, alone in
+the dark. Instead, I landed hard, only
+a few feet down, with the stinking
+water rushing past me in a torrent,
+down and away through a tunnel.
+I forced myself up till my shoulders
+just cleared the trapdoor. The water
+level had lowered as it drained away
+down my tunnel but it wouldn't be
+long before it climbed again as ever
+more water streamed in even from
+the darkness above now.
+I looked over at Stan. He had seen
+what happened, and for a moment,
+he smiled, moving towards me. I try
+to remember that smile, the look on
+his face when he thought everything
+was going to be ok. Then his foot
+slipped, his hip gave way, and he
+fell, hard. I heard his skull crack on
+the wet millstone even over the roar
+of the water..
+I still like to tell myself that was when
+he died, that I couldn't possibly have
+heard him begging me for help.
+But the water was so strong, too
+strong. Every second I hesitated
+more was rushing through the
+trapdoor, threatening to wash me
+away with it. Soon I wouldn't even be
+able to close it.
+So I braced the trapdoor against my
+back and then heaved it back
+upwards, thrusting with my legs. I've
+no idea how my back held up under
+the strain, but I managed to force it
+closed except, the bolt on the
+underside was weaker than the one
+on top. I knew it wouldn't hold on its
+own. Not unless... unless I locked it.
+So, I did. Using our lock.
+Water was still pouring down
+through all four sides of the
+trapdoor, but it was holding. I didn't
+know how long for though, so then...
+I ran. Forcing myself along the
+tunnel through the icy water with
+numb legs before it rose too high.
+I know I couldn't have heard him
+calling for me. Even if he was still
+alive, which he wasn't, I couldn't
+have heard it over all that rushing
+water and through the sturdy wood
+of the trapdoor. He wasn't calling for
+me. But I heard him as I escaped
+down the tunnel. I still hear him.
+I don't remember much of the
+rescue, I was unconscious for most
+of it but apparently, I was still
+screaming as they bundled me off to
+the Na Františku hospital. It turns out
+that the lad who helped Stan up
+earlier heard my screams coming up
+through a drain and called for help.
+I'm still in contact with him. He's
+called Andrej and has a beautiful
+little girl.
+Stan washed up two days later on
+the bank of the Vltava. They wanted
+me to identify the body, but I didn't
+recognize him.
+We made the news, you know. Two
+stupid British tourists mistake flood
+relief tunnels for a tourist attraction.
+But I know it was real. I've still got
+the key.
+I wanted to throw it away so many
+times but I just couldn't bring myself
+to. Horrible or not, I traded Stanley's
+life for it. And it is so very beautiful.
+Even better, it works. I haven't found
+a lock yet that it doesn't open.
+Doors, safes, lockboxes. I even tried
+it on a crack in the wall once, just to
+see what happened. It can open
+anything.
+I've been thinking about using it on
+myself. I could push it into my chest,
+give it the smallest turn and open up
+my heart. Just reach in and pull out
+all the grief.
+Perhaps I will. After all, what have I
+got to lose?
+Either way, I won't be missing you
+soon Stanley.
+#### 5. INT. THE PUB -- NIGHT, THUNDERSTORM (ALICE'S
+PHONE)
+It's quiet in the Pub. TEDDY and ALICE are drinking together, it's
+friendly but not convivial.
+#### ALICE
+So. How's sunlight treating you?
+#### TEDDY
+Oh you know, can't complain.
+#### ALICE
+News to me.
+#### TEDDY
+Ha!
+TEDDY drinks
+#### TEDDY
+(cont.)
+If I'm honest though, I actually am
+struggling to get back on days. I
+keep catching myself online at 2am.
+#### ALICE
+Yeah, I noticed.
+#### TEDDY
+What can I say? Insomnia's a bitch
+and it's not like anyone else is up
+then.
+#### ALICE
+Nonsense -- the night is full of creeps
+and weirdoes!
+#### TEDDY
+You'd think I would fit right in.
+#### ALICE
+Your words, not mine.
+Beat. They both drink to fill the silence.
+#### TEDDY
+(cont.)
+So how's things your end? Sam still
+getting on okay?
+#### ALICE
+(cold)
+He's doing fine.
+#### TEDDY
+Wow. I thought you two were close?
+#### ALICE
+So did I.
+#### TEDDY
+Ah.
+Beat.
+#### TEDDY
+(cont.)
+Listen, Alice, while you're here, I've
+been meaning to talk to you about
+something... serious?
+#### ALICE
+Yeah, I know what you're going to
+ask and... no, salmon pink really
+isn't working for you. You need
+something in rich puce.
+#### TEDDY
+(smiling weakly)
+Alice, we've got to talk. It's
+important.
+Alice's phone buzzes.
+#### ALICE
+(checking her phone)
+Okay...
+#### TEDDY
+(nervous)
+So- um. The thing is, the new job
+it's... it's not exactlyALICE
+Damn, I'm really sorry but I think I
+need to check this, hold on for two
+minutes?
+#### TEDDY
+(put out)
+Oh er yeah. Sure.
+ALICE stands and steps aside checking her voicemail.
+#### VOICEMAIL
+To listen to your messages pressALICE presses “1”
+#### VOICEMAIL
+(cont.)
+You have one new message:
+#### SAM
+(on phone, manic)
+Alice, it's Sam. I thought you should
+know. Celia and I are on our way to
+Paddington right now. We're
+catching a train to Oxford, I think we
+need to stop the Archivist thing from
+doing... whatever it's going to do at
+the Hilltop Centre. I know you won't
+want us to go, you'll just be like “it's
+stupid, it's reckless, you're an idiot”
+butALICE hangs up.
+#### TEDDY
+Alice?
+#### ALICE
+Listen Teddy I'm really sorry but I
+have a train to catch.
+#### TEDDY
+(deflated)
+A... train? Right.
+#### ALICE
+(prepping to leave)
+No, honestly, Ted, I'm so sorry. It's
+really important. I mean, I wouldn't
+rush off like this ifTEDDY
+Sure. I get it.
+#### ALICE
+Drop me a line later yeah? We can
+pick up where we left off.
+#### TEDDY
+Of course.
+#### ALICE
+(rushing, not paying
+attention)
+Great! Cheers Teddy, look after
+yourself!
+Alice leaves. TEDDY takes a deep steadying breath than drinks
+his pint.
+#### 6. PADDINGTON STATION -- NIGHT, THUNDERSTORM
+(ALICE'S PHONE)
+ALICE is stood in the main lobby checking the departure board
+whilst calling SAM on the phone.
+#### ALICE
+(muttering)
+For god's sake Sam pickup. Pickup,
+pickup, pickup, pickup you useless
+sack ofSAM
+(on phone)
+HeyALICE
+(loudly)
+What the hell do you think you're
+doing?
+#### SAM
+(on phone)
+Ok. Alice, listen-
+#### ALICE
+(loudly)
+No. You listen. You're going to get
+off that train right now otherwise I
+will come in there and drag you off.
+Do you hear me?
+#### TICKET OFFICER
+Ticket.
+#### ALICE
+(to officer)
+No I don't need a ticket I'm just/
+grabbing my mate
+#### TICKET OFFICER
+/I can't let you past without a ticket.
+You can buy one over/ at the ticket
+desk.
+#### ALICE
+For god's sake!
+#### SAM
+(on phone)
+Doors are closing Alice, I'll call you
+once we're in our seats or
+something.
+#### ALICE
+(to SAM)
+No Sam wait! Sam!
+He hung up.
+#### ALICE
+(cont.)
 Dammit!
-He bangs on the door a couple of times.
-There is a deep indrawn breath near the recorder which SAM
-doesn't notice.
-#### SAM
-(cont'd)
-Brilliant. Absolutely- The first time I
-ever heard of the Magnus Institute
-was from my parents.
-He stops gasping for breath confused.
-There is another indrawn breath beside the tape deck.
-#### SAM
-(compelled)
-I remember they were beaming, full
-of pride and satisfaction as they read
-out the letter: “selected to apply for
-our gifted child program”.
-He again gasps for breath panicking.
-THE ARCHIVIST emerges.
-#### ARCHIVIST
-#### MORE.
-#### SAM
-(fighting it)
-I... Was... so happy... that I had
-pleased them, that I was what they
-had wanted...ARCHIVIST
-#### MORE.
-#### SAM
-...that I was... special...
-The world recedes as Sam's statement is pulled from him
-leaving only his voice and the Archivist's indulgent breath.
-#### SAM
-I was so excited. It was my first ever
-train trip alone. Alone apart from
-Saul and Joy, the two other children
-invited from my school and Mrs Leng
-who was supervising us for the trip
-to Manchester.
-The journey from London was
-magical. A whole two days off school
-with nothing to prepare or study or
-revise since the Institute wouldn't
-say what kind of tests we were going
-to be doing. I talked about Spiderman with Saul on the way and
-compare pogs, although the train
-was too bumpy to actually play. Joy
-wanted to play as well, but she was a
-girl and that was big deal. I still feel
-bad for that but it wasn't like we were
-mean to her or anything.
-The thrill of the journey vanished the
-moment we arrived at the Magnus
-Institute. My school and the estate I
-grew up on were both built in the
-sixties, all decaying concrete and
-decayed optimism, but this, this felt
-old like I had only seen in movies. I
-had learned a new word that week.
-Austere. This felt austere. And as we
-stepped into the building's shadow,
-tried to hang back, so Mrs. Leng had
-to gently pull me by the sleeve to get
-me to go in.
-It smelt funny, sort of like my local
-library but more proper and the tall,
-barred windows let in little light. The
-place weighed on me like a heavy
-winter coat.
-We were met at the entrance by a
-man called Gilbert. He was very thin,
-with mousy brown hair and a
-youngish face even though he
-dressed like a headmaster. He spoke
-with a big fake smile, like a kid's TV
-presenter and led us into a large
-room full of big chairs and old sofas,
-which was packed full of other kids.
-It seemed so strange to me that such
-a grand room would be filled with so
-many screaming, running children
-and I think all the adults felt the
-same. Gilbert left as quick as
-possible after showing us in.
-I was one of the first to be tested,
-and I was especially nervous when I
-met the pair of stern-looking older
-women. They looked me up and
-down with thin lips and arched
-eyebrows, and I felt like I'd already
-failed without even taking the test.
-They sat me down on a carved
-wooden chair that was far too big for
-me, my feet dangling over the edge
-uncomfortably. Then they began to
-ask me questions. But not like I was
-expecting at all. It wasn't maths or
-reading or history or science it was
-more like when I was sent to the
-school nurse in year two after biting
-another kid in an argument. “Was I
-happy at home?”, “What do I do
-when I feel angry or upset?”, “When
-is it okay to lie?”
-I answered as best I could, but the
-women looked unhappy and it felt
-like I was getting it all wrong and I
-started feel cold and small and
-stupid. Then I started to cry.
-I couldn't help it. I knew I shouldn't,
-that I was messing it up but all the
-bad feelings that had been growing
-inside since we arrived just burst
-out. The women looked even more
-annoyed and so I leapt out of the
-chair, still crying and ran out of the
-room before they could yell at me.
-I ran and ran through the winding
-corridors, with no idea where I was
-going or what I was going to do. I
-didn't want Mrs. Leng to see me like
-this and tell my parents I'd been bad,
-but I didn't want to be on my own in
-this strange, horrible building.
-Finally, I stopped in a dark corridor
-with no windows, no sign of the
-overcast day outside. I was lost. I
-was lost and I was alone and I was in
-so much trouble. I had to find a
-grownup.
-So I started trying doors but they all
-seemed locked. Then I turned a
-corner and found an open door with
-the name Dr. F Welling engraved on
-a brass plaque and bright light
-spilling out from the inside. I should
-have known that the colour of the
-light was wrong. I should have
-known from the chanting inside that
-this place wasn't for me. But I was
-alone and I was afraid and I needed a
-grownup.
-There was an old man in a tweed suit
-stood muttering in front of a table
-and on the table was a person. I
-couldn't see their face but they were
-naked and pale and still. Beside the
-table was a pile of weird machines
-and strange shaped beakers
-bubbling and hissing and whirring.
-Large chunks of stone and metal
-hung slowly twisting in the air and
-the sickly yellow light seemed to
-come from everywhere. I stepped
-forward and spoke with my smallest
-indoor voice:
-“Hello?”
-That was all I said. That was all. I
-couldn't have known.
-He wasn't expecting any interruption
-and I could see the surprise run
-through him, disrupting his
-concentration and making him
-stumble over his words for just a
-moment. It was just a moment, but in
-that moment the glass exploded the
-rocks fell and the yellow light
-vanished, sucked away as though
-into him.
-We were thrown from dazzling
-brightness into deep darkness but I
-could just make him out as he turned
-towards me. He looked at me and
-opened his mouth, and I cowered,
-waiting for the yelling, for the
-punishment, but no words came out.
-He just opened his mouth wider and
-wider as if to scream, then reached
-out towards me.
-But the flesh of his arm, the skin and
-muscle, it didn't move. It was the
-bones, the bones that pushed and
-strained against from inside as
-though there were a person trapped
-inside a fleshy suit. His skin strained
-for a moment, then erupted in a
-spray of blood that swept across the
-floor with a single drop landing on
-my new Velcro shoes.
-The skeletal arm flailed outwards
-held together by a few dripping
-ligaments and leaking that awful
-yellow light from the joints. Then it
-bent and reached back and dug its
-bony fingers through the man's
-clothes and into his chest, ripping
-off a gorey chunk and hurling it to
-the floor. In the silence of the room I
-heard the wet slap of the meat on the
-polished wooden floor and looking
-up I could see in the man's eyes that
-he could feel everything even though
-he didn't make a sound.
-I stood there, frozen in shock and
-terror, and watched as the other arm
-thrust itself free from its meat,
-reached up and tore away his face in
-a single swift yank to reveal the
-ecstatic skull within. The last thing I
-saw was it's dripping red smile
-before I turned and bolted from the
-room.
-The thunderstorm slowly begins to return.
-I don't remember much after that.
-The stern ladies found me crying in a
-corner and pulled me back to the
-room with the other children. They
-gripped me too tightly but I didn't
-say anything. I never told anyone
-what I saw. My parents just assumed
-I was upset after being rejected from
-the program same as them. They
-were so disappointed, so sad to
-realize that I wasn't Magnus Material.
-Just me, nothing special. I couldn't
-look at them but not just because of
-the shame, but because whenever I
-saw their faces I could see the
-outline of their skulls beneath, still
-grinning at me.
-And now, I- I'm going back... to
-find... find....
-The sound of the thunderstorm comes back into focus as Sam is
-finally overcome and slumps to the floor. The archivist steps
-forward takes one last breath of Sam's memory then recedes
-leaving the tape recorder to flounder in the rain and stop.
+#### TICKET OFFICER
+Miss, I'm going to have to ask you to
+step aside.
+#### ALICE
+(angry)
+Listen mate I just...
+#### TICKET OFFICER
+MissALICE
+(Afraid)
+Wait- Do you see that? WhoTICKET OFFICER
+Seriously?
+#### ALICE
+What? No, look, look! On the train,
+there's-TICKET OFFICER
+(irritated)
+Right that's it. Sarah can you show
+this woman out please?
+#### ALICE
+(being led away)
+No, no wait listen IShe shrugs off the escort.
+#### ALICE
+Fine, fine! I get it!
+She calls Sam again.
+#### ALICE
+(cont.)
+Pick up, Sam. Pick up. It's on the
+train, It's on the train...
 ##### [Music]
 #### ANNOUNCER
 The Magnus Protocol is a podcast
@@ -736,19 +793,21 @@ The series is created by Jonathan
 Sims and Alexander J Newall, and
 directed by Alexander J Newall.
 This episode was written by
-Jonathan Sims and edited with
-additional materials by Alexander J
-Newall, with vocal edits by Lowri
-Ann Davies and Nico Vettese,
-soundscaping by Tessa Vroom, and
-mastering by Catherine Rinella with
-music by Sam Jones.
+Alexander J Newall and edited with
+additional materials by Jonathan
+Sims, with vocal edits by Nico
+Vettese, soundscaping by Meg
+McKellar, and mastering by
+Catherine Rinella with music by Sam
+Jones.
 It featured Billie Hindle as Alice Dyer,
 Shahan Hamza as Samama Khalid,
 Anusia Battersby as Gwen Bouchard
 Lowri Ann Davies as Celia Ripley,
-Sarah Lambie as Lena Kelley, with
-additional voices from Beth Eyre
+Sarah Lambie as Lena Kelley,
+Kazeem Tosin Amore as Teddy
+Vaughn with additional voices from
+Jonathan Sims.
 The Magnus Protocol is produced by
 April Sumner, with executive
 producers Alexander J Newall, Dani
@@ -764,55 +823,51 @@ online, tweet us @therustyquill, visit
 us on facebook or email us at
 mail@rustyquill.com
 Thanks for listening.
-The Magnus Protocol 28 -- Interruptions
-#### CAT2RB2578-17081998-13052024
-Transmutation (human) --/- ceremony (academic)
+The Magnus Protocol 29 -- Keyed In
+#### CAT2RB4254-30012020-13052024
+Drowning (subterranean) --/- key (metaphor)
 Incident Elements:
- Childhood Trauma
- Graphic Injury
- Ostectomy
- Supernatural Transformation
- Body Horror
-This episode is dedicated to Nathaniel Shawver, thank you for
-your generous support! You can find a complete list of our
-Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/
+ Captivity
+ Drowning
+ Claustraphobia
+ Grief
+Transcripts available at https://rustyquill.com/transcripts/the-magnus-protocol/
+This episode is dedicated from Skylar Ceros to Aeron, thank you for your generous support! You
+can find a complete list of our Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/
 Created by Jonathan Sims and Alexander J Newall
 Directed by Alexander J Newall
-Written by Jonathan Sims
-Script Edited with additional material by Alexander J Newall
-Executive Producers April Sumner, Alexander J Newall,
-Jonathan Sims, Dani McDonough, Linn Ci, and Samantha F.G.
-Hamilton
-Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole
-Perlman, Cetius d'Raven, and Megan Nice
+Written by Alexander J Newall
+Script Edited with additional material by Jonathan Sims
+Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani McDonough, Linn
+Ci, and Samantha F.G. Hamilton
+Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d'Raven, and
+Megan Nice
 Produced by April Sumner
 Featuring (in order of appearance)
-Sarah Lambie as Lena Kelley
-Ian Hayles as Trevor Herbert MP
-Anusia Battersby as Gwendolyn Bouchard
 Lowri Ann Davies as Celia Ripley
 Shahan Hamza as Samama Khalid
+Sarah Lambie as Lena Kelley
+Anusia Battersby as Gwendolyn Bouchard
+Jonathan Sims as Chester
 Billie Hindle as Alice Dyer
-Beth Eyre as Archivist
-Dialogue Editor -- Lowri Ann Davies and Nico Vettese
-Sound Designer -- Tessa Vroom
+Kazeem Tosin Amore as Teddy Vaughn
+Kai Partenie as Ticket Officer
+Dialogue Editor -- Nico Vettese
+Sound Designer -- Meg McKellar
 Mastering Editor -- Catherine Rinella
 Music by Sam Jones (orchestral mix by Jake Jackson)
 Art by April Sumner
 Support us on Patreon at https://patreon.com/rustyquill
-Check out our merchandise available at
-https://www.redbubble.com/people/RustyQuill/shop and
+Check out our merchandise available at https://www.redbubble.com/people/RustyQuill/shop and
 https://www.teepublic.com/stores/rusty-quill
 Support Rusty Quill by purchasing from our Affiliates;
-Phantom Peak -- UK immersive experience -- 15% discount with
-this link
+Phantom Peak -- UK immersive experience -- 15% discount with this link
 DriveThruRPG -- DriveThruRPG.com
 Join our community:
 WEBSITE: rustyquill.com
 FACEBOOK: facebook.com/therustyquill
 X: @therustyquill
 EMAIL: mail@rustyquill.com
-The Magnus Protocol is a derivative product of the Magnus
-Archives, created by Rusty Quill Ltd. and licensed under a
-Creative Commons Attribution Non-Commercial Share alike 4.0
+The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty Quill Ltd.
+and licensed under a Creative Commons Attribution Non-Commercial Share alike 4.0
 International Licence.
