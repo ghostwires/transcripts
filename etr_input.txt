@@ -1,932 +1,1315 @@
 ©Rusty Quill 2023
 
 The Magnus Protocol
-Episode 29
-"Locked In"
-Written by Alexander J Newall
-Edited by Jonathan Sims
+Episode 30
+"Dead End Job"
+Written by Jonathan Sims
+Edited by Alexander J Newall
 
-08-02-2023
-Draft 3
+18-03-2023
+Draft 3.0
 [1]
 
 ©Rusty Quill 2023
 
-ANNOUNCER
-This episode is dedicated from
-Skylar Ceros to Aeron: You are so
-incredibly important to us and
-worthy of genuine and gentle love
-and affection. We hope at some point
-you’ll be able to see this too. We’ll
-always be there for you, no matter
-what. Sincerely, Skylar
 [Intro Theme]
 ANNOUNCER
 Rusty Quill Presents: The Magnus
 Protocol.
-Episode Twenty-Nine – Keyed-In
+Episode Thirty – Dead End Job
 [Music]
-
-1. EXT. O.I.A.R. MAIN ENTRANCE – NIGHT,
-THUNDERSTORM (SAM’S PHONE)
-Rain is hammering down on the exterior paving. It is muffled by
-Sam’s body which is partially shielding his phone.
-CELIA opens the main door and steps outside.
+1. INT. TRAIN CARRIAGE – NIGHT, THUNDERSTORM (SAM’S
+PHONE)
+SAM and CELIA sit in the quiet train as it rumbles through the
+night. Sam’s phone buzzes. He checks it, sighs, and rejects the
+call, leaving it on the table. He sounds ill.
 CELIA
-(muffled)
-Sam? You still out here?
-CELIA almost trips over SAM and notices him.
+You can’t ignore her forever.
+SAM
+I just don’t know what to say to her. I
+was kind of hoping she wouldn’t
+check her voicemail for another few
+hours.
 CELIA
-(cont. muffled)
-Oh shit! Sam!? Sam are you okay?
-CELIA kneels next to him and rolls him over uncovering the
-phone in the process.
+You really think she’s that upset?
+SAM
+Five calls in seven minutes, and a
+bunch of messages.
+CELIA
+What does she say?
+SAM
+Dunno. Can’t quite bring myself to
+check just yet.
 
 [2]
 
 ©Rusty Quill 2023
 
 CELIA
-(cont.)
-Sam! Can you hear me? Oh Christ
-Sam no, no, no, no noCELIA checks his breathing etc. SAM stirs.
+Alice means well, but she doesn’t
+really understand.
 SAM
-(shivering)
-Urgh.
+I don’t know. Maybe she’s right.
 CELIA
-Sam! Oh thank god!
+What?
 SAM
-(shivering)
-Wh- whereCELIA
-Shh, let’s get you inside.
-
-2. INT. O.I.A.R. BREAKROOM – NIGHT, THUNDERSTORM
-(CCTV)
-SAM is shivering and drinking a hot coffee. CELIA is watching
-him warily.
+When I started at the O.I.A.R. she
+told me not to let it get to me. Now
+look at me.
 CELIA
-You’re sure you don’t want me to get
-the others?
+You were attacked.
 SAM
-(still shivering)
-No. Lena will just want me to sign
-some kind of waiver, Gwen wouldn’t
-care and Alice…
-Beat.
-
+Yeah by something I released.
+Because I let stuff get to me.
+Because I got curious.
+Beat. Sam grunts and rubs his face.
+SAM(CONT’D)
+My head is killing me.
+CELIA
+I’m not surprised. When I saw you
+lying out there, I thought… Well
+Yeah. Headache makes sense.
+She gets some painkillers from her bag and hands them to him.
+CELIA
+Here. You need water?
+SAM
+Nah.
+He dry-swallows them.
 [3]
 
 ©Rusty Quill 2023
 
+CELIA
+(smiling)
+Ooh, tough guy.
+Sam gives a weak laugh that turns into a coughing fit.
+CELIA
+You’re lucky we didn’t need to run to
+catch the last Oxford train.
 SAM
-I just can’t face one of her I-told-youso’s right now.
+Or unlucky.
 CELIA
-(unsure)
-All right.
-She sits next to him.
-CELIA
-(cont.)
-What happened?
+Second thoughts?
 SAM
-I went outside to- to see the car.. It
-was a Bentley. I watched it leave and
-then, it was just… there.
+I don’t know. It’s just starting to feel
+kind of faraway now. I was so certain
+we had to get to the Hilltop Centre
+a.s.a.p but now…
+He makes a non-committal noise.
 CELIA
-You’re sure it was the same thing?
+Well, I don’t think there’s another
+train back till tomorrow morning so
+we may as well do a bit of snooping.
 SAM
-I’m sure.
+I know. Just wish I could focus
+properly.
+They sit in silence for a bit. The storm is quietening.
 CELIA
-But everyone else it attacked ended
-up… well…
-She catches herself.
+Rains easing off at least.
+SAM
+That’s good.
 Beat.
-SAM
-Dead?
-CELIA
-Yeah.
-
 [4]
 
 ©Rusty Quill 2023
 
+SAM (CONT’D)
+Thanks Celia.
+CELIA
+For what?
 SAM
-I don’t know. It didn’t feel like it
-wanted to kill me or eat me or
-whatever. It felt – It felt more like it
-was searching for something, in my
-head. Random memories kept
-popping up and then suddenly I was
-talking and couldn’t stop. It was like
-that bit was just an accident.
+For coming with me. You didn’t have
+to.
 CELIA
-Do you know what it wanted? What it
-was looking for?
+It sounded like you’d have gone
+anyway. At least this way I can make
+sure it all goes to plan.
 SAM
-It kept going after anything it could
-on The Magnus institute. Then my
-mind went to the Hilltop Centre
-and…
+(small laugh)
+There’s a plan?
 CELIA
-And?
+Besides, you’re not the only one
+who’s curious.
+Beat.
 SAM
-I think we need to go there, now, or
-something terrible is going to
-happen.
+Well, I still appreciate it.
 CELIA
-Sam, I just found you lying
-unconscious in the rain, you can’t
-stop shaking, you’re going to be
-lucky not to catch pneumonia, I don’t
-thinkSAM
-I’m telling you. Something important
-is about to go down and I need to get
-there.
-CELIA
-No.
+Anyway, what if you were right?
+When you said we had to go now or
+something terrible would happen?
+You’d just had a weird monster in
+your brain, maybe it was the truth.
+SAM
+Christ, I hope not. I do not feel up to
+an apocalyptic conflict right now.
+
 [5]
 
 ©Rusty Quill 2023
 
-SAM
-You can’t stop me.
 CELIA
-Wanna bet?
-SAM
-Celia please.
-Beat.
-CELIA
-Fine but we’re going together. Call
-Alice and let her know what’s
-happening, just in case. I’ll ask
-Georgie if she can look after Jack
-this morning.
-SAM
-Thank you.
-CELIA
-Don’t thank me. This is a really,
-really bad idea.
+Hopefully the painkillers should be
+kicking in soon. Rest up. We’re safe
+here.
 
-3. INT. OIAR OFFICE – NIGHT, THUNDERSTORM
-(COMPUTER)
-LENA approaches whilst Gwen sullenly plugs away at her
-keyboard.
-LENA
-I’m heading off for the night Gwen.
-Make sure you lock up when you’re
-done.
-GWEN
-Are you sure I can handle such an
-important responsibility?
+2. INT. PADDINGTON STATION – NIGHT, THUNDERSTORM
+(ALICE’S PHONE)
+ALICE is frantically listening to her phone ring out.
+ALICE
+(to self)
+Come on Sam, you goddamned- Pick
+up pick up pick up.
+There’s a beep as the call is rejected.
+ALICE
+(shouting at phone)
+It’s following you, you stupid-!
+The TICKET OFFICER comes over, clearly irritated by her
+outburst.
+TICKET OFFICER
+Excuse me miss, I’m going to have
+to ask you to reign it in.
+ALICE
+(not sorry)
+Sorry.
+TICKET OFFICER
+I don’t want to have to ask you to
+leave.
+ALICE
+Ok, alright, I get it.
+She takes a moment to compose herself.
 [6]
 
 ©Rusty Quill 2023
 
-LENA
-There’s no need for that, Gwen. I
-actually thought you did rather well
-with the minister, all things
-considered. Let’s not end things on a
-sour note.
-Beat. GWEN is loudly silent.
-LENA
-(smiling)
-Well, I’m afraid, I do have to run. I
-presume I can trust you to close up?
-GWEN
-(returning to work)
-If you like.
-LENA
-(leaving)
-Excellent. Please don’t call me
-unless it’s an emergency.
-LENA exits. Beat. GWEN stops typing, stretches and takes a
-deep steadying breath. The office is too quiet. Without warning
-CHESTER begins speaking, GWEN did not set it going.
-
-4. CYBERSPACE – N/A, N/A(COMPUTER).
-CHESTER
-Cheshire Police Constabulary/
-GWEN
-/The hell?
-CHESTER
-Case: Homicide
-Date: 30-01-2020 (00:35)
+The ticket officer seems satisfied, for now. They start moving
+off.
+ALICE (CONT’D)
+(suddenly)
+Wait, where’s the ticket office?
+TICKET OFFICER
+Closed for the night. Machine’s over
+there.
+ALICE
+Are there any more trains going to
+Oxford tonight?
+TICKET OFFICERS
+Check the board.
+ALICE
+(vicious)
+I know I can check the bloody board I
+just thought you might be, I don’t
+know, useful?
+Beat.
+TICKET OFFICER
+(not paid enough for this)
+You have a good night, miss.
+Alice hurries over to a ticket machine and starts using it in a
+rush.
+ALICE (CONT’D)
+(to self)
+Right. O… X… Oxford, One. Adult.
+No railcard. God, I don’t know,
+“Anytime day return?”
+Beat.
+ALICE (CONT’D)
+How much?
 [7]
 
 ©Rusty Quill 2023
 
-Collection: Cheshire East CID
-Repository
-Item:
-1x 2019/2020 Travel Diary, Pink with
-flowers, significant blood damage,
-UPC 2956723676
-Case: 3692/20
-Serial#: 95283674
-Collector: David Collins (SOCO98549)
-Routing to: North-West Long-Term
-Evidence Storage
-Scanned information reads:
-Travel Diary of: Mrs. Viola Locke
-If found please return to:
-151 Lacey Grn, Wilmslow, England
-SK9 4BY
-Or call:
-07873 52 [ text obscured by blood
-stain]
-and get a lovely smile as a reward!
-Tuesday 19th November 2019
-14:30(ish)
-Stanley has really outdone himself
-this time! Woke up 7:45am expecting
-a short walk around the green before
-aerobics and instead he throws a
-new travel diary in my lap (that’s
-you!) and tells me to pack a bag for
+Alice’s phone starts to ring. She looks and sees COLIN is
+calling.
+ALICE (CONT’D)
+Christ, now? Seriously?
+She answers. Colin sounds scared.
+COLIN
+(phone)
+A-Alice?
+ALICE
+(irritated)
+Yeah, Colin, I’m here.
+Alice continues pressing the touchscreen, confirming the
+tickets.
+COLIN
+(phone)
+Are you in the office at the moment?
+ALICE
+Uh, no. Why?
+The machine gives a disapproving beep.
+ALICE
+(muttering)
+For god’s sake…
+She puts her card into the machine and starts to enter her PIN.
+COLIN
+(phone)
+I-I need your help.
+I’m, uh, I’m in trouble.
+ALICE
+Like, right now? I’m not really- I’m
+kind of in the middle of something…
 [8]
 
 ©Rusty Quill 2023
 
-somewhere cold this afternoon!
-Spent first half of the morning
-packing then second half, running
-around like a headless chicken
-looking for my passport (thank
-goodness I’d renewed it!). Nearly
-missed the taxi after Stan had to
-rush back inside for the fourth time
-to check the oven was off and even
-then he still managed to forget his
-stick.
-I’ll let him off this time though. Feels
-a little ungrateful to get on his case
-when he’s gone to all this trouble!
-Besides, I’m fairly certain I left the
-immersion heater on… (must
-remember to turn it off when we get
-back before he sees it or he’ll pitch a
-fit!) Apologies for handwriting, diary,
-in back of the taxi on way to Airport.
-15:15
-Prague! The sly devil, I knew he was
-doing something up in the loft!
-Probably digging through the old
-travel box, the soft old thing. Pardon
-the crumbs, I’m just having a spot of
-tea and cake before the plane.
-(Note: call, Sandra when we land, get
-her to turn off the immersion.)
-7:30pm
-He’s only gone and booked the
-Archibald, even the same room! And,
-you’ll never guess, that dashing
-Tomas who was serving the drinks
-with his funny little jokes? He’s the
-manager now. I feel oddly proud of
+COLIN
+(phone)
+I messed up, Alice. Freddy’s… I
+messed up.
+Alice takes her card out and the machine prints her tickets.
+ALICE
+(harassed)
+Okay, I’ll come round first thing
+tomorrow okay, and then we canyou can tell me what you think is
+going on with Freddy then, yeah?
+Beat.
+ALICE (CONT.)
+Colin?
+COLIN
+(phone, resigned)
+Yeah, sure. Sorry to bother you.
+Goodbye, Alice.
+ALICE
+Colin? Listen, I’ll be there as soon
+asColin hangs up. Alice stands torn between the last train and
+Colin.
+ALICE (CONT’D)
+Ah crap...
+3. INT. OIAR OFFICES – NIGHT, THUNDERSTORM (COMPUTER)
+GWEN sits alone in the office typing. She takes a moment and
+sighs. LENA returns to the office and approaches.
+GWEN
+(wary)
+Lena…?
 [9]
 
 ©Rusty Quill 2023
 
-that! I’ll have to leave it there,
-absolutely shattered and we’ve got a
-big day tomorrow.
-(Note: must call Sandra first thing)
-Wednesday 20th November 2019
-08:00pm
-This is the first chance I’ve had to
-write all day! Breakfast by the river,
-then up onto Charles Bridge
-(gorgeous as ever but cold!) Across
-to old town past that wonderfully
-gothic tower and fancy clock.
-Stopped for food, Stan ordered an
-early beer but I let him off as he’s
-been on grand form. Stumbled on
-this hilarious sex museum on the
-way back. Stan, was all blushing and
-averted eyes but I insisted we went
-in. Then it was back to the hotel to
-freshen up for a lovely sea-food
-dinner in Kampa.
-He's definitely keeping us away from
-Lover’s Bridge. Probably wants to
-reenact his proposal. I doubt he even
-could with his hip but I suppose I’m
-happy to play along. He may be a
-grumpy old fart, but he does love
-me...
-I hope our lock is still there. Could
-you imagine? 50 years locked
-together... Goodness knows it
-stands a better chance than most.
-That must have been the biggest
-padlock they sold, it barely fit around
+LENA
+I’ve just had a call from Trevor
+Herbert MP.
+GWEN
+(coiled)
+Oh. Did he… enjoy his visit?
+LENA
+He certainly found it illuminating.
+GWEN
+I’m glad.
+Icy Pause.
+LENA
+If my job was all that was at stake
+here, I’d probably praise your
+initiative. I have no idea where
+you’ve been digging these files up
+from, but you’ve certainly used them
+effectively, and bluntly...
+GWEN
+I have no ideaLENA
+(continuing regardless)
+But there is much more at play here
+than you know and you are not
+prepared for the scale of
+responsibility about to crash down
+on your shoulders.
+GWEN
+I’m sorry?
+LENA
+No you aren’t. But I think you will be.
 [10]
 
 ©Rusty Quill 2023
 
-the rails!
-Right. Off to nod. I always get
-mawkish when I’m tired.
-(Note: Must, must, must call Sandra
-in the morning.)
-Thursday 21st November 2019
-Odemknout své srdce
-Thursday 24th December 2020
-I miss him. I’m alone on Christmas
-and it’s my fault.
-Friday 01st January 2021
-Happy new year Stan..
-Friday 29th January 2021
-I never told you what happened, did
-I, diary? I just agreed with whatever
-they said had happened. But I
-suppose I should write it down
-before I use the key.
-It was raining when we went to Na
-Kampě. It was cold, wet and
-honestly, if Stan wasn’t so set on
-going I would have skipped it,
-anniversary or not.
-It turns out they’d cut all the locks
-off the bridge years ago, so there
-was no sign we’d ever been there. I
-could tell Stan was disappointed but
-he still dropped to one knee. Silly git.
-And just as I expected, he got stuck.
+GWEN
+(squaring for a fight)
+Is that a threat?
+LENA
+Goodbye, Gwen.
+Lena moves to leave.
+GWEN
+(thrown, almost
+disappointed)
+What? That’s it?
+LENA
+That’s it. Give the others my regards
+and best of luck. You’re all going to
+need it.
+LENA exits. GWEN sits in stunned silence for a moment. Then
+she starts to laugh in disbelief.
+
+4. THE HILLTOP CENTRE EXT. – NIGHT, CLEAR (SAM’S PHONE)
+SAM and CELIA have just emerged from a taxi. Sam closes the
+car door behind them.
+TAXI DRIVER
+You’re sure? There’s not much
+round here…
+SAM
+We’re fine, really.
+TAXI DRIVER
+Fair enough
+CELIA
+Cheers.
 [11]
 
 ©Rusty Quill 2023
 
-His hip always played up in the
-damp. Thankfully a local lad stepped
-in but I could tell Stan was really
-upset. This was supposed to be his
-grand gesture and instead he was
-filthy, I was shivering and the Café
-wasn’t even open yet. But you know
-Stan, when he gets a bee in his
-bonnet, there’s no stopping him.
-So he marches over to see when the
-Café opens and starts faffing around,
-checking the doors even though he
-can see the closed sign. A moment
-later he’s calling me over. He points
-down some narrow stone stairs that
-lead to the canal and at the bottom
-there’s a little sign with a picture of a
-lock surrounded by the words
-“Zamčené muzeum”. My Czech isn’t
-what it was, but according to Stan it
-meant “The Lock Museum.”
-Stan got all excited at this, said he
-was going to go buy another lock for
-the bridge “come hell or high water!”
-I tried to talk him out of it, but he was
-on a mission.
-It was only when we reached the
-bottom of the stairs that we noticed
-the squat man outside. He was
-soaking, worse even than us and he
-didn’t even seem to care. Instead he
-sat on the museum step playing
-some game with a manky-looking
-deck of cards and somehow
-smoking a pipe despite the
-downpour. Scruffy doesn’t begin to
-describe it, his clothes were patched
+The taxi drives off, leaving them alone in the empty urban night.
+CELIA
+So I’m guessing that’s it then.
+Beat.
+CELIA (CONT’D)
+You alright?
+SAM
+Just checking for tape recorders.
+CELIA
+Look, even if it was on the train,
+which we can’t be sure of, there’s no
+way it could have beaten us here. I
+mean, how many eyes did you say it
+had?
+SAM
+Plenty.
+CELIA
+Then yeah, I doubt it’s getting a lift.
+So we’re okay for now at least. Come
+on.
+They start walking.
+SAM
+What unit did you say it was?
+CELIA
+Seventeen, according to Helen’s
+records, but it doesn’t say if there
+was a shop there or anything.
+SAM
+So how do we know which unit is
+which? Most don’t even have signs
+left…
 [12]
 
 ©Rusty Quill 2023
 
-all over and the shapeless floppy hat
-he wore barely covered his lank hair.
-Stan was hesitant, we were out of
-sight of the road after all, but he put
-a brave face on and pointed with his
-stick before speaking loudly and
-clearly:
-“Open?”
-The man blinked slowly, then gave a
-lazy nod.
-I wanted to get back to the road but
-off Stan went, ducking underneath
-the heavy wooden lintel. And I
-followed him.
-It was dark and damp-smelling
-inside. Unsurprising really, given it
-was so close to the canal and the
-weak bulbs shed just enough light to
-see the tunnel led to a spiral
-staircase leading downwards.
-I told Stan he was going to break his
-neck, but he just limped on down
-them without a backwards glance.
-At the base of the staircase was a
-colossal wooden door. There was a
-thick white key in place of a knocker
-that had four spikey arrows pointing
-inwards at the handle end. I was
-rather proud of myself for
-recognizing the symbol of the
-Knights of Malta who supposedly
-built the canal.
+Celia takes a moment, breathes in and centers herself.
+CELIA
+This way.
+SAM
+You’re sure?
+CELIA
+Call it a hunch.
+Sam is unconvinced but follows her anyway. The center is
+mostly derelict and utterly abandoned at this time at night.
+Sam begins to hum nervously to himself.
+Pause.
+CELIA
+Sam?
+SAM
+Hm? Oh, sorry. This place is just
+making me a bit nervous you know?
+CELIA
+(distracted)
+Mhmm.
+SAM
+I don’t think it’s actually, like,
+properly abandoned. Some of the
+shops look in decent nick…
+CELIA
+Maps does still list a bunch of
+businesses here, but no websites or
+opening times or anything.
+They walk on.
+
 [13]
 
 ©Rusty Quill 2023
 
-Stan tried the door, and it seemed
-locked tight. He turned to me then,
-so crestfallen by this latest defeat
-that I couldn’t help but take pity on
-him. He clearly hadn’t seen the key,
-so I reached out and grabbed it
-myself.
-It was clearly made from some sort
-of ivory, smooth and cold to the
-touch, colder even than the stone of
-the tunnel itself. I half worried it
-might be frozen in place, but it came
-away from the knocker easily, and I
-swear, when I slid that key into the
-keyhole, I heard the lock grind open
-before I’d even turned it.
-Stan hurried inside with a satisfied
-grin, and I followed. The room
-beyond was large, with damp stone
-walls interlaced with thick oak
-beams and a large millstone in the
-centre.
-Lined around the walls were
-incongruously pristine dark and
-glossy wooden plinths, each with a
-little pillow displaying a different
-lock. There were some simple,
-modern looking, padlocks near the
-entrance but walking around the
-millstone they grew older and
-stranger. Some were elaborate and
-delicate with golden filigree, others
-were oversized gothic affairs of
-worked iron with screaming faces
-and keyhole mouths. As I kept
-circling the room though they grew
-simpler until finally at the far end,
-was a simple wooden bolt with what
+SAM
+I can see why… Like, that can’t be a
+real dentist right?
+CELIA
+“We want your teeth!”
+SAM
+Yeah. That’s not normal.
+CELIA
+I think it’s normal for here.
+Beat.
+SAM
+Maybe we should come back in the
+daytime…
+CELIA
+What happened to stopping that
+“Archivist”?
+SAM
+Yeah wellThere is a gentle knocking from inside a nearby shop.
+SAM CONT.
+(nervous)
+Uuuhhhh…
+CELIA
+(ready)
+Shhhh.
+Beat. The knocking repeats.
+SAM
+(hushed)
+I think it’s coming from that old
+appliance store...
 [14]
 
 ©Rusty Quill 2023
 
-looked like a spiked wooden paddle
-beside it, stained with something old
-and dark.
-I turned to point this out to Stan only
-to find him still by the entrance,
-staring at one of the more modern
-locks. I couldn’t see how this had
-caught his eye given all the other
-beautiful and grotesque exhibits but
-as drew nearer, I understood.
-It was our lock. I don’t know how it
-got there but I was certain. A closed
-padlock of thick steel with an
-engraving: “For the love of a Locke”
-That was Stanley’s little joke I’d
-always teased him about his
-surname, even after it was mine as
-well.
-I gently picked it up. It was ours after
-all, and it felt like the most natural
-thing in the world.
-That was when everything changed.
-First the main door slammed shut
-with an echoing boom. I cried out in
-surprise and Stan gave an angry yell.
-He rushed over and started tugging
-pointlessly at the iron ring handle,
-but it was locked again and there
-was no keyhole on this side.
-Instead there was writing carved
-deep into the back of the door.
-“Odemknout své srdce”. I wrote it
-down at the time, and have since
-looked it up. It means: “Unlock your
-heart.”
+CELIA
+Then it’s not unit seventeen.
+(moving on)
+Ignore it.
+SAM
+But it looks like it’s open…
+CELIA
+Yes it is, and it’s probably coming
+from inside a washing machine, or a
+fridge, or something else with a
+suspicious door and we both know
+what happens if we open it.
+SAM
+(Following)
+Yeah… I really wish my job wasn’t to
+just learn about all the horrible
+things that can happen to you in a
+place like this.
+CELIA
+Try to think of it as preparation. Now,
+I’m guessing that it’s just around
+thisThey turn a corner and walk straight into the CUSTODIAN.
+CUSTODIAN
+Hey!
+SAM
+Argh!
+CELIA shoves him back on instinct.
+CUSTODIAN
+(tumbling backwards)
+Argh!
 
 [15]
 
 ©Rusty Quill 2023
 
-The door didn’t shift despite Stan
-carrying on. It was only when he
-finally stopped for breath that I
-noticed a sound in the previously
-silent room: rushing water.
-That was when I really got
-frightened. Sounds silly I know but
-up to then I was still assuming it
-would all work out. It would turn out
-the wind caught the door and we’d
-be let out, that somehow it was all a
-mistake. But the water, that scared
-me.
-Filthy water was already pouring in
-under the door and even as I
-watched it creeped up the edges on
-each side, spurts of the same fetid
-liquid rapidly gushing in with terrible
-force. It was even seeping between
-the wooden boards of the door itself
-which began to groan under the
-strain.
-We hurriedly backed away, our feet
-splashing though the already rising
-water, searching for a way out.
-Looking around I saw more pouring
-in from between the stones on all
-sides, trickles thickening into gouts
-and it wasn’t long before it was
-lapping at our knees.
-Stan was yelling again, screaming
-for help but there was no one to hear
-besides me and whatever had locked
-us inside.
-
+The mutual shock fades as they realise the CUSTODIAN seems
+normal enough.
+CUSTODIAN
+Christ, what was that for?
+CELIA
+Sorry, it was a reflex.
+CUSTODIAN
+That’s one hell of a reflex.
+SAM
+Here let me help.
+CUSTODIAN
+(standing with Sam’s help)
+What the hell are you two doing
+sneaking around here at this time of
+night?
+CELIA
+We could ask you the same
+question.
+CUSTODIAN
+I work here.
+SAM
+Sorry, you work here?
+CUSTODIAN
+Yeah. I clean up, make sure
+everything stays locked up.
+SAM
+Like the one with all the banging?
+CUSTODIAN
+Ah, crap. Which one was it?
+SAM
+Uh… Gray’s Appliances?
 [16]
 
 ©Rusty Quill 2023
 
-As I was splashing around, my foot
-caught on something heavy
-protruding from the floor, a bolt,
-heavy iron against the floor covering
-what looked like some sort of
-trapdoor.
-In a blind panic I scrabbled with my
-arms for the bolt, straining my neck
-to keep my chin above the surface.
-My searching fingers finally found it
-and without thinking slid it open.
-Suddenly the walls and floor were
-rushing up and away from me as I
-fell, utterly terrified, certain I was
-going to drown down there, alone in
-the dark. Instead, I landed hard, only
-a few feet down, with the stinking
-water rushing past me in a torrent,
-down and away through a tunnel.
-I forced myself up till my shoulders
-just cleared the trapdoor. The water
-level had lowered as it drained away
-down my tunnel but it wouldn’t be
-long before it climbed again as ever
-more water streamed in even from
-the darkness above now.
-I looked over at Stan. He had seen
-what happened, and for a moment,
-he smiled, moving towards me. I try
-to remember that smile, the look on
-his face when he thought everything
-was going to be ok. Then his foot
-slipped, his hip gave way, and he
-fell, hard. I heard his skull crack on
+CUSTODIAN
+Right, I’d better go lock it back up
+before… well… Look, you two need
+to leave. It’s not safe here, the lights
+have mostly gone and the uh… the
+structure is weak soCELIA
+It’s alright, you can just say it’s
+haunted.
+Beat. The CUSTODIAN sizes them up.
+CUSTODIAN
+(relieved)
+Ok, yeah. This place is haunted, like
+ridiculously haunted and dangerous
+with it. I dunno if you’re wannabe
+ghost-hunters or something… but
+trust me, this place isn’t for you
+There is a slight gust of wind and a suspiciously timed scrape of
+rusted metal.
+Beat.
+CUSTODIAN
+You should go.
+
+SAM
+Celia…
+CELIA
+We have business in one of the
+units.
+The custodian lets out a long sigh.
+CUSTODIAN
+Fine, just leave me out of it.
 [17]
 
 ©Rusty Quill 2023
 
-the wet millstone even over the roar
-of the water..
-I still like to tell myself that was when
-he died, that I couldn’t possibly have
-heard him begging me for help.
-But the water was so strong, too
-strong. Every second I hesitated
-more was rushing through the
-trapdoor, threatening to wash me
-away with it. Soon I wouldn’t even be
-able to close it.
-So I braced the trapdoor against my
-back and then heaved it back
-upwards, thrusting with my legs. I’ve
-no idea how my back held up under
-the strain, but I managed to force it
-closed except, the bolt on the
-underside was weaker than the one
-on top. I knew it wouldn’t hold on its
-own. Not unless… unless I locked it.
-So, I did. Using our lock.
-Water was still pouring down
-through all four sides of the
-trapdoor, but it was holding. I didn’t
-know how long for though, so then…
-I ran. Forcing myself along the
-tunnel through the icy water with
-numb legs before it rose too high.
-I know I couldn’t have heard him
-calling for me. Even if he was still
-alive, which he wasn’t, I couldn’t
-have heard it over all that rushing
-water and through the sturdy wood
-of the trapdoor. He wasn’t calling for
-me. But I heard him as I escaped
-down the tunnel. I still hear him.
+CELIA
+If you like.
+CUSTODIAN
+I do. Which unit?
+CELIA
+Seventeen.
+CUSTODIAN
+The old “Outreach Centre”?
+SAM
+Yeah, I think so? For the Magnus
+Institute?
+CUSTODIAN
+If you say so. No-one’s been there in
+decades… Come on, I keep the front
+locked tight, but I can let you in the
+service entrance.
+CELIA
+(suspicious)
+Just like that?
+CUSTODIAN
+You learn to go with the flow here,
+and stay out of the way of whatever
+goes on. I just keep it clean and lock
+up when I can. If you’re stupid
+enough to go poking around… that’s
+on you. I’ve said my piece.
+SAM
+Well that’s not exactly reassuring…
+CUSTODIAN
+No, I don’t imagine it is.
+
 [18]
 
 ©Rusty Quill 2023
 
-I don’t remember much of the
-rescue, I was unconscious for most
-of it but apparently, I was still
-screaming as they bundled me off to
-the Na Františku hospital. It turns out
-that the lad who helped Stan up
-earlier heard my screams coming up
-through a drain and called for help.
-I’m still in contact with him. He’s
-called Andrej and has a beautiful
-little girl.
-Stan washed up two days later on
-the bank of the Vltava. They wanted
-me to identify the body, but I didn’t
-recognize him.
-We made the news, you know. Two
-stupid British tourists mistake flood
-relief tunnels for a tourist attraction.
-But I know it was real. I’ve still got
-the key.
-I wanted to throw it away so many
-times but I just couldn’t bring myself
-to. Horrible or not, I traded Stanley’s
-life for it. And it is so very beautiful.
-Even better, it works. I haven’t found
-a lock yet that it doesn’t open.
-Doors, safes, lockboxes. I even tried
-it on a crack in the wall once, just to
-see what happened. It can open
-anything.
-I’ve been thinking about using it on
-myself. I could push it into my chest,
-give it the smallest turn and open up
+5. EXT. OXFORD STATION – NIGHT, CLEAR (ALICE’S PHONE)
+ALICE steps onto the pavement, getting her bearings. She spots
+a taxi and heads over. The TAXI DRIVER lowers his window.
+TAXI DRIVER
+Where to?
+ALICE
+Hey, are there any other taxis
+working tonight?
+TAXI DRIVER
+(offended)
+Probably, but I’m the only one here
+so you take it or leave itALICE
+Sorry, no, yeah. It’s just- I’m looking
+for someone.
+TAXI DRIVER
+(skeptical)
+Right.
+Alice flicks through her phone to a picture of SAM.
+ALICE
+Uhh… This guy, Sam, have you seen
+him tonight?
+TAXI DRIVER
+I can’t tell you that. Client
+confidentiality, you know how it is?
+ALICE
+Fifty quid.
+TAXI DRIVER
+Yeah, I took him and a lady friend
+over to that creepy old shopping
+center up Cowley way. Weird, but I
+don’t judge.
 [19]
 
 ©Rusty Quill 2023
 
-my heart. Just reach in and pull out
-all the grief.
-Perhaps I will. After all, what have I
-got to lose?
-Either way, I won’t be missing you
-soon Stanley.
-5. INT. THE PUB – NIGHT, THUNDERSTORM (ALICE’S
-PHONE)
-It’s quiet in the Pub. TEDDY and ALICE are drinking together, it’s
-friendly but not convivial.
 ALICE
-So. How’s sunlight treating you?
-TEDDY
-Oh you know, can’t complain.
+How fast can you get me there?
+TAXI DRIVER
+This time of night? Ten minutes,
+easy.
 ALICE
-News to me.
-TEDDY
-Ha!
-TEDDY drinks
-TEDDY
-(cont.)
-If I’m honest though, I actually am
-struggling to get back on days. I
-keep catching myself online at 2am.
+Wicked, you’re on.
+TAXI DRIVER
+Look, it’s none of my business but
+I’m not getting involved in any, like,
+crime of passion stuff alright? I don’t
+want to be a witness to anything.
 ALICE
-Yeah, I noticed.
-TEDDY
-What can I say? Insomnia’s a bitch
-and it’s not like anyone else is up
-then.
+No, no it’s nothing like that, promise.
+Now can we go?
+TAXI DRIVER
+Sure, after I get the fifty.
+Beat.
+ALICE
+Fair.
+6. EXT. THE HILLTOP CENTRE – NIGHT, CLEAR (TAPE
+RECORDER)
+The Custodian approaches the electronics store where the
+knocking can still be heard. He sighs, irritated, sorting through a
+huge ring of keys.
+CUSTODIAN
+Shut up!
+The knocking stops.
+
 [20]
 
 ©Rusty Quill 2023
 
-ALICE
-Nonsense – the night is full of creeps
-and weirdoes!
-TEDDY
-You’d think I would fit right in.
-ALICE
-Your words, not mine.
-Beat. They both drink to fill the silence.
-TEDDY
-(cont.)
-So how’s things your end? Sam still
-getting on okay?
-ALICE
-(cold)
-He’s doing fine.
-TEDDY
-Wow. I thought you two were close?
-ALICE
-So did I.
-TEDDY
-Ah.
-Beat.
-TEDDY
-(cont.)
-Listen, Alice, while you’re here, I’ve
-been meaning to talk to you about
-something… serious?
-ALICE
-Yeah, I know what you’re going to
-ask and… no, salmon pink really
+CUSTODIAN (CONT’D)
+(muttering)
+Just one boring night. Is that so
+much to ask?
+He finds the key he was looking for and pulls down the shutter
+to the electronics store. He gives it a rattle to confirm it’s locked
+before grunting in satisfaction.
+CUSTODIAN (CONT’D)
+Can’t believe I’m still here after all
+these years. Looking after this place
+is as much about what you don’t see
+as what you do. The first time I came
+hereHe coughs, confused by the outburst then the words once start
+spilling out once again.
+CUSTODIAN (CONT’D)
+The first time I came here I knew
+something wasn’t right. I used to
+clean hospitals, and I know what
+dried blood looks likeThe Custodian places his hand over his mouth to stop himself
+from speaking. The ARCHIVIST emerges from the shadows.
+ARCHIVIST
+SPEAK.
+The Custodian struggles against the compulsion.
+CUSTODIAN
+-and here it- it was everywhere…
+…everywhere…
+ARCHIVIST
+SPEAK.
+
 [21]
 
 ©Rusty Quill 2023
 
-isn’t working for you. You need
-something in rich puce.
-TEDDY
-(smiling weakly)
-Alice, we’ve got to talk. It’s
-important.
-Alice’s phone buzzes.
-ALICE
-(checking her phone)
-Okay…
-TEDDY
-(nervous)
-So- um. The thing is, the new job
-it’s… it’s not exactlyALICE
-Damn, I’m really sorry but I think I
-need to check this, hold on for two
-minutes?
-TEDDY
-(put out)
-Oh er yeah. Sure.
-ALICE stands and steps aside checking her voicemail.
-VOICEMAIL
-To listen to your messages pressALICE presses “1”
-VOICEMAIL
-(cont.)
-You have one new message:
-SAM
-(on phone, manic)
-Alice, it’s Sam. I thought you should
-know. Celia and I are on our way to
+The dam breaks and the words gush from the CUSTODIAN’s
+mouth.
+
+7. EXT. THE HILL TOP CENTRE – NIGHT, CLEAR (CASE)
+CUSTODIAN
+I didn’t believe it, of course. Didn’t let
+myself recognise it but I still saw it,
+right from the start. In the corners, in
+the cracks. Was it from the victims of
+awful place? Was it mixed into the
+concrete when it was first raised? Or
+do the buildings just bleed? Is this
+place a wound that never fully heals?
+I don’t know, but on hot summer
+nights I can smell it.
+So why take the job? You wouldn’t
+ask me if you could see my payslips
+for these last thirty years.
+Life was bad when I met the owner.
+He smiled so wide, like he was so
+unbelievably pleased to offering me
+such an opportunity.
+I asked about the blood, I couldn’t
+help myself. He just smiled and
+added another ten grand to the
+salary. I didn’t ask any other
+questions. I never even learned his
+name.
+From that moment on it was just the
+three of us: me, the bloodstained
+silent concrete of the Hilltop Centre,
+and the dark.
+In all my time, I have never come
 [22]
 
 ©Rusty Quill 2023
 
-Paddington right now. We’re
-catching a train to Oxford, I think we
-need to stop the Archivist thing from
-doing… whatever it’s going to do at
-the Hilltop Centre. I know you won’t
-want us to go, you’ll just be like “it’s
-stupid, it’s reckless, you’re an idiot”
-butALICE hangs up.
-TEDDY
-Alice?
-ALICE
-Listen Teddy I’m really sorry but I
-have a train to catch.
-TEDDY
-(deflated)
-A… train? Right.
-ALICE
-(prepping to leave)
-No, honestly, Ted, I’m so sorry. It’s
-really important. I mean, I wouldn’t
-rush off like this ifTEDDY
-Sure. I get it.
-ALICE
-Drop me a line later yeah? We can
-pick up where we left off.
-TEDDY
-Of course.
-
+during the day. It would break some
+strange unspoken rule. I don’t know
+if anyone has ever come here
+shopping, I don’t know what shops
+are still open. I don’t know if it
+closed down years ago and I’m a just
+another ghost loitering amongst the
+great grey corpse.
+I know that it gets other visitors,
+though. I know because I clean up
+bits of them sometimes. A patch of
+torn-out hair, a half-melted tooth, a
+rotted fingernail torn from the root.
+Never enough to matter to anyone
+else. I try not to see these days.
+I ward people away at night, warn
+them that they shouldn’t be here.
+Usually they listen, but not always. I
+remember the first time someone
+wouldn’t turn away. It was the winter
+of ninety-seven. A man staggered up
+to me, stinking of cheap booze and
+piss. He wanted to buy a lighter. I
+told him to leave, I told him that all
+the shops here were shut. He called
+me a liar.
+Then I noticed the light illuminating
+me from behind. One of the
+shopfronts, a newsagent I’d never
+paid much attention to, was open
+and apparently always had been.
+What’s more, there was a haggard
+yet eager old woman I had never
+seen before stood behind the
+counter. I tried to warn the man but
+he just shoved me out of the way
+and walked inside. I went to clean
 [23]
 
 ©Rusty Quill 2023
 
-ALICE
-(rushing, not paying
-attention)
-Great! Cheers Teddy, look after
-yourself!
-Alice leaves. TEDDY takes a deep steadying breath than drinks
-his pint.
-
-6. PADDINGTON STATION – NIGHT, THUNDERSTORM
-(ALICE’S PHONE)
-ALICE is stood in the main lobby checking the departure board
-whilst calling SAM on the phone.
-ALICE
-(muttering)
-For god’s sake Sam pickup. Pickup,
-pickup, pickup, pickup you useless
-sack ofSAM
-(on phone)
-HeyALICE
-(loudly)
-What the hell do you think you’re
-doing?
-SAM
-(on phone)
-Ok. Alice, listen-
-
+the far side of the Centre and
+ignored the smell of burnt hair and
+charred meat.
+It wasn’t all death though.
+Sometimes people… arrived. Not
+often, but every now and then you’d
+find some thin, emaciated soul
+wandering around, lost and
+confused. Ambulance would come
+and take them away. Maybe they’re
+fine, but I doubt it.
+I only called the police once. Only
+once. It was the whimpering. There’s
+always noises when you’re cleaning,
+but you lock them up or curse them
+out and they shut up. But this time it
+didn’t. It just kept on going, and
+going, from one of the clothing
+stores near the east exit. Patience, I
+think it was called.
+And this time, I broke the one of the
+unspoken rules, I had a look.
+At first there was nothing, just
+darkness and clothing and
+motionless mannequins. But the
+whimpering still filled the shop. I
+checked the mannequins and it was
+on the third one that I realized what
+was happening: why the outfit was
+so mismatched, why the clothes
+were been pinned in place, why it
+was bleeding, why it was
+whimpering…
+Of course, by the time the police
+finally bothered to turn up there was
 [24]
 
 ©Rusty Quill 2023
 
-ALICE
-(loudly)
-No. You listen. You’re going to get
-off that train right now otherwise I
-will come in there and drag you off.
-Do you hear me?
-TICKET OFFICER
-Ticket.
-ALICE
-(to officer)
-No I don’t need a ticket I’m just/
-grabbing my mate
-TICKET OFFICER
-/I can’t let you past without a ticket.
-You can buy one over/ at the ticket
-desk.
-ALICE
-For god’s sake!
-SAM
-(on phone)
-Doors are closing Alice, I’ll call you
-once we’re in our seats or
-something.
-ALICE
-(to SAM)
-No Sam wait! Sam!
-He hung up.
-ALICE
-(cont.)
-Dammit!
-TICKET OFFICER
-Miss, I’m going to have to ask you to
-step aside.
+nothing to show them. The woman
+had been taken when I went out to
+greet them leaving only one more
+bloodstain.
+I got a caution for wasting police
+time. Serves me right.
+The next day I got a call from the
+owner. The second and last time I
+ever heard his voice. He asked me if I
+was still happy working at the Hilltop
+Centre. He asked me if there was
+anything I wanted to know. He asked
+me where my daughter liked to shop.
+I was never curious again. Even
+when I found the owner dead in his
+office, with every blood vessel
+stripped from his body and strung
+around the room in a grim cat’s
+cradle. I just closed the door and
+kept cleaning and the pay slips kept
+coming.
+I try to take time off. Holidays are
+important. If you’re here too long,
+too regular, you start to feel like
+you’re a part of the place. Like it’s
+getting inside you, making you a
+fixture... That’s when I take the
+caravan and get some space.
+Remind myself of the world. Because
+at the end of the day, it’s just a job.
+But I still dream of the Hilltop. In my
+dream, it waits for me, silent, grey
+and eager for my company. Its
+concrete bones are streaked through
+with blood, like rippled ice cream
 [25]
 
 ©Rusty Quill 2023
 
-ALICE
-(angry)
-Listen mate I just…
-TICKET OFFICER
-MissALICE
-(Afraid)
-Wait- Do you see that? WhoTICKET OFFICER
-Seriously?
-ALICE
-What? No, look, look! On the train,
-there’s-TICKET OFFICER
-(irritated)
-Right that’s it. Sarah can you show
-this woman out please?
-ALICE
-(being led away)
-No, no wait listen IShe shrugs off the escort.
-ALICE
-Fine, fine! I get it!
-She calls Sam again.
-ALICE
-(cont.)
-Pick up, Sam. Pick up. It’s on the
-train, It’s on the train…
-
-[Music]
+and I reach out for it. It’s soft and
+cold and yielding and then the gritty
+mixture snakes up my arm and
+begins to harden. It pulls me onward,
+scraping off skin and tearing muscle,
+until I finally fall...
+The Custodian falls to the floor as parts of him begin to turn to
+concrete.
+CUSTODIAN (CONT’D)
+It is rough and cold and silent inside.
+The world is locked away and when I
+open my mouth to scream… the cold
+grey pours down my throat… and it
+fills my stomach with stone, fills my
+lungs with gravel and my blood… my
+blood…
+He is almost fully transformed.
+CUSTODIAN (CONT’D)
+We are the hilltop. It is me and I am it
+and we are. We are…
+He is gone.
+8. INT. HILLTOP CENTRE RETAIL UNIT 17 – NIGHT, CLEAR
+(SAM’S PHONE)
+Sam and Celia pick their way through the detritus of the
+abandoned space. Sam flicks a light switch a couple of times.
+SAM
+The lights are gone.
+CELIA
+So use your phone.
+SAM
+Oh yeah.
 [26]
 
 ©Rusty Quill 2023
 
+Sam turns on his phone’s torch and makes a noise of
+discomfort.
+CELIA
+Alice?
+SAM
+Seventeen missed calls.
+CELIA
+Yeah. You going to call her back or…
+SAM
+She can wait. Besides I want to look
+around.
+CELIA
+There’s not much to see.
+SAM
+Yeah… They must have completely
+cleared it out.
+CELIA
+If they were ever here in the first
+place.
+Pause. Celia continues picking her way through the building.
+SAM
+Maybe we shouldCELIA
+There it is.
+CELIA begins pulling away some heavy broken shelving
+revealing a door behind it.
+SAM
+You’ve got something?
+CELIA
+Stairs, to the basement.
+[27]
+
+©Rusty Quill 2023
+
+Sam comes over and joins her.
+SAM
+Great spot! Well…
+(dubious)
+After you…
+CELIA
+And they say chivalry’s dead.
+SAM
+Look, last time I went into a
+basement I accidentally released a
+monster so…
+CELIA
+Come on.
+CELIA leads the way down the dark stairway. As they descend
+there is a growing glassy tone and their voices begin to slightly
+distort.
+SAM
+Do you hear that?
+CELIA
+I hear it.
+They enter the basement. The tone is steady and louder now,
+there is also a slight wind, as though they were standing at the
+top of a precipice.
+Pause.
+SAM
+(awestruck)
+Do you see that?
+CELIA
+(quiet)
+Yeah. I see it.
+
+[28]
+
+©Rusty Quill 2023
+
+SAM
+What is it?
+Celia doesn’t respond.
+SAM (CONT.)
+(fascinated)
+Look how it splits the light… like a
+prism… It’s so… /Beautiful…
+CELIA
+(simultaneous)
+/Dangerous.
+Beat.
+SAM
+Celia… do you know what this is?
+CELIA
+Almost.
+Beat.
+SAM
+Wait, what does that mean?
+CELIA
+It’s complicated.
+SAM
+(impatient)
+Then simplify it.
+Beat.
+CELIA
+Sam, listen…
+SAM
+(finally snapping)
+For gods sake, Celia! Enough! Okay?
+I’m sorry but enough! I know you
+[29]
+
+©Rusty Quill 2023
+
+want your privacy but we’re way too
+deep for that now! My head’s killing
+me, I’m staring at god-knows-what
+and there’s some… creature on its
+way to record us to death or
+whatever, so enough! No more
+mysteries, no more cryptic clues and
+weird half-truths, just for once I want
+to know what the hell is actually
+going on!
+Beat.
+CELIA (she sighs)
+It’s a wound in the world. A tear
+between here and… where I came
+from. And it wants me back.
+SAM
+What are you saying?
+CELIA
+It’s unbalanced.
+SAM
+What?
+CELIA
+The institute, alchemy, all of it. It’s all
+about balance. Dua prima, four
+elements, seven planets, it’s all the
+same. You’ve got to keep things
+balanced. And if something is
+missing, if someone is misplaced,
+the equation doesn’t balance… and
+that’s when things get bad…
+SAM
+Bad how?
+
+[30]
+
+©Rusty Quill 2023
+
+CELIA
+(ignoring the question)
+…it keeps pulling me back. Closer
+and closer. It won’t let me stay…
+SAM
+But you don’t want to go back.
+CELIA
+(somber)
+I don’t remember much of how I got
+here. But I know there’s nothing left
+to go back to. Here I have a life. I
+have Jack. He needs me.
+Beat.
+CELIA
+(cont.)
+I have to balance it. For him.
+SAM
+(suspicious)
+What are we doing here Celia?
+Beat.
+SAM CONT.
+(realizing)
+All this digging, the O.I.A.R., The
+Magnus Institute, you just want to
+get me here… to make me trust you
+so that what, you could just use me
+to pay off some kind of cosmic debt?
+CELIA
+It was your idea to come here
+tonight.
+SAM
+Was it?
+[31]
+
+©Rusty Quill 2023
+
+CELIA
+I’m sorry Sam.
+SAM
+So it was all a lie…
+CELIA
+(quietly)
+Not all of it. I really did like you.
+Beat.
+SAM
+So what’s the problem?? We’re here,
+Alice won’t make it in time and I
+know you’re carrying that knife.
+What happens now? You push me?
+Stab me? Or do I need to jump in
+myself? Come on, what’s stopping
+you?
+Beat.
+SAM
+(cont., softer)
+What’s stopping you Celia?
+CELIA
+I… I don’t…
+(her tone changes)
+I don’t- when I first awoke I knew
+nothing, nothing but the dream of
+things that sliced my who from me
+with claws like scalpels…
+She hesitates, fighting the compulsion.
+SAM
+Oh god.
+A tape player switches on and our perspective violently shifts
+into it as THE ARCHIVIST descends the stairs towards them.
+[32]
+
+©Rusty Quill 2023
+
+CELIA
+(still fighting it)
+They would hunt me and toy with
+what it meant to be me peeling away
+my layers first my name, then my
+memory and then…
+SAM
+Get away from her!
+ARCHIVIST
+AT LAST. IT IS MINE.!
+CELIA
+…and then the fearless one reached
+in and grasped me, tore me out,
+leaving my story to fall away like
+autumn leaves…
+SAM
+I said leave her alone!
+He charges the Archivist as it swells. They struggle. As they do
+a sudden burst of wind sweeps through the room accompanied
+by a deafening swell in the glassy tones and then… click.
+9. EXT. THE HILLTOP CENTRE – NIGHT, CLEAR (ALICE’S
+PHONE)
+The taxi pulls over and Alice steps out.
+TAXI DRIVER
+(from inside)
+This is it.
+ALICE
+(hurriedly)
+Cool.
+
+[33]
+
+©Rusty Quill 2023
+
+TAXI DRIVER
+And like I told the others, there’s
+nothing here so if you want me to
+hang aroundALICE is already running towards the Hilltop Centre.
+ALICE
+(calling)
+Sam! Celia!
+It is utterly silent. Alice keeps moving.
+ALICE (CONT’D)
+(calling)
+Celia! Sam! Sam!
+Still nothing. She spots something on the ground.
+ALICE (CONT’D)
+Oh god. Oh god no please...
+She keels beside the concrete remains of THE CUSTODIAN.
+ALICE (CONT’D)
+Sam is thatCUSTODIAN
+(a croaked whisper)
+Rough… and cold… and silent and
+whole… We are the hilltop... We are
+the hilltop... We are…
+Alice starts to back away.
+ALICE
+Nonononono. Not again.
+She gets he her feet and starts running again.
+
+[34]
+
+©Rusty Quill 2023
+
+ALICE (CONT’D)
+Sam! Celia!
+10. INT. MANAGER’S OFFICE – NIGHT, THUNDERSTORM
+(MANAGER’S LANDLINE)
+Gwen is poking around Lena’s office. She opens a draw and
+pulls out a bottle.
+GWEN
+(to herself)
+Lena! You dark horse…
+She pulls out a glass tumbler and unstoppers
+the bottle. It sounds strong, and expensive.
+She pours herself a large measure.
+The phone rings. She hesitates for a moment then hits the
+speakerphone button.
+GWEN
+Uh… This is the O.I.A.R., Bouchard
+speaking.
+TREVOR HERBERT
+(speakerphone)
+Oh hello Gwen, just who I was after.
+GWEN
+(she sits behind the desk
+flustered)
+Oh! that’s uh.. that is to say, what
+can I do for you, minister?
+TREVOR HERBERT
+(speakerphone)
+I’m guessing since it’s you picking
+up that you’ve spoken with Lena
+then?
+[35]
+
+©Rusty Quill 2023
+
+GWEN
+Oh, yes.. She, uh, she left.
+TREVOR HERBERT
+(speakerphone)
+Didn’t make too much of a scene, I
+hope? Difficult business, after all.
+GWEN
+Oh no, not at all.
+TREVOR HERBERT
+(speakerphone)
+Great. In that case, congratulations
+are in order! I’m sure you’ll do a fine
+job.
+Beat.
+GWEN
+I’m sorry?
+TREVOR HERBERT
+(speakerphone)
+I’ll get someone to put the paperwork
+across your desk first thing
+tomorrow and make it official but I’m
+not one to stand on ceremony. As far
+as I’m concerned you’re the
+ringmaster now.
+Pause.
+TREVOR HERBERT(CONT’D)
+(speakerphone)
+Gwen? Are you still there?
+GWEN
+Yes, yes still here! So… What do you
+want- What should I do?
+TREVOR HERBERT
+[36]
+
+©Rusty Quill 2023
+
+(speakerphone)
+Oh, don’t worry about me, I’ll stay
+out of your way, I’ve never been one
+to micromanage. You have my full
+support.
+GWEN
+Right.
+TREVOR HERBERT
+(speakerphone)
+Anyway, I won’t keep you.
+Congratulations again and, er, best
+of luck!
+TREVOR hangs up. Gwen stands there silent and unsure.
+GWEN
+Huh…
+11. INT. UNIT 17 BASEMENT – NIGHT, CLEAR (CELIA’S PHONE)
+Celia is collapsed on the floor. There is no other sound save for
+the tones of the rift and even that sounds quieter, more
+balanced.
+A door opens upstairs.
+ALICE
+(distant)
+Sam? Celia?
+Celia rouses slightly.
+CELIA
+Alice?
+(calling)
+Alice! Down here!
+Alice moves through the upstairs and quickly finds the staircase
+door and heads down it while Celia raises herself.
+[37]
+
+©Rusty Quill 2023
+
+ALICE
+Celia! Where’s Sam? We’ve got to
+get out of here. That archivist thing,
+it followed you, it might beShe stops, taking in the scene before here.
+ALICE (CONT’D)
+What- What is that? What happened?
+Alice realizes Celia is alone.
+ALICE
+Where’s Sam?
+There is a long pause.
+CELIA
+It attacked us. He tried to stop it, to
+protect me even though…
+She takes a shuddering breath.
+CELIA
+They fell into… They’re gone, Alice.
+Beat.
+CELIA
+They’re gone.
+
+[Music]
 ANNOUNCER
 The Magnus Protocol is a podcast
 distributed by Rusty Quill and
 licensed under a Creative Commons
 Attribution Non-Commercial Sharealike 4.0 International License.
+
+[38]
+
+©Rusty Quill 2023
+
 The series is created by Jonathan
 Sims and Alexander J Newall, and
 directed by Alexander J Newall.
 This episode was written by
-Alexander J Newall and edited with
-additional materials by Jonathan
-Sims, with vocal edits by Nico
-Vettese, soundscaping by Meg
-McKellar, and mastering by
-Catherine Rinella with music by Sam
-Jones.
+Jonathan Sims and edited with
+additional materials by Alexander J
+Newall, with vocal edits by Lowri
+Ann Davies and Nico Vettese,
+soundscaping by Tessa Vroom, and
+mastering by Catherine Rinella with
+music by Sam Jones.
 It featured Billie Hindle as Alice Dyer,
 Shahan Hamza as Samama Khalid,
 Anusia Battersby as Gwen Bouchard
 Lowri Ann Davies as Celia Ripley,
-Sarah Lambie as Lena Kelley,
-Kazeem Tosin Amore as Teddy
-Vaughn with additional voices from
-Jonathan Sims.
+Sarah Lambie as Lena Kelley, with
+additional voices from Beth Eyre
 The Magnus Protocol is produced by
 April Sumner, with executive
 producers Alexander J Newall, Dani
@@ -942,24 +1325,22 @@ online, tweet us @therustyquill, visit
 us on facebook or email us at
 mail@rustyquill.com
 Thanks for listening.
-[27]
+
+[39]
 
 ©Rusty Quill 2023
-The Magnus Protocol 29 – Keyed In
-CAT2RB4254-30012020-13052024
-Drowning (subterranean) -/- key (metaphor)
+CAT2RS3366-13052024-13052024
+Transmutation (human) -/- Isolation (urban)
 Incident Elements:
- Captivity
- Drowning
- Claustraphobia
- Grief
+• Entrapment
+• Compelling (supernatural)
+• Manipulation
 Transcripts available at https://rustyquill.com/transcripts/the-magnus-protocol/
-This episode is dedicated from Skylar Ceros to Aeron, thank you for your generous support! You
-can find a complete list of our Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/
+You can find a complete list of our Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/
 Created by Jonathan Sims and Alexander J Newall
 Directed by Alexander J Newall
-Written by Alexander J Newall
-Script Edited with additional material by Jonathan Sims
+Written by Jonathan Sims
+Script Edited with additional material by Alexander J Newall
 Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani McDonough, Linn
 Ci, and Samantha F.G. Hamilton
 Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d’Raven, and
@@ -968,14 +1349,17 @@ Produced by April Sumner
 Featuring (in order of appearance)
 Lowri Ann Davies as Celia Ripley
 Shahan Hamza as Samama Khalid
+Billie Hindle as Alice Dyer
+Kai Partenie as Ticket Officer
+Ryan Hopevere-Anderson as Colin Becher
 Sarah Lambie as Lena Kelley
 Anusia Battersby as Gwendolyn Bouchard
-Jonathan Sims as Chester
-Billie Hindle as Alice Dyer
-Kazeem Tosin Amore as Teddy Vaughn
-Kai Partenie as Ticket Officer
-Dialogue Editor – Nico Vettese
-Sound Designer – Meg McKellar
+Pip Gladwin as Taxi Driver
+Robin Hellier as Custodian
+Ian Hayles as Trevor Herbert MP
+Beth Eyre as Archivist
+Dialogue Editor – Nico Vettese & Lowri Ann Davies
+Sound Designer – Tessa Vroom
 Mastering Editor - Catherine Rinella
 Music by Sam Jones (orchestral mix by Jake Jackson)
 Art by April Sumner
@@ -990,7 +1374,7 @@ WEBSITE: rustyquill.com
 FACEBOOK: facebook.com/therustyquill
 X: @therustyquill
 
-[28]
+[40]
 
 ©Rusty Quill 2023
 EMAIL: mail@rustyquill.com
@@ -998,6 +1382,6 @@ The Magnus Protocol is a derivative product of the Magnus Archives, created by R
 and licensed under a Creative Commons Attribution Non-Commercial Share alike 4.0
 International Licence.
 
-[29]
+[41]
 
 
