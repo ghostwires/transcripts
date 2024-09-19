@@ -1,1387 +1,686 @@
-©Rusty Quill 2023
+Of That Colossal Wreck – Behind The Scenes Transcript
+Helen Gould (00:00):
+Hello and welcome to the behind the scenes episode of, Of That Colossal Wreck <laugh>.
+Jonathan Sims (00:37):
+Is that what we're going with for the title?
+Helen Gould (00:39):
+That is what we're going with Johnny. Yeah. Yeah.
+Sasha Sienna (00:41):
+That's why we spelled it with so many E's <laugh>.
+Helen Gould (00:46):
+Any who? My name is Helen and I'm joined today by,
+Jonathan Sims (00:50):
+Hi, I'm Jonathan Sims, one of the co-writers for Of That Colossal Wreck.
+Katie Seaton (00:54):
+Hi, Katie Seton. She/her, I'm sound designer/composer.
+Maxamillian John (00:57):
+Hi, I'm Maxamilian John, the director of Of That Colossal Wreck
+Sasha Sienna (01:01):
+And I'm Sasha Sienna, the other writer Of That Colossal Wreck
+Helen Gould (01:05):
+Wonderful. Thanks so much for coming on the show, sharing your time, doing this episode with us.
+Alright, let's dive right in and get started with a fairly general question. What was it like for you all?
+Creating a sci-fi horror audio drama?
+Sasha Sienna (01:22):
+Yeah, pretty good.
+All (01:23):
+<laugh>
+Helen Gould (01:25):
+Sasha <laugh>.
 
-The Magnus Protocol
-Episode 30
-"Dead End Job"
-Written by Jonathan Sims
-Edited by Alexander J Newall
+OTCW 08 - Behind The Scenes (Completed 01/10/24)
+Transcript by Rev.com
 
-18-03-2023
-Draft 3.0
-[1]
+Page 1 of 17
 
-©Rusty Quill 2023
+Maxamillian John (01:27):
+Yeah, it was great. Sasha is totally right.
+Sasha Sienna (01:30):
+Thank you, Max.
+Maxamillian John (01:31):
+I came into it sort of partway through the writing process, so I already knew what it was gonna be and I
+had some first drafts, uh, sent to me and I loved it immediately. The atmosphere of it came through
+instantly and that's sort of what attracted me to the whole project. Yeah, it was, do you know what? Oh,
+I don't wanna jump a gun on other questions, but
+Helen Gould (01:54):
+No, go for it.
+Maxamillian John (01:55):
+It was an easier process than I expected. Oh yeah. Because I got to work with people who are so good at
+what they did that I could more or less just forget about all of them. <laugh> , if you know what I mean.
+There was no need to go too deep on say the characters or the sound design because I knew that was all
+gonna be taken care of. So I had the easiest job in the world. Right. <laugh>. I got to receive the scripts,
+they were great. Send 'em on to the actors. All the actors did their job. They were fantastic. I pretty
+much just sat there, if I'm honest, <laugh>, and then asked to give sound design direction. But Katie's
+fantastic. So I had like a few ideas at the beginning and then I have again just sat there and listened to all
+the edits coming back in. So yeah, it it best and easiest job of my life.
+Helen Gould (02:48):
+Aw, that's nice. That's glowing praise. Katie, how was it for you?
+Katie Seaton (02:53):
+This is my first time doing Sci-Fi actually. So I haven't got a lot to compare it to, but it's been really fun.
+For me, Although the horror part is definitely a big identifier. I tend to always come at things from a
+psychological/emotional angle. So I think all the exploring the themes about, you know, what is it to be
+human? All the existential stuff was more at the top of my focus in terms of my approach than the
+horror per se. And then every now and then I'd come to a gruesome bit. I go, oh yeah, okay, now I get to
+make hideous noises as well. <laugh>
+Helen Gould (03:29):
+<laugh>.
+Katie Seaton (03:30):
+And the nice about sci-fi, sound design and music is that because you are creating a lot from scratch, you
+get this blank canvas from which you get to start to draw out the atmosphere and the characters in the
+very sonic qualities that you are creating and the space that you are putting people in. And a certain
+amount of it can just come from your imagination. And so you can allow that to reflect the mood and
+the themes from get-go and then draw on that for music as well, which is what I love to do. And it's a
 
-[Intro Theme]
-ANNOUNCER
-Rusty Quill Presents: The Magnus
-Protocol.
-Episode Thirty – Dead End Job
-[Music]
-1. INT. TRAIN CARRIAGE – NIGHT, THUNDERSTORM (SAM’S
-PHONE)
-SAM and CELIA sit in the quiet train as it rumbles through the
-night. Sam’s phone buzzes. He checks it, sighs, and rejects the
-call, leaving it on the table. He sounds ill.
-CELIA
-You can’t ignore her forever.
-SAM
-I just don’t know what to say to her. I
-was kind of hoping she wouldn’t
-check her voicemail for another few
-hours.
-CELIA
-You really think she’s that upset?
-SAM
-Five calls in seven minutes, and a
-bunch of messages.
-CELIA
-What does she say?
-SAM
-Dunno. Can’t quite bring myself to
-check just yet.
+OTCW 08 - Behind The Scenes (Completed 01/10/24)
+Transcript by Rev.com
 
-[2]
+Page 2 of 17
 
-©Rusty Quill 2023
+very organic process. So I enjoyed that. And the scripts also were very rich in interesting detail about
+what this place looked like and what it might feel like to be there. So that was quite easy, you know, I
+had a good blueprint as well. So yeah, it's, it's been a lot of work. It's been intensive, but at no point
+have I ever felt sort of like I'm working in a vacuum or like, I didn't know what to do next. So yeah, it's
+been positive too. Lovely.
+Helen Gould (04:21):
+While we're on that topic, so I've only listened to the first two episodes, but we're gonna spoil the whole
+thing <laugh>. That's totally fine. There's a lot of percussion in like, the transitional bits of music
+between scenes. Like there's like sort of a bing bing bong and a <laugh> and like a a a th kind of noise.
+Yeah. It's, it's just an interesting and like weird tinkling sounds and I was wondering whether that was a
+deliberate choice that you made.
+Maxamillian John (04:45):
+Can I?
+Helen Gould (04:45):
+Max? Please do Chime in. No, go for it.
+Maxamillian John (04:47):
+I remember this, this was the first conversation I had with Elizabeth Moffatt about it. When we were
+first talking about the show and then she wanted to know what my thoughts were about what we
+should do with the sound design. And I had one idea, <laugh>, I had this one idea that what I wanted
+was the mechanics of the space station or the clunky bits to go through into the music for the sound
+effects of her music to kind of blend together. Yeah. And I thought, for all the world, she's not gonna go
+for it. So I, I pitched it high thinking she'll, she'll talk me back, she'll talk me back to something more
+reasonable, something that's less work for a sound designer. And she just said, yeah, that sounds great.
+Yeah.
+Helen Gould (05:26):
+Yeah. You don't know Liz <laugh>. Yeah,
+Jonathan Sims (05:28):
+Liz. Liz will always rise to a challenge.
+Katie Seaton (05:31):
+<laugh>. Yeah. Also, that's literally my jam. I mean she, she knew I was on it too.
+Maxamillian John (05:35):
+I think that's why. Yeah. Because she knew that Katie was gonna come in and nail it and I thought I was
+asking for something ridiculously ambitious, which I, I think it is. I think Katie, for anybody else that is
+really ambitious. But yeah, that was the single idea I had and it turns out everyone was already on that
+page already. That's
+Katie Seaton (05:55):
 
-CELIA
-Alice means well, but she doesn’t
-really understand.
-SAM
-I don’t know. Maybe she’s right.
-CELIA
-What?
-SAM
-When I started at the O.I.A.R. she
-told me not to let it get to me. Now
-look at me.
-CELIA
-You were attacked.
-SAM
-Yeah by something I released.
-Because I let stuff get to me.
-Because I got curious.
-Beat. Sam grunts and rubs his face.
-SAM(CONT’D)
-My head is killing me.
-CELIA
-I’m not surprised. When I saw you
-lying out there, I thought… Well
-Yeah. Headache makes sense.
-She gets some painkillers from her bag and hands them to him.
-CELIA
-Here. You need water?
-SAM
-Nah.
-He dry-swallows them.
-[3]
+OTCW 08 - Behind The Scenes (Completed 01/10/24)
+Transcript by Rev.com
 
-©Rusty Quill 2023
+Page 3 of 17
 
-CELIA
-(smiling)
-Ooh, tough guy.
-Sam gives a weak laugh that turns into a coughing fit.
-CELIA
-You’re lucky we didn’t need to run to
-catch the last Oxford train.
-SAM
-Or unlucky.
-CELIA
-Second thoughts?
-SAM
-I don’t know. It’s just starting to feel
-kind of faraway now. I was so certain
-we had to get to the Hilltop Centre
-a.s.a.p but now…
-He makes a non-committal noise.
-CELIA
-Well, I don’t think there’s another
-train back till tomorrow morning so
-we may as well do a bit of snooping.
-SAM
-I know. Just wish I could focus
-properly.
-They sit in silence for a bit. The storm is quietening.
-CELIA
-Rains easing off at least.
-SAM
-That’s good.
-Beat.
-[4]
+Great. Yeah. I really like sort of said this in another place. If any of those people are listening, they're
+getting to know that I'm copying myself here. Um, <laugh>. But I really like the space in between sound
+and music and at what level the consciousness sits in between the two and what you can do with that in
+terms of sort of, somebody said triangulating where the narrative is drawing you to. It always seems to
+me like when the music rises at sand, it's like one of those ghosts that comes outta the ground and sort
+of manifests, you know, <laugh> from people's feelings,
+Jonathan Sims (06:24):
+Which is something that works so well in Sci-fi as well, which is already about that overlap between
+character psychology and sort of, you know, technology. And I think it really works for the, for the genre
+as well.
+Sasha Sienna (06:39):
+Mm. Yeah. I think, um, with Sci-fi horror particularly because this is a very conceptual sci-fi as well, it's
+very existential and
+Jonathan Sims (06:49):
+The word you're looking for is pretentious <laugh>
+All (06:51):
+<laugh>
+Sasha Sienna (06:52):
+Intellectual <laugh>. Yeah. Because it's a very conceptual sci-fi in its idea. I think for both myself and
+Johnny, we think that sci-fi is best when it feels grounded. Mm. And also because this was a horror, it
+really does need to feel visceral and it needs to feel physical. Mm. And I think that a danger with sci-fi,
+particularly sci-fi set in a space station, in the kind of oblivion of space, it can feel weightless, it can feel
+like you're in that weightless well space. And it was really important that this particular show didn't feel
+like that, which is why it was so great, I think to work with Rusty Quill and the people that we've got on
+the team. Because one thing that I think you always get from a Rusty Quill show is incredibly physical
+sound design. And it has meant that the Space Station feels incredibly atmospheric and incredibly real
+and visceral, which is just really important for this kind of sci-fi show. Yeah.
+Jonathan Sims (07:51):
+It's a bit of a cliche, but it's like, oh yeah, the Space Station is really the seventh character,
+Katie Seaton (07:56):
+<laugh> <laugh>, someone had to say it
+Sasha Sienna (07:59):
+<laugh>.
+Helen Gould (08:00):
+Yeah. There was a very particular sound to all the horrible slime that they kept finding <laugh>.
 
-©Rusty Quill 2023
+OTCW 08 - Behind The Scenes (Completed 01/10/24)
+Transcript by Rev.com
 
-SAM (CONT’D)
-Thanks Celia.
-CELIA
-For what?
-SAM
-For coming with me. You didn’t have
-to.
-CELIA
-It sounded like you’d have gone
-anyway. At least this way I can make
-sure it all goes to plan.
-SAM
-(small laugh)
-There’s a plan?
-CELIA
-Besides, you’re not the only one
-who’s curious.
-Beat.
-SAM
-Well, I still appreciate it.
-CELIA
-Anyway, what if you were right?
-When you said we had to go now or
-something terrible would happen?
-You’d just had a weird monster in
-your brain, maybe it was the truth.
-SAM
-Christ, I hope not. I do not feel up to
-an apocalyptic conflict right now.
+Page 4 of 17
 
-[5]
+Jonathan Sims (08:06):
+Ah, slime.
+Maxamillian John (08:07):
+Well on that point, if the Space Station is the seventh character, the Whistlers are the eighth. Right.
+Helen Gould (08:12):
+Oh, Alright
+Maxamillian John (08:12):
+Then. And Katie's work with the Whistlers was amazing. Mm-Hmm.
+Katie Seaton (08:15):
+Yeah. But about our character number eight to 7,000 really, aren't they <laugh>? Yeah. Yeah. Yeah.
+That's really interesting what you say about Sci-Fi though I always thought of it up until now as being a
+way of looking at what people are like by putting a different filter on them.
+Sasha Sienna (08:29):
+Oh, I think it is that as well. Yeah. I was just,
+Katie Seaton (08:31):
+'cause now I think of it almost in a more sort of first person way than I had been before. That makes
+sense. A little bit more kind of up close and looking at the, the grains of the personality. And it's also
+interesting what you say about this organic sounds. So just come back to stand for a sec, because the
+space station, I really wanted not to create with a synth so clearly, like I was sort of somehow
+telepathically absorbing <laugh> your energy there. So I, I did actually create it all with organic sound
+that I recorded like flexing perspex and I've got a big lino roll, you know, like the enormous bug rolls
+Yeah. That you wrap carpet
+Sasha Sienna (09:03):
+Round. Oh yeah, yeah.
+Katie Seaton (09:04):
+One of them like, it's huge. And I was sort of breathing down it to find the resonant frequency, which I
+then sang. And recorded that. And that made a surprisingly awesome noise. So that became that sort of
+thrumming that you hear, um, quite a lot of the way through.
+Maxamillian John (09:18):
+Wow, that's amazing.
+Jonathan Sims (09:20):
+I never thought I'd say it, but it wasn't the right time for a synth
+Katie Seaton (09:25):
 
-©Rusty Quill 2023
+OTCW 08 - Behind The Scenes (Completed 01/10/24)
+Transcript by Rev.com
 
-CELIA
-Hopefully the painkillers should be
-kicking in soon. Rest up. We’re safe
-here.
+Page 5 of 17
 
-2. INT. PADDINGTON STATION – NIGHT, THUNDERSTORM
-(ALICE’S PHONE)
-ALICE is frantically listening to her phone ring out.
-ALICE
-(to self)
-Come on Sam, you goddamned- Pick
-up pick up pick up.
-There’s a beep as the call is rejected.
-ALICE
-(shouting at phone)
-It’s following you, you stupid-!
-The TICKET OFFICER comes over, clearly irritated by her
-outburst.
-TICKET OFFICER
-Excuse me miss, I’m going to have
-to ask you to reign it in.
-ALICE
-(not sorry)
-Sorry.
-TICKET OFFICER
-I don’t want to have to ask you to
-leave.
-ALICE
-Ok, alright, I get it.
-She takes a moment to compose herself.
-[6]
+<laugh> <laugh>. There are electronic elements just so that we don't sound completely like I'm flexing
+perspec, but it's, yeah. I wanted to be grounded in organic sound, so Yeah. There you go. Visceral.
+Helen Gould (09:36):
+Speaking of viscera, the Whistlers <laugh>, tell me more about them. Tell me about the sort of monster
+design in like audio only formats. Like how did that go? Like where did the idea for the Whistlers come
+from as well?
+Sasha Sienna (09:49):
+Well I think when we were writing the scripts, Johnny and I very much wanted to create something that
+was A very, very alien and B, very much not a person. Mm-Hmm. Because we only have seven episodes
+and I know that given a chance, both Johnny and I will absolutely complicate a situation and humanize
+our villains <laugh>. We really wanted to make sure that we didn't have a chance to do that. So the two
+things we wanted to do were make them terrifying, predatory and animalistic and be alien so that it was
+very clear that these were monsters. And honestly we hadn't thought that much about the specifics of
+the sound until we were in our first meeting with Max and then Max and Elizabeth were like, so what do
+they sound like <laugh>? And I think we both came up with exactly the same thing off the cuff.
+Jonathan Sims (10:39):
+Yeah. So I think we were both drawing very much from, I I think the sort of, you know, the Xenomorph
+alien is obviously the easy pull for this sort of sci-fi horror, but it is also to hand for a reason because it is
+such an effective creature in terms of this is not something that you recognize. I mean now it obviously
+is, but it is one that works primarily in the visual medium. The monsters in Attack the block are also
+really good in this way that they are so visual with like the way that their mouths work. So trying to think
+of that in terms of audio and be like, okay, so here's, here's how you make something look alien. How do
+you make something sound alien? And so like whistles and clicks and the sound of their movement was,
+was very important to us. And like, I'll be honest, it was one of those writing bits where you very much
+write it down and then cast it towards the director and sound designer and uh, be like, good luck
+<laugh>,
+Maxamillian John (11:41):
+We did have the idea that we wanted to identify every time they whistled in the script. Right. What
+were they actually communicating? I remember us talking about that Katie. Mm-Hmm. <affirmative>
+trying to work out for, for every instance what is being said and can we make the whistles sort of a form
+of communication with the listener as well?
+Katie Seaton (11:59):
+Mm-Hmm. Yes, I remember saying that. And at the time going, yeah, yeah, I can do that <laugh> and
+think to do it every time there was a new whistle, like, oh crap. I, going back to what, um, I think Sasha
+was saying it's really funny to me that even though you went to such lengths to have an unambiguous
+enemy, <laugh>, you still had Luna go off to try and make friends with them.
+Maxamillian John (12:21):
+<laugh>, I was gonna say.
+Jonathan Sims (12:22):
 
-©Rusty Quill 2023
+OTCW 08 - Behind The Scenes (Completed 01/10/24)
+Transcript by Rev.com
 
-The ticket officer seems satisfied, for now. They start moving
-off.
-ALICE (CONT’D)
-(suddenly)
-Wait, where’s the ticket office?
-TICKET OFFICER
-Closed for the night. Machine’s over
-there.
-ALICE
-Are there any more trains going to
-Oxford tonight?
-TICKET OFFICERS
-Check the board.
-ALICE
-(vicious)
-I know I can check the bloody board I
-just thought you might be, I don’t
-know, useful?
-Beat.
-TICKET OFFICER
-(not paid enough for this)
-You have a good night, miss.
-Alice hurries over to a ticket machine and starts using it in a
-rush.
-ALICE (CONT’D)
-(to self)
-Right. O… X… Oxford, One. Adult.
-No railcard. God, I don’t know,
-“Anytime day return?”
-Beat.
-ALICE (CONT’D)
-How much?
-[7]
+Page 6 of 17
 
-©Rusty Quill 2023
+Yeah. Oh yeah. No, it was very important to us that they were inhuman but not unintelligent. It's the old
+Star Trek, you know, it's life but not as we know it, but in a horror context rather than a like exploration
+sort of context.
+Sasha Sienna (12:39):
+I think as well, because so many really great sci-fi works that I love, like a real theme of it is encountering
+these other forms of life and how they deal with that to me is either assuming that those forms of life
+are a threat or lesser or they are actually exploring whether there is a common link here. And my
+favorites tend to be the ones that explore whether there's a common link there. And we wanted very
+much to kind of not shut that down <laugh>, but we don't have time to tell that story and the story that
+we're actually telling. So we wanted to make it clear that this was not a kind of life form where you're
+gonna be able to find common ground, but we also didn't want to create our characters such that they
+would just immediately go to fight.
+Jonathan Sims (13:24):
+Yeah. We wanted it to be clear that like the whistlers see humans not as people in the same way. Like
+that there is, there is this sort of two way, like the whistlers can't really comprehend humans as anything
+other than like food essentially, or like animals in the same way that our characters can't easily
+comprehend the whistlers as anything other than this, this threat.
+Maxamillian John (13:48):
+Yeah. You talk about sort of shutting down that interpretation or, or that avenue Sasha, but I feel like
+you guys did such a good job of keeping everything in play at the same time. As soon as you know, we're
+able to I guess project an element of society onto the aliens, it becomes impossible not to humanize 'em
+to a certain extent to think of them as being people. And then when you do that to Luna their potential
+friends Right. And to Mira they are potentially enemy combatants and they're both making the same
+fundamental mistake and the the real situation is something in between is that, that to even think of
+them as human is wrong, but it's, I like that for them it is unavoidable because empathy is kind of at the
+core of people and especially these characters who have so few other people to empathize with, that
+they're kind of projecting just for the sake of having more community around them, even if it is uh,
+antagonistic loneliness.
+Jonathan Sims (14:46):
+Absolutely.
+Maxamillian John (14:46):
+So, I dunno, I think you guys did such a good job of keeping everything on the table. Oh,
+Sasha Sienna (14:51):
+Thank you <laugh>.
+Helen Gould (14:52):
+Lovely. Thank you all for that. Since we've started talking a bit about the characters and their reactions
+to the Whistlers, do any of you have a favorite character or one that you relate to more than the others?
 
-Alice’s phone starts to ring. She looks and sees COLIN is
-calling.
-ALICE (CONT’D)
-Christ, now? Seriously?
-She answers. Colin sounds scared.
-COLIN
-(phone)
-A-Alice?
-ALICE
-(irritated)
-Yeah, Colin, I’m here.
-Alice continues pressing the touchscreen, confirming the
-tickets.
-COLIN
-(phone)
-Are you in the office at the moment?
-ALICE
-Uh, no. Why?
-The machine gives a disapproving beep.
-ALICE
-(muttering)
-For god’s sake…
-She puts her card into the machine and starts to enter her PIN.
-COLIN
-(phone)
-I-I need your help.
-I’m, uh, I’m in trouble.
-ALICE
-Like, right now? I’m not really- I’m
-kind of in the middle of something…
-[8]
+OTCW 08 - Behind The Scenes (Completed 01/10/24)
+Transcript by Rev.com
 
-©Rusty Quill 2023
+Page 7 of 17
 
-COLIN
-(phone)
-I messed up, Alice. Freddy’s… I
-messed up.
-Alice takes her card out and the machine prints her tickets.
-ALICE
-(harassed)
-Okay, I’ll come round first thing
-tomorrow okay, and then we canyou can tell me what you think is
-going on with Freddy then, yeah?
-Beat.
-ALICE (CONT.)
-Colin?
-COLIN
-(phone, resigned)
-Yeah, sure. Sorry to bother you.
-Goodbye, Alice.
-ALICE
-Colin? Listen, I’ll be there as soon
-asColin hangs up. Alice stands torn between the last train and
-Colin.
-ALICE (CONT’D)
-Ah crap...
-3. INT. OIAR OFFICES – NIGHT, THUNDERSTORM (COMPUTER)
-GWEN sits alone in the office typing. She takes a moment and
-sighs. LENA returns to the office and approaches.
-GWEN
-(wary)
-Lena…?
-[9]
+Jonathan Sims (15:03):
+I mean, I really enjoyed writing Anya because I love an angry messed up sort of veteran character who's
+gone a bit weird.
+Katie Seaton (15:11):
+Yeah. Eccentric and poignant is a wonderful combination. <laugh>
+Sasha Sienna (15:16):
+I found myself not so much, it's not so much that I'd like relate to specific characters as that I would
+really like the, like the dichotomy between two characters. I like the contrast between Mira and Levi and
+in a way they're both kind of the leaders or intended to be leaders, but in such different ways. And then
+as I was writing it as well, I found that I really liked the kind of the dichotomy between, or the
+juxtaposition between Mira and Luna. I thought that those two really played well together in that
+they're very, very different people, but I think that they have quite a similar core and that they're going
+in the same direction.
+Maxamillian John (15:56):
+Yeah. Levi and Mira are such parent characters threatening to turn the car around <laugh> at any point,
+you know, and they, I think because of of that fact and because they both have such clear sort of
+ideological standpoints that are really based in their emotional core. For that reason, I really empathize
+with Zach just stuck in the middle of it. <laugh>.
+Sasha Sienna (16:20):
+Oh Yeah. I do love Zach actually. Just
+Maxamillian John (16:22):
+Trying to get people to stop fighting just, just everyone calm down and try and have a, a normal
+conversation.
+Jonathan Sims (16:27):
+Yeah. And Euan is so good at it. Yeah, absolutely. Nails it.
+Maxamillian John (16:32):
+Yeah man, he's fantastic.
+Katie Seaton (16:33):
+My favorite bit was when he was getting really irritated with Mira <laugh>. I just, I felt it <laugh>, I was
+there with him. <laugh>.
+Helen Gould (16:41):
+Yeah, definitely big shout out to all the Actors
+Maxamillian John (16:43):
 
-©Rusty Quill 2023
+OTCW 08 - Behind The Scenes (Completed 01/10/24)
+Transcript by Rev.com
 
-LENA
-I’ve just had a call from Trevor
-Herbert MP.
-GWEN
-(coiled)
-Oh. Did he… enjoy his visit?
-LENA
-He certainly found it illuminating.
-GWEN
-I’m glad.
-Icy Pause.
-LENA
-If my job was all that was at stake
-here, I’d probably praise your
-initiative. I have no idea where
-you’ve been digging these files up
-from, but you’ve certainly used them
-effectively, and bluntly...
-GWEN
-I have no ideaLENA
-(continuing regardless)
-But there is much more at play here
-than you know and you are not
-prepared for the scale of
-responsibility about to crash down
-on your shoulders.
-GWEN
-I’m sorry?
-LENA
-No you aren’t. But I think you will be.
-[10]
+Page 8 of 17
 
-©Rusty Quill 2023
+I mean all the characters are so warm in their own ways. Even Mira's Spikiness clearly comes from
+expecting to be in a position where everything is under control. Mm-Hmm. And nothing is under control
+and she's internally panicking, but trying desperately not to look like she's panicking and it all makes
+everything much worse. Yeah. There's so much vulnerability on show with all of them.
+Jonathan Sims (17:06):
+I think we do tend to write quite warm characters in a lot of ways. I think, I think both of us struggle to
+not see the best in the characters we're writing a lot of the time.
+Sasha Sienna (17:16):
+Yeah. I think that's true. I think that we like to see our characters as people, like full people. And so I
+think that we tend to write with an eye to both where their warmth and humanity are, but also where
+their vulnerabilities are. So I think, I think all the characters are warm, but I think they're also all very
+vulnerable in their own way
+Maxamillian John (17:31):
+Yeah. And that's always the hook for the actors, right. Seeing the lines on the page and thinking, well in
+what way does this come from a deep insecurity? Because it always does with all the best writing and
+once they get their teeth into that, everything just flows. And I think you can, you can really hear that
+their performances together.
+Helen Gould (17:50):
+Yeah. I'm with you on that. Like what makes often, what makes a character engaging is their
+vulnerabilities or their flaws. If done well. A character that refuses to have flaws is also very interesting
+as well.
+Maxamillian John (18:04):
+Yeah. Because that is such a flaw that's a refusal to be human.
+Helen Gould (18:09):
+So it sounds like you all had like a really positive and fairly easy experience, but I would like to know, was
+there anything that you found challenging about making the show? Anything that was like difficult to
+imagine or to create?
+Sasha Sienna (18:24):
+I actually found the short length really challenging. I think that it was very ambitious project and I don't
+think that either Johnny or I had ever written something that had to be quite this tight before. So by the
+time we actually had to put the scripts in, I I could not stop fussing with them. I could not stop fiddling
+with them. And by the time we had to put them in, I was like, I, oh, I just, I think we've dropped a couple
+plates, like Max was saying, like, you know, the, we were trying to get the balance right and I was, I think
+that we could have shifted the balance a little more. And I, I don't normally listen to stuff that I've
+written because I hate doing so <laugh>. But, um, I, I did listen to these two episodes, uh, that were
+already out while we're recording this so that we could record this. And I'm so glad that I did actually,
+because I think that the finished product is, is really, really good. I think that everybody has done an
 
-GWEN
-(squaring for a fight)
-Is that a threat?
-LENA
-Goodbye, Gwen.
-Lena moves to leave.
-GWEN
-(thrown, almost
-disappointed)
-What? That’s it?
-LENA
-That’s it. Give the others my regards
-and best of luck. You’re all going to
-need it.
-LENA exits. GWEN sits in stunned silence for a moment. Then
-she starts to laugh in disbelief.
+OTCW 08 - Behind The Scenes (Completed 01/10/24)
+Transcript by Rev.com
 
-4. THE HILLTOP CENTRE EXT. – NIGHT, CLEAR (SAM’S PHONE)
-SAM and CELIA have just emerged from a taxi. Sam closes the
-car door behind them.
-TAXI DRIVER
-You’re sure? There’s not much
-round here…
-SAM
-We’re fine, really.
-TAXI DRIVER
-Fair enough
-CELIA
-Cheers.
-[11]
+Page 9 of 17
 
-©Rusty Quill 2023
+incredible job of, of putting it together and, um, yeah, I think it was tricky, but it was, it was a fulfilling
+challenge. And also I think I learned a lot from the limitations.
+Jonathan Sims (19:25):
+For me, I think my challenge was trying to keep it grounded because it's such a conceptual work in a lot
+of ways. You know, this is our sort of sixties sci-fi writer short story. You use a quote from a classical
+poet as the title <laugh>. And so like the, the very first drafts I think had a lot of quite arch, quite sort of
+sweeping stuff. So like reigning that down and turning it into a, like something grounded in the
+characters I think was something that took a little bit of work.
+Maxamillian John (19:56):
+I mean for me it's, uh, maybe not, not a great answer, but you know, when you are, when you're
+directing anything like this, you're always trying to anticipate the problems that are gonna be coming up
+so you can head them off. The recording sessions were so smooth and they went so fast. I became
+deeply, deeply paranoid <laugh> that we were missing something, you know, April can testify to that. I
+was like pulling her aside and like, is this okay? Like, is this actually okay? Because I was sure like, we
+must be missing something, you know, when everything goes right and you're like, yeah, this is an
+ambush. I've been here before, life has taken me like this before. But yeah, we were just, we were just
+rattling through it. The actors were clicking so neatly and fast that, that I thought we're gonna get to the
+end and realize there's been an awful mistake. We've missed out half of a script. Something has not
+gone right. Um, so I think if there was any challenging bit it was my, uh, yeah, my refusal to actually, you
+know, receive good news and to <laugh> just be a little bit more laid back.
+Helen Gould (21:01):
+I think a lot of us could relate to that. <laugh>, what about you Katie?
+Katie Seaton (21:06):
+I'm gonna say the challenges were technical for me. Uh, my first instinct was to say I need a new
+computer, <laugh> Which is probably the biggest challenge I've been facing. But I don't think there was
+any point where artistically I thought, I dunno what I'm supposed to do here. That wasn't a thing. But
+there were a few times when, you know, there's been some mixing challenges, the constant whistler
+noise sometimes when it's present just gobbles up an awful lot of the attention of the ears. I've spent
+quite a lot of time just fiddling around trying to make that work. Like make making them sound
+sufficiently present to be a threat, but not so present that it oblates everything else or gives everybody
+tinnitus. So that, that's been a thing. And yeah, that's probably the main thing actually has been the
+mixing challenges. It's been quite hard work.
+Helen Gould (21:49):
+I do love the way you talk about audio, Katie, like the idea of, um, <laugh>, what - I've literally forgotten
+exactly what words you used, but the idea of the whistlers being two present In an audio mix. Love that.
+Jonathan Sims (22:01):
+I mean, you only have so much ear,
+Katie Seaton (22:02):
 
-The taxi drives off, leaving them alone in the empty urban night.
-CELIA
-So I’m guessing that’s it then.
-Beat.
-CELIA (CONT’D)
-You alright?
-SAM
-Just checking for tape recorders.
-CELIA
-Look, even if it was on the train,
-which we can’t be sure of, there’s no
-way it could have beaten us here. I
-mean, how many eyes did you say it
-had?
-SAM
-Plenty.
-CELIA
-Then yeah, I doubt it’s getting a lift.
-So we’re okay for now at least. Come
-on.
-They start walking.
-SAM
-What unit did you say it was?
-CELIA
-Seventeen, according to Helen’s
-records, but it doesn’t say if there
-was a shop there or anything.
-SAM
-So how do we know which unit is
-which? Most don’t even have signs
-left…
-[12]
+OTCW 08 - Behind The Scenes (Completed 01/10/24)
+Transcript by Rev.com
 
-©Rusty Quill 2023
+Page 10 of 17
 
-Celia takes a moment, breathes in and centers herself.
-CELIA
-This way.
-SAM
-You’re sure?
-CELIA
-Call it a hunch.
-Sam is unconvinced but follows her anyway. The center is
-mostly derelict and utterly abandoned at this time at night.
-Sam begins to hum nervously to himself.
-Pause.
-CELIA
-Sam?
-SAM
-Hm? Oh, sorry. This place is just
-making me a bit nervous you know?
-CELIA
-(distracted)
-Mhmm.
-SAM
-I don’t think it’s actually, like,
-properly abandoned. Some of the
-shops look in decent nick…
-CELIA
-Maps does still list a bunch of
-businesses here, but no websites or
-opening times or anything.
-They walk on.
+Right?
+Helen Gould (22:03):
+<laugh>. It's true. The ear is a finite resource.
+Katie Seaton (22:07):
+That's quite a good way to put it. Yeah. <laugh> like a sort of a vessel that you can fill and when you
+have filled the ear vessel <laugh>, You need to take Something outta it. You can put something else Into
+it. <laugh>.
+Helen Gould (22:16):
+So we've talked about the challenges and what you found difficult. Do any of you have a favorite part of
+sort of the final product, the episodes that are now Out?
+Sasha Sienna (22:26):
+Yeah, I think because it was a really short series, the limitations mean that it's really tight. Mm-Hmm.
+<affirmative> <laugh>. Like, I think genuinely, I think that the thing that I found the most challenging is
+probably actually my favorite thing about listening, listening to it. But also I think that Max, what you
+were saying with the characters all being really warm, I think that the actors and the performances all
+have such a warm quality to them. Yeah. And there's also, the space station is so atmospheric in the way
+that it sounds, it feels so present and so big and so close and so real. It's, it's really lovely. Really
+wonderful.
+Jonathan Sims (23:04):
+I like how the monsters sound
+All (23:06):
+<laugh> <laugh>.
+Katie Seaton (23:07):
+Yeah. The movement of them was quite complex. I cracked my knuckles a lot in front of microphones
+<laugh>. Layered, like there, I think there were about 20 layers because I, I, I looked at sort of the gate of
+a horse. 'cause she said it was a four-legged creature, so like how four-legged creatures walk. And I tried
+to make them kind of crackle up and down with each leg movement. And then I had to simplify it
+because that was a bit convoluted, but I was doing lots of things with details. Like I was getting, um, TLS
+and like pinging the specky bits to try and get that kind of, those little sort of pokes in the ear, you know,
+the, the sit on top and stuff like that. Um, so yeah, there's a lot of texture in that. So it was fun. It was
+fun to do. And the whistles themselves were me singing actually.
+Maxamillian John (23:46):
+No Way
+Katie Seaton (23:46):
+Yeah.
 
-[13]
+OTCW 08 - Behind The Scenes (Completed 01/10/24)
+Transcript by Rev.com
 
-©Rusty Quill 2023
+Page 11 of 17
 
-SAM
-I can see why… Like, that can’t be a
-real dentist right?
-CELIA
-“We want your teeth!”
-SAM
-Yeah. That’s not normal.
-CELIA
-I think it’s normal for here.
-Beat.
-SAM
-Maybe we should come back in the
-daytime…
-CELIA
-What happened to stopping that
-“Archivist”?
-SAM
-Yeah wellThere is a gentle knocking from inside a nearby shop.
-SAM CONT.
-(nervous)
-Uuuhhhh…
-CELIA
-(ready)
-Shhhh.
-Beat. The knocking repeats.
-SAM
-(hushed)
-I think it’s coming from that old
-appliance store...
-[14]
+Sasha Sienna (23:47):
+Yeah. I thought they sounded very musical, you know, very like, well harmonic I suppose. 'cause they're,
+they're harmonizing, but yeah, they're really good.
+Katie Seaton (23:54):
+Yeah. Again, that was quite a hard balance because they needed to be musical enough that there was a
+sense that there was some language happening between them. And they needed to sort of have that
+quality that it is actually an animal. It's not a electronic sound, but they need to be weird enough as well
+to be alien. So I found that I sung a really, really high note and pulled it into a, a digital sync called
+Omnisphere, where you can do loads of, I'm trying to think of the technical word [beep]ing stuff up.
+<laugh>, it's not coming to - modulation. That's it. Um, <laugh>. So yeah, I, I kind of layered various
+instances of it on top of each other and like detune them slightly. This particular program has got a thing
+it does called inner space, I think, where you can take different sounds and you sort of combine them
+with your original sound to make something completely different. So there was one called like, I think it
+was like hyper hairbrush or something, I don't know. But you know, I, I fussed with that for ages
+<laugh>. Uh, yeah. That was how I did it. So always a tight road walking between sort of it feeling like it's
+coming from creature, not a computer. Um, but it feeling weird enough as well. Scary enough.
+Maxamillian John (24:59):
+That's incredible. <laugh>, I'm so impressed. I think for me having an overview of this whole thing and
+because I'm just an old softie in the end. What I really love about final episodes is being able to hear all
+the work that each individual person has put in to this. Being able to hear all the sound design and every
+actor, you know, I had a conversation with them beforehand about their character, about what they
+thought and trying to, you know, develop their approach to it. And then with the actors, we had a, a big
+group chat before we even started and they put all of them so much thought into each of their
+characters. They turned up with ideas, lots and lots of ideas about their backstory and, and who these
+people were. And you know, what they were hiding either from each other or all of themselves. It was
+incredible. And I think being able to listen to the episodes and hear all of that represented in the final
+product really makes me very proud. That's the best part of all of this always is, uh, going to work with
+lots and lots of talented people.
+Katie Seaton (26:06):
+Yeah, it's lovely, isn't it? Because I think in particular with audio drama, like it is truly collaborative. Like
+there are sort of pillars, you know, the, the writing, the acting and the post-production artist book and
+any one of which not there, it would, it would fall down, you know? It is, yeah. There's, it cannot be
+done in isolation. Any bit of it that, that's, that's what makes it rich and stuff.
+Jonathan Sims (26:28):
+And from the writing point of view, it's always so rewarding to see what you've just sort of put on a page
+just coming to life.
+Sasha Sienna (26:35):
+Yeah. It's one of my favorite things about writing scripts is that it's a collaborative form of writing. Yeah.
+Basically I just get to do all the bits that I like and then go all, everybody just sort this out. <laugh>, make
+it good. Cheers.
 
-©Rusty Quill 2023
+OTCW 08 - Behind The Scenes (Completed 01/10/24)
+Transcript by Rev.com
 
-CELIA
-Then it’s not unit seventeen.
-(moving on)
-Ignore it.
-SAM
-But it looks like it’s open…
-CELIA
-Yes it is, and it’s probably coming
-from inside a washing machine, or a
-fridge, or something else with a
-suspicious door and we both know
-what happens if we open it.
-SAM
-(Following)
-Yeah… I really wish my job wasn’t to
-just learn about all the horrible
-things that can happen to you in a
-place like this.
-CELIA
-Try to think of it as preparation. Now,
-I’m guessing that it’s just around
-thisThey turn a corner and walk straight into the CUSTODIAN.
-CUSTODIAN
-Hey!
-SAM
-Argh!
-CELIA shoves him back on instinct.
-CUSTODIAN
-(tumbling backwards)
-Argh!
+Page 12 of 17
 
-[15]
+Helen Gould (26:47):
+<laugh> sort this out and make it good.
+Sasha Sienna (26:50):
+No, but it's, it's genuinely, it, it feels so special to have everybody contributing and I think it, it really
+does make the finished products more than the sum of its parts.
+Helen Gould (27:00):
+Oh, you are all so wholesome. <laugh>. Oh, I've missed this. Yeah.
+Katie Seaton (27:05):
+Can I say my favorite bit? Oh
+Helen Gould (27:07):
+Yes. I
+Katie Seaton (27:07):
+Didn't realize you, I just went off on a long ramble about whistles didn't I? Instead
+Helen Gould (27:11):
+<laugh> <laugh>.
+Katie Seaton (27:12):
+I like the Cold unconcern of the Space station and how it's listening to them all the time. I like how it
+opens with that. And then, you know, the spell is broken and it's kind of watching and listening and it
+kind of doesn't give, give a shit as far as I can tell. That Motif comes back again and again, my favorite
+time is at the opening of episode six when we hear the end of episode five. But from within the bridge, I
+have to say, I, I extended the flashback back a little bit 'cause I wanted a little bit more of that. I really
+wanted to just be sitting there You know, just really indifferent to the whole thing and hear the, the
+drama approaching. But hear the bridge first, especially after the, um, fossilized recording that we hear
+before that as well.
+(27:54):
+So that's my favorite bit. But then it ends, the whole series ends with that motif as well. And it's the last
+thing we hear too. And you get sort of the impression that people may come and go and the Space
+Station doesn't give a shit and there's, I dunno, there's something about that which I just, I just really
+enjoy. And I also like how it emerges over, like, I wrote the music to sound a little bit like a cradle or
+possibly a pendulum of death <laugh>. And almost like they, you know, these are babies coming outta
+their cots <laugh>, You know, To make it even more vulnerable sounding
+Jonathan Sims (28:21):
+<laugh>. Yeah. I think it is so important in sci-fi especially to get that sense of that sense of coldness
+from the universe. That sense of like, and because the Space Station is the universe from the point of
+view of this series, like I think you did a fantastic job
 
-©Rusty Quill 2023
+OTCW 08 - Behind The Scenes (Completed 01/10/24)
+Transcript by Rev.com
 
-The mutual shock fades as they realise the CUSTODIAN seems
-normal enough.
-CUSTODIAN
-Christ, what was that for?
-CELIA
-Sorry, it was a reflex.
-CUSTODIAN
-That’s one hell of a reflex.
-SAM
-Here let me help.
-CUSTODIAN
-(standing with Sam’s help)
-What the hell are you two doing
-sneaking around here at this time of
-night?
-CELIA
-We could ask you the same
-question.
-CUSTODIAN
-I work here.
-SAM
-Sorry, you work here?
-CUSTODIAN
-Yeah. I clean up, make sure
-everything stays locked up.
-SAM
-Like the one with all the banging?
-CUSTODIAN
-Ah, crap. Which one was it?
-SAM
-Uh… Gray’s Appliances?
-[16]
+Page 13 of 17
 
-©Rusty Quill 2023
+Helen Gould (28:38):
+<laugh>, but you got pendulum of death?
+Katie Seaton (28:41):
+Yeah. My pendulum of death. <laugh>
+Jonathan Sims (28:43):
+<laugh>. Yeah. Helen, you know, the pendulum of Death.
+Katie Seaton (28:46):
+<laugh>, I've got pendulum of death. This is where you, I've been absorbed in this intensely for six or
+seven weeks and nobody else knows. My little shorthand do they <laugh> and I've forgotten this
+<laugh>.
+Helen Gould (28:57):
+No, I love it
+Katie Seaton (28:58):
+Yeah. It's in the theme. There's a kind of modulated piano, which sort of has the sort of backwards and
+forwards tick almost, which is the same tune as the, as the whistlers tune. But I deliberately put it at 60
+beats per minute. So it was actually like a secondhand like counting the seconds to the death of time or
+whatever. Um, 'cause I, I wanted to have that sort of, that kind of shining but also cold feeling. So that's
+my pendulum of death.
+Helen Gould (29:23):
+Katie, you're so clever.
+Katie Seaton (29:24):
+I thank you. Um, I get yes, I get, I get
+Helen Gould (29:27):
+Yes. Acept The compliment. Yes.
+Katie Seaton (29:29):
+Thank you. Thank you. I I I was going overthinker I think.
+Helen Gould (29:33):
+<laugh> <laugh>. Alright, we're coming up to the end of the episode. So I've got one quick fun question
+to end on and that question is, would you leave or stay on the Osmandias?
+Jonathan Sims (29:49):
+I mean, I'm a bit of a homebody so I'm, I'm probably, I'm probably hanging around. I'm not, I'm not
+launching myself out into the great unknown. No, thank you. <laugh>.
 
-CUSTODIAN
-Right, I’d better go lock it back up
-before… well… Look, you two need
-to leave. It’s not safe here, the lights
-have mostly gone and the uh… the
-structure is weak soCELIA
-It’s alright, you can just say it’s
-haunted.
-Beat. The CUSTODIAN sizes them up.
-CUSTODIAN
-(relieved)
-Ok, yeah. This place is haunted, like
-ridiculously haunted and dangerous
-with it. I dunno if you’re wannabe
-ghost-hunters or something… but
-trust me, this place isn’t for you
-There is a slight gust of wind and a suspiciously timed scrape of
-rusted metal.
-Beat.
-CUSTODIAN
-You should go.
+OTCW 08 - Behind The Scenes (Completed 01/10/24)
+Transcript by Rev.com
 
-SAM
-Celia…
-CELIA
-We have business in one of the
-units.
-The custodian lets out a long sigh.
-CUSTODIAN
-Fine, just leave me out of it.
-[17]
+Page 14 of 17
 
-©Rusty Quill 2023
-
-CELIA
-If you like.
-CUSTODIAN
-I do. Which unit?
-CELIA
-Seventeen.
-CUSTODIAN
-The old “Outreach Centre”?
-SAM
-Yeah, I think so? For the Magnus
-Institute?
-CUSTODIAN
-If you say so. No-one’s been there in
-decades… Come on, I keep the front
-locked tight, but I can let you in the
-service entrance.
-CELIA
-(suspicious)
-Just like that?
-CUSTODIAN
-You learn to go with the flow here,
-and stay out of the way of whatever
-goes on. I just keep it clean and lock
-up when I can. If you’re stupid
-enough to go poking around… that’s
-on you. I’ve said my piece.
-SAM
-Well that’s not exactly reassuring…
-CUSTODIAN
-No, I don’t imagine it is.
-
-[18]
-
-©Rusty Quill 2023
-
-5. EXT. OXFORD STATION – NIGHT, CLEAR (ALICE’S PHONE)
-ALICE steps onto the pavement, getting her bearings. She spots
-a taxi and heads over. The TAXI DRIVER lowers his window.
-TAXI DRIVER
-Where to?
-ALICE
-Hey, are there any other taxis
-working tonight?
-TAXI DRIVER
-(offended)
-Probably, but I’m the only one here
-so you take it or leave itALICE
-Sorry, no, yeah. It’s just- I’m looking
-for someone.
-TAXI DRIVER
-(skeptical)
+Helen Gould (29:58):
+<laugh>.
+Sasha Sienna (29:59):
+I like to think I would leave, but I, I really don't think that I would, I think that the, the allure of kind of
+creating a home with people that I love would be too much. But I really like to think that I would go.
+Maxamillian John (30:13):
+Yeah. I would stay as well. Oh no.
+Jonathan Sims (30:17):
+Oh no.
+Sasha Sienna (30:18):
+This is terrible.
+Maxamillian John (30:19):
+There's not one of between us, I dunno.
+Jonathan Sims (30:22):
+We're all cowards!
+Katie Seaton (30:23):
+<laugh>. Yeah, I think it's, I dunno, we're all like creative, right? I'm also thinking as long as there's a
+piano, I probably <laugh>.
+Maxamillian John (30:30):
 Right.
-Alice flicks through her phone to a picture of SAM.
-ALICE
-Uhh… This guy, Sam, have you seen
-him tonight?
-TAXI DRIVER
-I can’t tell you that. Client
-confidentiality, you know how it is?
-ALICE
-Fifty quid.
-TAXI DRIVER
-Yeah, I took him and a lady friend
-over to that creepy old shopping
-center up Cowley way. Weird, but I
-don’t judge.
-[19]
+Jonathan Sims (30:32):
+To be fair, you're asking four people who like are all working from home and
+Helen Gould (30:37):
+<laugh>. Yeah.
+Sasha Sienna (30:38):
+If we've got a computer, it's fine. <laugh>.
+Jonathan Sims (30:40):
+We basically live in a handful of rooms anyway.
+Katie Seaton (30:43):
+I think if everybody else left I probably would go though I'm not that much of an introvert.
 
-©Rusty Quill 2023
+OTCW 08 - Behind The Scenes (Completed 01/10/24)
+Transcript by Rev.com
 
-ALICE
-How fast can you get me there?
-TAXI DRIVER
-This time of night? Ten minutes,
-easy.
-ALICE
-Wicked, you’re on.
-TAXI DRIVER
-Look, it’s none of my business but
-I’m not getting involved in any, like,
-crime of passion stuff alright? I don’t
-want to be a witness to anything.
-ALICE
-No, no it’s nothing like that, promise.
-Now can we go?
-TAXI DRIVER
-Sure, after I get the fifty.
-Beat.
-ALICE
-Fair.
-6. EXT. THE HILLTOP CENTRE – NIGHT, CLEAR (TAPE
-RECORDER)
-The Custodian approaches the electronics store where the
-knocking can still be heard. He sighs, irritated, sorting through a
-huge ring of keys.
-CUSTODIAN
-Shut up!
-The knocking stops.
+Page 15 of 17
 
-[20]
+Helen Gould (30:48):
+Yeah. I think I'm the same. I think I would want to be with the people I know and my friends. So I'll just
+be like, wherever you go, I'll just tack along. We'll make it work.
+Sasha Sienna (30:58):
+I think there's the bit where they come to the garden and there's the graves of the people who've been
+before. And I actually think that that's a really beautiful little story that they've had. Yeah. The people
+that we never see Where they, they have made a life for themselves. They've made a little community
+and it didn't last, but it was beautiful while it was there. And that's probably what I would hope for.
+Helen Gould (31:19):
+Well, on that note, <laugh>, thank you all of you for talking about the process of making this series. And
+thank you for like sharing your thoughts and being so insightful. As always. Before we finish, is there
+anything you would like to plug that people should know about?
+Jonathan Sims (31:38):
+So if you are interested in more writing from myself and Sasha, we do tabletop role playing games as
+MacGuffin and Company. So if you go to MacGuffinandcompany.com, you can find some of our work
+there. And personally my stuff, you can find it at jonathan-sims.com.
+Sasha Sienna (31:55):
+You can find my stuff at sashasienna.com. I'll, I'll plug again MacGuffin and Company because I've been
+told that I'm allowed. So check out MacGuffin and company at macguffinandcompany.com. <laugh>.
+Um, am I allowed to plug like stuff I'm doing with other podcasts? I won't. It's enough. That's enough.
+You can find me at sashasienna.com <laugh>. And like Johnny said, you can find McGuffin and Company
+macguffinandcompany.com.
+Helen Gould (32:18):
+How about you Max?
+Maxamillian John (32:19):
+I have nothing to plug and I cannot be found <laugh>, But
+Sasha Sienna (32:22):
+Oh, that's the dream.
+Maxamillian John (32:24):
+Do you know what? I'm really looking forward to hearing the rest of the Neon inkwell shows and I think
+listeners should also watch out for those because I don't know much about them, but I'm sure they're
+gonna be great. <laugh>.
+Helen Gould (32:37):
+Katie, how about you?
 
-©Rusty Quill 2023
+OTCW 08 - Behind The Scenes (Completed 01/10/24)
+Transcript by Rev.com
 
-CUSTODIAN (CONT’D)
-(muttering)
-Just one boring night. Is that so
-much to ask?
-He finds the key he was looking for and pulls down the shutter
-to the electronics store. He gives it a rattle to confirm it’s locked
-before grunting in satisfaction.
-CUSTODIAN (CONT’D)
-Can’t believe I’m still here after all
-these years. Looking after this place
-is as much about what you don’t see
-as what you do. The first time I came
-hereHe coughs, confused by the outburst then the words once start
-spilling out once again.
-CUSTODIAN (CONT’D)
-The first time I came here I knew
-something wasn’t right. I used to
-clean hospitals, and I know what
-dried blood looks likeThe Custodian places his hand over his mouth to stop himself
-from speaking. The ARCHIVIST emerges from the shadows.
-ARCHIVIST
-SPEAK.
-The Custodian struggles against the compulsion.
-CUSTODIAN
--and here it- it was everywhere…
-…everywhere…
-ARCHIVIST
-SPEAK.
+Page 16 of 17
 
-[21]
+Katie Seaton (32:38):
+Oh, I'm sound Designing, composing and audio drive all over the place these days. So I dunno, Google
+me or something. Um, <laugh>. I'm gonna try <laugh>. I'm gonna try and get back onto social media a
+bit actually. 'cause I am actually doing my own project with some of my homies, which will probably, I
+should plug it here because April actually was the one who gave us the name about three years ago, but
+it's really, really hard to say. So I'm gonna try and say it right. First time The Infinite instrumentalist will
+be the name that it goes out on, uh, when we finally start, um, building the website and getting out
+there. So you can look out for that. I guess
+Jonathan Sims (33:10):
+I have such respect for those plugs. I have nothing to plug and I cannot be found and I don't know,
+Google Me.
+All (33:17):
+<laugh>
+Sasha Sienna (33:19):
+I feel like a real chump now. <laugh>
+All (33:21):
+<laugh>.
+Helen Gould (33:23):
+So thank you all for listening. Next up on the neon inkwell feed, you can find inexplicables from Tom
+Critch and Alexander j Newell. You may have heard of him, directed by Maddy Searle and Lead script
+edited by me. Very excited for that to be heard, uh, by all of you. And then after that we have the pit
+Below Paradise coming in March from J Evelyn Gaskell and directed by How it Ends Duo Micah Rodriguez
+and Stephanie Resendes. And we'll catch you later.
 
-©Rusty Quill 2023
+OTCW 08 - Behind The Scenes (Completed 01/10/24)
+Transcript by Rev.com
 
-The dam breaks and the words gush from the CUSTODIAN’s
-mouth.
-
-7. EXT. THE HILL TOP CENTRE – NIGHT, CLEAR (CASE)
-CUSTODIAN
-I didn’t believe it, of course. Didn’t let
-myself recognise it but I still saw it,
-right from the start. In the corners, in
-the cracks. Was it from the victims of
-awful place? Was it mixed into the
-concrete when it was first raised? Or
-do the buildings just bleed? Is this
-place a wound that never fully heals?
-I don’t know, but on hot summer
-nights I can smell it.
-So why take the job? You wouldn’t
-ask me if you could see my payslips
-for these last thirty years.
-Life was bad when I met the owner.
-He smiled so wide, like he was so
-unbelievably pleased to offering me
-such an opportunity.
-I asked about the blood, I couldn’t
-help myself. He just smiled and
-added another ten grand to the
-salary. I didn’t ask any other
-questions. I never even learned his
-name.
-From that moment on it was just the
-three of us: me, the bloodstained
-silent concrete of the Hilltop Centre,
-and the dark.
-In all my time, I have never come
-[22]
-
-©Rusty Quill 2023
-
-during the day. It would break some
-strange unspoken rule. I don’t know
-if anyone has ever come here
-shopping, I don’t know what shops
-are still open. I don’t know if it
-closed down years ago and I’m a just
-another ghost loitering amongst the
-great grey corpse.
-I know that it gets other visitors,
-though. I know because I clean up
-bits of them sometimes. A patch of
-torn-out hair, a half-melted tooth, a
-rotted fingernail torn from the root.
-Never enough to matter to anyone
-else. I try not to see these days.
-I ward people away at night, warn
-them that they shouldn’t be here.
-Usually they listen, but not always. I
-remember the first time someone
-wouldn’t turn away. It was the winter
-of ninety-seven. A man staggered up
-to me, stinking of cheap booze and
-piss. He wanted to buy a lighter. I
-told him to leave, I told him that all
-the shops here were shut. He called
-me a liar.
-Then I noticed the light illuminating
-me from behind. One of the
-shopfronts, a newsagent I’d never
-paid much attention to, was open
-and apparently always had been.
-What’s more, there was a haggard
-yet eager old woman I had never
-seen before stood behind the
-counter. I tried to warn the man but
-he just shoved me out of the way
-and walked inside. I went to clean
-[23]
-
-©Rusty Quill 2023
-
-the far side of the Centre and
-ignored the smell of burnt hair and
-charred meat.
-It wasn’t all death though.
-Sometimes people… arrived. Not
-often, but every now and then you’d
-find some thin, emaciated soul
-wandering around, lost and
-confused. Ambulance would come
-and take them away. Maybe they’re
-fine, but I doubt it.
-I only called the police once. Only
-once. It was the whimpering. There’s
-always noises when you’re cleaning,
-but you lock them up or curse them
-out and they shut up. But this time it
-didn’t. It just kept on going, and
-going, from one of the clothing
-stores near the east exit. Patience, I
-think it was called.
-And this time, I broke the one of the
-unspoken rules, I had a look.
-At first there was nothing, just
-darkness and clothing and
-motionless mannequins. But the
-whimpering still filled the shop. I
-checked the mannequins and it was
-on the third one that I realized what
-was happening: why the outfit was
-so mismatched, why the clothes
-were been pinned in place, why it
-was bleeding, why it was
-whimpering…
-Of course, by the time the police
-finally bothered to turn up there was
-[24]
-
-©Rusty Quill 2023
-
-nothing to show them. The woman
-had been taken when I went out to
-greet them leaving only one more
-bloodstain.
-I got a caution for wasting police
-time. Serves me right.
-The next day I got a call from the
-owner. The second and last time I
-ever heard his voice. He asked me if I
-was still happy working at the Hilltop
-Centre. He asked me if there was
-anything I wanted to know. He asked
-me where my daughter liked to shop.
-I was never curious again. Even
-when I found the owner dead in his
-office, with every blood vessel
-stripped from his body and strung
-around the room in a grim cat’s
-cradle. I just closed the door and
-kept cleaning and the pay slips kept
-coming.
-I try to take time off. Holidays are
-important. If you’re here too long,
-too regular, you start to feel like
-you’re a part of the place. Like it’s
-getting inside you, making you a
-fixture... That’s when I take the
-caravan and get some space.
-Remind myself of the world. Because
-at the end of the day, it’s just a job.
-But I still dream of the Hilltop. In my
-dream, it waits for me, silent, grey
-and eager for my company. Its
-concrete bones are streaked through
-with blood, like rippled ice cream
-[25]
-
-©Rusty Quill 2023
-
-and I reach out for it. It’s soft and
-cold and yielding and then the gritty
-mixture snakes up my arm and
-begins to harden. It pulls me onward,
-scraping off skin and tearing muscle,
-until I finally fall...
-The Custodian falls to the floor as parts of him begin to turn to
-concrete.
-CUSTODIAN (CONT’D)
-It is rough and cold and silent inside.
-The world is locked away and when I
-open my mouth to scream… the cold
-grey pours down my throat… and it
-fills my stomach with stone, fills my
-lungs with gravel and my blood… my
-blood…
-He is almost fully transformed.
-CUSTODIAN (CONT’D)
-We are the hilltop. It is me and I am it
-and we are. We are…
-He is gone.
-8. INT. HILLTOP CENTRE RETAIL UNIT 17 – NIGHT, CLEAR
-(SAM’S PHONE)
-Sam and Celia pick their way through the detritus of the
-abandoned space. Sam flicks a light switch a couple of times.
-SAM
-The lights are gone.
-CELIA
-So use your phone.
-SAM
-Oh yeah.
-[26]
-
-©Rusty Quill 2023
-
-Sam turns on his phone’s torch and makes a noise of
-discomfort.
-CELIA
-Alice?
-SAM
-Seventeen missed calls.
-CELIA
-Yeah. You going to call her back or…
-SAM
-She can wait. Besides I want to look
-around.
-CELIA
-There’s not much to see.
-SAM
-Yeah… They must have completely
-cleared it out.
-CELIA
-If they were ever here in the first
-place.
-Pause. Celia continues picking her way through the building.
-SAM
-Maybe we shouldCELIA
-There it is.
-CELIA begins pulling away some heavy broken shelving
-revealing a door behind it.
-SAM
-You’ve got something?
-CELIA
-Stairs, to the basement.
-[27]
-
-©Rusty Quill 2023
-
-Sam comes over and joins her.
-SAM
-Great spot! Well…
-(dubious)
-After you…
-CELIA
-And they say chivalry’s dead.
-SAM
-Look, last time I went into a
-basement I accidentally released a
-monster so…
-CELIA
-Come on.
-CELIA leads the way down the dark stairway. As they descend
-there is a growing glassy tone and their voices begin to slightly
-distort.
-SAM
-Do you hear that?
-CELIA
-I hear it.
-They enter the basement. The tone is steady and louder now,
-there is also a slight wind, as though they were standing at the
-top of a precipice.
-Pause.
-SAM
-(awestruck)
-Do you see that?
-CELIA
-(quiet)
-Yeah. I see it.
-
-[28]
-
-©Rusty Quill 2023
-
-SAM
-What is it?
-Celia doesn’t respond.
-SAM (CONT.)
-(fascinated)
-Look how it splits the light… like a
-prism… It’s so… /Beautiful…
-CELIA
-(simultaneous)
-/Dangerous.
-Beat.
-SAM
-Celia… do you know what this is?
-CELIA
-Almost.
-Beat.
-SAM
-Wait, what does that mean?
-CELIA
-It’s complicated.
-SAM
-(impatient)
-Then simplify it.
-Beat.
-CELIA
-Sam, listen…
-SAM
-(finally snapping)
-For gods sake, Celia! Enough! Okay?
-I’m sorry but enough! I know you
-[29]
-
-©Rusty Quill 2023
-
-want your privacy but we’re way too
-deep for that now! My head’s killing
-me, I’m staring at god-knows-what
-and there’s some… creature on its
-way to record us to death or
-whatever, so enough! No more
-mysteries, no more cryptic clues and
-weird half-truths, just for once I want
-to know what the hell is actually
-going on!
-Beat.
-CELIA (she sighs)
-It’s a wound in the world. A tear
-between here and… where I came
-from. And it wants me back.
-SAM
-What are you saying?
-CELIA
-It’s unbalanced.
-SAM
-What?
-CELIA
-The institute, alchemy, all of it. It’s all
-about balance. Dua prima, four
-elements, seven planets, it’s all the
-same. You’ve got to keep things
-balanced. And if something is
-missing, if someone is misplaced,
-the equation doesn’t balance… and
-that’s when things get bad…
-SAM
-Bad how?
-
-[30]
-
-©Rusty Quill 2023
-
-CELIA
-(ignoring the question)
-…it keeps pulling me back. Closer
-and closer. It won’t let me stay…
-SAM
-But you don’t want to go back.
-CELIA
-(somber)
-I don’t remember much of how I got
-here. But I know there’s nothing left
-to go back to. Here I have a life. I
-have Jack. He needs me.
-Beat.
-CELIA
-(cont.)
-I have to balance it. For him.
-SAM
-(suspicious)
-What are we doing here Celia?
-Beat.
-SAM CONT.
-(realizing)
-All this digging, the O.I.A.R., The
-Magnus Institute, you just want to
-get me here… to make me trust you
-so that what, you could just use me
-to pay off some kind of cosmic debt?
-CELIA
-It was your idea to come here
-tonight.
-SAM
-Was it?
-[31]
-
-©Rusty Quill 2023
-
-CELIA
-I’m sorry Sam.
-SAM
-So it was all a lie…
-CELIA
-(quietly)
-Not all of it. I really did like you.
-Beat.
-SAM
-So what’s the problem?? We’re here,
-Alice won’t make it in time and I
-know you’re carrying that knife.
-What happens now? You push me?
-Stab me? Or do I need to jump in
-myself? Come on, what’s stopping
-you?
-Beat.
-SAM
-(cont., softer)
-What’s stopping you Celia?
-CELIA
-I… I don’t…
-(her tone changes)
-I don’t- when I first awoke I knew
-nothing, nothing but the dream of
-things that sliced my who from me
-with claws like scalpels…
-She hesitates, fighting the compulsion.
-SAM
-Oh god.
-A tape player switches on and our perspective violently shifts
-into it as THE ARCHIVIST descends the stairs towards them.
-[32]
-
-©Rusty Quill 2023
-
-CELIA
-(still fighting it)
-They would hunt me and toy with
-what it meant to be me peeling away
-my layers first my name, then my
-memory and then…
-SAM
-Get away from her!
-ARCHIVIST
-AT LAST. IT IS MINE.!
-CELIA
-…and then the fearless one reached
-in and grasped me, tore me out,
-leaving my story to fall away like
-autumn leaves…
-SAM
-I said leave her alone!
-He charges the Archivist as it swells. They struggle. As they do
-a sudden burst of wind sweeps through the room accompanied
-by a deafening swell in the glassy tones and then… click.
-9. EXT. THE HILLTOP CENTRE – NIGHT, CLEAR (ALICE’S
-PHONE)
-The taxi pulls over and Alice steps out.
-TAXI DRIVER
-(from inside)
-This is it.
-ALICE
-(hurriedly)
-Cool.
-
-[33]
-
-©Rusty Quill 2023
-
-TAXI DRIVER
-And like I told the others, there’s
-nothing here so if you want me to
-hang aroundALICE is already running towards the Hilltop Centre.
-ALICE
-(calling)
-Sam! Celia!
-It is utterly silent. Alice keeps moving.
-ALICE (CONT’D)
-(calling)
-Celia! Sam! Sam!
-Still nothing. She spots something on the ground.
-ALICE (CONT’D)
-Oh god. Oh god no please...
-She keels beside the concrete remains of THE CUSTODIAN.
-ALICE (CONT’D)
-Sam is thatCUSTODIAN
-(a croaked whisper)
-Rough… and cold… and silent and
-whole… We are the hilltop... We are
-the hilltop... We are…
-Alice starts to back away.
-ALICE
-Nonononono. Not again.
-She gets he her feet and starts running again.
-
-[34]
-
-©Rusty Quill 2023
-
-ALICE (CONT’D)
-Sam! Celia!
-10. INT. MANAGER’S OFFICE – NIGHT, THUNDERSTORM
-(MANAGER’S LANDLINE)
-Gwen is poking around Lena’s office. She opens a draw and
-pulls out a bottle.
-GWEN
-(to herself)
-Lena! You dark horse…
-She pulls out a glass tumbler and unstoppers
-the bottle. It sounds strong, and expensive.
-She pours herself a large measure.
-The phone rings. She hesitates for a moment then hits the
-speakerphone button.
-GWEN
-Uh… This is the O.I.A.R., Bouchard
-speaking.
-TREVOR HERBERT
-(speakerphone)
-Oh hello Gwen, just who I was after.
-GWEN
-(she sits behind the desk
-flustered)
-Oh! that’s uh.. that is to say, what
-can I do for you, minister?
-TREVOR HERBERT
-(speakerphone)
-I’m guessing since it’s you picking
-up that you’ve spoken with Lena
-then?
-[35]
-
-©Rusty Quill 2023
-
-GWEN
-Oh, yes.. She, uh, she left.
-TREVOR HERBERT
-(speakerphone)
-Didn’t make too much of a scene, I
-hope? Difficult business, after all.
-GWEN
-Oh no, not at all.
-TREVOR HERBERT
-(speakerphone)
-Great. In that case, congratulations
-are in order! I’m sure you’ll do a fine
-job.
-Beat.
-GWEN
-I’m sorry?
-TREVOR HERBERT
-(speakerphone)
-I’ll get someone to put the paperwork
-across your desk first thing
-tomorrow and make it official but I’m
-not one to stand on ceremony. As far
-as I’m concerned you’re the
-ringmaster now.
-Pause.
-TREVOR HERBERT(CONT’D)
-(speakerphone)
-Gwen? Are you still there?
-GWEN
-Yes, yes still here! So… What do you
-want- What should I do?
-TREVOR HERBERT
-[36]
-
-©Rusty Quill 2023
-
-(speakerphone)
-Oh, don’t worry about me, I’ll stay
-out of your way, I’ve never been one
-to micromanage. You have my full
-support.
-GWEN
-Right.
-TREVOR HERBERT
-(speakerphone)
-Anyway, I won’t keep you.
-Congratulations again and, er, best
-of luck!
-TREVOR hangs up. Gwen stands there silent and unsure.
-GWEN
-Huh…
-11. INT. UNIT 17 BASEMENT – NIGHT, CLEAR (CELIA’S PHONE)
-Celia is collapsed on the floor. There is no other sound save for
-the tones of the rift and even that sounds quieter, more
-balanced.
-A door opens upstairs.
-ALICE
-(distant)
-Sam? Celia?
-Celia rouses slightly.
-CELIA
-Alice?
-(calling)
-Alice! Down here!
-Alice moves through the upstairs and quickly finds the staircase
-door and heads down it while Celia raises herself.
-[37]
-
-©Rusty Quill 2023
-
-ALICE
-Celia! Where’s Sam? We’ve got to
-get out of here. That archivist thing,
-it followed you, it might beShe stops, taking in the scene before here.
-ALICE (CONT’D)
-What- What is that? What happened?
-Alice realizes Celia is alone.
-ALICE
-Where’s Sam?
-There is a long pause.
-CELIA
-It attacked us. He tried to stop it, to
-protect me even though…
-She takes a shuddering breath.
-CELIA
-They fell into… They’re gone, Alice.
-Beat.
-CELIA
-They’re gone.
-
-[Music]
-ANNOUNCER
-The Magnus Protocol is a podcast
-distributed by Rusty Quill and
-licensed under a Creative Commons
-Attribution Non-Commercial Sharealike 4.0 International License.
-
-[38]
-
-©Rusty Quill 2023
-
-The series is created by Jonathan
-Sims and Alexander J Newall, and
-directed by Alexander J Newall.
-This episode was written by
-Jonathan Sims and edited with
-additional materials by Alexander J
-Newall, with vocal edits by Lowri
-Ann Davies and Nico Vettese,
-soundscaping by Tessa Vroom, and
-mastering by Catherine Rinella with
-music by Sam Jones.
-It featured Billie Hindle as Alice Dyer,
-Shahan Hamza as Samama Khalid,
-Anusia Battersby as Gwen Bouchard
-Lowri Ann Davies as Celia Ripley,
-Sarah Lambie as Lena Kelley, with
-additional voices from Beth Eyre
-The Magnus Protocol is produced by
-April Sumner, with executive
-producers Alexander J Newall, Dani
-McDonough, Linn Ci, and Samantha
-F.G. Hamilton, and Associate
-Producers Jordan L. Hawk, Taylor
-Michaels, Nicole Perlman, Cetius
-d’Raven, and Megan Nice.
-To subscribe, view associated
-materials, or join our Patreon, visit
-rustyquill.com. Rate and review us
-online, tweet us @therustyquill, visit
-us on facebook or email us at
-mail@rustyquill.com
-Thanks for listening.
-
-[39]
-
-©Rusty Quill 2023
-CAT2RS3366-13052024-13052024
-Transmutation (human) -/- Isolation (urban)
-Incident Elements:
-• Entrapment
-• Compelling (supernatural)
-• Manipulation
-Transcripts available at https://rustyquill.com/transcripts/the-magnus-protocol/
-You can find a complete list of our Kickstarter backers https://rustyquill.com/the-magnus-protocolsupporter-wall/
-Created by Jonathan Sims and Alexander J Newall
-Directed by Alexander J Newall
-Written by Jonathan Sims
-Script Edited with additional material by Alexander J Newall
-Executive Producers April Sumner, Alexander J Newall, Jonathan Sims, Dani McDonough, Linn
-Ci, and Samantha F.G. Hamilton
-Associate Producers Jordan L. Hawk, Taylor Michaels, Nicole Perlman, Cetius d’Raven, and
-Megan Nice
-Produced by April Sumner
-Featuring (in order of appearance)
-Lowri Ann Davies as Celia Ripley
-Shahan Hamza as Samama Khalid
-Billie Hindle as Alice Dyer
-Kai Partenie as Ticket Officer
-Ryan Hopevere-Anderson as Colin Becher
-Sarah Lambie as Lena Kelley
-Anusia Battersby as Gwendolyn Bouchard
-Pip Gladwin as Taxi Driver
-Robin Hellier as Custodian
-Ian Hayles as Trevor Herbert MP
-Beth Eyre as Archivist
-Dialogue Editor – Nico Vettese & Lowri Ann Davies
-Sound Designer – Tessa Vroom
-Mastering Editor - Catherine Rinella
-Music by Sam Jones (orchestral mix by Jake Jackson)
-Art by April Sumner
-Support us on Patreon at https://patreon.com/rustyquill
-Check out our merchandise available at https://www.redbubble.com/people/RustyQuill/shop and
-https://www.teepublic.com/stores/rusty-quill
-Support Rusty Quill by purchasing from our Affiliates;
-Phantom Peak – UK immersive experience – 15% discount with this link
-DriveThruRPG – DriveThruRPG.com
-Join our community:
-WEBSITE: rustyquill.com
-FACEBOOK: facebook.com/therustyquill
-X: @therustyquill
-
-[40]
-
-©Rusty Quill 2023
-EMAIL: mail@rustyquill.com
-The Magnus Protocol is a derivative product of the Magnus Archives, created by Rusty Quill Ltd.
-and licensed under a Creative Commons Attribution Non-Commercial Share alike 4.0
-International Licence.
-
-[41]
+Page 17 of 17
 
 
