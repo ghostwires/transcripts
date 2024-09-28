@@ -18,6 +18,7 @@ title: 'The Magnus Archives'
 				<td class="ep-title"><a href="{{ url }}">{{ post.episode_title | escape }}</a></td>
 				<td class="ep-status">
 					{%- if post.trailer %}<a class="trailer" href="{{ url }}">TRAILER</a> {% endif -%}
+					<!-- {%- unless post.official %}<a class="unofficial" href="{{ url }}">UNOFFICIAL</a> {% endunless -%} -->
 					{%- if post.episode_type contains "incomplete" %}<a class="incomplete" href="{{ url }}">INCOMPLETE</a> {% endif -%}
 				</td>
 				<td class="ep-date"><a href="{{ url }}">{{ post.date | date: "%Y&#8209;%m&#8209;%d" }}</a></td>

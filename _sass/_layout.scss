@@ -498,7 +498,9 @@ table.toc-table {
             font-weight: bold;
             // a.incomplete { color: $warning-text-color; }
             // a.special { color: $blue; }
+            // a.unofficial {color: $; }
             // a.trailer {color: $; }
+            // a.epilogue {color: $; }
             @include media-query($on-palm) { padding-right: 0.4rem; }
         }
         td.ep-date {
