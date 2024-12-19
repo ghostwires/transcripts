@@ -22,6 +22,7 @@ episode_title:   'Camp Flying Moose - Part 3'
 episode_number:  '200.27'
 summary:         "It's the finale of <b>Camp Flying Moose for Girls of all Kinds,</b> and our girls head to the cabin to see if the answers they seek lie there..."
 content_flags:   ["Food", "Wolves & werewolves", "Discussions of: supernatural transformation, fire, physical violence & injury", "Mentions of: dogs & bears, food possessiveness", "SFX: birdsong, glass, background chatter, crickets, howling & growling"]
+notes: "Edited by Anonymous 2024-12-19"
 acast_url:       https://play.acast.com/s/themagnusarchives/magcampflyingmoose-part3
 formats:
 official: false
@@ -1919,7 +1920,7 @@ _(under her breath)_ I mean they're probably not but.
 
 #### FRANK
 
-_(laughing)_ I love the idea of a werewolf coming out with a _(indistinct)_
+_(laughing)_ I love the idea of a werewolf coming out with an itinerary.
 
 #### WILLOW
 
