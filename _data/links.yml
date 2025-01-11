@@ -40,9 +40,9 @@ rss:
   path:      feed.xml
   local:     true
 ebook:
-  name:      Ebook Download
-  shortname: Ebook
-  path:      "assets/epub/the_magnus_archives.epub"
+  name:      Ebook Downloads
+  shortname: Ebooks
+  path:      ebooks.html
   local:     true
 search:
   name:      "Search (WARNING: Slow! Data-Intensive!)"
