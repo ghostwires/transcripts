@@ -2,16 +2,21 @@ _site/
 .sass-cache/
 .vscode/
 .jekyll-metadata
+.DS_Store
 Gemfile.lock
 *.zip
 *.py
+
+edit_caps.py
 edit_posts.py
+edit_rqg.py
 etr_input.txt
 etr_middle.txt
 etr_output.txt
+
 rqg_raw_txt/
 rqg_unraw_txt/
-.DS_Store
+actual_ebooks/
 
 README.html
 TODO.html
