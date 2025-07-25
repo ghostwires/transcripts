@@ -14,9 +14,9 @@ etr_input.txt
 etr_middle.txt
 etr_output.txt
 
-rqg_raw_txt/
-rqg_unraw_txt/
-actual_ebooks/
+_rqg_raw_txt/
+_rqg_unraw_txt/
+_actual_ebooks/
 
 README.html
 TODO.html
