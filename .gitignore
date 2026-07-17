@@ -6,13 +6,8 @@ _site/
 Gemfile.lock
 *.zip
 *.py
-
-edit_caps.py
-edit_posts.py
-edit_rqg.py
-etr_input.txt
-etr_middle.txt
-etr_output.txt
+*.txt
+*.sh
 
 _rqg_raw_txt/
 _rqg_unraw_txt/
