@@ -1,9 +1,9 @@
 <footer class="post-footer">
 <div class="wrapper">
     {% if page.unfinished -%}
-    <div class="post-form">Do you have a full transcript of this episode? <a href="{{ site.correction_form }}" target="_blank">Tell us through our form!</a></div>
+    <div class="post-form">Do you have a full transcript of this episode? <a href="{{ site.feedback_form }}" target="_blank">Tell us through our form!</a></div>
     {% else -%}
-    <div class="post-form">See any issues? <a href="{{ site.correction_form }}" target="_blank">Tell us through our form!</a></div>
+    <div class="post-form">See any issues? <a href="{{ site.feedback_form }}" target="_blank">Tell us through our form!</a></div>
     {%- endif %}
     <br/>
     {% include post-nav.html %}
