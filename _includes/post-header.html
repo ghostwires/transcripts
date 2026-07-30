@@ -49,6 +49,9 @@
 
 {%- if page.notes -%}
 	<br/>{{page.notes}}
+	{%- if page.podcasts contains "tmagp" -%}
+		<br/>Any static phenomena marked in [square brackets] are courtesy of <a href="https://www.tumblr.com/magnus-glitch-archive">@magnus-glitch-archive on Tumblr</a>.
+	{%- endif -%}
 {%- endif -%}
 </div>
 
