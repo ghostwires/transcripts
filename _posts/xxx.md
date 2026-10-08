@@ -24,9 +24,11 @@ Unfortunately Lydia can't be with us here today. Presumably she's off helping a 
 
 #### HELEN
 
-...#### Nnno. #### #### BRYN
+...Nnno.
 
-e is a saint.
+#### BRYN
+
+He is a saint.
 
 #### ALEX
 
